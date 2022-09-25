@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/ramon/dev/wordhugopress/content",
+	"sourceRoot": "/home/ramon/dev/test.ramonsuarez.com",
 	"sources": [
 		"ananke/css/main.css"
 	],

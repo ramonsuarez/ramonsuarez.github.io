@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mautic on My New Hugo Site</title>
-    <link>https://www.ramonsuarez.com/tags/mautic/</link>
-    <description>Recent content in mautic on My New Hugo Site</description>
+    <title>mautic on Ramon Suarez&#39;s curiosity lead learning life</title>
+    <link>https://test.ramonsuarez.com/tags/mautic/</link>
+    <description>Recent content in mautic on Ramon Suarez&#39;s curiosity lead learning life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Nov 2018 11:37:12 +0000</lastBuildDate><atom:link href="https://www.ramonsuarez.com/tags/mautic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Nov 2018 11:37:12 +0000</lastBuildDate><atom:link href="https://test.ramonsuarez.com/tags/mautic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Email Segmentation Campaign Is Rolling!</title>
-      <link>https://www.ramonsuarez.com/the-email-segmentation-campaign-is-rolling/</link>
+      <link>https://test.ramonsuarez.com/the-email-segmentation-campaign-is-rolling/</link>
       <pubDate>Mon, 05 Nov 2018 11:37:12 +0000</pubDate>
       
-      <guid>https://www.ramonsuarez.com/the-email-segmentation-campaign-is-rolling/</guid>
+      <guid>https://test.ramonsuarez.com/the-email-segmentation-campaign-is-rolling/</guid>
       <description>The email segmentation &amp;amp; reactivation campaign to freshen up my mailing lists is set up and rolling.
 Choosing the Right Tool and Cleaning Up Contacts I dropped Mautic for being too complicated and awful to clean up contacts (the main problem I have with all the CRM I’ve tried so far). At the end I went for a much easier set up with the help of a Google add-on by Amit Argawal.</description>
     </item>
     
     <item>
       <title>Dipping My Toes into Email Marketing Automation</title>
-      <link>https://www.ramonsuarez.com/dipping-my-toes-into-email-marketing-automation/</link>
+      <link>https://test.ramonsuarez.com/dipping-my-toes-into-email-marketing-automation/</link>
       <pubDate>Thu, 25 Oct 2018 18:51:08 +0000</pubDate>
       
-      <guid>https://www.ramonsuarez.com/dipping-my-toes-into-email-marketing-automation/</guid>
+      <guid>https://test.ramonsuarez.com/dipping-my-toes-into-email-marketing-automation/</guid>
       <description>As part of my entrepreneurship challenge, I’m now dipping my toes into email marketing automation to take advantage of all the contacts I’ve collected through the years and try to deliver value to them based on their interests.
 So far I’ve imported over 25.000 contacts to Mautic and a few of the imports are still on hold. There will have to be a major cleaning afterwards. I feel a bit like the star of Going Postal, overwhelmed by the amount of mail to deliver.</description>
     </item>
