@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>productivity on My New Hugo Site</title>
+    <link>https://www.ramonsuarez.com/tags/productivity/</link>
+    <description>Recent content in productivity on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Aug 2013 12:40:34 +0000</lastBuildDate><atom:link href="https://www.ramonsuarez.com/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I&amp;#8217;m Ramon Suarez, and this is how I work</title>
+      <link>https://www.ramonsuarez.com/im-ramon-suarez-and-this-is-how-i-work/</link>
+      <pubDate>Thu, 22 Aug 2013 12:40:34 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/im-ramon-suarez-and-this-is-how-i-work/</guid>
+      <description>One of my reference blogs, LifeHacker, has launched an initiative to get more people to share how they work, a series that they have been doing for some time with known startup &amp;amp; Internet people. Hopefully there will be some good tips here for others like me that are continuously looking to hack their lives to make them better.
+For those that do not know me, I’ve had an eclectic professional experience working as a journalist, producer, political adviser, marketer, and entrepreneur.</description>
+    </item>
+    
+    <item>
+      <title>Dropbox tips</title>
+      <link>https://www.ramonsuarez.com/dropbox-tips/</link>
+      <pubDate>Sun, 23 Jan 2011 18:52:00 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/dropbox-tips/</guid>
+      <description>If you’re like us, you’re using Dropbox for all kinds of unusual tasks. But we wanted to go further, so we asked the experts at Dropbox to tell us their most unusual, unexpected and crazy ways to use this versatile software tool.
+If you’re not familiar with Dropbox, it’s free desktop synchronization software that lets you store a copy of a file on your computer and then access that same file from anywhere.</description>
+    </item>
+    
+  </channel>
+</rss>

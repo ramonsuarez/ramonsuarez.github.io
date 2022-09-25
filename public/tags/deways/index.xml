@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deways on My New Hugo Site</title>
+    <link>https://www.ramonsuarez.com/tags/deways/</link>
+    <description>Recent content in deways on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Dec 2010 16:18:00 +0000</lastBuildDate><atom:link href="https://www.ramonsuarez.com/tags/deways/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LeWeb Startup Competition Winners</title>
+      <link>https://www.ramonsuarez.com/35837555/</link>
+      <pubDate>Thu, 09 Dec 2010 16:18:00 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/35837555/</guid>
+      <description>Out of the 16 startups that where selected to compete at LeWeb10, the 3 finalists have been awarded a price each:
+Virality prize: Paper.Li
+Technology prize: Waze
+Originality prize: Super Marmite
+Prize of the audience: Deways</description>
+    </item>
+    
+  </channel>
+</rss>

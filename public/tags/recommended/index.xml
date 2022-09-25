@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>recommended on My New Hugo Site</title>
+    <link>https://www.ramonsuarez.com/tags/recommended/</link>
+    <description>Recent content in recommended on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Nov 2010 18:30:00 +0000</lastBuildDate><atom:link href="https://www.ramonsuarez.com/tags/recommended/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Introduce a Friend to Social Media</title>
+      <link>https://www.ramonsuarez.com/how-to-introduce-a-friend-to-social-media/</link>
+      <pubDate>Sat, 13 Nov 2010 18:30:00 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/how-to-introduce-a-friend-to-social-media/</guid>
+      <description>Enjoy!</description>
+    </item>
+    
+  </channel>
+</rss>

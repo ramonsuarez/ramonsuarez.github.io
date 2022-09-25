@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>manifiesto on My New Hugo Site</title>
+    <link>https://www.ramonsuarez.com/tags/manifiesto/</link>
+    <description>Recent content in manifiesto on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jan 2010 20:23:55 +0000</lastBuildDate><atom:link href="https://www.ramonsuarez.com/tags/manifiesto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Por la Red sostenible</title>
+      <link>https://www.ramonsuarez.com/por-la-red-sostenible/</link>
+      <pubDate>Wed, 13 Jan 2010 20:23:55 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/por-la-red-sostenible/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Translations of the Spanish Manifesto in Defense of Fundamental Rights on the Internet</title>
+      <link>https://www.ramonsuarez.com/translations-of-the-spanish-manifesto-in-defe/</link>
+      <pubDate>Sun, 06 Dec 2009 09:46:00 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/translations-of-the-spanish-manifesto-in-defe/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Boing Boing: Spanish activists issue manifesto on the rights of Internet users</title>
+      <link>https://www.ramonsuarez.com/boing-boing-spanish-activists-issue-manifesto/</link>
+      <pubDate>Fri, 04 Dec 2009 11:16:00 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/boing-boing-spanish-activists-issue-manifesto/</guid>
+      <description>The manifiesto translated to English</description>
+    </item>
+    
+    <item>
+      <title>Manifiesto ???En defensa de los derechos fundamentales en internet???</title>
+      <link>https://www.ramonsuarez.com/manifiesto-en-defensa-de-los-derechos-fundame/</link>
+      <pubDate>Thu, 03 Dec 2009 16:30:00 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/manifiesto-en-defensa-de-los-derechos-fundame/</guid>
+      <description>Here’s the google translation of the manifesto.
+You can follow the conversation around the #manifiesto in English and Spanish.</description>
+    </item>
+    
+  </channel>
+</rss>

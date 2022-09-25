@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>accelerators on My New Hugo Site</title>
+    <link>https://www.ramonsuarez.com/tags/accelerators/</link>
+    <description>Recent content in accelerators on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Dec 2012 17:26:00 +0000</lastBuildDate><atom:link href="https://www.ramonsuarez.com/tags/accelerators/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seed-DB:  the directory of seed accelerator programs (there&amp;#8217;s life beyond Y Combinator)</title>
+      <link>https://www.ramonsuarez.com/seed-db-the-directory-of-seed-accelerator-pro/</link>
+      <pubDate>Mon, 10 Dec 2012 17:26:00 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/seed-db-the-directory-of-seed-accelerator-pro/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

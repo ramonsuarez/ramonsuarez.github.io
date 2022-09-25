@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>generate business ideas on My New Hugo Site</title>
+    <link>https://www.ramonsuarez.com/tags/generate-business-ideas/</link>
+    <description>Recent content in generate business ideas on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 11:28:51 +0000</lastBuildDate><atom:link href="https://www.ramonsuarez.com/tags/generate-business-ideas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Project: Business Idea Sprint</title>
+      <link>https://www.ramonsuarez.com/new-project-business-idea-sprint/</link>
+      <pubDate>Mon, 11 Mar 2019 11:28:51 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/new-project-business-idea-sprint/</guid>
+      <description>Come out with new project ideas for the challenge. Improve the framework itself and think about how to best deliver it. My first sprint ended with 145 ideas in the list and I’ve added 21 more since then. I keep them all in a spreadsheet that is very helpful to filter them out by my criteria: Make, Learn, Invest, Drop, and also to mark some as done and remove them from the list of ideas yet to be made.</description>
+    </item>
+    
+  </channel>
+</rss>

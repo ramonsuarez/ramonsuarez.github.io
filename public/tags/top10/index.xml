@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>top10 on My New Hugo Site</title>
+    <link>https://www.ramonsuarez.com/tags/top10/</link>
+    <description>Recent content in top10 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Apr 2010 09:08:00 +0000</lastBuildDate><atom:link href="https://www.ramonsuarez.com/tags/top10/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ramon&amp;#8217;s Madrid Top 10 Eating and Drinking Spots</title>
+      <link>https://www.ramonsuarez.com/ramons-madrid-top-10-eating-and-drinking-spot/</link>
+      <pubDate>Mon, 12 Apr 2010 09:08:00 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/ramons-madrid-top-10-eating-and-drinking-spot/</guid>
+      <description>Here’s the list of my favorite places to eat and drink in Madrid, my much loved hometown. They are all either in the center of the city or within a short bus ride. There are a hell of a lot more good places and you will see that the city is very lively around socializing in bars and restaurants, and above all night life.
+If you have time and can read Spanish, I recommend taking a look at the Madrid Tapas’ Guide by Pisto y Nopisto (a refined eating and drinking blog) and this very complete tapas guide.</description>
+    </item>
+    
+  </channel>
+</rss>

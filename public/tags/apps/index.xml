@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apps on My New Hugo Site</title>
+    <link>https://www.ramonsuarez.com/tags/apps/</link>
+    <description>Recent content in apps on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jun 2010 10:01:12 +0000</lastBuildDate><atom:link href="https://www.ramonsuarez.com/tags/apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why are there so many free Android and iPhone mobile apps?</title>
+      <link>https://www.ramonsuarez.com/why-are-there-so-many-free-android-and-iphone/</link>
+      <pubDate>Tue, 15 Jun 2010 10:01:12 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/why-are-there-so-many-free-android-and-iphone/</guid>
+      <description>Because it is much easier to make an app than to sell an app.</description>
+    </item>
+    
+  </channel>
+</rss>

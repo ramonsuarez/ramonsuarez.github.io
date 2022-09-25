@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>veille on My New Hugo Site</title>
+    <link>https://www.ramonsuarez.com/tags/veille/</link>
+    <description>Recent content in veille on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Feb 2011 13:18:36 +0000</lastBuildDate><atom:link href="https://www.ramonsuarez.com/tags/veille/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Résolu: problème souris et veille HP DM3-1120e</title>
+      <link>https://www.ramonsuarez.com/resolu-probleme-souris-et-veille-hp-dm3-1120e/</link>
+      <pubDate>Tue, 01 Feb 2011 13:18:36 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/resolu-probleme-souris-et-veille-hp-dm3-1120e/</guid>
+      <description>Mon nouveau ordinateur (HP DM3-1120eb) avait un problème de blocage de souris et clavier chaque fois que l’ordi se réveillé du mode veille (sleep). Voici la solution au problème fournie par le service technique de HP:
+étape I : chargement des composants électroniques.
+1-Veuillez retirer la batterie et l’adaptateur secteur (le chargeur), maintenez le bouton marche/arrêt enfoncé pendant 20 secondes au minimum sachant que cette manipulation sert à décharger les composants de la carte mère électriquement.</description>
+    </item>
+    
+  </channel>
+</rss>

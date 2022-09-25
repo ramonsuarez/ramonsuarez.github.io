@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>behavior on My New Hugo Site</title>
+    <link>https://www.ramonsuarez.com/tags/behavior/</link>
+    <description>Recent content in behavior on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Mar 2010 08:44:15 +0000</lastBuildDate><atom:link href="https://www.ramonsuarez.com/tags/behavior/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social media engagement means more support and willingness to buy</title>
+      <link>https://www.ramonsuarez.com/social-media-engagement-means-more-support-an/</link>
+      <pubDate>Mon, 22 Mar 2010 08:44:15 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/social-media-engagement-means-more-support-an/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Revenge and the unlogical logics of economics</title>
+      <link>https://www.ramonsuarez.com/revenge-and-the-unlogical-logics-of-economics/</link>
+      <pubDate>Fri, 11 Dec 2009 09:34:00 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/revenge-and-the-unlogical-logics-of-economics/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

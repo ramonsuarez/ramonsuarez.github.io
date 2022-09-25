@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nextelevator on My New Hugo Site</title>
+    <link>https://www.ramonsuarez.com/tags/nextelevator/</link>
+    <description>Recent content in nextelevator on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 May 2011 09:09:00 +0000</lastBuildDate><atom:link href="https://www.ramonsuarez.com/tags/nextelevator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>12 startups finalistas en NextElevator [videos]</title>
+      <link>https://www.ramonsuarez.com/12-startups-finalistas-en-nextelevator-videos/</link>
+      <pubDate>Tue, 10 May 2011 09:09:00 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/12-startups-finalistas-en-nextelevator-videos/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Presenta tu startup en Berl??n: nextelevator</title>
+      <link>https://www.ramonsuarez.com/presenta-tu-startup-en-berlin-nextelevator/</link>
+      <pubDate>Fri, 25 Mar 2011 10:10:00 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/presenta-tu-startup-en-berlin-nextelevator/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tv on My New Hugo Site</title>
+    <link>https://www.ramonsuarez.com/tags/tv/</link>
+    <description>Recent content in tv on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Jul 2010 13:38:00 +0000</lastBuildDate><atom:link href="https://www.ramonsuarez.com/tags/tv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kids Media Use By Platform: TV Rules, Computers Come 3rd</title>
+      <link>https://www.ramonsuarez.com/kids-media-use-by-platform-tv-rules-computers/</link>
+      <pubDate>Mon, 05 Jul 2010 13:38:00 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/kids-media-use-by-platform-tv-rules-computers/</guid>
+      <description>Get the full report: Generation M2: Media in the Lives of 8- to 18-Year-Olds and share your understanding of it and your ideas.</description>
+    </item>
+    
+  </channel>
+</rss>

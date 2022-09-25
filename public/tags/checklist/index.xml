@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>checklist on My New Hugo Site</title>
+    <link>https://www.ramonsuarez.com/tags/checklist/</link>
+    <description>Recent content in checklist on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Jan 2010 13:25:00 +0000</lastBuildDate><atom:link href="https://www.ramonsuarez.com/tags/checklist/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Search Engine Optimization checklist for DevCom Brussels</title>
+      <link>https://www.ramonsuarez.com/search-engine-optimization-checklist-for-devc/</link>
+      <pubDate>Wed, 27 Jan 2010 13:25:00 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/search-engine-optimization-checklist-for-devc/</guid>
+      <description>Some marketing and communication professionals wrongly despise SEO, considering it just a bunch of technical tricks used to divert Internet users towards sites not worthy of their attention. The truth is that they should look at it from the perspective of their clients: good SEO helps users find the content they are looking for. SEO is not some arkane cult or ritual. Most marketing and communication professionals know some of its basics thanks to their education in journalism, and most of the rest are very easy to imply using a little reasoning and common sense or even better: reading.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ruminations on My New Hugo Site</title>
+    <link>https://www.ramonsuarez.com/tags/ruminations/</link>
+    <description>Recent content in ruminations on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Mar 2019 12:10:34 +0000</lastBuildDate><atom:link href="https://www.ramonsuarez.com/tags/ruminations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Am I a Solution Looking for a Problem?</title>
+      <link>https://www.ramonsuarez.com/am-i-a-solution-looking-for-a-problem/</link>
+      <pubDate>Fri, 29 Mar 2019 12:10:34 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/am-i-a-solution-looking-for-a-problem/</guid>
+      <description>I’m struggling with what to do about my knowledge of coworking and the assets I’ve built about it.
+At the same time I cannot help but think that I’m trying too much to develop coworking related projects. There’s this inner struggle between turning the page and forgetting about it, and using these assets to build some side projects and sources of income.
+My coworking book is something I’m proud of, that is helping a lot of people, and that is still bringing some revenue every month.</description>
+    </item>
+    
+  </channel>
+</rss>

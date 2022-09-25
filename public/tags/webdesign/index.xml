@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webdesign on My New Hugo Site</title>
+    <link>https://www.ramonsuarez.com/tags/webdesign/</link>
+    <description>Recent content in webdesign on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Jun 2011 08:11:03 +0000</lastBuildDate><atom:link href="https://www.ramonsuarez.com/tags/webdesign/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is what Google&amp;#8217;s 404 error page looks like</title>
+      <link>https://www.ramonsuarez.com/this-is-what-googles-404-error-page-looks-lik/</link>
+      <pubDate>Wed, 22 Jun 2011 08:11:03 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/this-is-what-googles-404-error-page-looks-lik/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Testing eye-tracking</title>
+      <link>https://www.ramonsuarez.com/testing-eye-tracking/</link>
+      <pubDate>Tue, 01 Mar 2011 14:52:00 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/testing-eye-tracking/</guid>
+      <description>Arm is still out of business, so can’t do much typing.</description>
+    </item>
+    
+    <item>
+      <title>The myth of the page fold: evidence from user testing</title>
+      <link>https://www.ramonsuarez.com/the-myth-of-the-page-fold-evidence-from-user/</link>
+      <pubDate>Sun, 20 Dec 2009 12:59:00 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/the-myth-of-the-page-fold-evidence-from-user/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coworking space management on My New Hugo Site</title>
+    <link>https://www.ramonsuarez.com/tags/coworking-space-management/</link>
+    <description>Recent content in coworking space management on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Jan 2019 12:32:31 +0000</lastBuildDate><atom:link href="https://www.ramonsuarez.com/tags/coworking-space-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Morphing: Online Text Course</title>
+      <link>https://www.ramonsuarez.com/project-morphing-online-text-course/</link>
+      <pubDate>Mon, 21 Jan 2019 12:32:31 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/project-morphing-online-text-course/</guid>
+      <description>I’m not good with video yet, but there are many other delivery methods to share valuable content and help many people. So I’m going to continue working on the Coworking Community Course with a text only course.
+The core of the course is ready, I have about 130 slides with a mix of information and exercises. It is a workbook focused on getting coworking space operators to take actions that will help them build a vibrant and healthy communities while they are taking the course and that will give provide a toolbox they can keep on using and referring to.</description>
+    </item>
+    
+    <item>
+      <title>New Project: Coworking Course</title>
+      <link>https://www.ramonsuarez.com/new-project-coworking-course/</link>
+      <pubDate>Mon, 12 Nov 2018 11:58:29 +0000</pubDate>
+      
+      <guid>https://www.ramonsuarez.com/new-project-coworking-course/</guid>
+      <description>After two short projects in the challenge, it is time for another monthly undertaking. This time I will be preparing a coworking course that builds on and expands The Coworking Handbook. The book’s content is still 100% valid and applicable, but I can add extra knowledge from running Betacowork the years after I published the book (and from selling it!).
+I’ve already spent some time looking into platforms like Udemy, Teachable and Skillshare among others.</description>
+    </item>
+    
+  </channel>
+</rss>
