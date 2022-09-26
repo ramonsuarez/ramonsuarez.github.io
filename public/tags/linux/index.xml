@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>linux on Ramon Suarez&#39;s curiosity lead learning life</title>
-    <link>https://test.ramonsuarez.com/tags/linux/</link>
+    <link>https://ramonsuarez.github.io/tags/linux/</link>
     <description>Recent content in linux on Ramon Suarez&#39;s curiosity lead learning life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 May 2011 07:21:00 +0000</lastBuildDate><atom:link href="https://test.ramonsuarez.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 May 2011 07:21:00 +0000</lastBuildDate><atom:link href="https://ramonsuarez.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Install Ubuntu in a Samsung 900x3a ultraportable laptop</title>
-      <link>https://test.ramonsuarez.com/how-to-install-ubuntu-in-a-samsung-900x3a-ult/</link>
+      <link>https://ramonsuarez.github.io/how-to-install-ubuntu-in-a-samsung-900x3a-ult/</link>
       <pubDate>Fri, 20 May 2011 07:21:00 +0000</pubDate>
       
-      <guid>https://test.ramonsuarez.com/how-to-install-ubuntu-in-a-samsung-900x3a-ult/</guid>
+      <guid>https://ramonsuarez.github.io/how-to-install-ubuntu-in-a-samsung-900x3a-ult/</guid>
       <description>I’ve been running Ubuntu 11.4 Natty Narwhal for a few days already on a brand new Samsung 900x3a and I have to say that I’m quite happy with it. First of all, Ubuntu Linux is the best operating system in this galaxy. Then, the machine is great, and not only for the looks.
 Here’s a simplified How-To:
 Download Ubuntu, make sure that in the dropdown box you choose the 64bit version.</description>
