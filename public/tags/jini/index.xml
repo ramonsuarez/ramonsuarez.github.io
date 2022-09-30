@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jini on Ramon Suarez&#39;s curiosity lead learning life</title>
+    <link>https://ramonsuarez.github.io/tags/jini/</link>
+    <description>Recent content in jini on Ramon Suarez&#39;s curiosity lead learning life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Dec 2012 08:39:00 +0000</lastBuildDate><atom:link href="https://ramonsuarez.github.io/tags/jini/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smarter than Siri: Jini, a proactive personal assistant on your smartphone</title>
+      <link>https://ramonsuarez.github.io/smarter-than-siri-jini-a-proactive-personal-a/</link>
+      <pubDate>Thu, 06 Dec 2012 08:39:00 +0000</pubDate>
+      
+      <guid>https://ramonsuarez.github.io/smarter-than-siri-jini-a-proactive-personal-a/</guid>
+      <description>Jini is an application for smartphones that proactively sugests you things to do based on other applications usage (like RunKeeper) and the sensor information from your phone (location, speed, light…)
+Filip Maertens is the founder of this Belgian startup that can really change our mobile world. A good example of what Jini does: when he arrived to Paris to present at the Startup competition at LeWeb, Jini sugested a route to go jogging close to his hotel.</description>
+    </item>
+    
+    <item>
+      <title>Belgian Startups at #LeWeb12 (aka #beleweb)</title>
+      <link>https://ramonsuarez.github.io/belgian-startups-at-leweb12-aka-beleweb/</link>
+      <pubDate>Mon, 03 Dec 2012 09:25:00 +0000</pubDate>
+      
+      <guid>https://ramonsuarez.github.io/belgian-startups-at-leweb12-aka-beleweb/</guid>
+      <description>For the second year on a row there will be a unified Belgian startups stand at LeWeb. On this occassion there will be 15 startups participating from the three Belgian regions: 14 as part of the Startups.be #beleweb delegation and one in the startup competition (Jini). I will also be there as an official blogger, writing mostly for the Spanish internet business blog Loogic.
+87seconds 8thColor Carambla CleverPhone EarlyTracks Freedelity Jini MyMicroInvest Small Town Heroes TagTagCity Tuzzit Twipe Mobile Uniwan WeePee </description>
+    </item>
+    
+  </channel>
+</rss>
