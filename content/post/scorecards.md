@@ -1,6 +1,7 @@
 ---
 title: "Scorecards"
 date: "2019-04-23"
+author: "Ramon Suarez"
 ---
 
 This is where I keep track of how my projects and plans are working out.

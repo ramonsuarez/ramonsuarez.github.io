@@ -1,6 +1,8 @@
 ---
 title: "Terms, Conditions & Privacy Policy"
 date: "2019-04-18"
+type: "page"
+showTableOfContents: true
 ---
 
 ### 1. Terms

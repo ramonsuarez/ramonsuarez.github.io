@@ -2,6 +2,8 @@
 title: "Challenge Projects"
 date: "2018-10-26"
 coverImage: "pexels-photo-1098365.jpeg"
+type: "page"
+showTableOfContents: true
 ---
 
 _Tirarse a la piscina (jumping into the pool), a great Spanish expression for daring_. [Image by Oliver Sjöström](https://ollivves.com/).
