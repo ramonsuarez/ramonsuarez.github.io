@@ -12,7 +12,7 @@ pygmentsStyle = "monokai"
 [params]
   footer = "Ramon Suarez"
   description = "Exploring the world through action."
-  avatarURL = "/images/android-chrome-192x192.png"
+  avatarURL = "/images/thinkingramon.webp"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
   customHeadHTML = """
