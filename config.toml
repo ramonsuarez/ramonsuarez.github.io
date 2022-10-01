@@ -12,7 +12,7 @@ pygmentsStyle = "monokai"
 [params]
   footer = "Ramon Suarez"
   description = "Exploring the world through action."
-  avatarURL = "/images/thinkingramon.webp"
+  avatarURL = "thinkingramon.webp"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
   customHeadHTML = """
