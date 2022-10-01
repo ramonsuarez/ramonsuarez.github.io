@@ -3,5 +3,8 @@ languageCode = 'en-us'
 title = "Ramon Suarez's curiosity lead learning life"
 theme = 'gokarna'
 sectionPagesMenu = "main"
-
-
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+    ordered = false
