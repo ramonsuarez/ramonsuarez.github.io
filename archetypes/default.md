@@ -2,8 +2,8 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 author: "Ramon Suarez"
-categories: ""
-tags: ""
+categories: []
+tags: []
 draft: true
 ---
 
