@@ -6,7 +6,6 @@ theme = 'gokarna'
 enableEmoji = true
 enableRobotsTXT = true
 enableInlineShortcodes = true
-canonifyURLS = true
 pagination = 11
 removePathAccents = true
 summaryLength = 70
