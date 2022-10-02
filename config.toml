@@ -5,6 +5,14 @@ title = "Ramon's curiosity lead learning life"
 theme = 'gokarna'
 enableEmoji = true
 enableRobotsTXT = true
+enableInlineShortcodes = true
+canonifyURLS = true
+pagination = 11
+removePathAccents = true
+summaryLength = 70
+timeZone = "Europe/Brussels"
+googleAnalytics = ""
+
 
 # Choose one of emacs, trac or perldoc
 pygmentsStyle = "monokai"
@@ -87,3 +95,10 @@ pygmentsStyle = "monokai"
     startLevel = 1
     endLevel = 4
     ordered = false
+
+[imaging]
+  anchor = 'Smart'
+ # bgColor = '#ffffff'
+  hint = 'photo'
+  quality = 75
+  resampleFilter = 'Box'
