@@ -1,5 +1,5 @@
 {{ define "main" }}
-    {{ if eq .Type "page" }}
+    {{ if eq .Section "page" }}
         {{- partial "page.html" . -}}
     {{ else }}
         {{- partial "list.html" . -}}
