@@ -1,7 +1,0 @@
-{{ define "main" }}
-    {{ if eq .Section "post" }}
-        {{- partial "post.html" . -}}
-    {{ else }}
-        {{- partial "list-posts.html" . -}}
-    {{ end }}
-{{ end }}
