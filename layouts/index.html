@@ -38,7 +38,7 @@
     <div class="home-posts list-posts">
         <h2>{{ .Site.Params.ShowPostsOnHomePage | humanize }} Posts</h2>
 
-    {{ $posts := where .Site.Pages "Params.type" "post" }}
+    {{ $posts := where .Site.Pages "Params.section" "post" }}
 
     {{ if eq .Site.Params.ShowPostsOnHomePage "popular" }}
         {{ range $posts.ByWeight | first 4 }}
