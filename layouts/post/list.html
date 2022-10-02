@@ -1,5 +1,5 @@
 {{ define "main" }}
-    {{ if eq .Section "Posts" }}
+    {{ if eq .Section "post" }}
         {{- partial "post.html" . -}}
     {{ else }}
         {{- partial "list-posts.html" . -}}
