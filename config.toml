@@ -18,6 +18,7 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "Ramon Suarez"
+  author = "Ramon Suarez"
   description = "Exploring the world through action."
   avatarURL = "thinkingramon.webp"
   AvatarAltText = "avatar"

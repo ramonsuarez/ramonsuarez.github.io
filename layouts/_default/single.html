@@ -1,10 +1,10 @@
 {{ define "main" }}
-    {{ if eq .Section "post" }}
+    {{ if eq .Type "post" }}
         {{- partial "post.html" . -}}
         {{- partial "toc.html" . -}}
     {{ end }}
 
-    {{ if eq .Section "page" }}
+    {{ if eq .Type "page" }}
         {{- partial "page.html" . -}}
         {{- partial "toc.html" . -}}
     {{ end }}
