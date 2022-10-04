@@ -84,7 +84,7 @@ pygmentsStyle = "monokai"
   quality = 75
   resampleFilter = 'Box'
 
-  [taxonomies]
+[taxonomies]
   category = 'categories'
   series = 'series'
   tag = 'tags'
