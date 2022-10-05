@@ -9,7 +9,7 @@ type: post
 id: 309
 category:
     - Uncategorized
-tag:
+tags:
     - antwerp
     - barcamp
     - bizcampbe

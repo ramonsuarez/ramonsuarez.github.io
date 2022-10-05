@@ -9,7 +9,7 @@ type: post
 id: 78
 category:
     - Uncategorized
-tag:
+tags:
     - betacowork
     - Coworking
     - english

@@ -9,7 +9,7 @@ type: post
 id: 201
 category:
     - Uncategorized
-tag:
+tags:
     - belgique
     - chocolat
     - chocolate

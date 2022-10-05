@@ -9,7 +9,7 @@ type: post
 id: 311
 category:
     - Uncategorized
-tag:
+tags:
     - belgium
     - english
     - facebook

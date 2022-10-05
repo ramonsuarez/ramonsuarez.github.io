@@ -9,7 +9,7 @@ type: post
 id: 226
 category:
     - Uncategorized
-tag:
+tags:
     - bizcampbe
     - events
     - fun

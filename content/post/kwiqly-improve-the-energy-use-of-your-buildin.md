@@ -9,7 +9,7 @@ type: post
 id: 106
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - kwiqly
     - leweb

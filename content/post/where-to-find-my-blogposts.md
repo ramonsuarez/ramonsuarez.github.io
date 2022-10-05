@@ -9,7 +9,7 @@ type: post
 id: 476
 category:
     - Uncategorized
-tag:
+tags:
     - 'blogposts by Ramon Suarez'
     - 'blogs by Ramon Suarez'
     - 'coworking and startup blogs'

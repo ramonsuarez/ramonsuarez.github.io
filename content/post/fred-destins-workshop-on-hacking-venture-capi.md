@@ -9,7 +9,7 @@ type: post
 id: 301
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - funding
     - pitch

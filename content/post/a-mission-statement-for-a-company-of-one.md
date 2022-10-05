@@ -10,7 +10,7 @@ id: 1039
 thumbnail: /uploads/2019/05/internet-businesses-knowledge-products.png
 category:
     - Entrepreneurship
-tag:
+tags:
     - 'business mission statement'
     - 'personal mission statement'
 post_format: []

@@ -9,7 +9,7 @@ type: post
 id: 252
 category:
     - Uncategorized
-tag:
+tags:
     - alaingerlache
     - artificialintelligence
     - belgianstartups

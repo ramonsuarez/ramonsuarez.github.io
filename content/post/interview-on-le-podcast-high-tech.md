@@ -9,7 +9,7 @@ type: post
 id: 323
 category:
     - Uncategorized
-tag:
+tags:
     - audio
     - conferences
     - français

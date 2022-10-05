@@ -9,7 +9,7 @@ type: post
 id: 422
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - 'how I work'
     - LifeHacker

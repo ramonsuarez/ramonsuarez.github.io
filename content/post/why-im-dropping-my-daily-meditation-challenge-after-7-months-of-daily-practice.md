@@ -10,7 +10,7 @@ id: 1403
 thumbnail: /uploads/2019/05/image.png
 category:
     - 'Progress Report'
-tag:
+tags:
     - headspace
     - meditation
 post_format: []

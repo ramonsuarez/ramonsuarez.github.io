@@ -9,7 +9,7 @@ type: post
 id: 265
 category:
     - Uncategorized
-tag:
+tags:
     - bebound
     - english
     - leweb

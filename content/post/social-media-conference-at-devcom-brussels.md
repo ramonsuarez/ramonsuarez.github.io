@@ -9,7 +9,7 @@ type: post
 id: 345
 category:
     - Uncategorized
-tag:
+tags:
     - conferences
     - devcom
     - english

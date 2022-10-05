@@ -9,7 +9,7 @@ type: post
 id: 277
 category:
     - Uncategorized
-tag:
+tags:
     - googleshoopping
     - leweb
     - leweb10

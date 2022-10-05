@@ -9,7 +9,7 @@ type: post
 id: 204
 category:
     - Uncategorized
-tag:
+tags:
     - cpartyeu
     - eatanddrink
     - english

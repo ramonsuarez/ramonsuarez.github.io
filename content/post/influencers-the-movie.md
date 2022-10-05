@@ -9,7 +9,7 @@ type: post
 id: 344
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - influencers
     - socialmedia

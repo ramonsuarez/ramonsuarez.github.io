@@ -9,7 +9,7 @@ type: post
 id: 18
 category:
     - Uncategorized
-tag:
+tags:
     - conferences
     - english
     - events

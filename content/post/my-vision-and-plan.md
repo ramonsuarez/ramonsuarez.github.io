@@ -11,7 +11,7 @@ thumbnail: /uploads/2019/05/my-aspirational-vision.jpg
 category:
     - Entrepreneurship
     - Projects
-tag:
+tags:
     - '12 week year'
     - 12WY
     - actions

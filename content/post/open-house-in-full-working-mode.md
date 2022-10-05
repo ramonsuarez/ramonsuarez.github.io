@@ -9,7 +9,7 @@ type: post
 id: 355
 category:
     - Uncategorized
-tag:
+tags:
     - fun
 post_format: []
 ---

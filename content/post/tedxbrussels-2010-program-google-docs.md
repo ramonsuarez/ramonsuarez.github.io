@@ -9,7 +9,7 @@ type: post
 id: 67
 category:
     - Uncategorized
-tag:
+tags:
     - brussels
     - english
     - events

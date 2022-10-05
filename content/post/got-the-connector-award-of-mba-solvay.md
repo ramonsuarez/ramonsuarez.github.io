@@ -9,7 +9,7 @@ type: post
 id: 338
 category:
     - Uncategorized
-tag:
+tags:
     - awards
     - mbasolvay
     - networking

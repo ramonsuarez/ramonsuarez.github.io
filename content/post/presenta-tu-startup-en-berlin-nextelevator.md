@@ -9,7 +9,7 @@ type: post
 id: 190
 category:
     - Uncategorized
-tag:
+tags:
     - elevatorpitch
     - español
     - events

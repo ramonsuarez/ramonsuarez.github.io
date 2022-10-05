@@ -9,7 +9,7 @@ type: post
 id: 209
 category:
     - Uncategorized
-tag:
+tags:
     - brussels
     - conferences
     - español

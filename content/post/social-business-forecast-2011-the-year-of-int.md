@@ -9,7 +9,7 @@ type: post
 id: 162
 category:
     - Uncategorized
-tag:
+tags:
     - corporate
     - leweb
     - leweb10

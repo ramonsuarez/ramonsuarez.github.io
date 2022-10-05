@@ -13,7 +13,7 @@ category:
     - Entrepreneurship
     - Marketing
     - Projects
-tag:
+tags:
     - 'email marketing automation'
     - mautic
 post_format: []

@@ -9,7 +9,7 @@ type: post
 id: 87
 category:
     - Uncategorized
-tag:
+tags:
     - events
     - français
     - interview

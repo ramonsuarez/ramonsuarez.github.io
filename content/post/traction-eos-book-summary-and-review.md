@@ -11,7 +11,7 @@ category:
     - books
     - Entrepreneurship
     - Productivity
-tag:
+tags:
     - 'book summary'
     - 'entrepreneurship book summary'
 post_format: []

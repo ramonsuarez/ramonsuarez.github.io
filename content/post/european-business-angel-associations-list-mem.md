@@ -9,7 +9,7 @@ type: post
 id: 346
 category:
     - Uncategorized
-tag:
+tags:
     - businessangels
     - europe
     - investment

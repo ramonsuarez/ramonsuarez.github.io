@@ -12,7 +12,7 @@ category:
     - Marketing
     - 'Progress Report'
     - Projects
-tag:
+tags:
     - 'coworking infographic'
     - 'coworking quotes'
     - fiverr

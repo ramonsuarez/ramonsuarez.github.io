@@ -9,7 +9,7 @@ type: post
 id: 369
 category:
     - Uncategorized
-tag:
+tags:
     - Coworking
     - english
 post_format: []

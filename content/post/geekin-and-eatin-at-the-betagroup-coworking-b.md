@@ -9,7 +9,7 @@ type: post
 id: 159
 category:
     - Uncategorized
-tag:
+tags:
     - betacowork
     - betagroupcoworkingbrussels
     - cafenumerique

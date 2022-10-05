@@ -9,7 +9,7 @@ type: post
 id: 86
 category:
     - Uncategorized
-tag:
+tags:
     - articles
     - conferences
     - español

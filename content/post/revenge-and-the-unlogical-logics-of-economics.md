@@ -9,7 +9,7 @@ type: post
 id: 9
 category:
     - Uncategorized
-tag:
+tags:
     - behavior
     - economy
     - english

@@ -9,7 +9,7 @@ type: post
 id: 205
 category:
     - Uncategorized
-tag:
+tags:
     - computers
     - customerservice
     - english

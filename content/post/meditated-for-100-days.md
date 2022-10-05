@@ -10,7 +10,7 @@ id: 1005
 thumbnail: /uploads/2019/05/buzzing-mind-headspace.gif
 category:
     - 'Progress Report'
-tag:
+tags:
     - headspace
     - meditation
 post_format: []

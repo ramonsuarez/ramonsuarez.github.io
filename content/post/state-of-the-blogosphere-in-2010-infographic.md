@@ -9,7 +9,7 @@ type: post
 id: 272
 category:
     - Uncategorized
-tag:
+tags:
     - blogs
     - english
     - infographic

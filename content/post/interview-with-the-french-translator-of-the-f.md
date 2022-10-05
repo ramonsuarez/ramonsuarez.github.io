@@ -9,7 +9,7 @@ type: post
 id: 325
 category:
     - Uncategorized
-tag:
+tags:
     - antoinebruyns
     - books
     - customerdevelopment

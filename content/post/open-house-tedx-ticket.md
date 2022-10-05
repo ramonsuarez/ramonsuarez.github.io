@@ -9,7 +9,7 @@ type: post
 id: 154
 category:
     - Uncategorized
-tag:
+tags:
     - betagroup
     - brussels
     - Coworking

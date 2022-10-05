@@ -9,7 +9,7 @@ type: post
 id: 31
 category:
     - Uncategorized
-tag:
+tags:
     - computers
     - english
     - internet

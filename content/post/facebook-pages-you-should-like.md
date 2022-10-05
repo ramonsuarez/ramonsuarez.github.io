@@ -9,7 +9,7 @@ type: post
 id: 94
 category:
     - Uncategorized
-tag:
+tags:
     - betacowork
     - betagroup
     - betagroupcoworkingbrussels

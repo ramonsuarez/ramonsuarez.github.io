@@ -9,7 +9,7 @@ type: post
 id: 38
 category:
     - Uncategorized
-tag:
+tags:
     - corporate
     - english
     - howto

@@ -9,7 +9,7 @@ type: post
 id: 35
 category:
     - Uncategorized
-tag:
+tags:
     - digitalmarketingfirst
     - dmf
     - dmf10

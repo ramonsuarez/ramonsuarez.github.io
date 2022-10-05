@@ -9,7 +9,7 @@ type: post
 id: 44
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - startupweekendbrussels
     - swbru

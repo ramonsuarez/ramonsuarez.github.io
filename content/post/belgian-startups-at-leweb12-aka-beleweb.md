@@ -9,7 +9,7 @@ type: post
 id: 145
 category:
     - Uncategorized
-tag:
+tags:
     - 87seconds
     - 8thcolor
     - appandweb

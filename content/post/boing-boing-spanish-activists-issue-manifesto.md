@@ -9,7 +9,7 @@ type: post
 id: 367
 category:
     - Uncategorized
-tag:
+tags:
     - freedom
     - internet
     - manifiesto

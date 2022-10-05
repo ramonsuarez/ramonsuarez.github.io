@@ -9,7 +9,7 @@ type: post
 id: 10
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - freedom
     - infographic

@@ -9,7 +9,7 @@ type: post
 id: 79
 category:
     - Uncategorized
-tag:
+tags:
     - betacowork
     - betagroupcoworkingbrussels
     - cookingforgeeks

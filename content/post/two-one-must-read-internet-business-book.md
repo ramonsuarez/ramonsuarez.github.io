@@ -9,7 +9,7 @@ type: post
 id: 229
 category:
     - Uncategorized
-tag:
+tags:
     - books
     - english
 post_format: []

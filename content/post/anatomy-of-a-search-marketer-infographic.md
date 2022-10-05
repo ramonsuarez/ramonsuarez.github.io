@@ -9,7 +9,7 @@ type: post
 id: 34
 category:
     - Uncategorized
-tag:
+tags:
     - datavisualization
     - infographic
     - Marketing

@@ -9,7 +9,7 @@ type: post
 id: 169
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - socialmedia
 post_format: []

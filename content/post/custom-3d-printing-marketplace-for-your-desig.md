@@ -9,7 +9,7 @@ type: post
 id: 223
 category:
     - Uncategorized
-tag:
+tags:
     - 3dprinting
     - belgium
     - design

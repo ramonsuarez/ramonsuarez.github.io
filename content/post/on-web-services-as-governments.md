@@ -9,7 +9,7 @@ type: post
 id: 81
 category:
     - Uncategorized
-tag:
+tags:
     - corporatesocialresponsibility
     - governance
     - rights

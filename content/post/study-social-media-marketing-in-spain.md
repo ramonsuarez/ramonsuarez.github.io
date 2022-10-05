@@ -9,7 +9,7 @@ type: post
 id: 241
 category:
     - Uncategorized
-tag:
+tags:
     - blog
     - español
     - Marketing

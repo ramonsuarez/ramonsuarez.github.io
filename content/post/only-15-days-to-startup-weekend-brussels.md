@@ -9,7 +9,7 @@ type: post
 id: 68
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - events
     - startupcompetition

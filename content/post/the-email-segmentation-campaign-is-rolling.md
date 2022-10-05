@@ -12,7 +12,7 @@ category:
     - Automation
     - Marketing
     - 'Progress Report'
-tag:
+tags:
     - 'Amit Argawal'
     - 'email marketing automation'
     - 'email template'

@@ -9,7 +9,7 @@ type: post
 id: 361
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - mobile
     - presentation

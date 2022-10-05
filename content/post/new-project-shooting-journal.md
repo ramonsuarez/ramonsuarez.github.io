@@ -11,7 +11,7 @@ thumbnail: /uploads/2019/05/dear-diary.gif
 category:
     - books
     - Projects
-tag:
+tags:
     - Amazon
     - 'book publishing'
     - Gumroad

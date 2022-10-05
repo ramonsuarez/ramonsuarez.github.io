@@ -11,7 +11,7 @@ category:
     - Coworking
     - 'Progress Report'
     - Projects
-tag:
+tags:
     - coworking.space
     - 'Facebook Ads'
 post_format: []

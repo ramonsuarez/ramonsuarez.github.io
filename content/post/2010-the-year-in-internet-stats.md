@@ -9,7 +9,7 @@ type: post
 id: 123
 category:
     - Uncategorized
-tag:
+tags:
     - '2010'
     - english
     - internet

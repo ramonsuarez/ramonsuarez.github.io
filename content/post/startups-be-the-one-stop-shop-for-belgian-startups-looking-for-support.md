@@ -9,7 +9,7 @@ type: post
 id: 411
 category:
     - Uncategorized
-tag:
+tags:
     - betacowork
     - betagroup
     - english

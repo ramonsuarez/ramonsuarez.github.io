@@ -9,7 +9,7 @@ type: post
 id: 5
 category:
     - Uncategorized
-tag:
+tags:
     - conferences
     - Entrepreneurship
     - español

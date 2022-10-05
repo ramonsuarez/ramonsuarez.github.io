@@ -9,7 +9,7 @@ type: post
 id: 363
 category:
     - Uncategorized
-tag:
+tags:
     - children
     - english
     - internet

@@ -9,7 +9,7 @@ type: post
 id: 92
 category:
     - Uncategorized
-tag:
+tags:
     - economy
     - english
     - ideas

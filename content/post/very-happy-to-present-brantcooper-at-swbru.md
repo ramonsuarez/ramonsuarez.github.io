@@ -9,7 +9,7 @@ type: post
 id: 101
 category:
     - Uncategorized
-tag:
+tags:
     - brantcooper
     - businessmodel
     - customerdevelopment

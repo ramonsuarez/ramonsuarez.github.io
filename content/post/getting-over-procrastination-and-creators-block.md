@@ -13,7 +13,7 @@ category:
     - Coworking
     - 'Progress Report'
     - Projects
-tag:
+tags:
     - 'community course online'
     - 'coworking community course'
     - 'online education'

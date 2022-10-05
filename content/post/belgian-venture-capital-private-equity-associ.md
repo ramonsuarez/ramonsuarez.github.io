@@ -9,7 +9,7 @@ type: post
 id: 195
 category:
     - Uncategorized
-tag:
+tags:
     - belgium
     - investment
     - investors

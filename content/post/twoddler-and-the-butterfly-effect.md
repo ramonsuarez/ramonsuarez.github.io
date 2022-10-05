@@ -9,7 +9,7 @@ type: post
 id: 52
 category:
     - Uncategorized
-tag:
+tags:
     - betagroup
     - english
     - Marketing

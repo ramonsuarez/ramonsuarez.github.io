@@ -9,7 +9,7 @@ type: post
 id: 76
 category:
     - Uncategorized
-tag:
+tags:
     - datavisualization
     - english
     - events

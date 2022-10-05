@@ -9,7 +9,7 @@ type: post
 id: 29
 category:
     - Uncategorized
-tag:
+tags:
     - android
     - english
     - mobile

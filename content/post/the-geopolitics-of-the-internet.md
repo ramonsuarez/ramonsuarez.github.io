@@ -9,7 +9,7 @@ type: post
 id: 247
 category:
     - Uncategorized
-tag:
+tags:
     - français
     - internet
     - statistics

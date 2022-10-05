@@ -9,7 +9,7 @@ type: post
 id: 298
 category:
     - Uncategorized
-tag:
+tags:
     - blog
     - datavisualization
     - email

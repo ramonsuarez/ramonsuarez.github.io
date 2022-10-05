@@ -9,7 +9,7 @@ type: post
 id: 394
 category:
     - Uncategorized
-tag:
+tags:
     - advertising
     - 'Andy Gillentine'
     - 'audience profiling'

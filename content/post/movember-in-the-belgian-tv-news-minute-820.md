@@ -9,7 +9,7 @@ type: post
 id: 257
 category:
     - Uncategorized
-tag:
+tags:
     - '15'
     - gilbertwest
     - interview

@@ -9,7 +9,7 @@ type: post
 id: 43
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - Entrepreneurship
 post_format: []

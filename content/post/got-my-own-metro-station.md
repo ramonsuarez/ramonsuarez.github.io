@@ -9,7 +9,7 @@ type: post
 id: 175
 category:
     - Uncategorized
-tag:
+tags:
     - bloggers
     - blogs
     - brussels

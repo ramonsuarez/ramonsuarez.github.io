@@ -9,7 +9,7 @@ type: post
 id: 72
 category:
     - Uncategorized
-tag:
+tags:
     - belgique
     - belgium
     - français

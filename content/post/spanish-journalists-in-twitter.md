@@ -9,7 +9,7 @@ type: post
 id: 89
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - journalism
     - socialmedia

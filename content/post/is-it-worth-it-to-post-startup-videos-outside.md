@@ -9,7 +9,7 @@ type: post
 id: 137
 category:
     - Uncategorized
-tag:
+tags:
     - bliptv
     - comparison
     - dailymotion

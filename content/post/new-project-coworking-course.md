@@ -13,7 +13,7 @@ category:
     - Marketing
     - News
     - Projects
-tag:
+tags:
     - 'coworking course'
     - 'coworking handbook'
     - 'coworking space course'

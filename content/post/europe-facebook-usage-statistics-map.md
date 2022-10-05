@@ -9,7 +9,7 @@ type: post
 id: 140
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - europe
     - facebook

@@ -14,7 +14,7 @@ category:
     - News
     - 'Progress Report'
     - Projects
-tag:
+tags:
     - 'coworking community course'
     - 'elearning coworking'
     - 'Facebook Ads'

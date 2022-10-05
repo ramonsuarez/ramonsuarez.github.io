@@ -12,7 +12,7 @@ category:
     - Courses
     - Marketing
     - 'Progress Report'
-tag:
+tags:
     - 'how to make a Udemy course'
     - 'how to make an online course'
     - 'online courses'

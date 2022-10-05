@@ -9,7 +9,7 @@ type: post
 id: 167
 category:
     - Uncategorized
-tag:
+tags:
     - Entrepreneurship
     - founderinstitute
     - statistics

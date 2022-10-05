@@ -9,7 +9,7 @@ type: post
 id: 372
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - facebook
     - fun

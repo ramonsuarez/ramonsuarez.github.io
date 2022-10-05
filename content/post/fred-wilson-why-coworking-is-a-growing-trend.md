@@ -9,7 +9,7 @@ type: post
 id: 304
 category:
     - Uncategorized
-tag:
+tags:
     - advantages
     - Coworking
     - fredwilson

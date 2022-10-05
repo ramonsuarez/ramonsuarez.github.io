@@ -9,7 +9,7 @@ type: post
 id: 133
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - google
     - guidelines

@@ -9,7 +9,7 @@ type: post
 id: 82
 category:
     - Uncategorized
-tag:
+tags:
     - betagroup
     - brussels
     - Entrepreneurship

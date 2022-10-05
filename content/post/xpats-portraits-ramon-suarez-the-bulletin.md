@@ -9,7 +9,7 @@ type: post
 id: 105
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - interview
     - startupweekendbrussels

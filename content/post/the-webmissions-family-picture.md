@@ -9,7 +9,7 @@ type: post
 id: 359
 category:
     - Uncategorized
-tag:
+tags:
     - ebe09
     - english
     - Entrepreneurship

@@ -9,7 +9,7 @@ type: post
 id: 28
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - europe
     - funding

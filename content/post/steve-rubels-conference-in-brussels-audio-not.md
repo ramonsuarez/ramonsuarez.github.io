@@ -9,7 +9,7 @@ type: post
 id: 160
 category:
     - Uncategorized
-tag:
+tags:
     - audio
     - betagroupcoworkingbrussels
     - communication

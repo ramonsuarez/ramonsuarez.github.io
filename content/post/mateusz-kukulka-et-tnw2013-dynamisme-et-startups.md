@@ -9,7 +9,7 @@ type: post
 id: 400
 category:
     - Uncategorized
-tag:
+tags:
     - '#tnw2013'
     - français
     - Infogram

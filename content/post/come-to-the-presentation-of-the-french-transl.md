@@ -9,7 +9,7 @@ type: post
 id: 341
 category:
     - Uncategorized
-tag:
+tags:
     - antoinebruyns
     - betacowork
     - betagroupcoworkingbrussels

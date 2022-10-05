@@ -12,7 +12,7 @@ category:
     - Courses
     - Coworking
     - Projects
-tag:
+tags:
     - 'coworking challenge'
     - 'coworking community course'
     - 'coworking space management'

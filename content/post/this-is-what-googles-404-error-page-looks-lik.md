@@ -9,7 +9,7 @@ type: post
 id: 333
 category:
     - Uncategorized
-tag:
+tags:
     - '404'
     - google
     - googlemaps

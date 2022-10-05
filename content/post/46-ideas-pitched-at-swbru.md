@@ -9,7 +9,7 @@ type: post
 id: 178
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - pitch
     - startupcompetition

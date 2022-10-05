@@ -9,7 +9,7 @@ type: post
 id: 158
 category:
     - Uncategorized
-tag:
+tags:
     - '2011'
     - belgium
     - datanews

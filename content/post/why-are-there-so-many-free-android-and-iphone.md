@@ -9,7 +9,7 @@ type: post
 id: 163
 category:
     - Uncategorized
-tag:
+tags:
     - android
     - apps
     - english

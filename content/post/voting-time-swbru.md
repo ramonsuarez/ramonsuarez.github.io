@@ -9,7 +9,7 @@ type: post
 id: 6
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - startupcompetition
     - startupweekendbrussels

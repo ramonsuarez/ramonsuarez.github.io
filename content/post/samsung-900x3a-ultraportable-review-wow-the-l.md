@@ -9,7 +9,7 @@ type: post
 id: 173
 category:
     - Uncategorized
-tag:
+tags:
     - design
     - portablecomputers
     - reviews

@@ -11,7 +11,7 @@ thumbnail: /uploads/2019/07/12WY1-85.jpg
 category:
     - 'Progress Report'
     - Projects
-tag:
+tags:
     - '#FHNS'
     - '12 week year'
     - '12 week year goals'

@@ -10,7 +10,7 @@ id: 1152
 thumbnail: /uploads/2019/04/we-are-what-we-repeatedly-do.-excellence-is-not-an-act-but-a-habit.png
 category:
     - books
-tag:
+tags:
     - '12 week year'
     - 12WY
     - 'book summary'

@@ -9,7 +9,7 @@ type: post
 id: 60
 category:
     - Uncategorized
-tag:
+tags:
     - blog
     - cpartyeu
     - english

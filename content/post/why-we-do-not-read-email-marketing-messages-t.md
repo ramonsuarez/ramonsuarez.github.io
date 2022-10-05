@@ -9,7 +9,7 @@ type: post
 id: 1113
 category:
     - Uncategorized
-tag:
+tags:
     - email
     - english
     - Marketing

@@ -9,7 +9,7 @@ type: post
 id: 14
 category:
     - Uncategorized
-tag:
+tags:
     - webdesign
 post_format: []
 ---

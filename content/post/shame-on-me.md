@@ -9,7 +9,7 @@ type: post
 id: 135
 category:
     - Uncategorized
-tag:
+tags:
     - blog
     - english
 post_format: []

@@ -9,7 +9,7 @@ type: post
 id: 300
 category:
     - Uncategorized
-tag:
+tags:
     - belgium
     - english
     - statistics

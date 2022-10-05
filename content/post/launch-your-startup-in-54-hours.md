@@ -9,7 +9,7 @@ type: post
 id: 365
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - events
     - startupcompetition

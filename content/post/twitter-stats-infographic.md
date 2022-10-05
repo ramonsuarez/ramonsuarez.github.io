@@ -9,7 +9,7 @@ type: post
 id: 181
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - socialmedia
     - statistics

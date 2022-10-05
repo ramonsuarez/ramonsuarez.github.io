@@ -9,7 +9,7 @@ type: post
 id: 62
 category:
     - Uncategorized
-tag:
+tags:
     - howto
     - install
     - linux

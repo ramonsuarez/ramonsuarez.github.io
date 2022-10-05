@@ -9,7 +9,7 @@ type: post
 id: 207
 category:
     - Uncategorized
-tag:
+tags:
     - datavisualization
     - english
     - facebook

@@ -9,7 +9,7 @@ type: post
 id: 102
 category:
     - Uncategorized
-tag:
+tags:
     - belgianstartups
     - checkthis
     - english

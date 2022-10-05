@@ -9,7 +9,7 @@ type: post
 id: 208
 category:
     - Uncategorized
-tag:
+tags:
     - español
     - events
     - networking

@@ -9,7 +9,7 @@ type: post
 id: 30
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - socialmedia
     - socialnetworks

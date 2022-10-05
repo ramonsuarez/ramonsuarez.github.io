@@ -10,7 +10,7 @@ id: 1692
 thumbnail: /uploads/2019/10/BIGF-raising-in-in-the-desert.jpg
 category:
     - 'Progress Report'
-tag:
+tags:
     - 'BIGF Method'
     - 'coworking community course'
     - 'Facebook Ads'

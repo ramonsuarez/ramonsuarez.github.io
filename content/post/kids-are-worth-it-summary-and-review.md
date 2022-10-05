@@ -10,7 +10,7 @@ id: 1194
 thumbnail: /uploads/2019/04/barbara-coloroso.jpeg
 category:
     - books
-tag:
+tags:
     - 'Barbara Coloroso'
     - 'book summary'
     - education

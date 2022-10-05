@@ -9,7 +9,7 @@ type: post
 id: 408
 category:
     - Uncategorized
-tag:
+tags:
     - books
     - 'business books'
     - 'internet business'

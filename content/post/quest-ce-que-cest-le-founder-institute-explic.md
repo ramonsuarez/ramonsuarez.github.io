@@ -9,7 +9,7 @@ type: post
 id: 244
 category:
     - Uncategorized
-tag:
+tags:
     - brussels
     - filiptack
     - founderinstitute

@@ -9,7 +9,7 @@ type: post
 id: 142
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - influence
     - influencers

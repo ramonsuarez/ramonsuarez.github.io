@@ -9,7 +9,7 @@ type: post
 id: 278
 category:
     - Uncategorized
-tag:
+tags:
     - devcom
     - english
     - notes

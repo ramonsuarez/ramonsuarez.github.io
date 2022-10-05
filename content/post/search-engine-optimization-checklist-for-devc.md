@@ -9,7 +9,7 @@ type: post
 id: 276
 category:
     - Uncategorized
-tag:
+tags:
     - checklist
     - devcom
     - english

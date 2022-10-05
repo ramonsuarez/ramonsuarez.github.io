@@ -9,7 +9,7 @@ type: post
 id: 266
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - google
     - ranking

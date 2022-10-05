@@ -9,7 +9,7 @@ type: post
 id: 65
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - Marketing
     - socialmedia

@@ -9,7 +9,7 @@ type: post
 id: 213
 category:
     - Uncategorized
-tag:
+tags:
     - presentation
     - slides
     - tools

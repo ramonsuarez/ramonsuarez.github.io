@@ -9,7 +9,7 @@ type: post
 id: 32
 category:
     - Uncategorized
-tag:
+tags:
     - accelerators
     - directory
     - list

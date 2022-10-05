@@ -9,7 +9,7 @@ type: post
 id: 23
 category:
     - Uncategorized
-tag:
+tags:
     - alaingerlache
     - audio
     - betacowork

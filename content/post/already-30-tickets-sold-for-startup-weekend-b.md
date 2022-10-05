@@ -9,7 +9,7 @@ type: post
 id: 98
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - startupcompetition
     - startups

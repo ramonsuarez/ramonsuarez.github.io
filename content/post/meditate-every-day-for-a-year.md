@@ -10,7 +10,7 @@ id: 616
 category:
     - 'Progress Report'
     - Projects
-tag:
+tags:
     - headspace
     - meditation
 post_format: []

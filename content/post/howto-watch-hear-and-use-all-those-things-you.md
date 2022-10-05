@@ -9,7 +9,7 @@ type: post
 id: 132
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - expat
     - howto

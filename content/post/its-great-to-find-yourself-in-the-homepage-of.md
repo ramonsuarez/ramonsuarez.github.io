@@ -9,7 +9,7 @@ type: post
 id: 124
 category:
     - Uncategorized
-tag:
+tags:
     - mbasolvay
     - pictures
     - sbsem

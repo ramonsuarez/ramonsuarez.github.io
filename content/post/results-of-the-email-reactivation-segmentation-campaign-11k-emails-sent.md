@@ -13,7 +13,7 @@ category:
     - Marketing
     - 'Progress Report'
     - Projects
-tag:
+tags:
     - 'email activation'
     - 'email cleaning'
     - 'email marketing automation'

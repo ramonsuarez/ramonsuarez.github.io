@@ -9,7 +9,7 @@ type: post
 id: 360
 category:
     - Uncategorized
-tag:
+tags:
     - electriccars
     - english
     - fluence

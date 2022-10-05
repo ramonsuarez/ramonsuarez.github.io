@@ -9,7 +9,7 @@ type: post
 id: 116
 category:
     - Uncategorized
-tag:
+tags:
     - betagroupcoworkingbrussels
     - coworkers
     - davidplas

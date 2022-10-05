@@ -12,7 +12,7 @@ category:
     - Courses
     - 'Progress Report'
     - Projects
-tag:
+tags:
     - Coworking
     - 'coworking community course'
     - 'coworking course'

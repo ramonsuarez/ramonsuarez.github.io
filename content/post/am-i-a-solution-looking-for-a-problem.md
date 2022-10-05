@@ -10,7 +10,7 @@ id: 1106
 thumbnail: /uploads/2019/05/ruminating.gif
 category:
     - Coworking
-tag:
+tags:
     - 'entrepreneur doubts'
     - ruminations
 post_format: []

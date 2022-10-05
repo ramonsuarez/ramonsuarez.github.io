@@ -9,7 +9,7 @@ type: post
 id: 206
 category:
     - Uncategorized
-tag:
+tags:
     - belgium
     - english
     - internet

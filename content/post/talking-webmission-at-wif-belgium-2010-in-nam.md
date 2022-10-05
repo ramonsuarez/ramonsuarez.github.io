@@ -9,7 +9,7 @@ type: post
 id: 354
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - events
     - french

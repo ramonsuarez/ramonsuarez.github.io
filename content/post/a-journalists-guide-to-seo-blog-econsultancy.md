@@ -9,7 +9,7 @@ type: post
 id: 187
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - journalism
     - seo

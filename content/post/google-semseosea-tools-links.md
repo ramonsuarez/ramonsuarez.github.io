@@ -9,7 +9,7 @@ type: post
 id: 93
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - google
     - sea

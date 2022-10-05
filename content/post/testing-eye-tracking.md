@@ -9,7 +9,7 @@ type: post
 id: 15
 category:
     - Uncategorized
-tag:
+tags:
     - eyetracking
     - presentation
     - usability

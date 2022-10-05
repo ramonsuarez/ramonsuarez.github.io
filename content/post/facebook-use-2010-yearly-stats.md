@@ -9,7 +9,7 @@ type: post
 id: 113
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - facebook
     - socialmedia

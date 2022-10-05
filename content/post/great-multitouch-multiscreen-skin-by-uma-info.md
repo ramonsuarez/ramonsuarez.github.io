@@ -9,7 +9,7 @@ type: post
 id: 312
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - gadgets
     - geek

@@ -11,7 +11,7 @@ thumbnail: /uploads/2019/04/12-week-year-scorecard-ramonsuarez.com_.png
 category:
     - 'Progress Report'
     - Projects
-tag:
+tags:
     - '12 week year'
     - 12WY
     - 'goals scorecard'

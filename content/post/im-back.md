@@ -10,7 +10,7 @@ id: 511
 thumbnail: /uploads/2018/10/ramon-surez.jpg
 category:
     - News
-tag:
+tags:
     - 'Ramon Suarez'
 post_format: []
 geo_latitude:

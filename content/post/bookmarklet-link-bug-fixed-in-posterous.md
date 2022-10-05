@@ -9,7 +9,7 @@ type: post
 id: 120
 category:
     - Uncategorized
-tag:
+tags:
     - blog
     - bug
     - customerservice

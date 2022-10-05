@@ -9,7 +9,7 @@ type: post
 id: 13
 category:
     - Uncategorized
-tag:
+tags:
     - betagroup
     - linkedin
     - statistics

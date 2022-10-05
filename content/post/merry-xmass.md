@@ -9,7 +9,7 @@ type: post
 id: 182
 category:
     - Uncategorized
-tag:
+tags:
     - Coworking
     - diy
     - fun

@@ -9,7 +9,7 @@ type: post
 id: 351
 category:
     - Uncategorized
-tag:
+tags:
     - email
     - english
     - facebook

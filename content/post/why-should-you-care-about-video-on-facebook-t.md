@@ -9,7 +9,7 @@ type: post
 id: 357
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - facebook
     - statistics

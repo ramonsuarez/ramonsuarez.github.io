@@ -9,7 +9,7 @@ type: post
 id: 237
 category:
     - Uncategorized
-tag:
+tags:
     - español
     - events
     - internet

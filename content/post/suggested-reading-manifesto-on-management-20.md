@@ -9,7 +9,7 @@ type: post
 id: 27
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - ideas
     - management

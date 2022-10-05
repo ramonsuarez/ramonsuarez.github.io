@@ -9,7 +9,7 @@ type: post
 id: 297
 category:
     - Uncategorized
-tag:
+tags:
     - eatanddrink
     - economy
     - future

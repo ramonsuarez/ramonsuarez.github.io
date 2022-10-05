@@ -9,7 +9,7 @@ type: post
 id: 12
 category:
     - Uncategorized
-tag:
+tags:
     - articles
     - español
     - next11

@@ -9,7 +9,7 @@ type: post
 id: 111
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - funding
     - vc

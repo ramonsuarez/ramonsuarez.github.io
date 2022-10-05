@@ -9,7 +9,7 @@ type: post
 id: 109
 category:
     - Uncategorized
-tag:
+tags:
     - businessmodel
     - Coworking
     - english

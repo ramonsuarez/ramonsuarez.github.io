@@ -9,7 +9,7 @@ type: post
 id: 445
 category:
     - Uncategorized
-tag:
+tags:
     - '@bartbecks'
     - '@bnox'
     - '@flexyflow'

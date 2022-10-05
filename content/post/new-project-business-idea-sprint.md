@@ -11,7 +11,7 @@ thumbnail: /uploads/2019/05/coyote-thinking.gif
 category:
     - 'Business Ideas'
     - Projects
-tag:
+tags:
     - 'affiliate marketing'
     - 'business idea generation'
     - 'Facebook Ads'

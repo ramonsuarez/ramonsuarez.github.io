@@ -9,7 +9,7 @@ type: post
 id: 84
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - events
     - future

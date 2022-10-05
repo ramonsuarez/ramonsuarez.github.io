@@ -9,7 +9,7 @@ type: post
 id: 130
 category:
     - Uncategorized
-tag:
+tags:
     - design
     - english
     - hewlettpackard

@@ -9,7 +9,7 @@ type: post
 id: 11
 category:
     - Uncategorized
-tag:
+tags:
     - español
     - freedom
     - internet

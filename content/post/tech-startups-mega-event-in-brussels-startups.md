@@ -9,7 +9,7 @@ type: post
 id: 47
 category:
     - Uncategorized
-tag:
+tags:
     - belgium
     - brussels
     - english

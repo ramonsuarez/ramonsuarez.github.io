@@ -9,7 +9,7 @@ type: post
 id: 80
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - socialmedia
     - twitter

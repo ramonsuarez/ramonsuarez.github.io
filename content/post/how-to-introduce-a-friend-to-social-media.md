@@ -9,7 +9,7 @@ type: post
 id: 294
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - recommended
     - socialmedia

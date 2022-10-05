@@ -9,7 +9,7 @@ type: post
 id: 254
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - internet
     - learning

@@ -9,7 +9,7 @@ type: post
 id: 249
 category:
     - Uncategorized
-tag:
+tags:
     - books
     - english
     - influence

@@ -9,7 +9,7 @@ type: post
 id: 299
 category:
     - Uncategorized
-tag:
+tags:
     - cpartyeu
     - english
     - events

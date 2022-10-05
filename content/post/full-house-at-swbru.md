@@ -9,7 +9,7 @@ type: post
 id: 33
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - events
     - startupweekendbrussels

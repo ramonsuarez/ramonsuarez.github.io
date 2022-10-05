@@ -9,7 +9,7 @@ type: post
 id: 348
 category:
     - Uncategorized
-tag:
+tags:
     - howto
     - productivity
     - storage

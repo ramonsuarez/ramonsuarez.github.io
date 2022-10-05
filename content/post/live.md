@@ -9,7 +9,7 @@ type: post
 id: 189
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - events
     - internet

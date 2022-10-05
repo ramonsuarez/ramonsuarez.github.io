@@ -9,7 +9,7 @@ type: post
 id: 191
 category:
     - Uncategorized
-tag:
+tags:
     - belgium
     - socialmedia
     - socialnetworks

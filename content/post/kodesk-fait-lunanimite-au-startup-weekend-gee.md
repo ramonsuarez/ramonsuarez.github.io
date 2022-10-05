@@ -9,7 +9,7 @@ type: post
 id: 316
 category:
     - Uncategorized
-tag:
+tags:
     - benpiquard
     - briceleblevennec
     - geeko

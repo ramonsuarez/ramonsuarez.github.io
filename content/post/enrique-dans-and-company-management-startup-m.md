@@ -9,7 +9,7 @@ type: post
 id: 161
 category:
     - Uncategorized
-tag:
+tags:
     - blog
     - english
     - eventoblogespana

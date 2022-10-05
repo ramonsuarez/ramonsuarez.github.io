@@ -9,7 +9,7 @@ type: post
 id: 221
 category:
     - Uncategorized
-tag:
+tags:
     - anthropology
     - english
     - internet

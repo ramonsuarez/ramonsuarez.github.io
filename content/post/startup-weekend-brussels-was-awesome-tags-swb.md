@@ -9,7 +9,7 @@ type: post
 id: 332
 category:
     - Uncategorized
-tag:
+tags:
     - presentation
     - startupweekendbrussels
     - swbru

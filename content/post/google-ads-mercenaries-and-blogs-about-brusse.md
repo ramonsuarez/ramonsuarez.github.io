@@ -9,7 +9,7 @@ type: post
 id: 279
 category:
     - Uncategorized
-tag:
+tags:
     - advertising
     - blogs
     - english

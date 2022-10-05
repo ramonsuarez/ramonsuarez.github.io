@@ -9,7 +9,7 @@ type: post
 id: 295
 category:
     - Uncategorized
-tag:
+tags:
     - aol
     - bloggers
     - blogging

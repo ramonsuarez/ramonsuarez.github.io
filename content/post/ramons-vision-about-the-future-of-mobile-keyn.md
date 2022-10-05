@@ -9,7 +9,7 @@ type: post
 id: 296
 category:
     - Uncategorized
-tag:
+tags:
     - android
     - conferences
     - droidcon

@@ -9,7 +9,7 @@ type: post
 id: 185
 category:
     - Uncategorized
-tag:
+tags:
     - français
     - hpdm3
     - probleme

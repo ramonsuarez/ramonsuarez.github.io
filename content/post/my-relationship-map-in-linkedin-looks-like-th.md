@@ -9,7 +9,7 @@ type: post
 id: 308
 category:
     - Uncategorized
-tag:
+tags:
     - datavisualization
     - linkedin
     - map

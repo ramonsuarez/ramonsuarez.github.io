@@ -9,7 +9,7 @@ type: post
 id: 70
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - Entrepreneurship
     - webmission

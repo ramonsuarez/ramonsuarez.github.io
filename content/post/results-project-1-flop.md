@@ -13,7 +13,7 @@ category:
     - News
     - 'Progress Report'
     - Projects
-tag:
+tags:
     - coworking.space
 post_format: []
 publicize_google_plus_url:

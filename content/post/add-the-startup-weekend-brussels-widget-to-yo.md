@@ -9,7 +9,7 @@ type: post
 id: 36
 category:
     - Uncategorized
-tag:
+tags:
     - startupcompetition
     - startupweekendbrussels
     - swbru

@@ -9,7 +9,7 @@ type: post
 id: 271
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - español
     - français

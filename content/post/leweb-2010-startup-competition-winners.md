@@ -9,7 +9,7 @@ type: post
 id: 108
 category:
     - Uncategorized
-tag:
+tags:
     - deways
     - english
     - leweb

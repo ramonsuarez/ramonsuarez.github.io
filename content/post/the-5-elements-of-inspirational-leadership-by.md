@@ -9,7 +9,7 @@ type: post
 id: 121
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - harleylovegrove
     - leadership

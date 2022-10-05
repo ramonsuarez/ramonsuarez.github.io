@@ -9,7 +9,7 @@ type: post
 id: 263
 category:
     - Uncategorized
-tag:
+tags:
     - blogs
     - english
     - publishing

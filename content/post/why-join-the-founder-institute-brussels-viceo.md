@@ -9,7 +9,7 @@ type: post
 id: 343
 category:
     - Uncategorized
-tag:
+tags:
     - betagroupcoworkingbrussels
     - brfi
     - Entrepreneurship

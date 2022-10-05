@@ -9,7 +9,7 @@ type: post
 id: 280
 category:
     - Uncategorized
-tag:
+tags:
     - gadgets
     - reviews
     - samsungpicoprojectorsph03

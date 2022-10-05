@@ -9,7 +9,7 @@ type: post
 id: 313
 category:
     - Uncategorized
-tag:
+tags:
     - bloggers
     - blogs
     - events

@@ -9,7 +9,7 @@ type: post
 id: 293
 category:
     - Uncategorized
-tag:
+tags:
     - español
     - europe
     - events

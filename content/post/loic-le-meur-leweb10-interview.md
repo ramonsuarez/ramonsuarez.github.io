@@ -9,7 +9,7 @@ type: post
 id: 69
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - events
     - interview

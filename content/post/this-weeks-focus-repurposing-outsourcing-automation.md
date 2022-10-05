@@ -12,7 +12,7 @@ category:
     - Automation
     - Marketing
     - Projects
-tag:
+tags:
     - automate.io
     - 'evergreen content'
     - fiverr

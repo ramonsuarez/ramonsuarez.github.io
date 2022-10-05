@@ -9,7 +9,7 @@ type: post
 id: 303
 category:
     - Uncategorized
-tag:
+tags:
     - betagroup
     - brussels
     - english

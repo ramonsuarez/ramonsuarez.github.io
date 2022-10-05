@@ -9,7 +9,7 @@ type: post
 id: 222
 category:
     - Uncategorized
-tag:
+tags:
     - english
     - facebook
     - journalism

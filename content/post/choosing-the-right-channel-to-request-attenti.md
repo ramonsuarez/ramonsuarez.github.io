@@ -9,7 +9,7 @@ type: post
 id: 261
 category:
     - Uncategorized
-tag:
+tags:
     - anthropology
     - attention
     - channel

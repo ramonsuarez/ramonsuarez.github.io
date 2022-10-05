@@ -9,7 +9,7 @@ type: post
 id: 46
 category:
     - Uncategorized
-tag:
+tags:
     - audio
     - belgium
     - brussels

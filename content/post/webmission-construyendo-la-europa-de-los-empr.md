@@ -9,7 +9,7 @@ type: post
 id: 179
 category:
     - Uncategorized
-tag:
+tags:
     - betagroup
     - ebe09
     - español

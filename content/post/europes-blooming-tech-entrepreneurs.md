@@ -9,7 +9,7 @@ type: post
 id: 156
 category:
     - Uncategorized
-tag:
+tags:
     - economy
     - english
     - Entrepreneurship

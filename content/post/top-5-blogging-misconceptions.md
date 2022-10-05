@@ -9,7 +9,7 @@ type: post
 id: 192
 category:
     - Uncategorized
-tag:
+tags:
     - blog
     - communication
     - english

@@ -9,7 +9,7 @@ type: post
 id: 251
 category:
     - Uncategorized
-tag:
+tags:
     - betagroup
     - english
     - Entrepreneurship

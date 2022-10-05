@@ -9,7 +9,7 @@ type: post
 id: 54
 category:
     - Uncategorized
-tag:
+tags:
     - kodakemea
     - kodakplaytouch
     - leweb

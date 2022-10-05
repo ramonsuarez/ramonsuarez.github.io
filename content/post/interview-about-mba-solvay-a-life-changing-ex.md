@@ -9,7 +9,7 @@ type: post
 id: 155
 category:
     - Uncategorized
-tag:
+tags:
     - brussels
     - english
     - interview

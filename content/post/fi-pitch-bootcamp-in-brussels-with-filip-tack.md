@@ -9,7 +9,7 @@ type: post
 id: 269
 category:
     - Uncategorized
-tag:
+tags:
     - elevatorpitch
     - english
     - founderinstitute

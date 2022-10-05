@@ -9,7 +9,7 @@ type: post
 id: 193
 category:
     - Uncategorized
-tag:
+tags:
     - events
     - photos
     - pictures

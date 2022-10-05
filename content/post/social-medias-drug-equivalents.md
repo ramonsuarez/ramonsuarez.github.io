@@ -9,7 +9,7 @@ type: post
 id: 328
 category:
     - Uncategorized
-tag:
+tags:
     - fun
     - socialmedia
 post_format: []

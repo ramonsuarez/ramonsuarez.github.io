@@ -9,7 +9,7 @@ type: post
 id: 256
 category:
     - Uncategorized
-tag:
+tags:
     - companies
     - datavisualization
     - english

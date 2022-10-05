@@ -9,7 +9,7 @@ type: post
 id: 215
 category:
     - Uncategorized
-tag:
+tags:
     - gadgets
     - googleearth
     - leweb

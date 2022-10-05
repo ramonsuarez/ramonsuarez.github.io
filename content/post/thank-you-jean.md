@@ -9,7 +9,7 @@ type: post
 id: 335
 category:
     - Uncategorized
-tag:
+tags:
     - belgianstartups
     - betagroup
     - betagroupcoworkingbrussels
