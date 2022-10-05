@@ -112,6 +112,6 @@ Sometimes one is amazed by the things that can be done with a lot of pressure. T
 > ??  
 > My vision about the future of mobile is about people.??   
 > ??  
-> And the future is reached every second.**17. How about your vision?** </div>
+> And the future is reached every second.**17. How about your vision?** 
 
-<div style="padding:5px 0 12px;">Thanks to all the people that twitted and blogged good words about the presentation, they were more than I expected. In fact I was dreaming of upseting some Android developers enough to throw me their mobiles in anger (in the hopes of landing a new Nexus One), but I did not succeed.</div></div>
+<div style="padding:5px 0 12px;">Thanks to all the people that twitted and blogged good words about the presentation, they were more than I expected. In fact I was dreaming of upseting some Android developers enough to throw me their mobiles in anger (in the hopes of landing a new Nexus One), but I did not succeed.

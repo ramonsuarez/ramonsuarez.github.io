@@ -45,8 +45,7 @@ post_format: []
 > 22. [**Work4 Lab**s](http://www.work4labs.com): es una soluci??n para la contrataci??n de personal a trav??s de Facebook . Francia-USA
 > En la edici??n de este a??o de LeWeb no hay ninguna startup espa??ola. ??Ser?? porque los espa??oles no se han atrevido a presentar sus proyectos o porque no se han enterado?
 > 
-> </div>
+> 
 
-via [loogic.com](http://loogic.com/16-startups-en-la-competicion-de-leweb-ninguna-espanola/)</div>16 startups at #LeWeb10, not a single Spanish one. I wish there were more (and also Belgian and from other countries).
+via [loogic.com](http://loogic.com/16-startups-en-la-competicion-de-leweb-ninguna-espanola/)16 startups at #LeWeb10, not a single Spanish one. I wish there were more (and also Belgian and from other countries).
 
-</div>

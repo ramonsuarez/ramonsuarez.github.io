@@ -15,7 +15,5 @@ tags:
     - stats
 post_format: []
 ---
-<div class="p_embed p_image_embed">![Media_httpwwwvincositwpcontentuploads200906wmsn0609450png_bzgctgsvqcxcdsa](/uploads/
-2009/12/media_httpwwwvincositwpcontentuploads200906wmsn0609450png_bzgctgsvqcxcdsa-scaled500.png?w=300)</div>via [vincos.it](http://www.vincos.it/world-map-of-social-networks/)</div>The world is being conquered by Facebook. **Will this hegemony last?**
+![Media_httpwwwvincositwpcontentuploads200906wmsn0609450png_bzgctgsvqcxcdsa](/uploads/2009/12/media_httpwwwvincositwpcontentuploads200906wmsn0609450png_bzgctgsvqcxcdsa-scaled500.png?w=300)via [vincos.it](http://www.vincos.it/world-map-of-social-networks/)The world is being conquered by Facebook. **Will this hegemony last?**
 
-</div>

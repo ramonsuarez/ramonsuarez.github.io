@@ -22,6 +22,4 @@ According to Posterous, this blog has already received **1722 visits**. But acco
 
 **Who should I trust?**
 
-<div class="p_embed p_image_embed">[![Blog_ramon_suarez_google_analy](http://getfile0.posterous.com/getfile/files.posterous.com/ramonsuarez/DjuLUCnxU7lDwCuU8IXPYXmKyefGHfgerQmW4BOupp0KCGjRb5rJSCwFS3c9/blog_ramon_suarez_google_analy.png.scaled.500.jpg)](http://getfile9.posterous.com/getfile/files.posterous.com/ramonsuarez/zsK3R2m75io4u88EntwZvnFilAxMkgJrDB7OTPrGxZyj3ePdpawTJk6xOSBb/blog_ramon_suarez_google_analy.png)[![Visitors_blog_ramon_suarez_pos](/uploads/
-2009/12/visitors_blog_ramon_suarez_pos.png?w=300)](/uploads/
-2009/12/visitors_blog_ramon_suarez_pos.png)</div>
+[![Blog_ramon_suarez_google_analy](http://getfile0.posterous.com/getfile/files.posterous.com/ramonsuarez/DjuLUCnxU7lDwCuU8IXPYXmKyefGHfgerQmW4BOupp0KCGjRb5rJSCwFS3c9/blog_ramon_suarez_google_analy.png.scaled.500.jpg)](http://getfile9.posterous.com/getfile/files.posterous.com/ramonsuarez/zsK3R2m75io4u88EntwZvnFilAxMkgJrDB7OTPrGxZyj3ePdpawTJk6xOSBb/blog_ramon_suarez_google_analy.png)[![Visitors_blog_ramon_suarez_pos](/uploads/2009/12/visitors_blog_ramon_suarez_pos.png?w=300)](/uploads/2009/12/visitors_blog_ramon_suarez_pos.png)

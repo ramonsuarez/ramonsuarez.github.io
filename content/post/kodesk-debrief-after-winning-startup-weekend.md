@@ -21,6 +21,5 @@ tags:
     - swbru
 post_format: []
 ---
-via [youtube.com](http://www.youtube.com/watch?v=V1Y0ppIBMdQ)</div>Check them out! [Kodesk](http://www.kodesk.com)
+via [youtube.com](http://www.youtube.com/watch?v=V1Y0ppIBMdQ)Check them out! [Kodesk](http://www.kodesk.com)
 
-</div>

@@ -37,9 +37,9 @@ post_format: []
 > 
 > *UPDATE II: I think we should drop my last point on cap table. I had a specific instance in mind where this was important when writing this, but it’s far from universal. I would not necessarily comment early on last round price when it was very LOW, as this can set the bar too low for the current round of negotiation. If your last round was overpriced, well this is something you need to address preferably before you are talking to new investors to get existing shareholders aligned. I invite you to read* [*Eileen*](http://catalyses.wordpress.com/2009/11/27/three-things-you-should-always-tell-a-vc-if-asked/) *for the counter and* [*Reid Curley*](http://reidcurley.com/id74-what-should-you-tell-a-vc-fred-destin-vs-eileen-burbidge/) *for a balanced view.*
 > 
-> </div></div>
+> 
 
-via [freddestin.com](http://www.freddestin.com/blog/2009/11/three-things-you-should-never-tell-a-vc-when-fundraising.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2FFredDestin+%28Fred+Destin%29&utm_content=Google+Reader)</div>A great peace of advice from a seasoned venture capitalist. Read in full.
+via [freddestin.com](http://www.freddestin.com/blog/2009/11/three-things-you-should-never-tell-a-vc-when-fundraising.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2FFredDestin+%28Fred+Destin%29&utm_content=Google+Reader)A great peace of advice from a seasoned venture capitalist. Read in full.
 
 Fred Destin is a VC I follow since I saw his brilliant participation in this roundtable at [Plugg in Brussels: ](http://www.plugg.eu)
 
@@ -47,4 +47,3 @@ Fred Destin is a VC I follow since I saw his brilliant participation in this rou
 
 He was completely detached at the beginning, but thanks to the arts of [Matthäus Krzykowski](http://venturebeat.com/author/matthaus-krzykowski/) he ended up getting fully into it and providing for one of the best moments of the conference.
 
-</div>

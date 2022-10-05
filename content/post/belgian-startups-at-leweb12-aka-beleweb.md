@@ -38,72 +38,72 @@ For the second year on a row there will be a unified Belgian startups stand at [
 [87seconds](http://87seconds.com/)
 ----------------------------------
 
-<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="366" mozallowfullscreen="" src="https://player.vimeo.com/video/54271014" webkitallowfullscreen="" width="500"></iframe></div>[87seconds](http://vimeo.com/54271014) from [Startups.be](http://vimeo.com/startupsbe) on [Vimeo](http://vimeo.com).
+<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="366" mozallowfullscreen="" src="https://player.vimeo.com/video/54271014" webkitallowfullscreen="" width="500"></iframe>[87seconds](http://vimeo.com/54271014) from [Startups.be](http://vimeo.com/startupsbe) on [Vimeo](http://vimeo.com).
 
 [8thColor](http://www.8thcolor.com/)
 ------------------------------------
 
-<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54271013" webkitallowfullscreen="" width="500"></iframe></div>[8thcolor](http://vimeo.com/54271013) from [Startups.be](http://vimeo.com/startupsbe) on [Vimeo](http://vimeo.com).
+<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54271013" webkitallowfullscreen="" width="500"></iframe>[8thcolor](http://vimeo.com/54271013) from [Startups.be](http://vimeo.com/startupsbe) on [Vimeo](http://vimeo.com).
 
 [Carambla](http://carambla.com)
 -------------------------------
 
-<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54136992" webkitallowfullscreen="" width="500"></iframe></div>[Nicolas Kint – Carambla (selected company to join us @LeWeb12)](http://vimeo.com/54136992) from [Startups.be](http://vimeo.com/startupsbe) on [Vimeo](http://vimeo.com).
+<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54136992" webkitallowfullscreen="" width="500"></iframe>[Nicolas Kint – Carambla (selected company to join us @LeWeb12)](http://vimeo.com/54136992) from [Startups.be](http://vimeo.com/startupsbe) on [Vimeo](http://vimeo.com).
 
 [CleverPhone](http://www.cleverphone.com/)
 ------------------------------------------
 
-<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54271016" webkitallowfullscreen="" width="500"></iframe></div>[cleverphone](http://vimeo.com/54271016) from [Startups.be](http://vimeo.com/startupsbe) on [Vimeo](http://vimeo.com).
+<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54271016" webkitallowfullscreen="" width="500"></iframe>[cleverphone](http://vimeo.com/54271016) from [Startups.be](http://vimeo.com/startupsbe) on [Vimeo](http://vimeo.com).
 
 [EarlyTracks](http://www.earlytracks.com/)
 ------------------------------------------
 
-<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54293584" webkitallowfullscreen="" width="500"></iframe></div>[EarlyTracks](http://vimeo.com/54293584) from [awtbe](http://vimeo.com/awtbe) on [Vimeo](http://vimeo.com).
+<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54293584" webkitallowfullscreen="" width="500"></iframe>[EarlyTracks](http://vimeo.com/54293584) from [awtbe](http://vimeo.com/awtbe) on [Vimeo](http://vimeo.com).
 
 [Freedelity](https://www.freedelity.be/)
 ----------------------------------------
 
-<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54281901" webkitallowfullscreen="" width="500"></iframe></div>[Freedelity](http://vimeo.com/54281901) from [awtbe](http://vimeo.com/awtbe) on [Vimeo](http://vimeo.com).
+<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54281901" webkitallowfullscreen="" width="500"></iframe>[Freedelity](http://vimeo.com/54281901) from [awtbe](http://vimeo.com/awtbe) on [Vimeo](http://vimeo.com).
 
 [Jini](http://www.getjini.com/)
 -------------------------------
 
-<div class="video-player" id="v-MjUj1Knf-1"><iframe allow="clipboard-write" allowfullscreen="" aria-label="VideoPress Video Player" frameborder="0" height="224" src="https://videopress.com/embed/MjUj1Knf?hd=1&cover=1&loop=0&autoPlay=0&permalink=1&muted=0&controls=1&playsinline=0&useAverageColor=0" title="VideoPress Video Player" width="400"></iframe><script src="https://s0.wp.com/wp-content/plugins/video/assets/js/next/videopress-iframe.js"></script></div>[Mobilosoft](http://mobilosoft.com/)
+<div class="video-player" id="v-MjUj1Knf-1"><iframe allow="clipboard-write" allowfullscreen="" aria-label="VideoPress Video Player" frameborder="0" height="224" src="https://videopress.com/embed/MjUj1Knf?hd=1&cover=1&loop=0&autoPlay=0&permalink=1&muted=0&controls=1&playsinline=0&useAverageColor=0" title="VideoPress Video Player" width="400"></iframe><script src="https://s0.wp.com/wp-content/plugins/video/assets/js/next/videopress-iframe.js"></script>[Mobilosoft](http://mobilosoft.com/)
 ------------------------------------
 
-<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54271019" webkitallowfullscreen="" width="500"></iframe></div>[mobilosoft](http://vimeo.com/54271019) from [Startups.be](http://vimeo.com/startupsbe) on [Vimeo](http://vimeo.com).
+<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54271019" webkitallowfullscreen="" width="500"></iframe>[mobilosoft](http://vimeo.com/54271019) from [Startups.be](http://vimeo.com/startupsbe) on [Vimeo](http://vimeo.com).
 
 [MyMicroInvest](http://mymicroinvest.com/)
 ------------------------------------------
 
-<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54293585" webkitallowfullscreen="" width="500"></iframe></div>[MyMicroInvest](http://vimeo.com/54293585) from [awtbe](http://vimeo.com/awtbe) on [Vimeo](http://vimeo.com).
+<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54293585" webkitallowfullscreen="" width="500"></iframe>[MyMicroInvest](http://vimeo.com/54293585) from [awtbe](http://vimeo.com/awtbe) on [Vimeo](http://vimeo.com).
 
 [Small Town Heroes](http://www.smalltownheroes.be/)
 ---------------------------------------------------
 
-<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54136991" webkitallowfullscreen="" width="500"></iframe></div>[Hendrik Dacquin – Small Town Heroes (selected company to join us @LeWeb12)](http://vimeo.com/54136991) from [Startups.be](http://vimeo.com/startupsbe) on [Vimeo](http://vimeo.com).
+<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54136991" webkitallowfullscreen="" width="500"></iframe>[Hendrik Dacquin – Small Town Heroes (selected company to join us @LeWeb12)](http://vimeo.com/54136991) from [Startups.be](http://vimeo.com/startupsbe) on [Vimeo](http://vimeo.com).
 
 [TagTagCity](http://www.tagtagcity.com/)
 ----------------------------------------
 
-<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54271020" webkitallowfullscreen="" width="500"></iframe></div>[tagcity](http://vimeo.com/54271020) from [Startups.be](http://vimeo.com/startupsbe) on [Vimeo](http://vimeo.com).
+<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54271020" webkitallowfullscreen="" width="500"></iframe>[tagcity](http://vimeo.com/54271020) from [Startups.be](http://vimeo.com/startupsbe) on [Vimeo](http://vimeo.com).
 
 [Tuzzit](http://www.tuzzit.com/)
 --------------------------------
 
-<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54295682" webkitallowfullscreen="" width="500"></iframe></div>[TUZZit](http://vimeo.com/54295682) from [awtbe](http://vimeo.com/awtbe) on [Vimeo](http://vimeo.com).
+<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54295682" webkitallowfullscreen="" width="500"></iframe>[TUZZit](http://vimeo.com/54295682) from [awtbe](http://vimeo.com/awtbe) on [Vimeo](http://vimeo.com).
 
 [Twipe Mobile](http://www.twipemobile.com/)
 -------------------------------------------
 
-<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54136990" webkitallowfullscreen="" width="500"></iframe></div>[Danny Lein – Twipe (selected company to join us @LeWeb12)](http://vimeo.com/54136990) from [Startups.be](http://vimeo.com/startupsbe) on [Vimeo](http://vimeo.com).
+<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54136990" webkitallowfullscreen="" width="500"></iframe>[Danny Lein – Twipe (selected company to join us @LeWeb12)](http://vimeo.com/54136990) from [Startups.be](http://vimeo.com/startupsbe) on [Vimeo](http://vimeo.com).
 
 [Uniwan](http://uniwan.be/)
 ---------------------------
 
-<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54293583" webkitallowfullscreen="" width="500"></iframe></div>[Uniwan](http://vimeo.com/54293583) from [awtbe](http://vimeo.com/awtbe) on [Vimeo](http://vimeo.com).
+<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54293583" webkitallowfullscreen="" width="500"></iframe>[Uniwan](http://vimeo.com/54293583) from [awtbe](http://vimeo.com/awtbe) on [Vimeo](http://vimeo.com).
 
 [WeePee](http://company.weepee.org/)
 ------------------------------------
 
-<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54136993" webkitallowfullscreen="" width="500"></iframe></div>[Lisa Derycke – Weepee (selected company to join us @LeWeb12)](http://vimeo.com/54136993) from [Startups.be](http://vimeo.com/startupsbe) on [Vimeo](http://vimeo.com).
+<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="281" mozallowfullscreen="" src="https://player.vimeo.com/video/54136993" webkitallowfullscreen="" width="500"></iframe>[Lisa Derycke – Weepee (selected company to join us @LeWeb12)](http://vimeo.com/54136993) from [Startups.be](http://vimeo.com/startupsbe) on [Vimeo](http://vimeo.com).

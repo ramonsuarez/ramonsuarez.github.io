@@ -16,6 +16,4 @@ tags:
     - leweb10
 post_format: []
 ---
-<div class="p_embed p_image_embed">[![Media_httpwwwsixhuitc_imhfx](/uploads/
-2010/12/media_httpwwwsixhuitc_imhfx-scaled1000.jpg?w=300)](/uploads/
-2010/12/media_httpwwwsixhuitc_imhfx-scaled1000.jpg)</div>via [fr.amiando.com](http://fr.amiando.com/bloggerparty.html)</div></div>
+[![Media_httpwwwsixhuitc_imhfx](/uploads/2010/12/media_httpwwwsixhuitc_imhfx-scaled1000.jpg?w=300)](/uploads/2010/12/media_httpwwwsixhuitc_imhfx-scaled1000.jpg)via [fr.amiando.com](http://fr.amiando.com/bloggerparty.html)

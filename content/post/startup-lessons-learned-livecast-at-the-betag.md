@@ -37,6 +37,5 @@ post_format: []
 > Josh Seiden, Program Dir, LUXr NYC (@jseiden)  
 > Zach Larson, Entrepreneur/Former CPO, SideReel (@zachlarson)
 
-via [sll11brusimulcast.eventbrite.com](http://sll11brusimulcast.eventbrite.com/)</div>[Signup](http://sll11brusimulcast.eventbrite.com/) and enjoy the Lean Startup and Customer Development networking.
+via [sll11brusimulcast.eventbrite.com](http://sll11brusimulcast.eventbrite.com/)[Signup](http://sll11brusimulcast.eventbrite.com/) and enjoy the Lean Startup and Customer Development networking.
 
-</div>

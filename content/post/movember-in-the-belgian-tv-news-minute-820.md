@@ -19,4 +19,4 @@ tags:
 post_format: []
 ---
 **UPDATE: The RTBF has taken down the video. As soon as I can find it or upload it I will put it back**  
-Check out the moustaches and profiles of the 3 moustache-queteers of the Betagroup Coworking: [bit.ly/3mobros](http://bit.ly/3mobros) and support the cause with your donations and spreading the word 🙂 </div>
+Check out the moustaches and profiles of the 3 moustache-queteers of the Betagroup Coworking: [bit.ly/3mobros](http://bit.ly/3mobros) and support the cause with your donations and spreading the word 🙂 

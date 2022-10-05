@@ -27,7 +27,7 @@ post_format: []
 > 
 > <div class="prezi-player"><div class="prezi-player-links">[Hacking Venture Capital – Part II](http://prezi.com/ay9uoy0-ouyu/ "Negotiating the venture investment</p><p>Presentation used in support of a workshop on hacking venture capital fiven at #LIFT10 to 50 attendees by @fdestin from Atlas Venture on 7-May-2010") on [Prezi](http://prezi.com)
 > 
-> </div></div>**LINK TO CAP TABLE**
+> **LINK TO CAP TABLE**
 > 
 > [http://bit.ly/awTNFd](http://bit.ly/awTNFd "http://bit.ly/awTNFd")
 > 
@@ -39,10 +39,9 @@ post_format: []
 > 
 > [FAKE-ERPLY Data for Investors](http://www.scribd.com/doc/31022507/FAKE-ERPLY-Data-for-Investors "View FAKE-ERPLY Data for Investors on Scribd")
 > 
-> </div></div></div>[](http://feedburner.google.com/fb/a/emailFlare?itemTitle=LIFT10%3A%20Workshop%20on%20Hacking%20Venture%20Capital&uri=http%3A%2F%2Fwww.freddestin.com%2Fblog%2F2010%2F05%2Flift10-workshop-on-hacking-venture-capital.html)
+> [](http://feedburner.google.com/fb/a/emailFlare?itemTitle=LIFT10%3A%20Workshop%20on%20Hacking%20Venture%20Capital&uri=http%3A%2F%2Fwww.freddestin.com%2Fblog%2F2010%2F05%2Flift10-workshop-on-hacking-venture-capital.html)
 > 
-> </div>
+> 
 
-via [freddestin.com](http://www.freddestin.com/blog/2010/05/lift10-workshop-on-hacking-venture-capital.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2FFredDestin+%28Fred+Destin%29)</div>I only wish there was a video of this presentation.
+via [freddestin.com](http://www.freddestin.com/blog/2010/05/lift10-workshop-on-hacking-venture-capital.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2FFredDestin+%28Fred+Destin%29)I only wish there was a video of this presentation.
 
-</div>

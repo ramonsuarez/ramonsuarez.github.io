@@ -38,8 +38,7 @@ post_format: []
 > 
 > ***[Ramón Suárez](http://ramonsuarez.com/)** es el **corresponsal de Loogic en Plugg**, desde donde nos mantendrá informados del desarrollo del evento. Ramón es un español residente en Bruselas, donde trabaja como consultor independiente en el uso empresarial de nuevas tecnologías. Reciéntemente organizó una delegación de [emprendedores Web belgas](http://loogic.com/alex-puig-presenta-shotools/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Loogiccom+%28Loogic.com%29#) que presentaron sus iniciativas en el [Evento Blog España 2009](http://www.eventoblog.com/). También es consejero del [Beta Group](http://www.betagroup.be/), el principal evento para iniciadores Web en Bélgica.*
 > 
-> </div>
+> 
 
-via [loogic.com](http://loogic.com/alex-puig-presenta-shotools/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Loogiccom+%28Loogic.com%29)</div>Alex Puig is the founder of SHOTools, a tool for social network professionals to improve the dynamization and analysis of their online efforts. He will be presenting SHOTools in [Plugg 2010 startup competition](http://ramonsuarez.com/dos-startups-espanolas-en-plugg-articulo-en-l). This article is part of the Plugg series that I’m publishing in collaboration with Loogic, the Spanish reference for new media entrepreneurship.
+via [loogic.com](http://loogic.com/alex-puig-presenta-shotools/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Loogiccom+%28Loogic.com%29)Alex Puig is the founder of SHOTools, a tool for social network professionals to improve the dynamization and analysis of their online efforts. He will be presenting SHOTools in [Plugg 2010 startup competition](http://ramonsuarez.com/dos-startups-espanolas-en-plugg-articulo-en-l). This article is part of the Plugg series that I’m publishing in collaboration with Loogic, the Spanish reference for new media entrepreneurship.
 
-</div>

@@ -37,9 +37,9 @@ post_format: []
 > 
 > La [presentación de los iniciadores belgas](http://eventoblog.com/2009/11/emprendedores-europeos-betagroup/) estuvo bien concurrida (¿sería por los 15 kilos de chocolate [Newtree](http://www.newtree.com/) que repartimos?), los asistentes plantearon preguntas muy interesentes y los ecos que recogimos en Twitter y por los pasillos fueron muy buenos. Sí estuvísteis en la conferencia **nos gustaría conocer vuestra opinión**. Por parte de los emprendedores belgas os puedo decir que están muy contentos: por el feedback que recibieron en la conferencia, por los contactos que han hecho, los usuarios que han conseguido y por las nuevas ideas y visiones que han descubierto. Estamos todos deseando organizar la próxima Webmission. **¿Porqué no organizáis una desde España y os venís a presentar al** [BetaGroup](http://www.betagroup.be/) **en Bruselas?**
 > 
-> </div>
+> 
 
-via [loogic.com](http://loogic.com/construyendo-la-europa-de-los-emprendedores-en-ebe09/)</div>Gracias a Javier Martín por darme la oportunidad de hablar de la Webmission en [Loogic.com](http://www.loogic.com).
+via [loogic.com](http://loogic.com/construyendo-la-europa-de-los-emprendedores-en-ebe09/)Gracias a Javier Martín por darme la oportunidad de hablar de la Webmission en [Loogic.com](http://www.loogic.com).
 
 Y más gracias todavía a [Benito](http://www.benitocastro.com) por su comentario. Así dan más ganas de hacer cosas:
 
@@ -55,4 +55,3 @@ Y más gracias todavía a [Benito](http://www.benitocastro.com) por su comentari
 > Gracias Ramón y recuerdos amistosos para la gente de la Webmission, que este EBE 09, nos dieron grandes muestras de involucración en nuestro proyecto. Sé que vas a hacer lo posible porque esa vivencia se engrandezca para que, con el esfuerzo de todos, todos sepamos también disfrutarla  
 > . Un abrazo.
 
-</div>

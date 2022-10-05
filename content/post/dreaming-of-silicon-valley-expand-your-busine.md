@@ -24,8 +24,7 @@ post_format: []
 > 
 >  [http://www.invest-in-usa.org/events/event/ExpandyourBusinesstotheUnitedStatesofAmerica,88.aspx](http://www.linkedin.com/redirect?url=http%3A%2F%2Fwww%2Einvest-in-usa%2Eorg%2Fevents%2Fevent%2FExpandyourBusinesstotheUnitedStatesofAmerica%2C88%2Easpx&urlhash=yRTv "New window will open")
 
-via [linkedin.com](http://www.linkedin.com/groupAnswers?viewQuestionAndAnswers=&discussionID=12741155&gid=87954&trk=EML_anet_qa_ttle-0Pt79xs2RVr6JBpnsJt7dBpSBA)</div>For all those that would like to take their business and entrepreneurship skills to the USA, here is the perfect opportunity to **make your life easier and get closer to you Silicon Valley dream**.
+via [linkedin.com](http://www.linkedin.com/groupAnswers?viewQuestionAndAnswers=&discussionID=12741155&gid=87954&trk=EML_anet_qa_ttle-0Pt79xs2RVr6JBpnsJt7dBpSBA)For all those that would like to take their business and entrepreneurship skills to the USA, here is the perfect opportunity to **make your life easier and get closer to you Silicon Valley dream**.
 
 Thanks to [Charles Crouch](http://www.linkedin.com/profile?viewProfile=&key=899018&authToken=uhzN&authType=name) for pointing to this opportunity at the [Beta Group](http://www.betagroup.be).
 
-</div>

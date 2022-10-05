@@ -183,8 +183,7 @@ post_format: []
 > [UWE  ](http://www.bva.be/46369.url)  
 > [Voka](http://www.bva.be/46368.url)
 > 
-> </div></div>
+> 
 
-via [bva.be](http://www.bva.be/fb111mggc622gkw1szu149.aspx)</div>An excellent source, to add to the investor funds list maintained by the [Betagroup](http://www.betagroup.be).
+via [bva.be](http://www.bva.be/fb111mggc622gkw1szu149.aspx)An excellent source, to add to the investor funds list maintained by the [Betagroup](http://www.betagroup.be).
 
-</div>

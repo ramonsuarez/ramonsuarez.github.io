@@ -170,6 +170,5 @@ post_format: []
 > 
 > You may also want to check out my analysis of FB Places: [Facebook Places Analysis: 3 Reasons Why FB Will Continue to Be Your Aggregator of Social Information](http://windmillnetworking.com/2010/08/24/facebook-places-analysis-3-reasons-why-facebook-will-continue-to-be-your-aggregator-of-social-information/) \[24\].
 
-via [windmillnetworking.com](http://windmillnetworking.com/2010/%0A12/23/top-30-most-useful-facebook-blog-posts-of-2010/)</div>A great selection of howtos and tips to get the most out of Facebook. A good selection of articles to read after the winter break.
+via [windmillnetworking.com](http://windmillnetworking.com/2010/%0A12/23/top-30-most-useful-facebook-blog-posts-of-2010/)A great selection of howtos and tips to get the most out of Facebook. A good selection of articles to read after the winter break.
 
-</div>

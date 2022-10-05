@@ -18,4 +18,4 @@ tags:
     - videowall
 post_format: []
 ---
-<div style="height:600px;text-align:left;">[Powered by <span style="text-decoration:underline;">Dailymotion</span>](http://www.dailymotion.com "Powered by Dailymotion")</div>
+<div style="height:600px;text-align:left;">[Powered by <span style="text-decoration:underline;">Dailymotion</span>](http://www.dailymotion.com "Powered by Dailymotion")

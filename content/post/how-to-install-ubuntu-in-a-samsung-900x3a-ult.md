@@ -33,11 +33,11 @@ The mouse trackpad/touchpad is over sensitive and does not allow click and drag.
 > **<span class="highlight">Trackpad</span>**  
 > \*If you have a problem you can use the following method to enable right clicking:
 > 
-> <div style="margin:20px;margin-top:5px;"><div class="smallfont" style="margin-bottom:2px;">Code:</div><div class="CodeRay"><div class="code"><div class="CodeRay"><div class="code">```
+> <div style="margin:20px;margin-top:5px;"><div class="smallfont" style="margin-bottom:2px;">Code:<div class="CodeRay"><div class="code"><div class="CodeRay"><div class="code">```
 > sudo suecho options psmouse proto=exps > /etc/modprobe.d/psmouse.modprobereboot
 > ```
 > 
-> </div></div></div></div></div>**-OR-**
+> **-OR-**
 > 
 > Go to System&gt;Preferences&gt;Mouse and select “TouchPad” Tab and select 2 finger scrolling and 2 finger right click.
 

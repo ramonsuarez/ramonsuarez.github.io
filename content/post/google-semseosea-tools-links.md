@@ -37,6 +37,5 @@ post_format: []
 > 
 > [Google Ad Planner](https://www.google.com/adplanner/)
 
-via [wwwhatsnew.com](http://wwwhatsnew.com/2009/12/08/10-herramientas-seo-hechas-por-google/)</div>An easy to copy and share list for friends, colleagues and clients.
+via [wwwhatsnew.com](http://wwwhatsnew.com/2009/12/08/10-herramientas-seo-hechas-por-google/)An easy to copy and share list for friends, colleagues and clients.
 
-</div>

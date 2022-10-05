@@ -17,8 +17,7 @@ tags:
     - loiclemeur
 post_format: []
 ---
-<div class="p_embed p_image_embed">![Media_httpwwwloicleme_qfata](/uploads/
-2010/12/media_httpwwwloicleme_qfata-scaled500.jpg?w=300)</div>via [loogic.com](http://loogic.com/entrevista-loic-le-meur-y-leweb10/)</div>This year I will be participating in [LeWeb](http://bit.ly/bfn5EV) as a correspondent for Loogic, a prominent Spanish blog about Internet entrepreneurship. With this in mind, I’ve taken advantage to interview some internet figures like the organizer of LeWeb himself (Loïc Le Meur), the CEO of Weblogs SL ([Julio Alonso](http://ramonsuarez.com/entrevista-julio-alonso-leweb-y-el-futuro-loo)), and the CEO of Hipertextual (Eduardo Arcos, to be published soon).
+![Media_httpwwwloicleme_qfata](/uploads/2010/12/media_httpwwwloicleme_qfata-scaled500.jpg?w=300)via [loogic.com](http://loogic.com/entrevista-loic-le-meur-y-leweb10/)This year I will be participating in [LeWeb](http://bit.ly/bfn5EV) as a correspondent for Loogic, a prominent Spanish blog about Internet entrepreneurship. With this in mind, I’ve taken advantage to interview some internet figures like the organizer of LeWeb himself (Loïc Le Meur), the CEO of Weblogs SL ([Julio Alonso](http://ramonsuarez.com/entrevista-julio-alonso-leweb-y-el-futuro-loo)), and the CEO of Hipertextual (Eduardo Arcos, to be published soon).
 
 These are the responses given by Loïc to the short questionnary I sent him. He was really quick tp answer!
 
@@ -52,4 +51,3 @@ How would you recommend to face the LeWeb experience?
 
 We have a great networking tool this year, Presdo Match that participants seem to love to prepare their meetings and see who they want to hang out with, spend time in it. We also have mobile apps on Android, Blackberry, Nokia, iPhone and WP7 which let you browse the program and the participants. Monitor #leweb and #leweb10 on twitter…
 
-</div>

@@ -32,6 +32,5 @@ post_format: []
 > 
 > Espero que podamos ver alguna presentación con acento español.
 
-via [loogic.com](http://loogic.com/%c2%bfquieres-presentar-en-leweb/)</div>Do you want to present at LeWeb Paris 2010? You have a chance to do so in their Ignite section. [Sign up before Wednesday at midnight San Francisco time](http://igniteleweb.producteev.com/home.php).
+via [loogic.com](http://loogic.com/%c2%bfquieres-presentar-en-leweb/)Do you want to present at LeWeb Paris 2010? You have a chance to do so in their Ignite section. [Sign up before Wednesday at midnight San Francisco time](http://igniteleweb.producteev.com/home.php).
 
-</div>

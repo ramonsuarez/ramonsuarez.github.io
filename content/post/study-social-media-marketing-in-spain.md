@@ -19,8 +19,6 @@ tags:
     - stats
 post_format: []
 ---
-<div class="p_embed p_image_embed">[![Media_httpetcterritor_hgmqd](/uploads/
-2010/04/media_httpetcterritor_hgmqd-scaled1000.jpg?w=300)](/uploads/
-2010/04/media_httpetcterritor_hgmqd-scaled1000.jpg)</div>??
+[![Media_httpetcterritor_hgmqd](/uploads/2010/04/media_httpetcterritor_hgmqd-scaled1000.jpg?w=300)](/uploads/2010/04/media_httpetcterritor_hgmqd-scaled1000.jpg)??
 
-via [etc.territoriocreativo.es](http://etc.territoriocreativo.es/etc/2010/04/estudio-social-media-espana.html)</div></div>
+via [etc.territoriocreativo.es](http://etc.territoriocreativo.es/etc/2010/04/estudio-social-media-espana.html)

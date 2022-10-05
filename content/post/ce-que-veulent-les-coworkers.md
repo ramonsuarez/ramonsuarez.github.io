@@ -62,8 +62,7 @@ post_format: []
 > Quel est donc le principal enseignement de cette ??tude ?  
 > Lorsque l???on demande aux coworkers ce qu???ils aiment dans leur espace, une ??crasante majorit?? d???entre eux r??pondent que c???est avant tout l???ambiance amicale et la pr??sence d???autres personnes qui rendent le lieu agr??able.
 > 
-> </div>
+> 
 
-via [mutinerie.org](http://www.mutinerie.org/la-premiere-etude-mondiale-sur-le-coworking-partie-2/)</div>Tr??s int??ressant ??tude, ?? garder pour r??f??rence.
+via [mutinerie.org](http://www.mutinerie.org/la-premiere-etude-mondiale-sur-le-coworking-partie-2/)Tr??s int??ressant ??tude, ?? garder pour r??f??rence.
 
-</div>

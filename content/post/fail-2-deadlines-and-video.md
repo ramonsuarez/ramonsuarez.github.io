@@ -30,7 +30,7 @@ publicize_google_plus_url:
 video_background:
     - ''
 ---
-![](/uploads/2019/01/fail.gif)</div>The end of 2018 has not been good for my [challenge](https://ramonsuarez.com/challenge-projects/). I’ve stalled with the creation of the [video course](https://ramonsuarez.com/new-project-coworking-course/) and kept on extending a deadline that was just too soft. Here’s the recap of what I’ve learned and what comes next.
+![](/uploads/2019/01/fail.gif)The end of 2018 has not been good for my [challenge](https://ramonsuarez.com/challenge-projects/). I’ve stalled with the creation of the [video course](https://ramonsuarez.com/new-project-coworking-course/) and kept on extending a deadline that was just too soft. Here’s the recap of what I’ve learned and what comes next.
 
 Deadlines need to be precise
 ----------------------------
@@ -51,7 +51,7 @@ Video lessons are hard
 
 I did not think this would be a problem but it is. Speaking in public is not an issue for me; I’m used to giving interviews on radio and TV, conferences to hundreds of people and live streamed, courses… You name it.
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" loading="lazy" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/sYqqrr5bFEo?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent" style="border:0;" width="640"></iframe></span></div>I’m not afraid of doing it and I’m used to prepare conferences with just a few main points that I can even update right before a conference based on what other speakers are saying. I feel at ease, but with these lessons it was just the opposite: I froze.
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" loading="lazy" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/sYqqrr5bFEo?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent" style="border:0;" width="640"></iframe></span>I’m not afraid of doing it and I’m used to prepare conferences with just a few main points that I can even update right before a conference based on what other speakers are saying. I feel at ease, but with these lessons it was just the opposite: I froze.
 
 The problem may come from the courses about making courses themselves: I got into my mind that I have to be super precise and perfect, which I’m not. I tried writing scripts and discovered that I’ve forgotten how to read aloud. The few times I tried was awful. I felt paralyzed, hesitant, with no confidence at all. It sucked.
 

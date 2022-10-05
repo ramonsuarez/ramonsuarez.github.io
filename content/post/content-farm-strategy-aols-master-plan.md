@@ -22,9 +22,9 @@ tags:
     - sweatshop
 post_format: []
 ---
-> ![timarmstrongroadshow.jpg](http://static.businessinsider.com/image/4afd9c300000000000e755cc-524-393/timarmstrongroadshowjpg.jpg)</div>Tim, possibly working on “The AOL Way”
+> ![timarmstrongroadshow.jpg](http://static.businessinsider.com/image/4afd9c300000000000e755cc-524-393/timarmstrongroadshowjpg.jpg)Tim, possibly working on “The AOL Way”
 > 
-> </div>Two years into his tenure as [AOL ](http://www.businessinsider.com/blackboard/aol)CEO, [Tim Armstrong](http://www.businessinsider.com/blackboard/tim-armstrong) is stepping on the gas.
+> Two years into his tenure as [AOL ](http://www.businessinsider.com/blackboard/aol)CEO, [Tim Armstrong](http://www.businessinsider.com/blackboard/tim-armstrong) is stepping on the gas.
 > 
 > By April, he wants AOL editorial to increase its stories per month from 33,000 to 55,000.
 > 
@@ -76,10 +76,9 @@ post_format: []
 > - [How AOL builds cheap, Demand Media-like pages around search-friendly topics.](http://www.businessinsider.com/the-aol-way/-30)
 > - [AOL’s requirements for third-party traffic exchange partners](http://www.businessinsider.com/the-aol-way/-38)
 > 
-> [Click here to see “The AOL Way” →](http://www.businessinsider.com/the-aol-way?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+businessinsider+(Business+Insider)#)</div></div>
+> [Click here to see “The AOL Way” →](http://www.businessinsider.com/the-aol-way?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+businessinsider+(Business+Insider)#)
 
-via [businessinsider.com](http://www.businessinsider.com/the-aol-way?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+businessinsider+(Business+Insider))</div>A very interesting read about AOL’s strategy and management. It is scary to see how little people get paid, but it goes in line with what happens in journalism. Only a few make a living.
+via [businessinsider.com](http://www.businessinsider.com/the-aol-way?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+businessinsider+(Business+Insider))A very interesting read about AOL’s strategy and management. It is scary to see how little people get paid, but it goes in line with what happens in journalism. Only a few make a living.
 
 [Paying peanuts per post](http://www.readwriteweb.com/archives/i_worked_on_the_aol_content_farm_it_changed_my_lif.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+readwriteweb+(ReadWriteWeb)) is way too common right now, if the posts are not just free. The worst of it is the lack of sustainability of this model that leads to an ever decreasing number of journalists and bloggers, standardization of news, lack of research, reduction of sources and amateurization of the whole writing business.
 
-</div>

@@ -23,12 +23,7 @@ tags:
     - Whit.li
 post_format: []
 tagazine-media:
-    - 'a:7:{s:7:"primary";s:70:"/uploads/
-2013/04/whit-li-dashboard-1.png";s:6:"images";a:2:{s:70:"/uploads/
-2013/04/whit-li-dashboard-1.png";a:6:{s:8:"file_url";s:70:"/uploads/
-2013/04/whit-li-dashboard-1.png";s:5:"width";i:1168;s:6:"height";i:674;s:4:"type";s:5:"image";s:4:"area";i:787232;s:9:"file_path";b:0;}s:70:"/uploads/
-2013/04/whit-li-dashboard-2.png";a:6:{s:8:"file_url";s:70:"/uploads/
-2013/04/whit-li-dashboard-2.png";s:5:"width";i:1172;s:6:"height";i:669;s:4:"type";s:5:"image";s:4:"area";i:784068;s:9:"file_path";b:0;}}s:6:"videos";a:0:{}s:11:"image_count";i:2;s:6:"author";s:7:"7376905";s:7:"blog_id";s:8:"47086413";s:9:"mod_stamp";s:19:"2013-04-22 09:20:37";}'
+    - 'a:7:{s:7:"primary";s:70:"/uploads/2013/04/whit-li-dashboard-1.png";s:6:"images";a:2:{s:70:"/uploads/2013/04/whit-li-dashboard-1.png";a:6:{s:8:"file_url";s:70:"/uploads/2013/04/whit-li-dashboard-1.png";s:5:"width";i:1168;s:6:"height";i:674;s:4:"type";s:5:"image";s:4:"area";i:787232;s:9:"file_path";b:0;}s:70:"/uploads/2013/04/whit-li-dashboard-2.png";a:6:{s:8:"file_url";s:70:"/uploads/2013/04/whit-li-dashboard-2.png";s:5:"width";i:1172;s:6:"height";i:669;s:4:"type";s:5:"image";s:4:"area";i:784068;s:9:"file_path";b:0;}}s:6:"videos";a:0:{}s:11:"image_count";i:2;s:6:"author";s:7:"7376905";s:7:"blog_id";s:8:"47086413";s:9:"mod_stamp";s:19:"2013-04-22 09:20:37";}'
 publicize_google_plus_url:
     - 'https://plus.google.com/+RamonSuarezV/posts/UhKNK8gjh15'
 publicize_twitter_user:

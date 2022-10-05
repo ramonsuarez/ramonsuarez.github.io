@@ -15,6 +15,5 @@ tags:
     - videos
 post_format: []
 ---
-via [xtranormal.com](http://www.xtranormal.com/watch/8120757/)</div>**[Buy THE gift for that special someone in your life](http://coworking.betagroup.be) 😉**
+via [xtranormal.com](http://www.xtranormal.com/watch/8120757/)**[Buy THE gift for that special someone in your life](http://coworking.betagroup.be) 😉**
 
-</div>

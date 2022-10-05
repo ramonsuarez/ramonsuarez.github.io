@@ -18,8 +18,7 @@ post_format: []
 ---
 > ## [Por la Red sostenible](http://www.benitocastro.com/por-la-red-sostenible)
 > 
-> <div class="post_body"><div class="posterousGalleryMainDiv">![](/uploads/
-2010/01/sosred1.png?w=300)</div>Consideramos imprescindible la retirada de la disposici??n final primera de la Ley de Econom??a Sostenible por los siguientes motivos:
+> <div class="post_body"><div class="posterousGalleryMainDiv">![](/uploads/2010/01/sosred1.png?w=300)Consideramos imprescindible la retirada de la disposici??n final primera de la Ley de Econom??a Sostenible por los siguientes motivos:
 > 
 > 1 -Viola los derechos constitucionales en los que se ha de basar un estado democr??tico en especial la presunci??n de inocencia, libertad de expresi??n, privacidad, inviolabilidad domiciliaria, tutela judicial efectiva, libertad de mercado, protecci??n de consumidoras y consumidores, entre otros.
 > 
@@ -68,6 +67,6 @@ post_format: []
 > 
 > La Red Sostenible somos todo. Si quieres adherirte a este texto, c??pialo, bloggu??alo, dif??ndelo.
 > 
-> </div>
+> 
 
-via [benitocastro.com](http://www.benitocastro.com/por-la-red-sostenible)</div></div>
+via [benitocastro.com](http://www.benitocastro.com/por-la-red-sostenible)

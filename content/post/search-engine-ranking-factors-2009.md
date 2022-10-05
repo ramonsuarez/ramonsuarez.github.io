@@ -19,19 +19,19 @@ post_format: []
 > 
 > 1. #### Keyword Focused Anchor Text from External Links
 >   
->   <div class="importance">73% very high importance</div><div class="bar"><span>73%</span></div>
+>   <div class="importance">73% very high importance<div class="bar"><span>73%</span>
 > 2. #### External Link Popularity <small>(quantity/quality of external links)</small>
 >   
->   <div class="importance">71% very high importance</div><div class="bar"><span>71%</span></div>
+>   <div class="importance">71% very high importance<div class="bar"><span>71%</span>
 > 3. #### Diversity of Link Sources <small>(links from many unique root domains)</small>
 >   
->   <div class="importance">67% very high importance</div><div class="bar"><span>67%</span></div>
+>   <div class="importance">67% very high importance<div class="bar"><span>67%</span>
 > 4. #### Keyword Use Anywhere in the Title Tag
 >   
->   <div class="importance">66% very high importance</div><div class="bar"><span>66%</span></div>
+>   <div class="importance">66% very high importance<div class="bar"><span>66%</span>
 > 5. #### Trustworthiness of the Domain Based on Link Distance from Trusted Domains <small>(e.g. TrustRank, Domain mozTrust, etc.)</small>
 >   
->   <div class="importance">66% very high importance</div><div class="bar"><span>66%</span></div>
+>   <div class="importance">66% very high importance<div class="bar"><span>66%</span>
 > 
 > [See all ranking factors](http://www.seomoz.org/article/search-ranking-factors#ranking-factors)
 > 
@@ -41,19 +41,19 @@ post_format: []
 > 
 > 1. #### Cloaking with Malicious/Manipulative Intent
 >   
->   <div class="importance">68% very high importance</div><div class="bar"><span>68%</span></div>
+>   <div class="importance">68% very high importance<div class="bar"><span>68%</span>
 > 2. #### Link Acquisition from Known Link Brokers/Sellers
 >   
->   <div class="importance">56% high importance</div><div class="bar high"><span>56%</span></div>
+>   <div class="importance">56% high importance<div class="bar high"><span>56%</span>
 > 3. #### Links from the Page to Web Spam Sites/Pages
 >   
->   <div class="importance">51% moderate importance</div><div class="bar moderate"><span>51%</span></div>
+>   <div class="importance">51% moderate importance<div class="bar moderate"><span>51%</span>
 > 4. #### Cloaking by User Agent
 >   
->   <div class="importance">51% moderate importance</div><div class="bar moderate"><span>51%</span></div>
+>   <div class="importance">51% moderate importance<div class="bar moderate"><span>51%</span>
 > 5. #### Frequent Server Downtime & Site Inaccessibility
 >   
->   <div class="importance">51% moderate importance</div><div class="bar moderate"><span>51%</span></div>
+>   <div class="importance">51% moderate importance<div class="bar moderate"><span>51%</span>
 > 
 > [See all negative ranking factors](http://www.seomoz.org/article/search-ranking-factors#negative-ranking-factors)
 > 
@@ -71,7 +71,7 @@ post_format: []
 > 
 > Participants were asked to apply the ranking factors to Google’s search engine, and although we’ve found that it’s largely applicable to other major US engines (Bing, Yahoo! & Ask), some variance almost certainly exists.
 > 
-> </div><div class="span-11 last">## Overall Ranking Algorithm
+> <div class="span-11 last">## Overall Ranking Algorithm
 > 
 > ![Algorithm Elements](/img/factors/v3/algo-elements.png)
 > 
@@ -85,10 +85,9 @@ post_format: []
 > 
 > [See more detailed SEO opinions](http://www.seomoz.org/article/search-ranking-factors#additional-data)
 > 
-> </div></div>
+> 
 
 Good and brief SEO summary from SEOmoz, with the few things not to ever ignore if you want to optimize your search engine results. It is also a good view on the core of Google’s search algorithm.
 
 **SEO experts are the new alchimists, always looking for the philosophical stone (Google’s algorithm) to turn their websites into gold**.
 
-</div>

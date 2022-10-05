@@ -33,8 +33,7 @@ post_format: []
 > 
 > via [founderinstitute.com](http://founderinstitute.com/posts/373)
 > 
-> </div>
+> 
 
 This is my first event as director of the [Founder Insitute in Brussels](http://www.founderinstitute.com/apply/52). I’m really looking forward to it. Filip is amazing and I’m sure that the ideas that people will pitch are also gonna be fantastic (and a great way to prepare for [Startup Weekend Brussels](http://brussels.startupweekend.org)!)
 
-</div>

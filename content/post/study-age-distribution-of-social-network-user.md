@@ -14,9 +14,7 @@ tags:
     - stats
 post_format: []
 ---
-<div class="p_embed p_image_embed">[![Media_httpfarm5static_egabt](/uploads/
-2010/02/media_httpfarm5static_egabt-scaled1000.png?w=300)](/uploads/
-2010/02/media_httpfarm5static_egabt-scaled1000.png)</div>via [royal.pingdom.com](http://royal.pingdom.com/2010/02/16/study-ages-of-social-network-users/)</div>A very interesting **study about age distribution of social network users in the USA**. It is worth a full read, but these are the **key-points** for me:
+[![Media_httpfarm5static_egabt](/uploads/2010/02/media_httpfarm5static_egabt-scaled1000.png?w=300)](/uploads/2010/02/media_httpfarm5static_egabt-scaled1000.png)via [royal.pingdom.com](http://royal.pingdom.com/2010/02/16/study-ages-of-social-network-users/)A very interesting **study about age distribution of social network users in the USA**. It is worth a full read, but these are the **key-points** for me:
 
 - The average social network user is 37 years old.
 - The dominant age group is 35-44.
@@ -27,4 +25,3 @@ I’m sure the European aged distribution of social network users would not be f
 
 Hopefully this will definitely kill the *still-heard-off-belief* that social networking is for teenagers.
 
-</div>

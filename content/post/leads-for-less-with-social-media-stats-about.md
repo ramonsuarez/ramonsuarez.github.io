@@ -22,7 +22,7 @@ post_format: []
 > 
 > ### Social media, blogs and search engine optimization more cost-effective for lead gen
 > 
-> </div>Pull marketing tactics such as search, blog and social media generate cheaper leads than more traditional outbound efforts, according to data from inbound online marketing platform [HubSpot](http://www.hubspot.com).
+> Pull marketing tactics such as search, blog and social media generate cheaper leads than more traditional outbound efforts, according to data from inbound online marketing platform [HubSpot](http://www.hubspot.com).
 > 
 > The ???2010 State of Inbound Marketing??? report indicates that spending on lead generation is 60% less among companies that devote at least one-half of their budget to inbound marketing, compared with companies spending at least one-half of lead generation dollars on outbound tactics.
 > 
@@ -42,6 +42,5 @@ post_format: []
 > 
 > Unsurprisingly, for business-to-business firms, LinkedIn was most effective for customer acquisition. Business-to-consumer companies did better on each of the other sites, with the best results coming from Facebook, where nearly seven in 10 had found a new customer.
 
-via [emarketer.com](http://www.emarketer.com/mobile/article_m.aspx?R=1007534)</div>I wonder what would be the result of the stats if what was measured was conversion and engagement from those leads. What’s your bet on it?
+via [emarketer.com](http://www.emarketer.com/mobile/article_m.aspx?R=1007534)I wonder what would be the result of the stats if what was measured was conversion and engagement from those leads. What’s your bet on it?
 
-</div>

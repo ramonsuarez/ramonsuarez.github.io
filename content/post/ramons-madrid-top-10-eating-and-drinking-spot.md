@@ -33,4 +33,3 @@ If you have time and can read Spanish, I recommend taking a look at the [Madrid 
 
 Enjoy my top 10 and your time in Madrid 🙂
 
-</div></div>

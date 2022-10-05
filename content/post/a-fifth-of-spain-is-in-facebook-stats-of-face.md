@@ -25,8 +25,7 @@ post_format: []
 > 
 > [![](http://www.facebookmarketing.es/wp-content/uploads/2010/06/pa%C3%ADses-con-mayor-crecimiento-m%C3%A1s-usuarios-659x283.jpg "pa??ses con mayor crecimiento  m??s usuarios")](http://www.facebookmarketing.es/usuarios-facebook-espana-mayo/paises-con-mayor-crecimiento-mas-usuarios/)
 
-via [facebookmarketing.es](http://www.facebookmarketing.es/usuarios-facebook-espana-mayo/)</div>Spain is the **10th country in the World with more Facebook users with about 10,5 millions, a fifth of the Spanish population (22%)**.
+via [facebookmarketing.es](http://www.facebookmarketing.es/usuarios-facebook-espana-mayo/)Spain is the **10th country in the World with more Facebook users with about 10,5 millions, a fifth of the Spanish population (22%)**.
 
 Thanks to [Ra??l Dorado](http://twitter.com/raul_sp) for sharing the information.
 
-</div>

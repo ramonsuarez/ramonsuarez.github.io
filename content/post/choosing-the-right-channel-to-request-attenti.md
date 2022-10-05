@@ -29,10 +29,9 @@ tags:
     - videos
 post_format: []
 ---
-via [video.nextconf.eu](http://video.nextconf.eu/video/885228/the-power-struggle-choosing)</div>Amazing presentation by [Stefana Broadbent](http://nextconf.eu/next10/speaker/stefana-broadbent.html) about how and why we choose our communication channels and who do we communicate with:
+via [video.nextconf.eu](http://video.nextconf.eu/video/885228/the-power-struggle-choosing)Amazing presentation by [Stefana Broadbent](http://nextconf.eu/next10/speaker/stefana-broadbent.html) about how and why we choose our communication channels and who do we communicate with:
 
 
 3. The communication channnel choice is complex and does not depend on cost.
 4. The more attention it requires, the less people we interact with regularly. The two extremes of the table are Skype video conversations (3) and Facebook/Twitter broadcasting (100+)
 5. Cultural impact of availability on the choice of channel: the bussier the other person is, the less we will use a highly synchronous channel like phone or Skype.
-</div>

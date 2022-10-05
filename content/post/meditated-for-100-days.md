@@ -37,7 +37,7 @@ It has happened already at least three nights that I’ve gone to bed to sleep a
 Challenge = Monkey Mind
 -----------------------
 
-![](https://media.giphy.com/media/3ohs4oJF5ezJlBvYn6/giphy-downsized.gif)</div>The most challenging thing happening in my meditations since I started the entrepreneurship challenge is my monkey mind going all over the place. My mind is bubbling with new ideas and things to do and this makes it really hard to focus and to stay in the now. After so many days I’m still having a lot of different thoughts, but the monkey is slowly calming down.
+![](https://media.giphy.com/media/3ohs4oJF5ezJlBvYn6/giphy-downsized.gif)The most challenging thing happening in my meditations since I started the entrepreneurship challenge is my monkey mind going all over the place. My mind is bubbling with new ideas and things to do and this makes it really hard to focus and to stay in the now. After so many days I’m still having a lot of different thoughts, but the monkey is slowly calming down.
 
 On the upside, I’m much better at getting back into the present moment and at being kinder to myself 🙂
 

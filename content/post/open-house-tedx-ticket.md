@@ -31,6 +31,5 @@ post_format: []
 > 
 > </td>
 
-via [facebook.com](http://www.facebook.com/event.php?eid=160040477372169&num_event_invites=0)</div>See you all at the [BetaGroup Coworking in Brussels](http://coworking.betagroup.be)!
+via [facebook.com](http://www.facebook.com/event.php?eid=160040477372169&num_event_invites=0)See you all at the [BetaGroup Coworking in Brussels](http://coworking.betagroup.be)!
 
-</div>

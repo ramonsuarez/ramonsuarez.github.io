@@ -105,8 +105,7 @@ post_format: []
 > - [Xange P.E. (France)](http://www.xange.fr/)
 > - [YL ventures (Netherlands)](http://ylventures.com/ "YL ventures")
 
-via [betagroup.be](http://www.betagroup.be/)</div>**Jean Derely** is doing a great job rallying the Belgian Web Entrepreneur scene and acting as a network multiplier in Brussels.
+via [betagroup.be](http://www.betagroup.be/)**Jean Derely** is doing a great job rallying the Belgian Web Entrepreneur scene and acting as a network multiplier in Brussels.
 
 Among the services he provides to the community he has collected a very interesting selection of links to make the life of entrepreneurs easier, among which is this list of investors (venture capitalists and business angels). Check the **[BetaGroup](http://www.betagroup.be)‘**s website for more.
 
-</div>

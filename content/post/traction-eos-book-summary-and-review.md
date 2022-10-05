@@ -18,7 +18,7 @@ post_format: []
 video_background:
     - ''
 ---
-<div style="width:100%;height:0;padding-bottom:118%;position:relative;"><iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="100%" loading="lazy" src="https://giphy.com/embed/E089LAnQfI0G4" style="position:absolute" width="100%"></iframe></div>*UPDATE 20190620:* ***I got lawyered*** ***by EOS Worldwide**. Although the person that contacted me for EOS Worldwide was cooperative, I find that their requests are abusive.*   
+<div style="width:100%;height:0;padding-bottom:118%;position:relative;"><iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="100%" loading="lazy" src="https://giphy.com/embed/E089LAnQfI0G4" style="position:absolute" width="100%"></iframe>*UPDATE 20190620:* ***I got lawyered*** ***by EOS Worldwide**. Although the person that contacted me for EOS Worldwide was cooperative, I find that their requests are abusive.*   
   
 *I’ve had to remove all pictures publicly available in other sites, even the promotional picture of the author used in his Amazon profile.*   
   
@@ -174,7 +174,7 @@ Action is the process of doing. You have to be able to create accountability, di
 
 To reach and manage traction they recommend using clear 90 days priorities for everyone in the organization and a Scorecard, much like in the 12 Week Year ([summary here](https://ramonsuarez.com/12-week-year-summary-and-review/)). This priorities are what they call Rocks, following the rocks, sand and water analogy.
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" loading="lazy" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/RAzMGtJypsE?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent" style="border:0;" width="640"></iframe></span></div>Do the Rocks first. By doing less you end up accomplishing more. They are Specific, Measurable, Attainable, Relevant and Timely.
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" loading="lazy" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/RAzMGtJypsE?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent" style="border:0;" width="640"></iframe></span>Do the Rocks first. By doing less you end up accomplishing more. They are Specific, Measurable, Attainable, Relevant and Timely.
 
 #### Meetings
 

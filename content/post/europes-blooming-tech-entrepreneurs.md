@@ -17,9 +17,9 @@ tags:
     - vc
 post_format: []
 ---
-> <div class="content-image-float clearfix">![](http://www.economist.com/sites/default/files/images/images-magazine/2010/24/bb/201024bbc606.gif)</div><div class="content-image-float clearfix">![](http://www.economist.com/sites/default/files/images/images-magazine/2010/24/bb/201024bbc598.gif)</div>
+> <div class="content-image-float clearfix">![](http://www.economist.com/sites/default/files/images/images-magazine/2010/24/bb/201024bbc606.gif)<div class="content-image-float clearfix">![](http://www.economist.com/sites/default/files/images/images-magazine/2010/24/bb/201024bbc598.gif)
 
-via [economist.com](http://www.economist.com/node/16317551)</div>The Economist has published a very interesting article on the blooming tech entrepreneur sceene in Europe and the main differences with the USA.
+via [economist.com](http://www.economist.com/node/16317551)The Economist has published a very interesting article on the blooming tech entrepreneur sceene in Europe and the main differences with the USA.
 
 The two things that struck me the most were:??
 
@@ -30,4 +30,3 @@ It has also left me thinking about the Venture Capital divide.
 
 Great food for thought.
 
-</div>

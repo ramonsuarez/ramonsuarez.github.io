@@ -17,7 +17,7 @@ post_format: []
 video_background:
     - ''
 ---
-<div class="p_embed p_image_embed">![](/uploads/2013/02/media_https0i1picplzt_aioil-scaled500.jpg)</div>I’ve been lucky enought to put my hands on a [Samsung 900x3a](http://www.samsung.com/be_fr/consumer/pc-peripherals-printer/note-pc/thin-light/NP900X3A-A01BE/index.idx?pagetype=prd_detail&returnurl= "Samsung ultraportable 9 series") for a couple weeks. I fell in love with it at a Samsung event in Brussels, like the[ picoprojector](http://ramonsuarez.com/samsung-pico-projector-a-step-in-the-right-di "Samsung picoprojector review"), and had been asking for it ever since.
+![](/uploads/2013/02/media_https0i1picplzt_aioil-scaled500.jpg)I’ve been lucky enought to put my hands on a [Samsung 900x3a](http://www.samsung.com/be_fr/consumer/pc-peripherals-printer/note-pc/thin-light/NP900X3A-A01BE/index.idx?pagetype=prd_detail&returnurl= "Samsung ultraportable 9 series") for a couple weeks. I fell in love with it at a Samsung event in Brussels, like the[ picoprojector](http://ramonsuarez.com/samsung-pico-projector-a-step-in-the-right-di "Samsung picoprojector review"), and had been asking for it ever since.
 
 WOW! The Looks
 --------------
@@ -47,7 +47,7 @@ The **main negative point** for me is here: **the battery can not be taken out e
 
 <span style="font-size: 20px; font-weight: bold;">Ubuntu Linux</span>
 
-<div class="p_embed p_image_embed">[![Media_https0i1picplzt_fcxaw](http://getfile1.posterous.com/getfile/files.posterous.com/ramonsuarez/jznazuhnFoalxBGzJyHcxgjbdcxnupffuiCjFHyeBHlGjEkqAmsdmzmtombn/media_https0i1picplzt_fCxaw.jpg.scaled500.jpg)](http://getfile7.posterous.com/getfile/files.posterous.com/ramonsuarez/jznazuhnFoalxBGzJyHcxgjbdcxnupffuiCjFHyeBHlGjEkqAmsdmzmtombn/media_https0i1picplzt_fCxaw.jpg.scaled1000.jpg)</div>As soon as I got the ultraportable I put my hands into linuxifying it. My working operating system is Linux and I needed to see if there where any hardware problems. [Installing Ubuntu on the Samsung 9003xa](http://ramonsuarez.com/how-to-install-ubuntu-in-a-samsung-900x3a-ult "Ubuntu Install Samsung 900x3a") is easy as soon as you learn that you have to install on the right side port.
+[![Media_https0i1picplzt_fcxaw](http://getfile1.posterous.com/getfile/files.posterous.com/ramonsuarez/jznazuhnFoalxBGzJyHcxgjbdcxnupffuiCjFHyeBHlGjEkqAmsdmzmtombn/media_https0i1picplzt_fCxaw.jpg.scaled500.jpg)](http://getfile7.posterous.com/getfile/files.posterous.com/ramonsuarez/jznazuhnFoalxBGzJyHcxgjbdcxnupffuiCjFHyeBHlGjEkqAmsdmzmtombn/media_https0i1picplzt_fCxaw.jpg.scaled1000.jpg)As soon as I got the ultraportable I put my hands into linuxifying it. My working operating system is Linux and I needed to see if there where any hardware problems. [Installing Ubuntu on the Samsung 9003xa](http://ramonsuarez.com/how-to-install-ubuntu-in-a-samsung-900x3a-ult "Ubuntu Install Samsung 900x3a") is easy as soon as you learn that you have to install on the right side port.
 
 Overall Ubuntu worked fine, except for a very **anoying problem with the mousepad**, which meant that I had to choose between being able to click & drag and to scroll. Any of these two choices is bad and reduces productivity a lot.
 

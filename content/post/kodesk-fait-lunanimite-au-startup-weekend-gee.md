@@ -25,7 +25,7 @@ post_format: []
 ---
 > # [KodesK fait l???unanimit?? au Startup Weekend ](http://geeko.lesoir.be/2011/01/31/kodesk-gagne-au-startup-weekend/ "KodesK fait l???unanimit?? au Startup WeekendPermanent Link to ")
 > 
-> <div class="articleinfo">post?? par [Zoe de York](http://geeko.lesoir.be/author/zoe-de-york/ "Articles par Zoe de York") le 31 jan 2011 dans [Bizz](http://geeko.lesoir.be/category/5_bizz/ "Voir tous les articles dans Bizz"), [Featured Articles](http://geeko.lesoir.be/category/featured-articles/ "Voir tous les articles dans Featured Articles"), [Geekosph??re](http://geeko.lesoir.be/category/1_geekosphere/ "Voir tous les articles dans Geekosph??re") | [2 commentaires](http://geeko.lesoir.be/2011/01/31/kodesk-gagne-au-startup-weekend/#comments "Commentaire sur KodesK fait l???unanimit?? au Startup Weekend")</div>- 
+> <div class="articleinfo">post?? par [Zoe de York](http://geeko.lesoir.be/author/zoe-de-york/ "Articles par Zoe de York") le 31 jan 2011 dans [Bizz](http://geeko.lesoir.be/category/5_bizz/ "Voir tous les articles dans Bizz"), [Featured Articles](http://geeko.lesoir.be/category/featured-articles/ "Voir tous les articles dans Featured Articles"), [Geekosph??re](http://geeko.lesoir.be/category/1_geekosphere/ "Voir tous les articles dans Geekosph??re") | [2 commentaires](http://geeko.lesoir.be/2011/01/31/kodesk-gagne-au-startup-weekend/#comments "Commentaire sur KodesK fait l???unanimit?? au Startup Weekend")- 
 > - [<span class="fb_share_size_Small fb_share_count_wrapper"><span></span><span class="fb_share_count_nub_top "></span><span class="fb_share_count  fb_share_count_top"><span class="fb_share_count_inner">5</span></span><span class="FBConnectButton FBConnectButton_Small" style="cursor:pointer;"><span class="FBConnectButton_Text">Share</span></span></span>](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgeeko.lesoir.be%2F2011%2F01%2F31%2Fkodesk-gagne-au-startup-weekend%2F&t=KodesK%20fait%20l%E2%80%99unanimit%C3%A9%20au%20Startup%20Weekend%20%7C%20Geeko&src=sp)
 > - [Email](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=http://geeko.lesoir.be/2011/01/31/kodesk-gagne-au-startup-weekend/)
 > 
@@ -41,4 +41,4 @@ post_format: []
 > 
 > John Beckett d??crit son id??e et son plan d???attaque au deuxi??me jour du Startup Weekend Bruxelles.
 
-via [geeko.lesoir.be](http://geeko.lesoir.be/2011/01/31/kodesk-gagne-au-startup-weekend/)</div></div>
+via [geeko.lesoir.be](http://geeko.lesoir.be/2011/01/31/kodesk-gagne-au-startup-weekend/)

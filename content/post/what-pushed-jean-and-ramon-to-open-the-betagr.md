@@ -22,7 +22,7 @@ post_format: []
 > 
 > # [Interview with Ramon Suarez Betagroup coworking Brussels](http://blog.thebraintwist.com/interview-with-ramon-suarez-betagroup-coworki)
 > 
-> <div class="body"><div class="inner"><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/ssB5oKyrm1A?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&hd=1&wmode=transparent" style="border:0;" width="640"></iframe></span>via [youtube.com](http://www.youtube.com/watch?v=ssB5oKyrm1A)</div><span style="color:#ed1c24;">**Summary of the interview with Ramon Suarez co-founder of the [Betagroup coworking space Brussels ](http://coworking.betagroup.be/ "Betagroup coworking place official webpage")**</span>
+> <div class="body"><div class="inner"><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/ssB5oKyrm1A?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&hd=1&wmode=transparent" style="border:0;" width="640"></iframe></span>via [youtube.com](http://www.youtube.com/watch?v=ssB5oKyrm1A)<span style="color:#ed1c24;">**Summary of the interview with Ramon Suarez co-founder of the [Betagroup coworking space Brussels ](http://coworking.betagroup.be/ "Betagroup coworking place official webpage")**</span>
 > 
 > In this first part of the interview with [Ramon Suarez](http://ramonsuarez.com/ "Ramon Suarez personal blog") ([@ramonsuarez](http://twitter.com/#!/ramonsuarez "Ramon Suarez twitter page")), co-founder with Jean Derely ([@jeanderely](http://twitter.com/#!/jeanderely "Jean Derely twitter page")) of the Betagroup Coworking Brussels. Ramon speaks about the genesis of the idea and how Jean and himself decided to launch a coworking place at Brussels. Ramon and Jean are both freelancers and they were looking for a place were they could work with other people. That’s how by trying to fulfill their need they decided to launch a coworking place at Brussels.
 > 
@@ -32,10 +32,9 @@ post_format: []
 > 
 > Ramon is a new media business and marketing consultant, blogger, Internet & Twitter addict. Besides being one of the founding partner of the Betagroup coworking space in Brussels, he has been an active promoter of the Webmission and he has become a BetaGroup adviser.
 > 
-> </div></div></div>
+> 
 
-via [blog.thebraintwist.com](http://blog.thebraintwist.com/interview-with-ramon-suarez-betagroup-coworki)</div>part one of a series of skype Interviews by [Fred Ooms](http://be.linkedin.com/in/fredooms) on his twisted business minds blog.
+via [blog.thebraintwist.com](http://blog.thebraintwist.com/interview-with-ramon-suarez-betagroup-coworki)part one of a series of skype Interviews by [Fred Ooms](http://be.linkedin.com/in/fredooms) on his twisted business minds blog.
 
 Thanks Fred!
 
-</div>

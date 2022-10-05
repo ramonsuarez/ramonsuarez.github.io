@@ -28,7 +28,7 @@ enclosure:
 ---
 > ## [Tech Brew Episode 004 ??? Ram??n Su??rez from the Founder Institute](http://techbrew.be/2011/09/tech-brew-episode-004-ramon-suarez-from-the-founder-institute/ "Tech Brew Episode 004 ??? Ram??n Su??rez from the Founder Institute")
 > 
-> <div class="powerpress_player"></div>Podcast: [Play in new window](http://techbrew.be/assets/casts/tech-brew-004-ramon-suarez-from-founder-institute.mp3 "Play in new window") | [Download](http://techbrew.be/assets/casts/tech-brew-004-ramon-suarez-from-founder-institute.mp3 "Download")
+> <div class="powerpress_player">Podcast: [Play in new window](http://techbrew.be/assets/casts/tech-brew-004-ramon-suarez-from-founder-institute.mp3 "Play in new window") | [Download](http://techbrew.be/assets/casts/tech-brew-004-ramon-suarez-from-founder-institute.mp3 "Download")
 > 
 > ![](http://techbrew.be/wp-content/uploads/2011/09/chimayb-260x300.gif "Chimay Bleu")
 > 
@@ -40,8 +40,7 @@ enclosure:
 > 
 > [http://www.founderinstitute.com/apply/brussels](http://www.founderinstitute.com/apply/brussels "Founder Institute Brussels Application")
 > 
-> </div></div></div>
+> 
 
-via [techbrew.be](http://techbrew.be/)</div>Always a pleasure 🙂
+via [techbrew.be](http://techbrew.be/)Always a pleasure 🙂
 
-</div>

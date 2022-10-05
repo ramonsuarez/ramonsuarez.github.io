@@ -45,8 +45,7 @@ post_format: []
 >   - [<span class="answer_link">Mobile sites</span> ](http://www.google.com/support/webmasters/bin/topic.py?hl=en&topic=9346)
 >   - [<span class="answer_link">Public sector and government</span>](http://www.google.com/support/webmasters/bin/topic.py?hl=en&topic=13614)
 
-via [Google Webmaster Central](http://www.google.com/support/webmasters/bin/topic.py?topic=8522)</div>If you want to go beyond the basics of Internet usage and understand how to **build better sites and make better content for your audience**, take a look at this series of links provided by [Google’s Webmaster Central](http://www.google.com/support/webmasters/).
+via [Google Webmaster Central](http://www.google.com/support/webmasters/bin/topic.py?topic=8522)If you want to go beyond the basics of Internet usage and understand how to **build better sites and make better content for your audience**, take a look at this series of links provided by [Google’s Webmaster Central](http://www.google.com/support/webmasters/).
 
 Easy and brief information that will help you **be more relevant and findable**.
 
-</div>

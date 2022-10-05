@@ -25,7 +25,7 @@ post_format: []
 > - [Cyril Zimmermann](/program/speakers/p/detail/cyril-zimmermann "Cyril Zimmermann (Founder & CEO - Hi-Media)")
 > - [Peter Crosby](http://plugg.eu/program/speakers/p/detail/peter-crosby "Peter Crosby (COO - Viadeo)")
 > 
-> </dd><dd class="viewMoreSpeakers"> [view all speakers](http://plugg.eu/program/speakers) </dd>via [plugg.eu](http://plugg.eu/)</div>
+> </dd><dd class="viewMoreSpeakers"> [view all speakers](http://plugg.eu/program/speakers) </dd>via [plugg.eu](http://plugg.eu/)
 
 **[Plugg](http://plugg.eu "Plugg, Web and Mobile entrepreneurs event in Brussels") is coming again to Brussels**, to celebrate “**entrepreneurship and innovatio**n in Europe and raising global awareness for those European **start-ups** in the **Web / Mobile 2.0** field that stand out in the crop”. After my participation last year, I can not wait for this year’s edition on March 11. The quality of the speakers and of the companies participating in the Startup Rally, plus the top-noch European networking make it a must-be for all those interested in Web and Mobile ventures.
 

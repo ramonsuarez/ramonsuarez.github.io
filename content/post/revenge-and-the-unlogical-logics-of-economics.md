@@ -30,8 +30,7 @@ post_format: []
 > 
 > <span class="regularText"> In both setups, drunken players were less likely than their sober peers to accept offers of less than 50 percent of the total. The finding suggests, the authors said, that the principal impulse driving subjects was a wish for revenge. <span class="author">CHRISTOPHER SHEA</span></span>
 > 
-> </div>
+> 
 
-via [nytimes.com](http://www.nytimes.com/projects/magazine/ideas/2009/#d)</div>Great short piece from the New York Times showing how *logical* economic behavior is far from *real* economic behavior. Economics is a long way from being a science, but it is the closest we have.
+via [nytimes.com](http://www.nytimes.com/projects/magazine/ideas/2009/#d)Great short piece from the New York Times showing how *logical* economic behavior is far from *real* economic behavior. Economics is a long way from being a science, but it is the closest we have.
 
-</div>

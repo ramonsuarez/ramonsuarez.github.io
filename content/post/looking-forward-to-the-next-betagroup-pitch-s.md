@@ -44,4 +44,4 @@ post_format: []
 > 
 > 8:30 PM – Networking: drinks and snacks are offered by our sponsors.
 
-via [betagroup25.eventbrite.com](http://betagroup25.eventbrite.com/)</div></div>
+via [betagroup25.eventbrite.com](http://betagroup25.eventbrite.com/)

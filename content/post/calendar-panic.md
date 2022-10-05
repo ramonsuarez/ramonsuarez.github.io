@@ -26,11 +26,11 @@ I stress over the calendar. I know I have an issue with it and that probably fee
 
 A few minutes ago I went into full on calendar panic. I was creating a webinar event, with its form, blog post and social media messages. I thought everything was alright, checked my calendar a couple times to make sure there was no mistake and published everything. And then I freaked out.
 
-![](/uploads/2019/05/panic.gif)</div>Somehow I must have clicked on the week after in Google Calendar and saw that at the same time I should be in a three day shooting competition in the Netherlands. I cannot help it, I have trouble with full time events that just show up on the top part of the calendar, I do not see them.
+![](/uploads/2019/05/panic.gif)Somehow I must have clicked on the week after in Google Calendar and saw that at the same time I should be in a three day shooting competition in the Netherlands. I cannot help it, I have trouble with full time events that just show up on the top part of the calendar, I do not see them.
 
 Fear got a hold on me and I did not see nor think about the dates. All I could think of is yet another calendar screw up. So I deleted everything and published [messages](https://www.facebook.com/ramonsuarezdotcom/videos/216479465970648/?__xts__%5B0%5D=68.ARD-tGxf_os04p-sO00RfTZC-Ev60DVqbC_o7_b-VFjsDYw2Fl0eRTszns9pdE7TNMwyA2g2WgNWwzD9rIW-3X8rigYlRWkX5el-t-5PlnwbmHDgHARK0-m-vYfbJVpz2YZlamqEYjfOzEb6xGnywkF6IF1HA8tnX3JpAvwHxpi22Ajmz2JQR5o4PDadMoj-UStRHsd5YWiZZBT9nbB-rv-TqZN9DMQW9ekUzcNQFrYYBDe-9x3-aJ3sAL1u8NBSYX_kmcBV3qOx1JITgrSzpwjqjrzsTJeclMrxcnmryE7GI-AjjEYh9EpeVIaw6smjKkJEgZiV8yuAwSxw5P_OoSzmRSIT5_NJ&__tn__=-R) all around owning my mistake.
 
-![](/uploads/2019/01/oups.gif)</div>But there was no mistake. The date was good and my competition is a week later. I freaked out and that’s what caused the mistake. My lack of confidence in dealing with appointments in my calendar is what caused the freak out.
+![](/uploads/2019/01/oups.gif)But there was no mistake. The date was good and my competition is a week later. I freaked out and that’s what caused the mistake. My lack of confidence in dealing with appointments in my calendar is what caused the freak out.
 
 The best thing I can do now is relax, be kind to myself and see how I can get over this fear. Tips are welcome.
 

@@ -23,6 +23,5 @@ post_format: []
 > 6. [Manifiestu na defensa de los drechos fundamentales n’Internet](http://wiki.manifiestointernet.org/wiki/Manifiestu_na_defensa_de_los_drechos_fundamentales_n%E2%80%99Internet "Manifiestu na defensa de los drechos fundamentales n’Internet") (asturiano).
 > 7. [Crida en esfensa d’os dreitos alazetals en Internet](http://wiki.manifiestointernet.org/wiki/Crida_en_esfensa_d%E2%80%99os_dreitos_alazetals_en_Internet "Crida en esfensa d’os dreitos alazetals en Internet") (aragonés).
 
-via [escolar.net](http://www.escolar.net/wiki/index.php/Manifiesto:_En_defensa_de_los_derechos_fundamentales_en_Internet#Texto_del_manifiesto)</div>Check the wiki for new language updates.
+via [escolar.net](http://www.escolar.net/wiki/index.php/Manifiesto:_En_defensa_de_los_derechos_fundamentales_en_Internet#Texto_del_manifiesto)Check the wiki for new language updates.
 
-</div>

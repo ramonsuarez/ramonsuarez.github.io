@@ -59,11 +59,10 @@ post_format: []
 > 
 > *Dan Zarrella is HubSpot???s social media scientist. This post contains data from his upcoming webinar [The Science of Blogging](http://www.google.com/url?q=http%3A%2F%2Fwww.hubspot.com%2Fthe-science-of-blogging%2F&sa=D&sntz=1&usg=AFQjCNF5WQXsAfPtMIE2rH-7Rkf3MimZnw), taking place on December 9th.*
 > 
-> </div>
+> 
 
-via [problogger.net](http://www.problogger.net/archives/2010/12/06/whens-the-best-time-to-publish-blog-posts/)</div>Must read for every blogger. Main learnings:
+via [problogger.net](http://www.problogger.net/archives/2010/12/06/whens-the-best-time-to-publish-blog-posts/)Must read for every blogger. Main learnings:
 
 
 4. Publish often, more than once a day
 5. Keep your best posts for Friday morning and early afternoon
-</div>

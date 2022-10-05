@@ -18,4 +18,4 @@ post_format: []
 ---
 [](http://theopeninter.net/ "Open Internet infographic")
 
-<div class="p_embed p_image_embed">![A_case_for_net_neutrality_1293](http://getfile1.posterous.com/getfile/files.posterous.com/ramonsuarez/wef1BNApRSo4wlabDpufbxYic7K8WE6UKzniiCANlKVmDNeHC8oR9RtqeFkC/A_Case_for_Net_Neutrality_1293.png.scaled.500.jpg)</div>Amazingly simple way to clearly explain what is at stake in the **[debate for net neutrality](http://theopeninter.net/)**. Yes, the Internet must remain neutral. **Don’t let telecom companies ruin our future and our economy**.
+![A_case_for_net_neutrality_1293](http://getfile1.posterous.com/getfile/files.posterous.com/ramonsuarez/wef1BNApRSo4wlabDpufbxYic7K8WE6UKzniiCANlKVmDNeHC8oR9RtqeFkC/A_Case_for_Net_Neutrality_1293.png.scaled.500.jpg)Amazingly simple way to clearly explain what is at stake in the **[debate for net neutrality](http://theopeninter.net/)**. Yes, the Internet must remain neutral. **Don’t let telecom companies ruin our future and our economy**.

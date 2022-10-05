@@ -34,7 +34,7 @@ publicize_google_plus_url:
 video_background:
     - ''
 ---
-![](https://media.giphy.com/media/DupMFENd0g6bu/giphy.gif)</div>After a while longer than expected all the emails have been sent and the feedback is very positive, although the number of subscriptions are not that big.
+![](https://media.giphy.com/media/DupMFENd0g6bu/giphy.gif)After a while longer than expected all the emails have been sent and the feedback is very positive, although the number of subscriptions are not that big.
 
 Super Positive Emails
 ---------------------

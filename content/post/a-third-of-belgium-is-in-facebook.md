@@ -27,8 +27,7 @@ post_format: []
 > 
 > [Belgium Facebook Statistics | Facebakers.com](http://www.facebakers.com/countries-with-facebook/BE/): “these numbers are updated on a daily basis that the Facebook Statistics (Advertising) platform gives us for Belgium on the given day.”
 > 
-> </div>
+> 
 
-via [bnox.be](http://www.bnox.be/2010/06/belgium-facebook-statistics-cc-bvlg.html)</div>After seing that [22% of Spaniards are in Facebook](http://ramonsuarez.com/a-fifth-of-spain-is-in-facebook-stats-of-face) it is quite interesting to see how the social network has an even stronger position in Belgium, with 34% of the population.
+via [bnox.be](http://www.bnox.be/2010/06/belgium-facebook-statistics-cc-bvlg.html)After seing that [22% of Spaniards are in Facebook](http://ramonsuarez.com/a-fifth-of-spain-is-in-facebook-stats-of-face) it is quite interesting to see how the social network has an even stronger position in Belgium, with 34% of the population.
 
-</div>

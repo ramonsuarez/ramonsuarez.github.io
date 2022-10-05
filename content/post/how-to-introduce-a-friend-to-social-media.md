@@ -14,9 +14,9 @@ tags:
     - socialmedia
 post_format: []
 ---
-[<div class="p_embed p_image_embed">![Marketing-to-the-social-web](http://getfile6.posterous.com/getfile/files.posterous.com/temp-2010-11-13/gyztHxjmshghfidzIhnzlCbGncinkcJEodvBCvfcBCCBIhdEsGGjlkCJBuAh/marketing-to-the-social-web.jpg.scaled500.jpg)</div>](http://amzn.to/bXaFGJ)I have received a request from a friend for an introduction to social media: </div>> … please send me some references for: the effective use of social media for professional purposes – twitter, facebook, etcetera. The purposess could be promotion and campaigning but also image building etcetera. Of course everyone could make an account and start feeding in and trying to build audience but what would make it work? ….Any help appreciated! 🙂
+[![Marketing-to-the-social-web](http://getfile6.posterous.com/getfile/files.posterous.com/temp-2010-11-13/gyztHxjmshghfidzIhnzlCbGncinkcJEodvBCvfcBCCBIhdEsGGjlkCJBuAh/marketing-to-the-social-web.jpg.scaled500.jpg)](http://amzn.to/bXaFGJ)I have received a request from a friend for an introduction to social media: > … please send me some references for: the effective use of social media for professional purposes – twitter, facebook, etcetera. The purposess could be promotion and campaigning but also image building etcetera. Of course everyone could make an account and start feeding in and trying to build audience but what would make it work? ….Any help appreciated! 🙂
 
-<div class="gmail_quote">The request is rather large, a lot more than you can explain over a couple cups of tea. To get her started I suggested the following </div>> Start with this, it should be more than enough to get you going:
+<div class="gmail_quote">The request is rather large, a lot more than you can explain over a couple cups of tea. To get her started I suggested the following > Start with this, it should be more than enough to get you going:
 
 > 
 
@@ -27,4 +27,4 @@ post_format: []
 
 > Enjoy!
 
-What would you suggest? </div></div></div></div>
+What would you suggest? 

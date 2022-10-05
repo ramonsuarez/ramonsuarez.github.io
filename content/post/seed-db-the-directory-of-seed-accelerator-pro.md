@@ -27,6 +27,5 @@ post_format: []
 > 
 > **5154** jobs created
 
-via [seed-db.com](http://www.seed-db.com/accelerators)</div>But they do lead the charts! It is great to have a source that at least hints at the impact of accelerators.
+via [seed-db.com](http://www.seed-db.com/accelerators)But they do lead the charts! It is great to have a source that at least hints at the impact of accelerators.
 
-</div>

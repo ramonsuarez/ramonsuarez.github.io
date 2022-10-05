@@ -17,10 +17,9 @@ tags:
     - videos
 post_format: []
 ---
-via [arjuna.rcms.rambla.be](http://arjuna.rcms.rambla.be/webinar/36578)</div>The BetaGroup had a [special session](http://www.betagroup.be/2010/10/12/dmf-digital-marketing-first/) at this years Digital Marketing First fair in Brussels.
+via [arjuna.rcms.rambla.be](http://arjuna.rcms.rambla.be/webinar/36578)The BetaGroup had a [special session](http://www.betagroup.be/2010/10/12/dmf-digital-marketing-first/) at this years Digital Marketing First fair in Brussels.
 
 The presenting startups where:
 
 [Userplus.com](http://userplus.com/)[WooRank.com](http://www.WooRank.com)[desktop-reporting.com](http://www.desktop-reporting.com)[Wataro.com](http://www.Wataro.com)[tinkertouch.com](http://www.tinkertouch.com)[adlogix.eu](http://www.adlogix.eu)[dialogfeed.com](http://dialogfeed.com/)You should not miss the presentation by Desktop Reporting (min. 29.55), it managed to get everybody’s attention.
 
-</div>

@@ -56,7 +56,7 @@ post_format: []
 > 
 > [![wmsn-01-10](http://www.vincos.it/wp-content/uploads/2010/06/wmsn-01-10-446.png "wmsn-01-10")](http://www.vincos.it/wp-content/uploads/2010/06/wmsn-01-10.png)The World Map of Social Networks – by Vincenzo Cosenza
 > 
-> </div> [Grab the embedding code](http://manyeyes.alphaworks.ibm.com/manyeyes/visualizations/world-map-of-social-networks-jun-2)
+>  [Grab the embedding code](http://manyeyes.alphaworks.ibm.com/manyeyes/visualizations/world-map-of-social-networks-jun-2)
 > 
 >  **Some visible changes to highlight since December 09 map (see below):** Month after month Facebook continues to gain users around the world (almost 500 millions). Since December 2009 Facebook has stolen new nations from its local competitors (in 111 out of 131 countries analyzed it is market leader). In particular:
 > 
@@ -117,7 +117,7 @@ post_format: []
 > 
 > [![wmsn-06-09-450](http://www.vincos.it/wp-content/uploads/2009/06/wmsn-06-09-450.png "wmsn-06-09-450")](http://www.vincos.it/wp-content/uploads/2009/06/wmsn-06-09.png)The World Map of Social Networks – by Vincenzo Cosenza
 > 
-> </div> [Grab the embedding code](http://manyeyes.alphaworks.ibm.com/manyeyes/visualizations/world-map-of-social-networks-june-20-2)
+>  [Grab the embedding code](http://manyeyes.alphaworks.ibm.com/manyeyes/visualizations/world-map-of-social-networks-june-20-2)
 > 
 > **Top 3 Social Networking Sites:**
 > 
@@ -157,8 +157,7 @@ post_format: []
 > 
 > – ???Google Trends for Websites shows you a graph reflecting the number of daily unique visitors???
 > 
-> </div>
+> 
 
-via [vincos.it](http://www.vincos.it/world-map-of-social-networks/)</div>Facebook is every year a couple steps closer to become the **social network monopoly**.
+via [vincos.it](http://www.vincos.it/world-map-of-social-networks/)Facebook is every year a couple steps closer to become the **social network monopoly**.
 
-</div>

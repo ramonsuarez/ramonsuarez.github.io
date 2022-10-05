@@ -11,6 +11,4 @@ categories:
 tag: []
 post_format: []
 ---
-<div class="p_embed p_image_embed">[![Media_https1i1picplzt_ubcjr](/uploads/
-2011/03/media_https1i1picplzt_ubcjr-scaled1000.jpg?w=300)](/uploads/
-2011/03/media_https1i1picplzt_ubcjr-scaled1000.jpg)</div>Taken with [picplz](http://picplz.com) at [Tour & Taxis](http://picplz.com/pics/tour-and-taxis-brussels-belgium/) in [Brussels, Belgium](http://picplz.com/city/brussels-be/).
+[![Media_https1i1picplzt_ubcjr](/uploads/2011/03/media_https1i1picplzt_ubcjr-scaled1000.jpg?w=300)](/uploads/2011/03/media_https1i1picplzt_ubcjr-scaled1000.jpg)Taken with [picplz](http://picplz.com) at [Tour & Taxis](http://picplz.com/pics/tour-and-taxis-brussels-belgium/) in [Brussels, Belgium](http://picplz.com/city/brussels-be/).

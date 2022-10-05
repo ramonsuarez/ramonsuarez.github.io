@@ -29,6 +29,5 @@ post_format: []
 > 10. [Marketing & Social Media Conferences](http://www.smashingmagazine.com/2009/10/21/web-conferences-roundup-events-from-around-the-globe/#marketing)
 > 11. [Technology Conferences](http://www.smashingmagazine.com/2009/10/21/web-conferences-roundup-events-from-around-the-globe/#tech)
 
-via [smashingmagazine.com](http://www.smashingmagazine.com/2009/10/21/web-conferences-roundup-events-from-around-the-globe/)</div>An inspiring and extensive list of web events around the world. Just added [Evento Blog España](http://www.eventoblog.com) and [Plugg](http://plugg.eu/) in the comments.
+via [smashingmagazine.com](http://www.smashingmagazine.com/2009/10/21/web-conferences-roundup-events-from-around-the-globe/)An inspiring and extensive list of web events around the world. Just added [Evento Blog España](http://www.eventoblog.com) and [Plugg](http://plugg.eu/) in the comments.
 
-</div>

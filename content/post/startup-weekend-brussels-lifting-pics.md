@@ -17,6 +17,5 @@ tags:
     - videos
 post_format: []
 ---
-via [b-honey.be](http://www.b-honey.be/SWBRU.php)</div>Good song to help you feel the vibe that most of you missed 😉 More [Startup Weekend Brussels](http://brussels.startupweekend.org) awesomeness soon…
+via [b-honey.be](http://www.b-honey.be/SWBRU.php)Good song to help you feel the vibe that most of you missed 😉 More [Startup Weekend Brussels](http://brussels.startupweekend.org) awesomeness soon…
 
-</div>

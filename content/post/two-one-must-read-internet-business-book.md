@@ -19,6 +19,5 @@ post_format: []
 > 
 > [![](http://ws.assoc-amazon.co.uk/widgets/q?_encoding=UTF8&Format=_SL160_&ASIN=B00260DGIA&MarketPlace=GB&ID=AsinImage&WS=1&tag=ramonsuarez-21&ServiceVersion=20070822)](http://www.amazon.co.uk/gp/product/B00260DGIA/ref=as_li_tf_il?ie=UTF8&tag=ramonsuarez-21&linkCode=as2&camp=1634&creative=6738&creativeASIN=B00260DGIA)![](http://www.assoc-amazon.co.uk/e/ir?t=ramonsuarez-21&l=as2&o=2&a=B00260DGIA)
 
-via [ramonsuarez.com](http://ramonsuarez.com/what-pushed-jean-and-ramon-to-open-the-betagr)</div>Influence is not only for Internet, but fully applicable 🙂
+via [ramonsuarez.com](http://ramonsuarez.com/what-pushed-jean-and-ramon-to-open-the-betagr)Influence is not only for Internet, but fully applicable 🙂
 
-</div>

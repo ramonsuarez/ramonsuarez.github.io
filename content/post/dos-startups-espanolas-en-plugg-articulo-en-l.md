@@ -90,8 +90,7 @@ post_format: []
 > 
 > ***[Ramón Suárez](http://ramonsuarez.com/)** es el **corresponsal de Loogic en Plugg**, desde donde nos mantendrá informados del desarrollo del evento. Ramón es un español residente en Bruselas, donde trabaja como consultor independiente en el uso empresarial de nuevas tecnologías. Reciéntemente organizó una delegación de [emprendedores Web belgas](http://loogic.com/dos-startups-espanolas-en-plugg#) que presentaron sus iniciativas en el [Evento Blog España 2009](http://www.eventoblog.com/). También es consejero del [Beta Group](http://www.betagroup.be/), el principal evento para iniciadores Web en Bélgica.*
 > 
-> </div>
+> 
 
-via [loogic.com](http://loogic.com/dos-startups-espanolas-en-plugg/)</div>As Loogic’s correspondant to **[Plugg](http://plugg.eu)**, I am writing a series of articles on the entrepreneurial event to take place in Brussels. This article presents the **20 finalists of the startup competition that will be presenting on stage.** Within the wide European country selection, ****two of the companies are Spanish (Sclipo & SHOTools)****.
+via [loogic.com](http://loogic.com/dos-startups-espanolas-en-plugg/)As Loogic’s correspondant to **[Plugg](http://plugg.eu)**, I am writing a series of articles on the entrepreneurial event to take place in Brussels. This article presents the **20 finalists of the startup competition that will be presenting on stage.** Within the wide European country selection, ****two of the companies are Spanish (Sclipo & SHOTools)****.
 
-</div>

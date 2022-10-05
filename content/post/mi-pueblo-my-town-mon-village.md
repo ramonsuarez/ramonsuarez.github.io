@@ -15,6 +15,4 @@ tags:
     - fun
 post_format: []
 ---
-<div class="p_embed p_image_embed">[![Ramonete](/uploads/
-2011/02/ramonete.jpg?w=300)](/uploads/
-2011/02/ramonete.jpg)</div>
+[![Ramonete](/uploads/2011/02/ramonete.jpg?w=300)](/uploads/2011/02/ramonete.jpg)

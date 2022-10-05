@@ -55,8 +55,7 @@ post_format: []
 > 
 > There are entire business models that depend on geographic targeting, so there is a constant cat-and-mouse game between providers of these services and those seeking to bypass the set restrictions. Those who are seeking to access content are winning though, and they will continue to win, as the very nature of the Internet and web make it near impossible to detect where somebody actually is if they refuse to let you know.
 
-via [techcrunch.com](http://www.techcrunch.com/2009/10/05/internet-anonymizer-web-surf-vpn-hulu-pandora-spotify/)</div>To be able to watch and hear all those things we are missing when we are living abroad (also applicable to other countries, including Spain).
+via [techcrunch.com](http://www.techcrunch.com/2009/10/05/internet-anonymizer-web-surf-vpn-hulu-pandora-spotify/)To be able to watch and hear all those things we are missing when we are living abroad (also applicable to other countries, including Spain).
 
 It sucks to be cut out to your culture because of your location. Internet, knowledge, arts, culture are universal and should be ubiquitous.
 
-</div>

@@ -23,7 +23,7 @@ post_format: []
 > 
 > [![Julio Alonso presentando en el Simo (foto cc Pixel y Dixel)](http://loogic.com/files/2010/11/Julio-Alonso-Simo-Foto-cc-Pixel-y-Dixel.jpg)](http://www.flickr.com/photos/pixelydixel/3949202526/ "Julio Alonso en el SIMO por Pixel y Dixel")Julio Alonso presentando en el SIMO (foto cc Pixel y Dixel)
 > 
-> </div>**[Julio Alonso](http://es.linkedin.com/in/julioalonso "Perfil de Julio Alonso en LinkedIn")** es el fundador y CEO de **Weblogs SL**, la principal red de blogs en español, con más de [15 millones de visitantes únicos en septiembre](http://www.weblogssl.com/2010/10/13-trafico-de-septiembre-de-2010#more "Estadísticas de visitas de Weblogs SL en septiempre 2010"). Este año repite como ponente en LeWeb, participando en la mesa sobre plataformas de medios.
+> **[Julio Alonso](http://es.linkedin.com/in/julioalonso "Perfil de Julio Alonso en LinkedIn")** es el fundador y CEO de **Weblogs SL**, la principal red de blogs en español, con más de [15 millones de visitantes únicos en septiembre](http://www.weblogssl.com/2010/10/13-trafico-de-septiembre-de-2010#more "Estadísticas de visitas de Weblogs SL en septiempre 2010"). Este año repite como ponente en LeWeb, participando en la mesa sobre plataformas de medios.
 > 
 > **¿Qué es LeWeb para ti?**  LeWeb es el evento sobre internet en Europa por excelencia. Yo le tengo especial cariño porque participé como ponente en su primera edición en abril de 2005 cuando todavía se llamaba [Les Blogs](http://www.merodeando.com/2005/04/28-les-blogs-sesion-sobre-nanopublishing "Julio Alonso Merodeando en Les Blogs") y nosotros acabábamos de lanzar la compañía.
 > 
@@ -45,11 +45,10 @@ post_format: []
 > 
 > No os perdáis el *streaming* en directo de la participación de Julio Alonso en **[LeWeb10](http://bit.ly/bfn5EV "Apuntate a LeWeb10")** el 8 de diciembre a las 16:55.
 > 
-> </div>
+> 
 
-via [loogic.com](http://loogic.com/entrevista-julio-alonso-leweb-y-el-futuro/)</div>Julio Alonso is the founder and CEO of Weblogs SL, the largest Spanish speaking blog network and probably the biggest in Europe. His publications caught the attention of over 15 million unique visitors last september and it looks like these numbers wi  
+via [loogic.com](http://loogic.com/entrevista-julio-alonso-leweb-y-el-futuro/)Julio Alonso is the founder and CEO of Weblogs SL, the largest Spanish speaking blog network and probably the biggest in Europe. His publications caught the attention of over 15 million unique visitors last september and it looks like these numbers wi  
 ll continue to Grow.
 
 In this interview we discussed his coming participation in LeWeb10 and also his ideas about the future of Media and the Internet.
 
-</div>

@@ -30,8 +30,7 @@ post_format: []
 > 
 > Los [v??deos](http://vimeo.com/plugg "V??deos de las presentaciones en Plugg 2010") y las [fotos](http://www.flickr.com/photos/pluggconference/ "Fotos conferencia Plugg Bruselas") de Plugg ya est??n en l??nea y pronto se podr??n descargar las presentaciones.
 > 
-> </div>
+> 
 
-via [loogic.com](http://loogic.com/ganadores-plugg-2010-fitsme-razwar/)</div>I forgot to add this blogpost I published in Loogic.com about the winners of this year’s Plugg: Fits.me and Raz\*War. Already looking forward to Plugg 2011.
+via [loogic.com](http://loogic.com/ganadores-plugg-2010-fitsme-razwar/)I forgot to add this blogpost I published in Loogic.com about the winners of this year’s Plugg: Fits.me and Raz\*War. Already looking forward to Plugg 2011.
 
-</div>

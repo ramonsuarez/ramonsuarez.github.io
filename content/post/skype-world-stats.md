@@ -33,6 +33,6 @@ post_format: []
 > 
 > ![](http://gigaom.files.wordpress.com/2010/04/skypeq42009.jpg?w=604&h=391 "skypeq42009")
 > 
-> </div>
+> 
 
-via [gigaom.com](http://gigaom.com/2010/04/20/skype-q4-2009-number/)</div>
+via [gigaom.com](http://gigaom.com/2010/04/20/skype-q4-2009-number/)

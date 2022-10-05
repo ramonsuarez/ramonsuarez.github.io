@@ -20,4 +20,4 @@ post_format: []
 video_background:
     - ''
 ---
-<div class="p_embed p_image_embed">![](/uploads/2013/02/image.png)At least for their maps & places service…</div>
+![](/uploads/2013/02/image.png)At least for their maps & places service…

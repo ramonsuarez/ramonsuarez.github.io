@@ -23,7 +23,7 @@ post_format: []
 ---
 > According to the Pew Research Center’s Internet & American Life Project, blogging activity has dropped drastically among young adults in the United States, a demographic that traditionally helps define the tenor of the online conversation. In December 2007, for instance, 28 percent of all 18-to-29-year-olds with an Internet connection kept some sort of blog. By the same time last year, that number hovered around 15 percent. Meanwhile, the number of teens who say they blog regularly continues to shrink, as the Web’s youngest users ditch the blogosphere for the frantic pace of the social-media world.
 
-via [abcnews.go.com](http://abcnews.go.com/m/screen?id=10088992)</div>The study from Pew Research does nothing but confirm what we all have been noticing around us: amateur blogging is disappearing. While I don’t think it will completely die, it is clear that the big amounts of effort it requires and the little rewards it entitles are not the best ways to incentive blog writing. **Only professional bloggers have enough incentives to keep on writing regularly**.
+via [abcnews.go.com](http://abcnews.go.com/m/screen?id=10088992)The study from Pew Research does nothing but confirm what we all have been noticing around us: amateur blogging is disappearing. While I don’t think it will completely die, it is clear that the big amounts of effort it requires and the little rewards it entitles are not the best ways to incentive blog writing. **Only professional bloggers have enough incentives to keep on writing regularly**.
 
 Of all the blogs I follow, only the professional ones keep up the pace. A lot of personal bloggers have stopped writing or greatly reduced their contributions. Why wouldn’t they with Facebook and Twitter’s instant gratification and reduced effort? Why on earth would we have to consider that it is a problem?
 
@@ -37,4 +37,3 @@ The same goes for Twitter. If we translate it to our day to day communications i
 
 What we are witnessing is just the adaptation of Internet communication to the inner needs of social humans.
 
-</div>

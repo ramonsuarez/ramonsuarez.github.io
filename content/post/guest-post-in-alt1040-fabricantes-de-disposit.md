@@ -20,7 +20,7 @@ post_format: []
 > 
 > <div class="metatop"> Por **[Ram??n Su??rez](http://alt1040.com/author/ramonsuarez/ "Entradas de Ram??n Su??rez")** el 21 de Junio de 2010, 18:34 en [Destacadas](http://alt1040.com/categoria/destacadas "Ver todas las entradas en Destacadas"), [Software](http://alt1040.com/categoria/software "Ver todas las entradas en Software"), [Tecnolog??a](http://alt1040.com/categoria/tecnologia "Ver todas las entradas en Tecnolog??a").
 > 
-> </div><div class="history">![](http://cdn.alt1040.com/files/2010/06/android.jpg "Android")
+> <div class="history">![](http://cdn.alt1040.com/files/2010/06/android.jpg "Android")
 > 
 > [Carta Abierta](http://ramonsuarez.com/android-handset-manufacturers-stop-screwing-u). Estimados fabricantes de dispositivos **[Android](http://alt1040.com/tag/android)**:
 > 
@@ -36,10 +36,9 @@ post_format: []
 > 
 > Por favor, **h??ganle un favor al mundo y unifiquen sus esfuerzos de desarrollo del interfaz**. Estoy seguro que pueden sacar algo m??s que un aprobado raspado en su propio negocio y mantenernos como usuarios amarrados y contentos gracias a la calidad de sus dispositivos y del sistema operativo que lo hace funcionar.
 > 
-> </div>
+> 
 
-via [alt1040.com](http://alt1040.com/2010/06/fabricantes-de-dispositivos-android-dejen-de-joder-el-interfaz-de-usuario-carta-abierta#comments)</div>My post [Android handset manufacturers: stop screwing up the interface (open letter)](http://ramonsuarez.com/android-handset-manufacturers-stop-screwing-u) caught the eye of **[Eduardo Arcos](http://eduardo.arcos.me/)**, CEO of **[Hipertextual](http://eduardo.arcos.me/), one of the largest online publication networks in Spanish**, which gets over 7 million unique visitors a month. He inmediately retweeted the original post and asked if I could send a translation for publication in [Alt1040](http://alt1040.com/).
+via [alt1040.com](http://alt1040.com/2010/06/fabricantes-de-dispositivos-android-dejen-de-joder-el-interfaz-de-usuario-carta-abierta#comments)My post [Android handset manufacturers: stop screwing up the interface (open letter)](http://ramonsuarez.com/android-handset-manufacturers-stop-screwing-u) caught the eye of **[Eduardo Arcos](http://eduardo.arcos.me/)**, CEO of **[Hipertextual](http://eduardo.arcos.me/), one of the largest online publication networks in Spanish**, which gets over 7 million unique visitors a month. He inmediately retweeted the original post and asked if I could send a translation for publication in [Alt1040](http://alt1040.com/).
 
 As you could imagine, I am honored and happy. It feels like when you get your thoughts published in the *letters to the editor* section of traditional newspaper: really good. I’m looking forward to the coments by the readers
 
-</div>

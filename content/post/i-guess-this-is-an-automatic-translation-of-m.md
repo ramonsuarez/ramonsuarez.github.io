@@ -20,8 +20,7 @@ post_format: []
 > 
 > <div class="tresc">He comes from Madrid, and works in Brussels He is entrepreneur of e-commerce and marketing. Active participant, the initiator and moderator of many internet projects in Belgium. He is a member of BetaGroup, organizer of pitch-slam meetings which are gathering more than 350 enthusiasts of the Internet and Business in Network. He is a founding partner of BetaGroup Coworking Space in Brussels. He is an author of blog in logic.com service ??? site on which he is describing international internet and interesting initiatives around the Internet. He is Tweeting – <http://twitter.com/ramonsuarez>
 > 
-> </div>
+> 
 
-via [internetbeta.pl](http://www.internetbeta.pl/en/speakers/)</div>XD Looking forward to the Internet Beta 2011 conference. I’m sure I’ll meet a lot of interesting people and learn about the Polish tech startup scene.
+via [internetbeta.pl](http://www.internetbeta.pl/en/speakers/)XD Looking forward to the Internet Beta 2011 conference. I’m sure I’ll meet a lot of interesting people and learn about the Polish tech startup scene.
 
-</div>

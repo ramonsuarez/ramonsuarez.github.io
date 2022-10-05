@@ -16,8 +16,7 @@ tags:
     - videos
 post_format: []
 ---
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/iwCLU2Qtj1k?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent" style="border:0;" width="640"></iframe></span>via [youtube.com](http://www.youtube.com/watch?v=iwCLU2Qtj1k&feature=player_embedded)</div>A sneak peek into the [Founder Institute](http://search.twitter.com/search?q=%23brfi) chapter in Brussels.
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/iwCLU2Qtj1k?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent" style="border:0;" width="640"></iframe></span>via [youtube.com](http://www.youtube.com/watch?v=iwCLU2Qtj1k&feature=player_embedded)A sneak peek into the [Founder Institute](http://search.twitter.com/search?q=%23brfi) chapter in Brussels.
 
 Do you have what it takes to become an entrepreneur? **Prove it.**
 
-</div>

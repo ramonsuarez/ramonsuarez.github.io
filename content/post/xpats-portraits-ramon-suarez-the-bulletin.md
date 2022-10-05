@@ -38,8 +38,7 @@ post_format: []
 > 
 > ***Interview by Tamara Gausi***
 > 
-> </div>
+> 
 
-via [xpats.com](http://www.xpats.com/lifestyle/portraits/7.191/1.183810)</div>Sometimes quoting can be quite creative 😉
+via [xpats.com](http://www.xpats.com/lifestyle/portraits/7.191/1.183810)Sometimes quoting can be quite creative 😉
 
-</div>

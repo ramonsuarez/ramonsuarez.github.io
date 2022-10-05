@@ -27,6 +27,6 @@ post_format: []
 > 
 > Have you found the right environment for your best work?
 > 
-> </div>
+> 
 
-via [mapleleafbranch.org](http://www.mapleleafbranch.org/)</div></div>
+via [mapleleafbranch.org](http://www.mapleleafbranch.org/)

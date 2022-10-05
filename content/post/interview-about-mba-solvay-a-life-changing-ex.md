@@ -17,4 +17,4 @@ tags:
     - videos
 post_format: []
 ---
-via [solvay.edu](http://www.solvay.edu/mba)</div>via [solvay.edu](http://www.solvay.edu/mba)</div></div>via [solvay.edu](http://www.solvay.edu/mba)</div>via [solvay.edu](http://www.solvay.edu/mba)</div>via [solvay.edu](http://www.solvay.edu/mba)</div>via [solvay.edu](http://www.solvay.edu/mba)</div>via [solvay.edu](http://www.solvay.edu/mba)</div>
+via [solvay.edu](http://www.solvay.edu/mba)via [solvay.edu](http://www.solvay.edu/mba)via [solvay.edu](http://www.solvay.edu/mba)via [solvay.edu](http://www.solvay.edu/mba)via [solvay.edu](http://www.solvay.edu/mba)via [solvay.edu](http://www.solvay.edu/mba)via [solvay.edu](http://www.solvay.edu/mba)

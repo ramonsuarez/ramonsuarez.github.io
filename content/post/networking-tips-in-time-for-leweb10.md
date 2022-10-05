@@ -45,14 +45,13 @@ post_format: []
 > 
 > And follow [@coletteballou](http://twitter.com/#%21/coletteballou) for other random gems!
 > 
-> [get widget](http://www.crunchbase.com/widget/)<a>minimize</a>[CrunchBase Information](http://www.crunchbase.com/)</div>[Colette Ballou](http://www.crunchbase.com/person/colette-ballou) [![Colette Ballou image](http://www.crunchbase.com/assets/images/resized/0010/8048/108048v2-max-150x150.jpg)](http://www.crunchbase.com/person/colette-ballou)<table><tr><td>Birthplace:</td><td>Brooklyn, NY USA</td></tr></table>
+> [get widget](http://www.crunchbase.com/widget/)<a>minimize</a>[CrunchBase Information](http://www.crunchbase.com/)[Colette Ballou](http://www.crunchbase.com/person/colette-ballou) [![Colette Ballou image](http://www.crunchbase.com/assets/images/resized/0010/8048/108048v2-max-150x150.jpg)](http://www.crunchbase.com/person/colette-ballou)<table><tr><td>Birthplace:</td><td>Brooklyn, NY USA</td></tr></table>
 > 
 > Colette is the founder of Ballou PR, Europe???s smartest and sassiest technology, consumer internet and life sciences public relations agency. She oversees activities for their Paris, London, New York and San Francisco offices.
 > 
 > Folks she works??? [Learn More](http://www.crunchbase.com/person/colette-ballou "Learn More")
 > 
-> </div>Information provided by [CrunchBase](http://www.crunchbase.com/)</div></div></div></div>
+> Information provided by [CrunchBase](http://www.crunchbase.com/)
 
-via [eu.techcrunch.com](http://eu.techcrunch.com/2010/11/19/guest-post-hold-on-who-are-you-again-networking-tips-in-time-for-le-web/)</div>Great post by Colette Ballou about the basics of PR and networking in conferences.
+via [eu.techcrunch.com](http://eu.techcrunch.com/2010/11/19/guest-post-hold-on-who-are-you-again-networking-tips-in-time-for-le-web/)Great post by Colette Ballou about the basics of PR and networking in conferences.
 
-</div>

@@ -12,6 +12,4 @@ tags:
     - fun
 post_format: []
 ---
-<div class="p_embed p_image_embed">[![2010-12-10_09](/uploads/
-2010/12/2010-12-10_09-01-02-scaled-1000.jpg?w=300)](/uploads/
-2010/12/2010-12-10_09-01-02-scaled-1000.jpg)</div>
+[![2010-12-10_09](/uploads/2010/12/2010-12-10_09-01-02-scaled-1000.jpg?w=300)](/uploads/2010/12/2010-12-10_09-01-02-scaled-1000.jpg)

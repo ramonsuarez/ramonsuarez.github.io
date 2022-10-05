@@ -72,6 +72,5 @@ post_format: []
 > 
 > Do not forget [to sign up](https://twitter.com/signup) for twitter and subscribe to us at @[turbomilkcom](http://twitter.com/turbomilkcom). That???s our twitter in English.
 
-via [turbomilk.com](http://turbomilk.com/blog/cookbook/masterclass/twitter/)</div>Simple, straight forward, right.
+via [turbomilk.com](http://turbomilk.com/blog/cookbook/masterclass/twitter/)Simple, straight forward, right.
 
-</div>

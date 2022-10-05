@@ -78,6 +78,5 @@ post_format: []
 > 3+ billion ??? Photos uploaded per month to Facebook.  
 > 36 billion ??? At the current rate, the number of photos uploaded to Facebook per year
 
-via [venturebeat.com](http://venturebeat.com/2011/01/12/2010-the-year-in-internet-stats/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Venturebeat+%28VentureBeat%29)</div>Yummi data for presentations 😉
+via [venturebeat.com](http://venturebeat.com/2011/01/12/2010-the-year-in-internet-stats/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Venturebeat+%28VentureBeat%29)Yummi data for presentations 😉
 
-</div>

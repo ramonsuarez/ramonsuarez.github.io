@@ -37,8 +37,7 @@ post_format: []
 > 
 > *Image courtesy of [iStockphoto](http://www.istockphoto.com/mashableoffer.php), [BrianAJackson](http://www.istockphoto.com/user_view.php?id=3075060)*
 > 
-> </div>
+> 
 
-via [mashable.com](http://mashable.com/2011/03/14/children-internet-stats/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29)</div>Not only the data about child internet use is impressive, TV has a stronger hold on them that before. Will it last as they grow up or just drive them to more video consumption online?
+via [mashable.com](http://mashable.com/2011/03/14/children-internet-stats/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29)Not only the data about child internet use is impressive, TV has a stronger hold on them that before. Will it last as they grow up or just drive them to more video consumption online?
 
-</div>

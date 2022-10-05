@@ -244,6 +244,6 @@ post_format: []
 > 
 > Via [ecuaderno.com](http://www.ecuaderno.com/2009/04/24/periodistas-espanoles-en-twitter/)
 
-</div>You can also find this as a twitter list:[@jlori/spanish-journalists](http://twitter.com/jlori/spanish-journalists) and in Listorious: [Spanish Journalists](http://listorious.com/jlori/spanish-journalists).
+You can also find this as a twitter list:[@jlori/spanish-journalists](http://twitter.com/jlori/spanish-journalists) and in Listorious: [Spanish Journalists](http://listorious.com/jlori/spanish-journalists).
 
 Thanks to [Jos?? Luis Orihuela](http://twitter.com/jlori) for making such an extensive list and to [Rafael Estrella](http://twitter.com/restrella2010 "Rafael Estrella, embajador de Espa??a en Argentina") for pointing at it.

@@ -15,8 +15,7 @@ tags:
     - webmission
 post_format: []
 ---
-via [youtube.com](http://www.youtube.com/watch?v=uAgVoj_ilzY&feature=youtu.be)</div>We are preparing a new [](http://wiki.webmission.be) to go to San Francisco in Mai. Would you like to join us and present your company in the valley?
+via [youtube.com](http://www.youtube.com/watch?v=uAgVoj_ilzY&feature=youtu.be)We are preparing a new [](http://wiki.webmission.be) to go to San Francisco in Mai. Would you like to join us and present your company in the valley?
 
 Thanks to [Sam Piroton](http://twitter.com/sam_piroton) for editing and posting the video!
 
-</div>

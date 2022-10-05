@@ -52,8 +52,7 @@ post_format: []
 > 29\) **Carmelo Zaccone**, ??vang??liste en technologie ?? l’AWT, @carmelo, **Klout score 48**, following 588, followers 665.  
 > 30\) **Bruno Peeters**, blogger et project manager chez Dexia, @bvlg, **Klout score 47**, following 681, followers 1.428.
 
-via [datanews.rnews.be](http://datanews.rnews.be/fr/ict/actualite/blog/qui-devez-vous-suivre-dans-la-twittosphere-belge/article-1195010830793.htm)</div>Surprised and flattered to find my self in n?? 10 🙂
+via [datanews.rnews.be](http://datanews.rnews.be/fr/ict/actualite/blog/qui-devez-vous-suivre-dans-la-twittosphere-belge/article-1195010830793.htm)Surprised and flattered to find my self in n?? 10 🙂
 
 If you want to easily follow their tweets, I’ve created a [list with the 30 top tech Belgian Twitter influencers](http://bit.ly/kV6VzL).
 
-</div>

@@ -24,4 +24,4 @@ post_format: []
 > - 66% Photo sharing
 > - 93% Social networking
 
-via [conversity.be](http://www.conversity.be/blog/social-media-in-belgium-netherlands-france/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+Conversity+%28conversity%29)</div></div>
+via [conversity.be](http://www.conversity.be/blog/social-media-in-belgium-netherlands-france/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+Conversity+%28conversity%29)

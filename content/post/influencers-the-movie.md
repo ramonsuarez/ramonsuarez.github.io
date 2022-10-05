@@ -17,6 +17,6 @@ post_format: []
 ---
 What and who are the influencers?
 
-<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="225" mozallowfullscreen="" src="https://player.vimeo.com/video/16430345" webkitallowfullscreen="" width="400"></iframe></div>[INFLUENCERS TRAILER](http://vimeo.com/16430345) from [R+I creative](http://vimeo.com/ricreative) on [Vimeo](http://vimeo.com).
+<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="225" mozallowfullscreen="" src="https://player.vimeo.com/video/16430345" webkitallowfullscreen="" width="400"></iframe>[INFLUENCERS TRAILER](http://vimeo.com/16430345) from [R+I creative](http://vimeo.com/ricreative) on [Vimeo](http://vimeo.com).
 
 A conversation starter, via [@annmarcelis](http://twitter.com/#!/annmarcelis "Ann Marcelis").

@@ -40,6 +40,6 @@ post_format: []
 > 
 > *![](http://nomatime.com/sites/default/files/imagecache/venue_large/David_Plas_Betagroup_8393.jpg)*
 > 
-> </div>
+> 
 
-via [alaingerlache.be](http://alaingerlache.be/post/6379149415/le-co-working-une-nouvelle-vision-de-lentreprise)</div></div>
+via [alaingerlache.be](http://alaingerlache.be/post/6379149415/le-co-working-une-nouvelle-vision-de-lentreprise)

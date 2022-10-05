@@ -20,4 +20,4 @@ Help us promote the best event ever: add this code to your site
 
 <span style="font-family:Helvetica, Arial, sans-serif;font-size:14px;line-height:18px;">It looks (great) like this: </span>
 
-<div style="text-align:center;"><div style="font-family:Helvetica, Arial;font-size:10px;padding:5px 0;margin:2px;text-align:center;">[Event Registration Online](http://www.eventbrite.com/features?ref=ecount)<span style="color:#ddd;"> for </span>[Brussels Startup Weekend 2011](http://swbru.eventbrite.com?ref=ecount)</div></div>Keep on starting up!
+<div style="text-align:center;"><div style="font-family:Helvetica, Arial;font-size:10px;padding:5px 0;margin:2px;text-align:center;">[Event Registration Online](http://www.eventbrite.com/features?ref=ecount)<span style="color:#ddd;"> for </span>[Brussels Startup Weekend 2011](http://swbru.eventbrite.com?ref=ecount)Keep on starting up!

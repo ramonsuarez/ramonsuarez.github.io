@@ -20,7 +20,5 @@ tags:
     - twitter
 post_format: []
 ---
-<div class="p_embed p_image_embed">![Media_httpmashablecom_upqgd](/uploads/
-2010/03/media_httpmashablecom_upqgd-scaled500.gif?w=300)</div>via [mashable.com](http://mashable.com/2010/03/16/facebook-twitter-purchase-decisions/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29)</div>Yes, there is a link between engagement of consumers and brands/products/services and the revenue of those companies.It is **a link that helps us look into the future**.
+![Media_httpmashablecom_upqgd](/uploads/2010/03/media_httpmashablecom_upqgd-scaled500.gif?w=300)via [mashable.com](http://mashable.com/2010/03/16/facebook-twitter-purchase-decisions/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29)Yes, there is a link between engagement of consumers and brands/products/services and the revenue of those companies.It is **a link that helps us look into the future**.
 
-</div>

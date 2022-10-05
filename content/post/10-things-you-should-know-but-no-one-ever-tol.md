@@ -17,6 +17,5 @@ tags:
     - presentation
 post_format: []
 ---
-via [slideshare.net](http://www.slideshare.net/Hotei/10things2010)</div>The two highlights of this year’s Digital Marketing First in Brussels where this presentation by Evan Van Lissum and the [BetaGroup pitch slam](https://spideroak.com/download/referral/0dee7aede1b4ad45dc2c60c457828813). I also saw the 2009 version and will definitely follow the 2011 presentation if Evan continues updating it.
+via [slideshare.net](http://www.slideshare.net/Hotei/10things2010)The two highlights of this year’s Digital Marketing First in Brussels where this presentation by Evan Van Lissum and the [BetaGroup pitch slam](https://spideroak.com/download/referral/0dee7aede1b4ad45dc2c60c457828813). I also saw the 2009 version and will definitely follow the 2011 presentation if Evan continues updating it.
 
-</div>

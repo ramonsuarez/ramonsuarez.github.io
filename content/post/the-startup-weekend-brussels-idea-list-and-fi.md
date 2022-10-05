@@ -19,7 +19,7 @@ post_format: []
 > 
 > Photo c Natalie Hill
 > 
-> </div> **85 participants, 46 ideas, 11 finalist, a hell of a good entrepreneurial time.**
+>  **85 participants, 46 ideas, 11 finalist, a hell of a good entrepreneurial time.**
 > 
 > <table border="0"><tr><td></td><td></td></tr><tr><td></td><td>**WORKING TEAMS**</td><td>**Description**</td><td>**Founder**</td></tr><tr><td></td><td>[Heal.th](http://www.google.com/url?q=http://Heal.th&usd=2&usg=ALhdy29wuvV0ip1D99xZhO9gf2FJy6Q7fQ)</td><td>Helps users make sense of their (future) health data</td><td>Misha</td></tr><tr><td></td><td>GroupOn Wishlist</td><td>Offers driven by group wishlists</td><td>Florent</td></tr><tr><td></td><td>Meal In One</td><td>Online meal planning and shopping application</td><td>Rafaela</td></tr><tr><td></td><td>NeuroDriver</td><td>Brain activity driven wheelchair, other tools</td><td></td></tr><tr><td></td><td>Green Ship</td><td>Matching of customers (on Ebay, e.g.) and shippers</td><td>Julien</td></tr><tr><td></td><td>RoadTripper</td><td>Find cool stuff along your road trip</td><td>Jon</td></tr><tr><td></td><td>Corp O Rot</td><td>Anonymous company insider ratings</td><td>John</td></tr><tr><td></td><td>Kodesk</td><td>Market for nomad workers and mtg. space providers</td><td>Sebastien</td></tr><tr><td></td><td>Biz Scraper</td><td>Open access to company financial and mgmt info (freemium alerts)</td><td>Toon</td></tr><tr><td></td><td>HR A La Carte</td><td>Online HR services application</td><td>Yamina</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>**PITCHED IDEAS**</td><td></td><td></td></tr><tr><td></td><td>**Name**</td><td>**Idea**</td><td>**Presenter**</td></tr><tr><td></td><td>Coaching/training site</td><td>Find a life coach or training program</td><td>Jennifer</td></tr><tr><td></td><td>PaperSync</td><td>Anti-plagiarism application</td><td>Nico</td></tr><tr><td></td><td>[Heal.th](http://www.google.com/url?q=http://Heal.th&usd=2&usg=ALhdy29wuvV0ip1D99xZhO9gf2FJy6Q7fQ)</td><td>Helps users make sense of their (future) health data</td><td>Misha</td></tr><tr><td></td><td>HR A La Carte</td><td>Online HR services application</td><td>Yatina</td></tr></table>
 > 
@@ -31,8 +31,7 @@ post_format: []
 > 
 > <div style="text-align:left;"> [![Post to Twitter](http://brussels.startupweekend.org/wp-content/plugins/tweet-this/icons/en/twitter/tt-twitter-big4.png)](http://twitter.com/home/?status=The+Startup+Weekend+Brussels+Idea+List+%28and+Finalists%29+http%3A%2F%2%0AFbit.ly%2Fg3VGB3 "Post to Twitter")
 > 
-> </div></div>
+> 
 
-via [brussels.startupweekend.org](http://brussels.startupweekend.org/2011/01/29/the-startup-weekend-brussels-idea-list/)</div>Wow! Teams are working hard on their projects, hyper concentrated. Really looking forward to their presentations tomorrow!
+via [brussels.startupweekend.org](http://brussels.startupweekend.org/2011/01/29/the-startup-weekend-brussels-idea-list/)Wow! Teams are working hard on their projects, hyper concentrated. Really looking forward to their presentations tomorrow!
 
-</div>

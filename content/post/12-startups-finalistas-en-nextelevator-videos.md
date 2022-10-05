@@ -67,8 +67,7 @@ post_format: []
 > 
 > ??Cu??l cr??eis que se llevara el premio?
 > 
-> </div>
+> 
 
-via [loogic.com](http://loogic.com/12-startups-finalistas-en-nextelevator-videos/)</div>Really looking forward to a lot of data lovin’ at Next11 🙂
+via [loogic.com](http://loogic.com/12-startups-finalistas-en-nextelevator-videos/)Really looking forward to a lot of data lovin’ at Next11 🙂
 
-</div>

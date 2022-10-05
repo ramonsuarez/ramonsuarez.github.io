@@ -28,10 +28,9 @@ post_format: []
 > 9. <span style="font-weight:bold;">Proponemos una verdadera reforma del derecho de propiedad intelectual </span>orientada a su fin: devolver a la sociedad el conocimiento, promover el dominio público y limitar los abusos de las entidades gestoras.
 > 10. <span style="font-weight:bold;"><span style="font-weight:normal;"><span style="font-weight:bold;">En democracia las leyes y sus modificaciones deben aprobarse tras el oportuno debate público</span> y habiendo consultado previamente a todas las partes implicadas. No es de recibo que se realicen cambios legislativos que afectan a derechos fundamentales en una ley no orgánica y que versa sobre otra materia.<span> </span></span></span>
 
-via [enriquedans.com](http://www.enriquedans.com/2009/12/manifiesto-en-defensa-de-los-derechos-fundamentales-en-internet.html)</div>Fundamental freedoms of internet publishers (people like you and me writing a blog) are being threatened in Spain by a new law being drafted by the ministry of culture. By pasting the text of this manifesto in your blog you show your support against the will of the Spanish government to shut down any webpage without a court order just because of a complaint stating that property rights are being abused.
+via [enriquedans.com](http://www.enriquedans.com/2009/12/manifiesto-en-defensa-de-los-derechos-fundamentales-en-internet.html)Fundamental freedoms of internet publishers (people like you and me writing a blog) are being threatened in Spain by a new law being drafted by the ministry of culture. By pasting the text of this manifesto in your blog you show your support against the will of the Spanish government to shut down any webpage without a court order just because of a complaint stating that property rights are being abused.
 
 Here’s the google [translation of the manifesto](http://translate.google.com/translate?js=y&prev=_t&hl=en&ie=UTF-8&layout=1&eotf=1&u=http%3A%2F%2Fwww.enriquedans.com%2F2009%2F12%2Fmanifiesto-en-defensa-de-los-derechos-fundamentales-en-internet.html&sl=es&tl=en).
 
 You can follow the conversation around the [\#manifiesto in English and Spanish](http://twubs.com/manifiesto).
 
-</div>
