@@ -34,7 +34,7 @@ pygmentsStyle = "monokai"
     {name = "buymeacoffee", url = "https://www.buymeacoffee.com/ramonsuarez"},
   ]
   metaKeywords = ["Ramon Suarez", "blog", "ideas", "projects", "entrepreneurship", "data visualization", "business intelligence"]
-
+ 
 [menu]
   [[menu.main]]
     name = "Home"
@@ -48,17 +48,11 @@ pygmentsStyle = "monokai"
     url = "/post/"
     weight = 2
 
-  [[menu.main]]
-    name = "Pages"
-    pre = "<span data-feather='code'></span>"
-    url = "/page/"
-    weight = 3
-
-  [[menu.main]]
-    name = "Tags"
-    pre = "<span data-feather='tag'></span>"
-    url = "/tags/"
-    weight = 4
+  # [[menu.main]]
+  #   name = "Tags"
+  #   pre = "<span data-feather='tag'></span>"
+  #   url = "/tags/"
+  #   weight = 4
 
   [[menu.main]]
     identifier = "buymeacoffee"
@@ -84,8 +78,3 @@ pygmentsStyle = "monokai"
   hint = 'photo'
   quality = 75
   resampleFilter = 'Box'
-
-[taxonomies]
-  category = 'categories'
-  series = 'series'
-  tag = 'tags'

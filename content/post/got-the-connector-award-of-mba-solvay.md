@@ -18,4 +18,4 @@ post_format: []
 video_background:
     - ''
 ---
-<div class="p_embed p_image_embed"></div><div>![](/uploads/2013/02/img_20110630_143407-scaled-1000.jpg)</div><div></div>
+<div>![](/uploads/2013/02/img_20110630_143407-scaled-1000.jpg)</div><div></div>

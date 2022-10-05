@@ -19,4 +19,4 @@ post_format: []
 video_background:
     - ''
 ---
-<div class="p_embed p_image_embed"></div><div>![](/uploads/2013/02/media_https1i1picplzt_cdojx-scaled1000.jpg)</div>Taken with [picplz](http://picplz.com) at [BetaGroup Coworking Brussels](http://picplz.com/pics/betagroup-coworking-brussels-etterbek-belgium/) in [Etterbeek, Belgium](http://picplz.com/city/etterbeek-be/).
+<div>![](/uploads/2013/02/media_https1i1picplzt_cdojx-scaled1000.jpg)</div>Taken with [picplz](http://picplz.com) at [BetaGroup Coworking Brussels](http://picplz.com/pics/betagroup-coworking-brussels-etterbek-belgium/) in [Etterbeek, Belgium](http://picplz.com/city/etterbeek-be/).

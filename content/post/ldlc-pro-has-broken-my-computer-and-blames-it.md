@@ -27,7 +27,7 @@ OK, so I was unlucky with one product, it may happen… And then my computer sta
 
 ![](/uploads/2013/02/2013-01-21_18-28-23-scaled1000.jpg)
 
-<div class="p_embed p_image_embed"></div>I called their support and they told me to run the tests on each memory stick. I did and both were bad. This meant, in their own words, that there was something wrong with the computer and that I had to send it back to them for repair.
+I called their support and they told me to run the tests on each memory stick. I did and both were bad. This meant, in their own words, that there was something wrong with the computer and that I had to send it back to them for repair.
 
 So I wrapped my computer in bubble wrap, added paper balls for extra protection and to keep it away from the cardboard and I sent it to them. And this is where things start to get weird.
 
@@ -35,7 +35,7 @@ So I wrapped my computer in bubble wrap, added paper balls for extra protection 
 
 ![](/uploads/2013/02/b-post-reception-colis-ldlc-scaled1000.png)
 
-<div class="p_embed p_image_embed"></div>I called on Thursday **January 31** to check, it was weird not to have the receipt. So I talked with one of the agents that confirmed that it was weird that I did not get a receipt and that **everything was in order**. **The computer had undergone some checking and was to go on more extensive testing**.
+I called on Thursday **January 31** to check, it was weird not to have the receipt. So I talked with one of the agents that confirmed that it was weird that I did not get a receipt and that **everything was in order**. **The computer had undergone some checking and was to go on more extensive testing**.
 
 And then on Friday February 1, one week after they received the computer, I finally get the **confirmation as if the computer had arrived on February 1**.
 
@@ -43,9 +43,9 @@ Immediately after this they sent another **email with pictures of the damage tha
 
 ![](/uploads/2013/02/dsc01612-scaled1000.jpg)
 
-<div>![](/uploads/2013/02/dsc01613-scaled1000.jpg)</div><div></div><div class="p_embed p_image_embed"></div><div></div><div>![](/uploads/2013/02/dsc01614-scaled1000.jpg)</div>They also sent me a picture of the open box.
+<div>![](/uploads/2013/02/dsc01613-scaled1000.jpg)</div><div></div><div></div><div>![](/uploads/2013/02/dsc01614-scaled1000.jpg)</div>They also sent me a picture of the open box.
 
-<div class="p_embed p_image_embed"></div><div>![](/uploads/2013/02/dsc01617-scaled1000.jpg)</div>I may be poor sighted, but I don’t see anything wrong with it, just a box that has been opened. **How come there are no pictures of the box before opening if it was battered?**
+<div>![](/uploads/2013/02/dsc01617-scaled1000.jpg)</div>I may be poor sighted, but I don’t see anything wrong with it, just a box that has been opened. **How come there are no pictures of the box before opening if it was battered?**
 
 Basically they refused to repair my computer and have sent it back (I don’t know how it will arrive) **without honoring the warranty and, on top of it, having broken it while on repair**.
 
