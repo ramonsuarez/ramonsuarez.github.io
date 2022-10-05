@@ -13,4 +13,4 @@ geo_public:
 ---
 <iframe allowfullscreen="true" frameborder="0" height="1052" marginheight="0" marginwidth="0" mozallowfullscreen="true" src="https://docs.google.com/forms/d/e/1FAIpQLSerPrYxhHkx55PoPtZrKvolDDw5Q-sMc5akSpWP4j0SxsjmzA/viewform?embedded=true" webkitallowfullscreen="true" width=""></iframe>
 
-![](https://ramonsuarez.files.wordpress.com/2018/10/img_20181024_103114.jpg)
+![](/uploads/2018/10/img_20181024_103114.jpg)

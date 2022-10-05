@@ -41,7 +41,7 @@ I’ve sent a few messages offering one on one help and also to organize a conf 
 
 Just in case, on top of the guidelines and the emails new users get, I’ve added items to the top menu to make it more helpful. Originally I just wanted to have one link there to help visitors focus on the landing page, but the top bar is common to all, also to the people that are adding listings.
 
-[![Screenshot from 2018-10-22 15-15-59](https://ramonsuarez.files.wordpress.com/2018/10/screenshot-from-2018-10-22-15-15-59.png)](https://www.coworking.space)
+[![Screenshot from 2018-10-22 15-15-59](/uploads/2018/10/screenshot-from-2018-10-22-15-15-59.png)](https://www.coworking.space)
 
 I even left it grey, a color I hate for text, to hide it a bit. Maybe I should be more blunt.
 
