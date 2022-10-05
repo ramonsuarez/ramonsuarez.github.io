@@ -15,7 +15,7 @@ tags:
     - stats
 post_format: []
 ---
-> <div><table><tbody><tr><td colspan="2">Charts of Founder Institute Age Analysis</td></tr><tr><td>Age of All Founder Institute Applicants ![](http://www.founderinstitute.com/images/charts/Fig1-Applicants_Age.png)</td><td>Accuracy of Founder Institute Predictive Testing ![](http://www.founderinstitute.com/images/charts/Fig2-Test_Accuracy.png)</td></tr><tr><td>Success of Founder Institute Grads ![](http://www.founderinstitute.com/images/charts/Fig3-Grads_Success.png)</td><td>Age of Founder Institute Grads ![](http://www.founderinstitute.com/images/charts/Fig4-Grads_Age.png)</td></tr></tbody></table>
+> <table><tbody><tr><td colspan="2">Charts of Founder Institute Age Analysis</td></tr><tr><td>Age of All Founder Institute Applicants ![](http://www.founderinstitute.com/images/charts/Fig1-Applicants_Age.png)</td><td>Accuracy of Founder Institute Predictive Testing ![](http://www.founderinstitute.com/images/charts/Fig2-Test_Accuracy.png)</td></tr><tr><td>Success of Founder Institute Grads ![](http://www.founderinstitute.com/images/charts/Fig3-Grads_Success.png)</td><td>Age of Founder Institute Grads ![](http://www.founderinstitute.com/images/charts/Fig4-Grads_Age.png)</td></tr></tbody></table>
 > 
 > </div>
 

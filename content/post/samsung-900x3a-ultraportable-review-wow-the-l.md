@@ -49,7 +49,7 @@ The **main negative point** for me is here: **the battery can not be taken out e
 
 <div class="p_embed p_image_embed">[![Media_https0i1picplzt_fcxaw](http://getfile1.posterous.com/getfile/files.posterous.com/ramonsuarez/jznazuhnFoalxBGzJyHcxgjbdcxnupffuiCjFHyeBHlGjEkqAmsdmzmtombn/media_https0i1picplzt_fCxaw.jpg.scaled500.jpg)](http://getfile7.posterous.com/getfile/files.posterous.com/ramonsuarez/jznazuhnFoalxBGzJyHcxgjbdcxnupffuiCjFHyeBHlGjEkqAmsdmzmtombn/media_https0i1picplzt_fCxaw.jpg.scaled1000.jpg)</div>As soon as I got the ultraportable I put my hands into linuxifying it. My working operating system is Linux and I needed to see if there where any hardware problems. [Installing Ubuntu on the Samsung 9003xa](http://ramonsuarez.com/how-to-install-ubuntu-in-a-samsung-900x3a-ult "Ubuntu Install Samsung 900x3a") is easy as soon as you learn that you have to install on the right side port.
 
-Overall Ubuntu worked fine, except for a very **anoying problem with the mousepad**, which meant that I had to choose between being able to click &amp; drag and to scroll. Any of these two choices is bad and reduces productivity a lot.
+Overall Ubuntu worked fine, except for a very **anoying problem with the mousepad**, which meant that I had to choose between being able to click & drag and to scroll. Any of these two choices is bad and reduces productivity a lot.
 
 The **procesor** was strong enought to do some basic [video editing with Kdenlive](http://www.kdenlive.org/ "Kdenlive is the best Linux video editor"), but I guess all of todays’ computers are easily capable of doing so. Overall the computer was not superfast, but quite good. I am looking for a bit more punch in my next portable computer.
 

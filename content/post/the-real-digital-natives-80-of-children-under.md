@@ -17,7 +17,7 @@ tags:
     - stats
 post_format: []
 ---
-> <div>![](http://9.mshcdn.com/wp-content/uploads/2011/03/baby_computer.jpg)Nearly 80% of children between the ages of 0 and 5 use the Internet on at least a weekly basis in the United States, according to a report released Monday from education non-profit organizations Joan Ganz Cooney Center and Sesame Workshop.
+> ![](http://9.mshcdn.com/wp-content/uploads/2011/03/baby_computer.jpg)Nearly 80% of children between the ages of 0 and 5 use the Internet on at least a weekly basis in the United States, according to a report released Monday from education non-profit organizations Joan Ganz Cooney Center and Sesame Workshop.
 > 
 > The [report](http://joanganzcooneycenter.org/Reports-28.html), which was assembled using data from seven recent studies, indicates that young children are increasingly consuming all types of digital media, in many cases consuming more than one type at once.
 > 

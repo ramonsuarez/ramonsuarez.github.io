@@ -4,7 +4,7 @@ date: '2009-12-03T10:30:00+00:00'
 status: publish
 permalink: /investors-venture-capitalists-and-business-an
 author: '@ramonsuarez'
-excerpt: 'Investors - VC &amp; Angels 123Venture (France) 360 Capital Partners (Luxembourg) A Plus Finance (France) Accel Partners (London) Actem (France) Advent (London) AGF PE (France) Allyum Alto Invest (France) Alven Capital (France) Amadeus Capital (UK) An...'
+excerpt: 'Investors - VC & Angels 123Venture (France) 360 Capital Partners (Luxembourg) A Plus Finance (France) Accel Partners (London) Actem (France) Advent (London) AGF PE (France) Allyum Alto Invest (France) Alven Capital (France) Amadeus Capital (UK) An...'
 type: post
 id: 40
 categories:
@@ -17,7 +17,7 @@ tags:
     - networking
 post_format: []
 ---
-> ## Investors – VC &amp; Angels
+> ## Investors – VC & Angels
 > 
 > - [123Venture (France)](http://www.123venture.com)
 > - [360 Capital Partners (Luxembourg)](http://www.360capitalpartners.com)
@@ -48,7 +48,7 @@ post_format: []
 > - [Carlyle (World)](http://www.carlyle.com)
 > - [CDC Entreprises (France)](http://www.cdcentreprises.fr/)
 > - [CIC Finance (France)](http://www.cicfinance.com)
-> - [D&amp;P Entrepreneurs (France)](http://www.dp-finance.fr)
+> - [D&P Entrepreneurs (France)](http://www.dp-finance.fr)
 > - [Eden Ventures (UK)](http://www.edenventures.co.uk "Eden Ventures (UK)")
 > - [Elaia Partners (France)](http://www.elaia.com)
 > - [Emerge](http://www.emerge.be/ "Emerge")

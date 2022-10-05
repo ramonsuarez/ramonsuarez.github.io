@@ -37,6 +37,6 @@ post_format: []
 > 
 > ***[Ramón Suárez](http://ramonsuarez.com/)** es el **corresponsal de Loogic en Plugg**, desde donde nos mantendrá informados del desarrollo del evento. Ramón es un español residente en Bruselas, donde trabaja como consultor independiente en el uso empresarial de nuevas tecnologías. Reciéntemente organizó una delegación de [emprendedores Web belgas](http://loogic.com/emprendedores-web-europeos-en-bruselas-plugg/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Loogiccom+%28Loogic.com%29/../construyendo-la-europa-de-los-emprendedores-en-ebe09/) que presentaron sus iniciativas en el [Evento Blog España 2009](http://www.eventoblog.com/). También es consejero del [Beta Group](http://www.betagroup.be/), el principal evento para iniciadores Web en Bélgica.*
 
-via [loogic.com](http://loogic.com/emprendedores-web-europeos-en-bruselas-plugg "Mensaje original en Loogic")</div>A guest post about [Plugg](http://plugg.eu) in [Loogic.com](http://loogic.com), the Spanish website for Internet Entrepreneurship. I will be their correspondant at this years’ Plugg Web &amp; Mobile 2.0 conference in Brussels.
+via [loogic.com](http://loogic.com/emprendedores-web-europeos-en-bruselas-plugg "Mensaje original en Loogic")</div>A guest post about [Plugg](http://plugg.eu) in [Loogic.com](http://loogic.com), the Spanish website for Internet Entrepreneurship. I will be their correspondant at this years’ Plugg Web & Mobile 2.0 conference in Brussels.
 
 </div>

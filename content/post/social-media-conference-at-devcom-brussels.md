@@ -30,11 +30,11 @@ post_format: []
 > Manager de projets innovants, Consultant e-commerce Technofutur TIC  
 > Expert Web  
 > Initiateur de programmes publics TIC  
-> Créateur et coordinateur du PR&amp;D  
+> Créateur et coordinateur du PR&D  
 > Organisateur de Solutions Business, des Rewics, de la Semaine Numérique  
 > Auditeur e-business près la Région wallonne  
 > Conférencier et chargé de cours universitaire</td></tr><tr><td valign="top">![Ramon SUAREZ VASQUEZ, New Media Business & Marketing Consultant CLEVERWOOD](http://www.mlg-consulting.com/manager_cc/contacts/img_uploaded/100113114614_ramon.jpg)</td><td class="txt" valign="top">[**Ramon SUAREZ VASQUEZ**](http://twitter.com/ramonsuarez "Ramon's Twitter")  
-> New Media Business &amp; Marketing Consultant CLEVERWOOD  
+> New Media Business & Marketing Consultant CLEVERWOOD  
 > Ramón Suárez is a new media business and marketing consultant passionate about internet and mobile communications. With more than 10 years of experience, he helps clients find and implement the best solution to reach their strategic business goals.</td></tr></tbody></table>
 > 
 > <table border="0"><tbody><tr><td colspan="4">## Animated by

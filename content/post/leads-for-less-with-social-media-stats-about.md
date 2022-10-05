@@ -16,11 +16,11 @@ tags:
     - stats
 post_format: []
 ---
-> <div>## Leads for Less with Social Media
+> ## Leads for Less with Social Media
 > 
-> </div><div>#### FEBRUARY 25, 2010
+> #### FEBRUARY 25, 2010
 > 
-> </div><div>### Social media, blogs and search engine optimization more cost-effective for lead gen
+> ### Social media, blogs and search engine optimization more cost-effective for lead gen
 > 
 > </div>Pull marketing tactics such as search, blog and social media generate cheaper leads than more traditional outbound efforts, according to data from inbound online marketing platform [HubSpot](http://www.hubspot.com).
 > 

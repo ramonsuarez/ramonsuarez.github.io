@@ -61,7 +61,7 @@ post_format: []
 > 
 > [Farmers Insurance Social Media Marketing Case Study: Utilizing FarmVille for FB Brand Awareness](http://windmillnetworking.com/2010/10/20/farmers-insurance-social-media-marketing-case-study-utilizing-farmville-for-facebook-brand-awareness/) \[32\]
 > 
-> ### **Page Design &amp; Development**
+> ### **Page Design & Development**
 > 
 > [HOW TO: Build a Facebook Landing Page for Your Business](http://mashable.com/2010/02/22/build-facebook-landing-page/) by Matt Silverman \[2,570\]
 > 
@@ -83,7 +83,7 @@ post_format: []
 > 
 > Another in depth look on how to utilize Static FBML in personalizing your Page, this time coming from Social Media Examiner. Dig into this for a little more detailed look at tips like embedding YouTube videos and creating images with clickable links for your Page.
 > 
-> [10 Tips &amp; Tricks For You  
+> [10 Tips & Tricks For You  
 > r Business???s Facebook Fan Page](http://www.hongkiat.com/blog/tips-tricks-for-your-business-facebook-fan-page/) by Michael Vreeken \[787\]
 > 
 > More tips on tricks on FBML programming on your Page to include elements such as hiding content from non-fans, inserting Flash content, and adding a ???Invite Your Friends??? box.

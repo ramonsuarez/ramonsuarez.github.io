@@ -30,7 +30,7 @@ publicize_google_plus_url:
 video_background:
     - ''
 ---
-<div class="wp-block-image"><figure class="aligncenter">![](/uploads/2019/01/fail.gif)</div>The end of 2018 has not been good for my [challenge](https://ramonsuarez.com/challenge-projects/). I’ve stalled with the creation of the [video course](https://ramonsuarez.com/new-project-coworking-course/) and kept on extending a deadline that was just too soft. Here’s the recap of what I’ve learned and what comes next.
+![](/uploads/2019/01/fail.gif)</div>The end of 2018 has not been good for my [challenge](https://ramonsuarez.com/challenge-projects/). I’ve stalled with the creation of the [video course](https://ramonsuarez.com/new-project-coworking-course/) and kept on extending a deadline that was just too soft. Here’s the recap of what I’ve learned and what comes next.
 
 Deadlines need to be precise
 ----------------------------

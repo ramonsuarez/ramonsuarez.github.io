@@ -42,9 +42,9 @@ Immediately after this they sent another **email with pictures of the damage tha
 
 ![](/uploads/2013/02/dsc01612-scaled1000.jpg)
 
-<div>![](/uploads/2013/02/dsc01613-scaled1000.jpg)</div><div></div><div class="p_embed p_image_embed"></div><div></div><div>![](/uploads/2013/02/dsc01614-scaled1000.jpg)</div>They also sent me a picture of the open box.
+![](/uploads/2013/02/dsc01613-scaled1000.jpg)</div><div class="p_embed p_image_embed">![](/uploads/2013/02/dsc01614-scaled1000.jpg)</div>They also sent me a picture of the open box.
 
-<div class="p_embed p_image_embed"></div><div>![](/uploads/2013/02/dsc01617-scaled1000.jpg)</div>I may be poor sighted, but I don’t see anything wrong with it, just a box that has been opened. **How come there are no pictures of the box before opening if it was battered?**
+<div class="p_embed p_image_embed">![](/uploads/2013/02/dsc01617-scaled1000.jpg)</div>I may be poor sighted, but I don’t see anything wrong with it, just a box that has been opened. **How come there are no pictures of the box before opening if it was battered?**
 
 Basically they refused to repair my computer and have sent it back (I don’t know how it will arrive) **without honoring the warranty and, on top of it, having broken it while on repair**.
 

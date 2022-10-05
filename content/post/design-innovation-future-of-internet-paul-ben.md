@@ -24,7 +24,7 @@ IDEO’s journey current stage is Framing: design redefines the challenges facin
 
 Design is about change, impact and optimism.
 
-Now dealing with bigger issues: design of everyday life, social interactions &amp; behaviors, countries and societies.
+Now dealing with bigger issues: design of everyday life, social interactions & behaviors, countries and societies.
 
 Design with, not for.
 

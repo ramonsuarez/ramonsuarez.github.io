@@ -4,16 +4,16 @@ date: '2010-12-12T19:35:00+00:00'
 status: publish
 permalink: /the-world-is-blue-facebooks-social-network-do
 author: '@ramonsuarez'
-excerpt: 'World Map of Social Networks A brand new map of the world, showing the most popular social networks by country, according to Alexa &amp; Google Trends for Websites traffic data\* (December 2010). I???ve decided to drop Many Eyes and redesign the map in o...'
+excerpt: 'World Map of Social Networks A brand new map of the world, showing the most popular social networks by country, according to Alexa & Google Trends for Websites traffic data\* (December 2010). I???ve decided to drop Many Eyes and redesign the map in o...'
 type: post
 id: 274
 categories:
 tag: []
 post_format: []
 ---
-> <div>### World Map of Social Networks
+> ### World Map of Social Networks
 > 
-> A brand new map of the world, showing the most popular social networks by country, according to [Alexa](http://www.alexa.com/) &amp; [Google Trends for Websites](http://trends.google.com/websites) traffic data\* (December 2010).  
+> A brand new map of the world, showing the most popular social networks by country, according to [Alexa](http://www.alexa.com/) & [Google Trends for Websites](http://trends.google.com/websites) traffic data\* (December 2010).  
 > I???ve decided to drop Many Eyes and redesign the map in order to give each social network a fixed colour to ease comparability over time. Below you will find an updated version plus an infographic poster of all changes since June 2009.
 > 
 > [![](http://www.vincos.it/wp-content/uploads/2010/12/WMSN1210-570.png "WMSN1210-570")](http://www.vincos.it/wp-content/uploads/2010/12/WMSN1210.png)
@@ -51,10 +51,10 @@ post_format: []
 > 
 > ///////////////////////////////////////////////////////////////////////////////
 > 
-> A map of the world, showing the most popular social networks by country, according to Alexa &amp; Google Trends for Websites traffic data\* (June 2010).  
+> A map of the world, showing the most popular social networks by country, according to Alexa & Google Trends for Websites traffic data\* (June 2010).  
 > Please share, like and help me to improve it with your comments !
 > 
-> <div>[![wmsn-01-10](http://www.vincos.it/wp-content/uploads/2010/06/wmsn-01-10-446.png "wmsn-01-10")](http://www.vincos.it/wp-content/uploads/2010/06/wmsn-01-10.png)The World Map of Social Networks – by Vincenzo Cosenza
+> [![wmsn-01-10](http://www.vincos.it/wp-content/uploads/2010/06/wmsn-01-10-446.png "wmsn-01-10")](http://www.vincos.it/wp-content/uploads/2010/06/wmsn-01-10.png)The World Map of Social Networks – by Vincenzo Cosenza
 > 
 > </div> [Grab the embedding code](http://manyeyes.alphaworks.ibm.com/manyeyes/visualizations/world-map-of-social-networks-jun-2)
 > 
@@ -82,7 +82,7 @@ post_format: []
 > 
 > ///////////////////////////////////////////////////////////////////////////////
 > 
-> A map of the world, showing the most popular social networks by country, according to Alexa &amp; Google Trends for Websites traffic data\* (December 2009).
+> A map of the world, showing the most popular social networks by country, according to Alexa & Google Trends for Websites traffic data\* (December 2009).
 > 
 > Please share and help me to improve it with your comments !
 > 
@@ -111,11 +111,11 @@ post_format: []
 > 
 > ///////////////////////////////////////////////////////////////////////////////
 > 
-> <div>A map of the world, showing the most popular social networks by country, according to Alexa &amp; Google Trends for Websites traffic data\* (June 2009).
+> A map of the world, showing the most popular social networks by country, according to Alexa & Google Trends for Websites traffic data\* (June 2009).
 > 
 > Please share and help me to improve it with your comments !
 > 
-> </div><div>[![wmsn-06-09-450](http://www.vincos.it/wp-content/uploads/2009/06/wmsn-06-09-450.png "wmsn-06-09-450")](http://www.vincos.it/wp-content/uploads/2009/06/wmsn-06-09.png)The World Map of Social Networks – by Vincenzo Cosenza
+> [![wmsn-06-09-450](http://www.vincos.it/wp-content/uploads/2009/06/wmsn-06-09-450.png "wmsn-06-09-450")](http://www.vincos.it/wp-content/uploads/2009/06/wmsn-06-09.png)The World Map of Social Networks – by Vincenzo Cosenza
 > 
 > </div> [Grab the embedding code](http://manyeyes.alphaworks.ibm.com/manyeyes/visualizations/world-map-of-social-networks-june-20-2)
 > 
@@ -151,7 +151,7 @@ post_format: []
 > 
 > \_\_\_\_\_\_\_\_
 > 
-> \* Data based on Alexa &amp; Google Trends for Website results:
+> \* Data based on Alexa & Google Trends for Website results:
 > 
 > – ???Alexa???s traffic rankings are based on the usage patterns of Alexa Toolbar users and data collected from other, diverse sources over a rolling 3 month period. A site???s ranking is based on a combined measure of reach (unique Alexa users who visit a site on a given day) and pageviews (the total number of Alexa user URL requests for a site).???
 > 

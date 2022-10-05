@@ -20,10 +20,10 @@ tags:
     - steveblank
 post_format: []
 ---
-> <div>[Worldwide Premiere! Presentation of the French Translation of Steve Blank’s The Four Steps to the Epiphany ](http://coworking.betagroup.be/1/post/2011/05/worldwide-premiere-presentation-of-the-french-translation-of-steve-blanks-the-four-steps-to-the-epiphany.html) 05/05/2011</div><div>[0 Comments](http://coworking.betagroup.be/1/post/2011/05/worldwide-premiere-presentation-of-the-french-translation-of-steve-blanks-the-four-steps-to-the-epiphany.html#comments)</div><div><div><div style="text-align:center;">[![Picture](http://coworking.betagroup.be/uploads/5/5/4/2/5542907/673551105.png)](http://www.amiando.com/leanstartupbe.html)  
+> [Worldwide Premiere! Presentation of the French Translation of Steve Blank’s The Four Steps to the Epiphany ](http://coworking.betagroup.be/1/post/2011/05/worldwide-premiere-presentation-of-the-french-translation-of-steve-blanks-the-four-steps-to-the-epiphany.html) 05/05/2011[0 Comments](http://coworking.betagroup.be/1/post/2011/05/worldwide-premiere-presentation-of-the-french-translation-of-steve-blanks-the-four-steps-to-the-epiphany.html#comments)<div style="text-align:center;">[![Picture](http://coworking.betagroup.be/uploads/5/5/4/2/5542907/673551105.png)](http://www.amiando.com/leanstartupbe.html)  
 >  </div></div><div class="paragraph editable-text" style="text-align:left;">The [Betagroup Coworking Brussels](http://coworking.betagroup.be/index.html) is proud to host the worlwide premiere of the brand new translation in French of the Lean Startup and Customer Development bible: **The** **Four Steps to the Epiphany**, now also known as [Les 4 ??tapes vers l’??piphanie](http://www.amiando.com/leanstartupbe.html).When [Antoine Bruyns](http://antoinebruyns.com/) contacted us, we knew instantly that we had to do it. He’s an example of the kind of entrepreneurial individual that makes things happen: he contacted [Steve Blank](http://en.wikipedia.org/wiki/Steven_Gary_Blank) and offered to do the translation. Then, he has spent a lot of hours after his job to help with the promotion of this concepts in French. Don’t let the title misslead you, this book synthesizes the **basic steps to bring a product to market**, nothing to do with religion.
 > 
-> I, Ramon, have a lot of interest in everything [Lean Startup](http://en.wikipedia.org/wiki/Lean_Startup) and [Customer Development](http://en.wikipedia.org/wiki/Steven_Gary_Blank#Customer_Development), and so do a lot of the entrepreneurial minds around the Betagroup. **This is the perfect opportunity for the CustDev &amp; Lean Startup communities to get together in Brussels**.
+> I, Ramon, have a lot of interest in everything [Lean Startup](http://en.wikipedia.org/wiki/Lean_Startup) and [Customer Development](http://en.wikipedia.org/wiki/Steven_Gary_Blank#Customer_Development), and so do a lot of the entrepreneurial minds around the Betagroup. **This is the perfect opportunity for the CustDev & Lean Startup communities to get together in Brussels**.
 > 
 > - When: **May 19 2011, from 18h30**.
 > - At: Betacowork ([how to get to the Betagroup Coworking Brussels](http://coworking.betagroup.be/contact.html))
@@ -35,4 +35,4 @@ post_format: []
 > 
 > </div></div>
 
-via [coworking.betagroup.be](http://coworking.betagroup.be/1/post/2011/05/worldwide-premiere-presentation-of-the-french-translation-of-steve-blanks-the-four-steps-to-the-epiphany.html)</div><div></div></div>
+via [coworking.betagroup.be](http://coworking.betagroup.be/1/post/2011/05/worldwide-premiere-presentation-of-the-french-translation-of-steve-blanks-the-four-steps-to-the-epiphany.html)</div></div>

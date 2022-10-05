@@ -18,4 +18,4 @@ post_format: []
 ---
 [ ](http://www.solvay.edu/mba)
 
-<div class="p_embed p_image_embed">[![Video-ramonsuarez-sbsem-homepa](http://getfile4.posterous.com/getfile/files.posterous.com/ramonsuarez/QrHRW1aW9N8lDaILKYNxmrF3bzbWIXrbTIKf7qtT1rCXjdWJw0PUBQIwKlXN/Video-ramonsuarez-sbsem-homepa.png.scaled.500.jpg)](http://getfile3.posterous.com/getfile/files.posterous.com/ramonsuarez/M5nWfeFXTxp610Zt1PA0Jz2Khj74nmqJQ72v1dtvy1ekkipIjzndGx0mOTTp/Video-ramonsuarez-sbsem-homepa.png)</div><div></div>
+<div class="p_embed p_image_embed">[![Video-ramonsuarez-sbsem-homepa](http://getfile4.posterous.com/getfile/files.posterous.com/ramonsuarez/QrHRW1aW9N8lDaILKYNxmrF3bzbWIXrbTIKf7qtT1rCXjdWJw0PUBQIwKlXN/Video-ramonsuarez-sbsem-homepa.png.scaled.500.jpg)](http://getfile3.posterous.com/getfile/files.posterous.com/ramonsuarez/M5nWfeFXTxp610Zt1PA0Jz2Khj74nmqJQ72v1dtvy1ekkipIjzndGx0mOTTp/Video-ramonsuarez-sbsem-homepa.png)</div>

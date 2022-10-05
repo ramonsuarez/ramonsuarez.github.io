@@ -70,7 +70,7 @@ post_format: []
 >   - [Web Innovators Group (Boston)](http://www.webinnovatorsgroup.com/)
 >   - [Y Combinator (USA)](http://ycombinator.com/)
 >   - [Y Europe (Austria)](http://www.yeurope.net/)
-> 4. ## Investors – VC &amp; Angels
+> 4. ## Investors – VC & Angels
 >   
 >   
 >   - [123Venture (France)](http://www.123venture.com)
@@ -102,7 +102,7 @@ post_format: []
 >   - [Carlyle (World)](http://www.carlyle.com)
 >   - [CDC Entreprises (France)](http://www.cdcentreprises.fr/)
 >   - [CIC Finance (France)](http://www.cicfinance.com)
->   - [D&amp;P Entrepreneurs (France)](http://www.dp-finance.fr)
+>   - [D&P Entrepreneurs (France)](http://www.dp-finance.fr)
 >   - [Eden Ventures (UK)](http://www.edenventures.co.uk "Eden Ventures (UK)")
 >   - [Elaia Partners (France)](http://www.elaia.com)
 >   - [Emerge](http://www.emerge.be/ "Emerge")
@@ -198,7 +198,7 @@ post_format: []
 
 via [betagroup.be](http://www.betagroup.be/)</div>Thanks to [Jean Derely](http://be.linkedin.com/in/jderely) for improving this list on and on.
 
-In case you do not know about it, the [Beta Group ](http://www.betagroup.be/) is the largest Internet &amp; Tech entrepreneurship networking event in Belgium, with about 350 attendees in each of its monthly meetups. The event consists of a pitch slam with six startups showcasing their products, short requests and announcements from the audience (the *live tweets*), and lots of networking over free warm beer. A must.
+In case you do not know about it, the [Beta Group ](http://www.betagroup.be/) is the largest Internet & Tech entrepreneurship networking event in Belgium, with about 350 attendees in each of its monthly meetups. The event consists of a pitch slam with six startups showcasing their products, short requests and announcements from the audience (the *live tweets*), and lots of networking over free warm beer. A must.
 
 Disclosure: I am a member of the Beta Group’s council, and proud of it!
 

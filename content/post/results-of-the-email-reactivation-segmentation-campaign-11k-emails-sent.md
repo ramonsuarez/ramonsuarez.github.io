@@ -34,7 +34,7 @@ publicize_google_plus_url:
 video_background:
     - ''
 ---
-<div class="wp-block-image"><figure class="aligncenter">![](https://media.giphy.com/media/DupMFENd0g6bu/giphy.gif)</div>After a while longer than expected all the emails have been sent and the feedback is very positive, although the number of subscriptions are not that big.
+![](https://media.giphy.com/media/DupMFENd0g6bu/giphy.gif)</div>After a while longer than expected all the emails have been sent and the feedback is very positive, although the number of subscriptions are not that big.
 
 Super Positive Emails
 ---------------------
@@ -70,7 +70,7 @@ There have also been **1193 visits to the blog** since I got back and I have to 
 
 ![](/uploads/2018/11/november-stats-ramonsuarez-com-wordpress-com1.png)As I said, not impressive numbers but infinitely better than zero. There’s some momentum to build on and some compound interests accruing towards the future 🙂
 
-List &amp; Add-On Problems: Email Verifier App &amp; Mail Merge with Attachments 
+List & Add-On Problems: Email Verifier App & Mail Merge with Attachments 
 ---------------------------------------------------------------------------------
 
 The service I used to clean up the list (twice) did not really do a good job. **Email Verifier App** gave me a guaranteed delivery list that had plenty of undeliverable messages and generic emails that should have been cleaned out. On top of this, because I misunderstood the credits left in my account I ended up paying $105 for extra credits that I did not need and that I’m never going to use. Even though I contacted them immediately through their chatbot and latter on via email they rejected to reimburse. If you need to clean up 80000 emails I have cheap credits for you!

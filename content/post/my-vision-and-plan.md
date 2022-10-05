@@ -61,7 +61,7 @@ These are all the things that I want to have, to do, and to be in my life:
 3. **Always be learning and practicing.**
 4. **Contribute.**
 5. **Time and financial independence.**
-6. **Target pistol mastery &amp; competition.**
+6. **Target pistol mastery & competition.**
 
 ![](/uploads/2019/05/my-aspirational-vision-1024x1024.jpg)### Great father and husband
 
@@ -77,7 +77,7 @@ I have to be in good shape to be able to be the father and husband I want to be,
 
 I grow by doing. Learning and doing are part of me and they help with all aspects of my life. I have a growth mindset. I have to keep on learning, but theory is not enough, practice is key. I guess that’s why [I’ve written three manuals](https://www.goodreads.com/author/show/7992456.Ram_n_Su_rez_V_zquez) and my course and publishing projects are based on my experience: theory is not enough. In fact, if you stick only to theory you are going to be learning way too many things that are wrong. Practice brings reality into your knowledge and a better understanding.
 
-<div class="wp-block-image"><figure class="aligncenter">![](/uploads/2019/04/i-grow-by-doing.-my-motivation-optimism-and-honesty-help-me-enjoy-life-fully..png)</div>### Contribute
+![](/uploads/2019/04/i-grow-by-doing.-my-motivation-optimism-and-honesty-help-me-enjoy-life-fully..png)</div>### Contribute
 
 I am a positive force of change in the world. I contribute. I don’t whine. I look for the positive to learn and to change things. This includes helping and is intimately linked with me sharing my knowledge through blogs, articles, conferences, books, mentoring… I help make things better. When I find a problem I try to find or create a solution.
 
@@ -87,7 +87,7 @@ I want to have a fulfilling professional life as an entrepreneur working under 2
 
 The reason for this is not to slack every day, is to have time to do other things like learning, practicing sports, and spending time with my family and with myself. I know I will have to work more than this many times, and to reach it I will probably have to put in a lot of hours, and that is not an issue. I am good at working hard, I’m learning to work smarter.
 
-### Target pistol mastery &amp; competition
+### Target pistol mastery & competition
 
 [I love target shooting](https://www.olympicpistol.com). For the last two years I’ve been practicing it regularly and view it as a form of mindfulness. It is complementary to my meditation and to a lot of the work I do to improve myself. In fact, I started journaling to keep track of my training sessions and to see what to improve based on the book [With Winning in Mind](https://amzn.to/2WQefcw).
 
@@ -127,7 +127,7 @@ These are the things I’m going to do to keep each goal on track and their due 
 
 - Find and contract web designer/dev. Due week 1.
 - Select 3-4 copywriters to work with. Done.
-- Order [The Coworking Handbook](https://www.coworkinghandbook.com) drip &amp; implement it. Due weeks 1 and 3.
+- Order [The Coworking Handbook](https://www.coworkinghandbook.com) drip & implement it. Due weeks 1 and 3.
 - Order coworking handbook landing page to sell books and implement. Due weeks 1 and 3.
 - Order coworking handbook landing page to sell coworking community courses and implement. Due weeks 1 and 3.
 - Order coworking community course drip and implement. Due weeks 1 and 3.

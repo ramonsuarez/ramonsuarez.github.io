@@ -69,7 +69,7 @@ The presentation was broadcasted live by the event organizers, but I have not be
   ??
 8. TOP European??blogs?? 6 Political, 4 Tech
   
-  3 English, 3 Spanish, 2 German, 1 Italian &amp; 1 French
+  3 English, 3 Spanish, 2 German, 1 Italian & 1 French
 9. Top 50 European blogs (Alianzo)
 10. [Iain Dale’s Diary](http://iaindale.blogspot.com/ "Iain Dale's Diary blog")
 11. [Netzpolitik.org](http://www.netzpolitik.org/ "Netzpolitik.org political blog")
@@ -78,7 +78,7 @@ The presentation was broadcasted live by the event organizers, but I have not be
 14. Subject of the European blogs others 7%
   
   Politics??16%   
-   Gossip&amp;Celebrities ??17%
+   Gossip&Celebrities ??17%
   
   Personal??12%
   
@@ -160,7 +160,7 @@ The presentation was broadcasted live by the event organizers, but I have not be
   
   ??? Networked in???uence
 28. Thank You! ??Muchas gracias!   
-  Survey &amp; Work made  
+  Survey & Work made  
    by
   
   Jonan Basterra [@Pixel\_Jonan ](http://twitter.com/pixel_jonan "Jonan Basterra, aka Pixel")

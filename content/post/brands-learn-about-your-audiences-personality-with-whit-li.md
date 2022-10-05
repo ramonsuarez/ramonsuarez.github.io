@@ -57,4 +57,4 @@ All the analysis is based on your Twitter interactions, and it needs to have at 
 
 For SXSW they have released at the brand application, where you can see the segments of followers of your brand and your competitors.
 
-[*Subscribe to my channel*](https://www.youtube.com/ramonsuarezv) *for more tech startup &amp; collaborative working videos.*
+[*Subscribe to my channel*](https://www.youtube.com/ramonsuarezv) *for more tech startup & collaborative working videos.*

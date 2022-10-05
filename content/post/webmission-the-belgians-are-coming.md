@@ -4,7 +4,7 @@ date: '2010-02-24T09:38:50+00:00'
 status: publish
 permalink: /webmission-the-belgians-are-coming
 author: '@ramonsuarez'
-excerpt: 'Webmission: The Belgians Are Coming! What is a WebmissionA Webmission is a delegation of Belgian Web, Tech &amp; Mobile entrepreneurs that travel abroad to promote their companies and to network, taking advantage of an international Internet/Tech even...'
+excerpt: 'Webmission: The Belgians Are Coming! What is a WebmissionA Webmission is a delegation of Belgian Web, Tech & Mobile entrepreneurs that travel abroad to promote their companies and to network, taking advantage of an international Internet/Tech even...'
 type: post
 id: 70
 categories:
@@ -18,11 +18,11 @@ post_format: []
 > 
 > # What is a Webmission
 > 
-> A Webmission is a delegation of Belgian Web, Tech &amp; Mobile entrepreneurs that travel abroad to promote their companies and to network, taking advantage of an international Internet/Tech event and the secondary happenings around it.
+> A Webmission is a delegation of Belgian Web, Tech & Mobile entrepreneurs that travel abroad to promote their companies and to network, taking advantage of an international Internet/Tech event and the secondary happenings around it.
 > 
 > # Mission
 > 
-> To promote Belgian Web, Tech &amp; Mobile entrepreneurship abroad, by increasing its visibility and international network.
+> To promote Belgian Web, Tech & Mobile entrepreneurship abroad, by increasing its visibility and international network.
 > 
 > # Vision
 > 
@@ -32,7 +32,7 @@ post_format: []
 > 
 > We are a group of entrepreneurs, bloggers, journalists, developers and Tech enthusiasts from the three regions of Belgium that have voluntarily joined forces to promote the many good ideas and projects that are brewing in the country.
 > 
-> We gather and promote the Webmissions from the [Beta Group](http://www.betagroup.be/) as a starting point to reach the whole of the Belgian Web &amp; Tech industry.
+> We gather and promote the Webmissions from the [Beta Group](http://www.betagroup.be/) as a starting point to reach the whole of the Belgian Web & Tech industry.
 > 
 > The Beta Group is the more important Web entrepreneurship networking event in Belgium. It gathers more than 300 people every month for the presentation of Startups and has over 2200 members.
 > 
@@ -42,7 +42,7 @@ post_format: []
 > 
 > ## [Webmission 1: Google I/O](http://wiki.webmission.be/wmsf09) (San Francisco, USA) – May 2009
 > 
-> [Laurent Eschenauer](http://eschnou.com/) was invited to Google I/0 to present his project: [Storytlr](http://storytlr.com/). With the support of [Xavier Damman](http://www.xavierdamman.be/blog/), they decided to take advantage of the opportunity and rally a group of entrepreneurs and journalists to go with them to San Francisco. Among other things, together with Antoine Perdaens they organized a special Beta Group in San Francisco to present Belgian companies in collaboration with [SFNewtech](http://sfnewtech.com/) and with the support of [AWEX](http://www.belgiantrade.org/) and [Sun Startup Essentials](http://www.sun.com/startupessentials/). So far, 12 entrepreneurs joined the trip and 6 start-ups presented their products at the SF new Tech meeting. Some of them had an opportunity to present their project in front of VCs at the Plug&amp;Play annual conference and also to join the first twitter developer conference.
+> [Laurent Eschenauer](http://eschnou.com/) was invited to Google I/0 to present his project: [Storytlr](http://storytlr.com/). With the support of [Xavier Damman](http://www.xavierdamman.be/blog/), they decided to take advantage of the opportunity and rally a group of entrepreneurs and journalists to go with them to San Francisco. Among other things, together with Antoine Perdaens they organized a special Beta Group in San Francisco to present Belgian companies in collaboration with [SFNewtech](http://sfnewtech.com/) and with the support of [AWEX](http://www.belgiantrade.org/) and [Sun Startup Essentials](http://www.sun.com/startupessentials/). So far, 12 entrepreneurs joined the trip and 6 start-ups presented their products at the SF new Tech meeting. Some of them had an opportunity to present their project in front of VCs at the Plug&Play annual conference and also to join the first twitter developer conference.
 > 
 > With their example of collaborative work, they set up a proactive model for others to follow.
 > 

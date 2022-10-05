@@ -29,7 +29,7 @@ These are the projects I’m working on as part of my [entrepreneurship challeng
   1. [Launch](https://ramonsuarez.com/2018/10/16/launching-at-least-one-project-every-month-my-entrepreneurship-learning-challenge/)
   2. [Update](https://ramonsuarez.com/2018/10/22/update-on-the-launch-of-coworking-space/)
   3. [Results](https://ramonsuarez.com/2018/10/24/results-project-1-flop/)
-2. [**Email list reactivation &amp; segmentation automation**](https://ramonsuarez.com/2018/10/25/dipping-my-toes-into-email-marketing-automation/): learning the dynamics and some tools while segmenting my contacts.
+2. [**Email list reactivation & segmentation automation**](https://ramonsuarez.com/2018/10/25/dipping-my-toes-into-email-marketing-automation/): learning the dynamics and some tools while segmenting my contacts.
   1. [Launch](https://ramonsuarez.com/2018/10/25/dipping-my-toes-into-email-marketing-automation/)
   2. [Update after first week](https://ramonsuarez.com/2018/11/05/the-email-segmentation-campaign-is-rolling/)
   3. [Partial update after two weeks](https://ramonsuarez.com/2018/11/09/update-email-marketing-repurposing-outsourcing-automation/)

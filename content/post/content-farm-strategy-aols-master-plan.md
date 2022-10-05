@@ -22,7 +22,7 @@ tags:
     - sweatshop
 post_format: []
 ---
-> <div><div><div>![timarmstrongroadshow.jpg](http://static.businessinsider.com/image/4afd9c300000000000e755cc-524-393/timarmstrongroadshowjpg.jpg)</div>Tim, possibly working on “The AOL Way”
+> ![timarmstrongroadshow.jpg](http://static.businessinsider.com/image/4afd9c300000000000e755cc-524-393/timarmstrongroadshowjpg.jpg)</div>Tim, possibly working on “The AOL Way”
 > 
 > </div>Two years into his tenure as [AOL ](http://www.businessinsider.com/blackboard/aol)CEO, [Tim Armstrong](http://www.businessinsider.com/blackboard/tim-armstrong) is stepping on the gas.
 > 
@@ -76,7 +76,7 @@ post_format: []
 > - [How AOL builds cheap, Demand Media-like pages around search-friendly topics.](http://www.businessinsider.com/the-aol-way/-30)
 > - [AOL’s requirements for third-party traffic exchange partners](http://www.businessinsider.com/the-aol-way/-38)
 > 
-> <div>[Click here to see “The AOL Way” →](http://www.businessinsider.com/the-aol-way?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+businessinsider+(Business+Insider)#)</div></div>
+> [Click here to see “The AOL Way” →](http://www.businessinsider.com/the-aol-way?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+businessinsider+(Business+Insider)#)</div></div>
 
 via [businessinsider.com](http://www.businessinsider.com/the-aol-way?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+businessinsider+(Business+Insider))</div>A very interesting read about AOL’s strategy and management. It is scary to see how little people get paid, but it goes in line with what happens in journalism. Only a few make a living.
 

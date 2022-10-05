@@ -1,7 +1,7 @@
 ---
 title: 'Challenge Review'
 date: '2019-11-12T14:30:09+00:00'
-status: draft
+draft: TRUE
 permalink: '/?p=1722'
 author: ramon
 excerpt: ''
@@ -16,30 +16,31 @@ video_background:
 ---
 [2018-10-16](https://ramonsuarez.com/launching-at-least-one-project-every-month-my-entrepreneurship-learning-challenge/)
 
-<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-ramon-suarez"><div class="wp-block-embed__wrapper">> [Challenge Projects](https://www.ramonsuarez.com/challenge-projects/)
+ [Challenge Projects](https://www.ramonsuarez.com/challenge-projects/)
 
-<iframe class="wp-embedded-content" data-secret="mzKUzcxvzQ" frameborder="0" height="282" marginheight="0" marginwidth="0" sandbox="allow-scripts" scrolling="no" security="restricted" src="https://www.ramonsuarez.com/challenge-projects/embed/#?secret=dZ2nSRQ3qD#?secret=mzKUzcxvzQ" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="“Challenge Projects” — Ramon Suarez" width="500"></iframe></div>Main business + side hustle to coexist
+Main business + side hustle to coexist
 
 Learn through practice and keep brain sharp
 
-<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-ramon-suarez"><div class="wp-block-embed__wrapper">> [My Life Goals and the Plan to Implement Them Using the 12 Week Year](https://www.ramonsuarez.com/my-vision-and-plan/)
+ [My Life Goals and the Plan to Implement Them Using the 12 Week Year](https://www.ramonsuarez.com/my-vision-and-plan/)
 
-<iframe class="wp-embedded-content" data-secret="JG6NOjUROy" frameborder="0" height="282" marginheight="0" marginwidth="0" sandbox="allow-scripts" scrolling="no" security="restricted" src="https://www.ramonsuarez.com/my-vision-and-plan/embed/#?secret=owgTltJJ85#?secret=JG6NOjUROy" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="“My Life Goals and the Plan to Implement Them Using the 12 Week Year” — Ramon Suarez" width="500"></iframe></div>1. **Great father and husband.**
+
+1. **Great father and husband.**
 2. **Healthy physically and mentally.**
 3. **Always be learning and practicing.**
 4. **Contribute.**
 5. **Time and financial independence.**
-6. **Target pistol mastery &amp; competition.**
+6. **Target pistol mastery & competition.**
 
-<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">https://ramonsuarez.com/2018/11/06/this-weeks-focus-repurposing-outsourcing-automation/ </div>coworking.space
+https://ramonsuarez.com/2018/11/06/this-weeks-focus-repurposing-outsourcing-automation/ <coworking.space
 
 Email segmentation
 
-Newsletter &amp; mail list emails, onboarding &amp; outsourcing
+Newsletter & mail list emails, onboarding & outsourcing
 
 Meditate for a year
 
-Mastermind &amp; accountability
+Mastermind & accountability
 
 Shooting journal
 
@@ -47,7 +48,7 @@ Shooting course (never happened)
 
 AI experiment
 
-BIGF Method &amp; ideation sprints
+BIGF Method & ideation sprints
 
 Video course
 
@@ -61,7 +62,7 @@ coworkinghandbook.com
 
 12 Week Year (<https://ramonsuarez.com/scorecards/>)
 
-Automate &amp; outsource
+Automate & outsource
 
 Read and summarize
 
@@ -77,7 +78,7 @@ Shooting coaches directory
 
 OP sponsor outreach
 
-Repurposing &amp; outsourcing
+Repurposing & outsourcing
 
 Structuring work
 

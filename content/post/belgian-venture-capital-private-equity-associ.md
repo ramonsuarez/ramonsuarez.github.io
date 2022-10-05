@@ -4,7 +4,7 @@ date: '2012-01-11T15:58:00+00:00'
 status: publish
 permalink: /belgian-venture-capital-private-equity-associ
 author: '@ramonsuarez'
-excerpt: 'Member List Full Members 3D Participaties 3i Allegro Investment FundARKimedes FondsBecap PE Asset Managers &amp; AdvisorsBMI-SBI BNP Paribas Fortis Capricorn Venture PartnersCreafund Management E-Capital Fin.Co Gemma Frisius FondsGilde Buy-Out Partner...'
+excerpt: 'Member List Full Members 3D Participaties 3i Allegro Investment FundARKimedes FondsBecap PE Asset Managers & AdvisorsBMI-SBI BNP Paribas Fortis Capricorn Venture PartnersCreafund Management E-Capital Fin.Co Gemma Frisius FondsGilde Buy-Out Partner...'
 type: post
 id: 195
 categories:
@@ -21,7 +21,7 @@ post_format: []
 ---
 > # Member List
 > 
-> <div class="detailSubBlock"><div>## **Full Members**
+> <div class="detailSubBlock">## **Full Members**
 > 
 > [3D Participaties](http://www.bva.be/Member-List-3D-Participaties.html)
 > 
@@ -30,7 +30,7 @@ post_format: []
 > [Allegro Investment Fund  ](http://www.bva.be/46136.url)  
 > [ARKimedes Fonds  ](http://www.bva.be/Member-List-ARKimedes.html)
 > 
-> [Becap PE Asset Managers &amp; Advisors  ](http://www.bva.be/Member-List-Becap-PE-Asset-Managers-Advisors.html)  
+> [Becap PE Asset Managers & Advisors  ](http://www.bva.be/Member-List-Becap-PE-Asset-Managers-Advisors.html)  
 > [BMI-SBI](http://www.bva.be/Member-List-BMI-SBI.html)
 > 
 > [BNP Paribas Fortis](http://www.bva.be/Member-List-Fortis-Private-Equity.html)
@@ -97,7 +97,7 @@ post_format: []
 > 
 > [Waterland Private Equity  ](http://www.bva.be/Member-List-Waterland-Private-Equity.html)
 > 
-> </div><div>## **Associate Members**
+> ## **Associate Members**
 > 
 > [Altius](http://www.bva.be/46336.url)
 > 
@@ -107,7 +107,7 @@ post_format: []
 > 
 > [Ashurst](http://www.bva.be/46337.url)
 > 
-> [Baker &amp; McKenzie](http://www.bva.be/46397.url)
+> [Baker & McKenzie](http://www.bva.be/46397.url)
 > 
 > [BDO Corporate Finance  ](http://www.bva.be/Member-List-BDO-Atrio.html)
 > 
@@ -121,7 +121,7 @@ post_format: []
 > [DLA Piper UK LLP  ](http://www.bva.be/46400.url)  
 > [Donedeal](http://www.bva.be/Member-List-Donedeal.html)
 > 
-> [Ernst &amp; Young SBS](http://www.bva.be/46401.url)
+> [Ernst & Young SBS](http://www.bva.be/46401.url)
 > 
 > [Eubelius  ](http://www.bva.be/46402.url)  
 > [EVCA  ](http://www.bva.be/46403.url)  
@@ -139,7 +139,7 @@ post_format: []
 > 
 > [Linklaters](http://www.bva.be/Member-List-Linklaters-LLP.html)
 > 
-> [Loyens &amp; Loeff  ](http://www.bva.be/Member-List-Loyens-Loeff.html)  
+> [Loyens & Loeff  ](http://www.bva.be/Member-List-Loyens-Loeff.html)  
 > [Lydian](http://www.bva.be/Member-List-Lydian.html)
 > 
 > McGuireWoods
@@ -159,7 +159,7 @@ post_format: []
 > 
 > [Quanteus](http://www.bva.be/Member-List-Quanteus.html)
 > 
-> [Simmons &amp; Simmons](http://www.bva.be/122339.url)
+> [Simmons & Simmons](http://www.bva.be/122339.url)
 > 
 > Simont Braun
 > 
@@ -169,14 +169,14 @@ post_format: []
 > 
 > [Value for Growth](http://www.bva.be/Member-List-Value-for-Growth.html)
 > 
-> [Van Bael &amp; Bellis  ](http://www.bva.be/Member-List-Van-Bael-Bellis.html)  
-> Van Olmen &amp; Wynant
+> [Van Bael & Bellis  ](http://www.bva.be/Member-List-Van-Bael-Bellis.html)  
+> Van Olmen & Wynant
 > 
-> [VGD Accountants &amp; Belastingconsulenten  ](http://www.bva.be/46419.url)
+> [VGD Accountants & Belastingconsulenten  ](http://www.bva.be/46419.url)
 > 
-> [White &amp; Case LLP](http://www.bva.be/Member-List-White-Case.html)
+> [White & Case LLP](http://www.bva.be/Member-List-White-Case.html)
 > 
-> </div><div>## **Partners**
+> ## **Partners**
 > 
 > [Febelfin](http://www.bva.be/46370.url)
 > 

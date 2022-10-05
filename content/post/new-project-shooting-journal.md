@@ -72,7 +72,7 @@ I will also **rename my fail posts to flops**. Reframing helps look at things in
 
 The **ideation framework** is also in the list of things to do. I want to generate more business ideas and questions to help with the development of the framework.
 
-Timeline &amp; deliverables
+Timeline & deliverables
 ---------------------------
 
 **The journal should be for sale in** [**my Gumroad**](https://gumroad.com/ramonsuarez) **and** [**Amazon stores**](https://www.amazon.com/shop/ramonsuarez) **for Thursday April 5 at noon.**

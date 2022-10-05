@@ -15,7 +15,7 @@ tags:
     - voip
 post_format: []
 ---
-> <div>We all marvel at Facebook and its number of users, which at last check stood at around 400 million. For context, consider Skype, which at the end of the fourth quarter of 2009 had 560 million registered users, a data point Skype???s chief technology strategist, Jonathan Rosenberg, shared with the attendees of the [eComm conference](http://www.ubergizmo.com/15/archives/2010/04/ecomm_emerging_communications_conference_sf_april_19-21.html) currently under way just south of San Francisco.
+> We all marvel at Facebook and its number of users, which at last check stood at around 400 million. For context, consider Skype, which at the end of the fourth quarter of 2009 had 560 million registered users, a data point Skype???s chief technology strategist, Jonathan Rosenberg, shared with the attendees of the [eComm conference](http://www.ubergizmo.com/15/archives/2010/04/ecomm_emerging_communications_conference_sf_april_19-21.html) currently under way just south of San Francisco.
 > 
 > Skype, when it was still part of eBay, issued quarterly updates but those have now stopped. Nevertheless, here are the latest numbers:
 > 

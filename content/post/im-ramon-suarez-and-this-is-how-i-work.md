@@ -33,7 +33,7 @@ geo_public:
 video_background:
     - ''
 ---
-![](/uploads/2013/08/img_1232-195x300.jpg)One of my reference blogs, LifeHacker, has launched an initiative to get more people to [share how they work](http://lifehacker.com/how-you-work-yes-you-1166233790 "how do you work? "), a series that they have been doing for some time with known startup &amp; Internet people. Hopefully there will be some good tips here for others like me that are continuously looking to hack their lives to make them better.
+![](/uploads/2013/08/img_1232-195x300.jpg)One of my reference blogs, LifeHacker, has launched an initiative to get more people to [share how they work](http://lifehacker.com/how-you-work-yes-you-1166233790 "how do you work? "), a series that they have been doing for some time with known startup & Internet people. Hopefully there will be some good tips here for others like me that are continuously looking to hack their lives to make them better.
 
 For those that do not know me, I’ve had an eclectic [professional experience](http://www.linkedin.com/in/ramonsuarez "CV Ramon Suarez") working as a journalist, producer, political adviser, marketer, and entrepreneur. The links among all these positions have been communication and the thrill of new challenges.
 

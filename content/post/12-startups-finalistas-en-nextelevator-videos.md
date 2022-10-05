@@ -16,7 +16,7 @@ tags:
     - nextelevator
 post_format: []
 ---
-> <div><span style="float:left;">Por **Ram??n Su??rez** el 9 Mayo 2011 [Editar](http://loogic.com/wp-admin/post.php?action=edit&post=15234 "Editar entrada")</span> [<span style="cursor:pointer;">Share</span> ](http://www.facebook.com/sharer.php?u=http%3A%2F%2Floogic.com%2F12-startups-finalistas-en-nextelevator-videos%2F&t=12%20startups%20finalistas%20en%20NextElevator%20%5Bvideos%5D%20Loogic.com&src=sp)[![](http://recomendar.com/images/rc.gif)](http://recomendar.com/)–&gt;  
+> <span style="float:left;">Por **Ram??n Su??rez** el 9 Mayo 2011 [Editar](http://loogic.com/wp-admin/post.php?action=edit&post=15234 "Editar entrada")</span> [<span style="cursor:pointer;">Share</span> ](http://www.facebook.com/sharer.php?u=http%3A%2F%2Floogic.com%2F12-startups-finalistas-en-nextelevator-videos%2F&t=12%20startups%20finalistas%20en%20NextElevator%20%5Bvideos%5D%20Loogic.com&src=sp)[![](http://recomendar.com/images/rc.gif)](http://recomendar.com/)–&gt;  
 > Se va acercando la conferencia Next11 en Berl??n y con ello el concurso de startups [**NextElevator**](http://elevator.nextconf.eu/). Estos son los 12 finalistas: ### egoArchive
 > 
 > Buscador personal basado en archivo con capturas de pantalla de todas las p??ginas que visitas.

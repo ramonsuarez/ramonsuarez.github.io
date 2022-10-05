@@ -24,9 +24,9 @@ post_format: []
 > 3\) **Clo Willaerts**, business unit manager chez Sanoma Belgium, @bnox, **Klout score 65**, following 4.314, followers 8.994.  
 > 4\) **Bart De Waele**, CEO Netlash-bSeen, @netlash, **Klout score 64**, following 4.588, followers 5.795.  
 > 5\) **Robin Wauters**, blogger Tech Crunch, @robinwauters, **Klout score 64**, following 4.100, followers 16.353.  
-> 6\) **Jan Seurinck**, professeur &amp; professionnel de la communication, @janseurinck, **Klout score 63**, following 1.394, followers 1.962.  
+> 6\) **Jan Seurinck**, professeur & professionnel de la communication, @janseurinck, **Klout score 63**, following 1.394, followers 1.962.  
 > 7\) **Veerle Pieters**, concepteur web, @vpieters, **Klout score 62**, following 271, followers 171.316.  
-> 8\) **Xavier Damman**, entrepreneur web &amp; cofondateur Storify, @xdamman, **Klout score 60**, following 318, followers 2.545.  
+> 8\) **Xavier Damman**, entrepreneur web & cofondateur Storify, @xdamman, **Klout score 60**, following 318, followers 2.545.  
 > 9\) **Maarten Balliauw**, .NET technical consultant chez RealDolmen, @maartenballiauw, **Klout score 60**, following 240, followers 1.310.  
 > 10\) **Ramon Suarez**, entrepreneur nouveaux m??dias, BetaGroup coworking manager, @ramonsuarez, **Klout score 59**,  
 > following 468, followers 1.973.  
@@ -34,13 +34,13 @@ post_format: []
 > 12\) **Amedee Van Gasse**, service engineer chez Econocom, @amedee, **Klout score 59**, following 845, followers 954.  
 > 13\) **Peter Vander Auwera**, Innovation leader chez Swift, @petervan, **Klout score 58**, following 758, followers 924.  
 > 14\) **Vincent Battaglia**, d??veloppeur et CTO chez WooRank, @vinch01, **Klout score 57**, following 434, followers 1.874.  
-> 15\) **Christophe Lefevre**, blogger TechTrends &amp; responsable SMO &amp; SEO pour RTL Belgium, @ChrisLefevre, **Klout score 57**, following 905, followers 3.996.  
+> 15\) **Christophe Lefevre**, blogger TechTrends & responsable SMO & SEO pour RTL Belgium, @ChrisLefevre, **Klout score 57**, following 905, followers 3.996.  
 > 16\) **Jimmy Cappaert**, operations manager chez Prior Web, @jimmycappaert, **Klout score 56**, following 82, followers 578.  
 > 17\) **Alain Gerlache**, journaliste RTBF.be mediaTIC, @AlainGerlache, **Klout score 56**, following 3.794, followers 5.394.  
-> 18\) **Peter Hinssen**, ??vang??liste &amp; consultant, @hinssen, **Klout score 53**, Following 54, Followers 2.623.  
+> 18\) **Peter Hinssen**, ??vang??liste & consultant, @hinssen, **Klout score 53**, Following 54, Followers 2.623.  
 > 19\) **Muriel Reyserhove**, marketing lead Microsoft Dynamics, @mreyserhove, **Klout score 54**, following 1.698, followers 1.792.  
 > 20\) **David Geens**, informaticien, @pappie, **Klout score 53**, following 237, followers 387.  
-> 21\) **Jo Caudron**, media strategist &amp; consultant, @jcaudron, **Klout score 52**, following 359, followers 3.018.  
+> 21\) **Jo Caudron**, media strategist & consultant, @jcaudron, **Klout score 52**, following 359, followers 3.018.  
 > 22\) **Stef Verheijen**, d??veloppeur de logiciels et blogger, @steffest, **Klout score 52**, following 799, followers 1.641.  
 > 23\) **Frank Van Massenhove**, pr??sident SPF S??curit?? sociale, @fvmas, **Klout score 51**, following 241, followers 781.  
 > 24\) **Philippe Borremans**, chief social media officer chez Van Marcke, @HoratioNelson, **Klout score 51**, following 647,  

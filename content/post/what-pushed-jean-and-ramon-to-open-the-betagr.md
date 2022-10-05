@@ -26,11 +26,11 @@ post_format: []
 > 
 > In this first part of the interview with [Ramon Suarez](http://ramonsuarez.com/ "Ramon Suarez personal blog") ([@ramonsuarez](http://twitter.com/#!/ramonsuarez "Ramon Suarez twitter page")), co-founder with Jean Derely ([@jeanderely](http://twitter.com/#!/jeanderely "Jean Derely twitter page")) of the Betagroup Coworking Brussels. Ramon speaks about the genesis of the idea and how Jean and himself decided to launch a coworking place at Brussels. Ramon and Jean are both freelancers and they were looking for a place were they could work with other people. That’s how by trying to fulfill their need they decided to launch a coworking place at Brussels.
 > 
-> The coworking space offers an open space where freelancers and entrepreneurs in the Internet, technology &amp; mobile industries get together to work, sharing, innovating and inspiring their peers. Besides providing a working environment, the BetaGroup coworking space hosts a range of workshops, seminars, conferences, and meetings. The Betagroup coworking place is located at [ICAB at Brussels](http://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=betagroup+coworking&sll=50.85034,4.35171&sspn=0.286119,0.786209&ie=UTF8&hq=betagroup+coworking&hnear=&ll=50.826742,4.400199&spn=0.035776,0.098276&z=14&iwloc=A&cid=3400826557356790768 "Betagroup coworking space location google map")
+> The coworking space offers an open space where freelancers and entrepreneurs in the Internet, technology & mobile industries get together to work, sharing, innovating and inspiring their peers. Besides providing a working environment, the BetaGroup coworking space hosts a range of workshops, seminars, conferences, and meetings. The Betagroup coworking place is located at [ICAB at Brussels](http://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=betagroup+coworking&sll=50.85034,4.35171&sspn=0.286119,0.786209&ie=UTF8&hq=betagroup+coworking&hnear=&ll=50.826742,4.400199&spn=0.035776,0.098276&z=14&iwloc=A&cid=3400826557356790768 "Betagroup coworking space location google map")
 > 
 > <span style="color:#ed1c24;">**About [Ramon Suarez](http://ramonsuarez.com/ "Ramon Suarez personal blog")**</span>
 > 
-> Ramon is a new media business and marketing consultant, blogger, Internet &amp; Twitter addict. Besides being one of the founding partner of the Betagroup coworking space in Brussels, he has been an active promoter of the Webmission and he has become a BetaGroup adviser.
+> Ramon is a new media business and marketing consultant, blogger, Internet & Twitter addict. Besides being one of the founding partner of the Betagroup coworking space in Brussels, he has been an active promoter of the Webmission and he has become a BetaGroup adviser.
 > 
 > </div></div></div>
 

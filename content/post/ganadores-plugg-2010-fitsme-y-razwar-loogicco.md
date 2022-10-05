@@ -16,7 +16,7 @@ tags:
     - startups
 post_format: []
 ---
-> <div> <span>Por **Ram??n Su??rez** el 11 Marzo 2010 <span> Twitter<span>1 clicks</span></span>[![](http://recomendar.com/images/rc.gif)](http://recomendar.com/)</span><span>1</span>
+>  <span>Por **Ram??n Su??rez** el 11 Marzo 2010 <span> Twitter<span>1 clicks</span></span>[![](http://recomendar.com/images/rc.gif)](http://recomendar.com/)</span><span>1</span>
 > 
 > [![](http://plugg.eu/userfiles/images/banner468.gif)](http://plugg.eu)
 > 

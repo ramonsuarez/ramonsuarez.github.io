@@ -17,7 +17,7 @@ tags:
     - tips
 post_format: []
 ---
-> <div>*This guest post is by HubSpot???s social media scientist, [Dan Zarrella](http://www.danzarella.com).*
+> *This guest post is by HubSpot???s social media scientist, [Dan Zarrella](http://www.danzarella.com).*
 > 
 > Of all the data analysis that I???ve done, day-of-week and time-of-day data has been consistently the most popular. So in preparation for my upcoming webinar, titled Science of Blogging, I decided to combine all of my existing data on timing with my new research into one master post on the subject.
 > 

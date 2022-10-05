@@ -27,5 +27,5 @@ For those that can not make it to LeWeb this year, an easy way to watch the plen
 [The Plenary](http://www.ustream.tv/leweb "#LeWeb10 streaming plenary")
 -----------------------------------------------------------------------
 
-[ Startup Competition ( dec 8th ) &amp; Plenary II ( dec 9th )](http://www.ustream.tv/lewebplenary2 "startup competition #leweb10 and Plenary streaming")
+[ Startup Competition ( dec 8th ) & Plenary II ( dec 9th )](http://www.ustream.tv/lewebplenary2 "startup competition #leweb10 and Plenary streaming")
 ---------------------------------------------------------------------------------------------------------------------------------------------------------

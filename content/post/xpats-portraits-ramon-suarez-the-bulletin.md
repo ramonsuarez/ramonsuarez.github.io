@@ -14,7 +14,7 @@ tags:
     - startupweekendbrussels
 post_format: []
 ---
-> <div>### Ramon Suarez
+> ### Ramon Suarez
 > 
 >  ![portrait picture](http://www.xpats.com/polopoly_fs/1.183810%21image/3138788231.JPG_gen/derivatives/teaser/3138788231.JPG)
 > 

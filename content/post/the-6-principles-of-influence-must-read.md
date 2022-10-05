@@ -20,4 +20,4 @@ tags:
     - slides
 post_format: []
 ---
-via [slideshare.net](http://www.slideshare.net/thomasvdc/persuasion-herding-the-digital-sheep)</div><div></div></div>
+via [slideshare.net](http://www.slideshare.net/thomasvdc/persuasion-herding-the-digital-sheep)</div></div>

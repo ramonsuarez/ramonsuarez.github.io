@@ -16,7 +16,7 @@ tags:
     - webmission
 post_format: []
 ---
-> <div><span>Por **invitado** el 4 Diciembre 2009 </span>![Webmission_emprendedores_belgas_EBE09](http://loogic.com/files/2009/12/Webmission_emprendedores_belgas_EBE09.jpg)
+> <span>Por **invitado** el 4 Diciembre 2009 </span>![Webmission_emprendedores_belgas_EBE09](http://loogic.com/files/2009/12/Webmission_emprendedores_belgas_EBE09.jpg)
 > 
 > Artículo realizado por [Ramón Suárez](http://twitter.com/ramonsuarez) promotor de la [Webmission](http://wiki.webmission.be/ebe09) en EBE09.
 > 

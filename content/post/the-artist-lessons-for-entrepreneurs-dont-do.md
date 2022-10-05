@@ -15,7 +15,7 @@ post_format: []
 video_background:
     - ''
 ---
-<div class="p_embed p_image_embed"></div><div>![](/uploads/2013/02/the-artist_full_600-scaled1000.jpg)</div>I’m on a plane, on my way to Austin for SXSW and the Global Coworking Unconference, enjoying the great service onboard a United Airlines flight. One of the movies playing is The Artist, starring Jean Dujardin, a film you should absolutely watch. Being as biased as I am towards startups and entrepreneurship, I could not help think that there are plenty of lessons and similitudes between the life of the stars and those of entrepreneurs. Or maybe it is because I was reading [The Four Steps to the Epiphany](https://www.amazon.com/gp/product/0989200507/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=coworkhandbo-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0989200507&linkId=3e3a83788e7fa70af235fad0ff777056 "customer development") that I saw in it a **metaphor of entrepreneurship**.
+<div class="p_embed p_image_embed">![](/uploads/2013/02/the-artist_full_600-scaled1000.jpg)</div>I’m on a plane, on my way to Austin for SXSW and the Global Coworking Unconference, enjoying the great service onboard a United Airlines flight. One of the movies playing is The Artist, starring Jean Dujardin, a film you should absolutely watch. Being as biased as I am towards startups and entrepreneurship, I could not help think that there are plenty of lessons and similitudes between the life of the stars and those of entrepreneurs. Or maybe it is because I was reading [The Four Steps to the Epiphany](https://www.amazon.com/gp/product/0989200507/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=coworkhandbo-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0989200507&linkId=3e3a83788e7fa70af235fad0ff777056 "customer development") that I saw in it a **metaphor of entrepreneurship**.
 
 You never know who’s gonna be who or where you are going to end
 ---------------------------------------------------------------
@@ -27,7 +27,7 @@ Your network is always being built
 
 Yes, your network is always being built, even when you are not aware of it. You are not conscious of everything that goes on around you, so remember point nº1 and keep on working hard. Even somebody you did not expect may end up helping you or giving you a lead, and the more you are out there working with people and giving your help, the more good that will come back to you.
 
-You will fall &amp; raise
+You will fall & raise
 -------------------------
 
 High or low, you are going to fall and raise. Life comes around. Failure does not terminate you. All you have to do is get back in your feet, learn from the experience, and try to get something positive out of it. Even if you are just a shadow of old successful self, you are still you.
@@ -56,6 +56,6 @@ The good news
 
 The good news is that after the worst of hardships, even if it is not obvious you can succeed thanks to your work and persistence.
 
-Who would have ever thought that a black &amp; white silent movie could be made, enjoyable, watched, and praised in the 21st century?.
+Who would have ever thought that a black & white silent movie could be made, enjoyable, watched, and praised in the 21st century?.
 
  **Success is in the heart of the entrepreneur, not just in numbers.**

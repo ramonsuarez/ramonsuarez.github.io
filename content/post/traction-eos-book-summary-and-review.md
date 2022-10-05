@@ -134,7 +134,7 @@ Your quarterly Rocks are your priorities for the coming quarter. Every 90 days t
 
 Three rules of thumb for the Scorecard:
 
-- The numbers in the Scorecard should be weekly activity-based numbers that predict your P&amp;L (profits and loss statement)
+- The numbers in the Scorecard should be weekly activity-based numbers that predict your P&L (profits and loss statement)
 - You still look at either monthly or quarterly financial statements and monitor your budget
 - Red flag categories that are off track.
 

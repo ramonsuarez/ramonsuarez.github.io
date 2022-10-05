@@ -15,7 +15,7 @@ tags:
     - pitch
 post_format: []
 ---
-> <div>### ![](http://founderinstitute.com/images/bullet.gif) Pitch Bootcamp in Brussels with Filip Tack
+> ### ![](http://founderinstitute.com/images/bullet.gif) Pitch Bootcamp in Brussels with Filip Tack
 > 
 > [![Pitch Bootcamp in Brussels with Adeo Ressi](http://a1.sphotos.ak.fbcdn.net/hphotos-ak-snc6/269141_144112002333595_115286281882834_273447_6527143_n.jpg)](http://360.imaginea.be/bootcamp/ "360º pictures of the Pitch Bootcamp")
 > 

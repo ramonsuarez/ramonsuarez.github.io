@@ -32,7 +32,7 @@ publicize_google_plus_url:
 video_background:
     - ''
 ---
-The [email segmentation &amp; reactivation campaign](http://ramonsuarez.com/dipping-my-toes-into-email-marketing-automation/) to freshen up my mailing lists is set up and rolling.
+The [email segmentation & reactivation campaign](http://ramonsuarez.com/dipping-my-toes-into-email-marketing-automation/) to freshen up my mailing lists is set up and rolling.
 
 Choosing the Right Tool and Cleaning Up Contacts
 ------------------------------------------------

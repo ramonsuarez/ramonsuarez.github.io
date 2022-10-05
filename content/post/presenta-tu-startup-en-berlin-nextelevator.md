@@ -39,4 +39,4 @@ post_format: []
 > 
 > </div>
 
-via [loogic.com](http://loogic.com/presenta-tu-startup-en-berlin-nextelevator/)</div><div></div></div>
+via [loogic.com](http://loogic.com/presenta-tu-startup-en-berlin-nextelevator/)</div></div>

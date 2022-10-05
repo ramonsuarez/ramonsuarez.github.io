@@ -42,4 +42,4 @@ post_format: []
 > 
 > </div>
 
-via [alaingerlache.be](http://alaingerlache.be/post/6379149415/le-co-working-une-nouvelle-vision-de-lentreprise)</div><div></div></div>
+via [alaingerlache.be](http://alaingerlache.be/post/6379149415/le-co-working-une-nouvelle-vision-de-lentreprise)</div></div>

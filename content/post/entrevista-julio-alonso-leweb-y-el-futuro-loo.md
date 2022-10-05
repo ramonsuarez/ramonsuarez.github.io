@@ -19,9 +19,9 @@ tags:
     - spain
 post_format: []
 ---
-> <div><span style="float:left;">Por **Ramón Suárez** el 17 Noviembre 2010</span>[<span><span style="cursor:pointer;"><span> </span></span><span> </span><span></span></span>](http://www.facebook.com/sharer.php?u=http%3A%2F%2Floogic.com%2Fentrevista-julio-alonso-leweb-y-el-futuro%2F&t=Entrevista%3A%20Julio%20Alonso%2C%20LeWeb%20y%20el%20futuro%20Loogic.com&src=sp)
+> <span style="float:left;">Por **Ramón Suárez** el 17 Noviembre 2010</span>[<span><span style="cursor:pointer;"><span> </span></span><span> </span><span></span></span>](http://www.facebook.com/sharer.php?u=http%3A%2F%2Floogic.com%2Fentrevista-julio-alonso-leweb-y-el-futuro%2F&t=Entrevista%3A%20Julio%20Alonso%2C%20LeWeb%20y%20el%20futuro%20Loogic.com&src=sp)
 > 
-> <div>[![Julio Alonso presentando en el Simo (foto cc Pixel y Dixel)](http://loogic.com/files/2010/11/Julio-Alonso-Simo-Foto-cc-Pixel-y-Dixel.jpg)](http://www.flickr.com/photos/pixelydixel/3949202526/ "Julio Alonso en el SIMO por Pixel y Dixel")Julio Alonso presentando en el SIMO (foto cc Pixel y Dixel)
+> [![Julio Alonso presentando en el Simo (foto cc Pixel y Dixel)](http://loogic.com/files/2010/11/Julio-Alonso-Simo-Foto-cc-Pixel-y-Dixel.jpg)](http://www.flickr.com/photos/pixelydixel/3949202526/ "Julio Alonso en el SIMO por Pixel y Dixel")Julio Alonso presentando en el SIMO (foto cc Pixel y Dixel)
 > 
 > </div>**[Julio Alonso](http://es.linkedin.com/in/julioalonso "Perfil de Julio Alonso en LinkedIn")** es el fundador y CEO de **Weblogs SL**, la principal red de blogs en español, con más de [15 millones de visitantes únicos en septiembre](http://www.weblogssl.com/2010/10/13-trafico-de-septiembre-de-2010#more "Estadísticas de visitas de Weblogs SL en septiempre 2010"). Este año repite como ponente en LeWeb, participando en la mesa sobre plataformas de medios.
 > 

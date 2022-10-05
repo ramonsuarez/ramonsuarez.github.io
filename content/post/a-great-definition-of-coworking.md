@@ -29,4 +29,4 @@ post_format: []
 > 
 > </div>
 
-via [mapleleafbranch.org](http://www.mapleleafbranch.org/)</div><div></div></div>
+via [mapleleafbranch.org](http://www.mapleleafbranch.org/)</div></div>

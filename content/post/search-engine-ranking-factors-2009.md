@@ -51,7 +51,7 @@ post_format: []
 > 4. #### Cloaking by User Agent
 >   
 >   <div class="importance">51% moderate importance</div><div class="bar moderate"><span>51%</span></div>
-> 5. #### Frequent Server Downtime &amp; Site Inaccessibility
+> 5. #### Frequent Server Downtime & Site Inaccessibility
 >   
 >   <div class="importance">51% moderate importance</div><div class="bar moderate"><span>51%</span></div>
 > 
@@ -69,7 +69,7 @@ post_format: []
 > 
 > **Note:** Consensus and contention percentages are calculated based on the standard deviations of contributor answers.
 > 
-> Participants were asked to apply the ranking factors to Google’s search engine, and although we’ve found that it’s largely applicable to other major US engines (Bing, Yahoo! &amp; Ask), some variance almost certainly exists.
+> Participants were asked to apply the ranking factors to Google’s search engine, and although we’ve found that it’s largely applicable to other major US engines (Bing, Yahoo! & Ask), some variance almost certainly exists.
 > 
 > </div><div class="span-11 last">## Overall Ranking Algorithm
 > 

@@ -17,7 +17,7 @@ tags:
     - survey
 post_format: []
 ---
-> <div>*Comme promis, voici la deuxi??me partie des r??sultats d???un r??cent sondage sur le coworking men?? au niveau mondial par [Deskmag](http://www.deskmag.com/). Cette partie porte sur les attentes des coworkers.*
+> *Comme promis, voici la deuxi??me partie des r??sultats d???un r??cent sondage sur le coworking men?? au niveau mondial par [Deskmag](http://www.deskmag.com/). Cette partie porte sur les attentes des coworkers.*
 > 
 > *[![ce que veulent les coworkers](http://www.mutinerie.org/wp-content/uploads/2011/01/envie.jpg "envie")](http://www.mutinerie.org/wp-content/uploads/2011/01/envie.jpg)*
 > 

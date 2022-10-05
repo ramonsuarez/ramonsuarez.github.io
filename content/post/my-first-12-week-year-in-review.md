@@ -42,7 +42,7 @@ The core of this three month year has been the projects and it has worked well. 
 
 #### Fight Hate Not Sport Shooters
 
-<figure class="wp-block-image is-resized">[![](https://i0.wp.com/ramonsuarez.com/wp-content/uploads/2019/07/fhns.jpg?fit=1000%2C750&ssl=1)](https://www.fighthatenotsport.com/shop/?orderby=date)This is my [not for profit initiative to promote shooting sports](https://www.fighthatenotsport.com/shop/?orderby=date). Thanks to it I’ve set up my first e-commerce site, which has started selling (it works!) but very little. More marketing is needed. It started as Fight Hate Not Shooters, but some people found the word shooter to strong. Following their lead I renamed the site, moved it to a new domain and ordered new designs.
+[![](https://i0.wp.com/ramonsuarez.com/wp-content/uploads/2019/07/fhns.jpg?fit=1000%2C750&ssl=1)](https://www.fighthatenotsport.com/shop/?orderby=date)This is my [not for profit initiative to promote shooting sports](https://www.fighthatenotsport.com/shop/?orderby=date). Thanks to it I’ve set up my first e-commerce site, which has started selling (it works!) but very little. More marketing is needed. It started as Fight Hate Not Shooters, but some people found the word shooter to strong. Following their lead I renamed the site, moved it to a new domain and ordered new designs.
 
 #### Grow coworking income
 
@@ -74,7 +74,7 @@ What I’ve learned from this is that:
 - **Price is not a good indicator of quality, nor are reviews**: some of the best jobs were done by cheap contractors and some of the worst by expensive ones. Reviews are inflated and can be bought.
 - **Fiverr is not good for buyers**: their system is set up to encourage wrongdoing in the part of the sellers: partial deliveries, ultra low quality deliveries, right before the weekend deliveries to promote default acceptance without having the time to review… They don’t want to be in any of the conflicts and they’ll do nothing for you unless you prove again and again that the seller is acting wrong. You have to waste your time schooling the people you pay and even then they are not acting cooperatively. They just increase the burden on the seller so that you end up giving up (which I’ve done). I did manage to get reimbursed for one of the botched jobs but it was awfully long and hard, and my money is kept by Fiverr so I have to figure out low quality requirement tasks to spend it on instead of having it in my account. Also, don’t trust their reviews, at least one negative review I placed does not show up. Plus the paid review problem… **I don’t recommend working with Fiverr**.
 
-### Reading &amp; summarizing
+### Reading & summarizing
 
 **Reading has worked out great**. I have really stepped it up both for learning books (the ones in this objective) and leisure books. I love reading and I come up with a lot of ideas when I’m reading. It is helpful to learn and to inspire.
 
