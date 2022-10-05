@@ -23,7 +23,7 @@ publicize_google_plus_url:
 video_background:
     - ''
 ---
-![](https://ramonsuarez.com/wp-content/uploads/2018/12/Screenshot-from-2018-12-17-15-49-40.png)So far the [meditation challenge](https://ramonsuarez.com/meditate-every-day-for-a-year/) is going well. I’ve gotten to 100 days in a row and I’m quite happy about it.
+![](/uploads/2018/12/Screenshot-from-2018-12-17-15-49-40.png)So far the [meditation challenge](https://ramonsuarez.com/meditate-every-day-for-a-year/) is going well. I’ve gotten to 100 days in a row and I’m quite happy about it.
 
 Not a habit yet
 ---------------

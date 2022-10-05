@@ -45,14 +45,14 @@ First I tried with Mautic, but after many hours of hard work I decided to give u
 
 At the end I used [Mail Merge](https://digitalinspiration.com/product/gmail-mail-merge) by Amit, which is very easy to use (although he fails to reply to support questions).
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/11/mail-merge-for-gmail.png)
+![](/uploads/2018/11/mail-merge-for-gmail.png)
 
 Email Copy
 ----------
 
 Initially I had thought of an overly complicated email that had too many choices:
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/11/email-segmentation-note-keep.png)
+![](/uploads/2018/11/email-segmentation-note-keep.png)
 
 I kept the original idea but made it (hopefully) simpler. This is the current email template:
 
@@ -91,7 +91,7 @@ The first two batches where of 50 emails each. 10% have bounced. No complains, n
 
 Today I sent 100 more and got 17% bounces. I saw the email of one of my friends passing by, so I contacted him to see how he got the email. It all looks good:
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/11/in-the-inbox.jpeg)
+![](/uploads/2018/11/in-the-inbox.jpeg)
 
 He did sign up, but I would not use this as a signal.
 

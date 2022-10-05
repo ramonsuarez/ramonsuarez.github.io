@@ -18,7 +18,7 @@ post_format: []
 video_background:
     - ''
 ---
-<div class="p_embed p_image_embed">![](https://ramonsuarez.com/wp-content/uploads/2013/02/media_https0i1picplzt_aioil-scaled500.jpg)</div>I’ve been lucky enought to put my hands on a [Samsung 900x3a](http://www.samsung.com/be_fr/consumer/pc-peripherals-printer/note-pc/thin-light/NP900X3A-A01BE/index.idx?pagetype=prd_detail&returnurl= "Samsung ultraportable 9 series") for a couple weeks. I fell in love with it at a Samsung event in Brussels, like the[ picoprojector](http://ramonsuarez.com/samsung-pico-projector-a-step-in-the-right-di "Samsung picoprojector review"), and had been asking for it ever since.
+<div class="p_embed p_image_embed">![](/uploads/2013/02/media_https0i1picplzt_aioil-scaled500.jpg)</div>I’ve been lucky enought to put my hands on a [Samsung 900x3a](http://www.samsung.com/be_fr/consumer/pc-peripherals-printer/note-pc/thin-light/NP900X3A-A01BE/index.idx?pagetype=prd_detail&returnurl= "Samsung ultraportable 9 series") for a couple weeks. I fell in love with it at a Samsung event in Brussels, like the[ picoprojector](http://ramonsuarez.com/samsung-pico-projector-a-step-in-the-right-di "Samsung picoprojector review"), and had been asking for it ever since.
 
 WOW! The Looks
 --------------

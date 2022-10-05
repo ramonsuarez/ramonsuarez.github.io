@@ -30,7 +30,7 @@ publicize_linkedin_url:
 video_background:
     - ''
 ---
-![](https://ramonsuarez.com/wp-content/uploads/2013/06/logo-startups.jpg)
+![](/uploads/2013/06/logo-startups.jpg)
 
 If you follow me on [Twitter](http://twitter.com/ramonsuarez "Coworking & Tech Entrepreneurship ") or any other social media account, I’m one of the founders and board members of [Startups.be](http://startups.be "Help for Belgian startups: support, guidance, money..."). It is an initiative I’ve been involved in for over a year, but only recently have we created the non profit organization. (Yes, I know it is hard to follow up on all the things I do, but you can always check my [LinkedIn](http://www.linkedin.com/in/ramonsuarez "Ramon Suarez, coworking & tech entrepreneur ") to have an idea.)
 

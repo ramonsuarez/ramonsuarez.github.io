@@ -25,7 +25,7 @@ post_format: []
 video_background:
     - ''
 ---
-<div class="p_embed p_image_embed"></div><div>![](https://ramonsuarez.com/wp-content/uploads/2013/02/half-attendees-betagroup-37-ka-scaled-1000.jpg)</div>Yesterday was a bitter-sweet night for all of us. On one part we had the [first demo day of the Betagroup](http://betagroup37-big-party-eorg.eventbrite.com/), with almost 1200 signups and over 700 attendees. The place was packed and the startups doing the demos where very busy pitching.
+<div class="p_embed p_image_embed"></div><div>![](/uploads/2013/02/half-attendees-betagroup-37-ka-scaled-1000.jpg)</div>Yesterday was a bitter-sweet night for all of us. On one part we had the [first demo day of the Betagroup](http://betagroup37-big-party-eorg.eventbrite.com/), with almost 1200 signups and over 700 attendees. The place was packed and the startups doing the demos where very busy pitching.
 
 At the same time [Leo Exter](http://twitter.com/leoexter) was running a [Betainvest](http://betainvest.be "Investors Club Belgium Brussels") event upstairs, with 30 investors an 10 startups pitching for funds.
 

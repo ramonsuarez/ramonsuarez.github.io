@@ -37,7 +37,7 @@ publicize_google_plus_url:
 video_background:
     - ''
 ---
-![Bee fliying from flower in slow motion](https://ramonsuarez.com/wp-content/uploads/2018/11/200w_d.gif)
+![Bee fliying from flower in slow motion](/uploads/2018/11/200w_d.gif)
 --------------------------------------------------------------------------------------------------------
 
 Coworking Courses
@@ -56,7 +56,7 @@ To get the launch deals for this courses, signup to the [The Coworking Handbook 
 Email Reactivation and Segmentation
 -----------------------------------
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/11/giphy-downsized.gif)
+![](/uploads/2018/11/giphy-downsized.gif)
 
 To improve the quality of the list, I cleaned it again through an online service and reduced it by another couple thousand contacts to over nine thousand. There are still a lot of bounces from emails that do not exist any more. My mailbox has emails at least for the last 15 years, so that was to be expected. That the validation services are not good at weeding these out is not.
 
@@ -71,7 +71,7 @@ The domain I’m using (ramonsuarez.com) is not tagged as spam by the servers I�
 Meditation Goals
 ----------------
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/11/giphy-downsized1.gif)
+![](/uploads/2018/11/giphy-downsized1.gif)
 
 I’m meditating every day and have managed to do so for 69 days on a row, but I think I got the intermediary goals wrong. The ultimate goal of meditating for a year is good, but the only goal that really matters is to **meditate today**. This is a daily challenge, every day matters. The intermediary goals I’d thought of are more rewards than goals in themselves.
 

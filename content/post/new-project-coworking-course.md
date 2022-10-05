@@ -40,7 +40,7 @@ video_background:
 ---
 After two s[hort projects in the challenge](http://ramonsuarez.com/challenge-projects/), it is time for another monthly undertaking. This time I will be preparing a coworking course that builds on and expands [The Coworking Handbook](https://www.coworkinghandbook.com). The book’s content is still 100% valid and applicable, but I can add extra knowledge from running Betacowork the years after I published the book (and from selling it!).
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/11/giphy1.gif)
+![](/uploads/2018/11/giphy1.gif)
 
 I’ve already spent some time looking into platforms like [Udemy,](https://click.linksynergy.com/fs-bin/click?id=nqvRWNWHD4Q&offerid=507388.7&type=3&subid=0) [Teachable](https://teachable.com/) and [Skillshare](https://www.skillshare.com/) among others. There’s also [LearnWorlds](https://www.learnworlds.com/), proposed by one of the readers of the book. I’ve not made up my mind about the best one to use but I know that it will not be Skillshare: they pay way too little and teachers deserve a good compensation!
 

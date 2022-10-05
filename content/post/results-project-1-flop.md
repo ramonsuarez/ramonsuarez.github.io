@@ -27,7 +27,7 @@ publicize_linkedin_url:
 video_background:
     - ''
 ---
-![](https://ramonsuarez.com/wp-content/uploads/2018/10/kmltchpofqt84.gif)
+![](/uploads/2018/10/kmltchpofqt84.gif)
 
 The launch of [coworking.space](https://www.coworking.space) has been a flop. The first [KPI](https://ramonsuarez.com/next-weeks-kpis-for-coworking-space/) is far from being fulfilled. 18 spaces signed up but almost none of them edited their landing page. The first one that did, completely ignored the [guidelines](https://www.coworking.space/how-to/) and did not even include a link to their site even after telling them about it. The only coworking space that followed the guidelines was [Betacowork](https://betacowork.coworking.space), my former coworking space (where I still work 1 to 3 days a week), and with a lot of help from me.
 
@@ -39,7 +39,7 @@ I still think there’s a lot to do to solve the **main problem of coworking spa
 
 As my friend Ash says, **[love the problem not your solution](https://blog.leanstack.com)**.
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/10/img_20181024_1031146047442325358636416-768x1024.jpg)
+![](/uploads/2018/10/img_20181024_1031146047442325358636416-768x1024.jpg)
 
 I’m stopping work in this iteration of coworking.space but will keep on trying to find solutions that can be helpful to bring more business to coworking spaces around the world.
 

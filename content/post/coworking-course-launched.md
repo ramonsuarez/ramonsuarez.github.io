@@ -33,14 +33,14 @@ video_background:
 ---
 It took a while, but the [coworking community course](https://courses.coworkinghandbook.com/course?courseid=coworking-community-challenge) has finally been launched. I kept my timing and the email announcing it went out last Thursday.
 
-![](https://ramonsuarez.com/wp-content/uploads/2019/02/coworking-community-challenge-screenshot-from-2019-02-28-14-37-33.png)Text is the way to go
+![](/uploads/2019/02/coworking-community-challenge-screenshot-from-2019-02-28-14-37-33.png)Text is the way to go
 ---------------------
 
 Doing a text only course was a good choice. It is much easier to work and rework the content and I can make the delivery much faster. The students have to put their time into doing the tasks to improve their own coworking space community, not on trying to understand my accent in a video.
 
 Being able to revisit texts after the whole course is done is much easier than re-recording a video. No script is ever definitive, you have to settle at some point, but the workload of having to re-shot a video is so big that you just don’t do it unless it is absolutely necessary
 
-![](https://ramonsuarez.com/wp-content/uploads/2019/02/behind-the-scenes-ramonsuarez.jpg)Video issues
+![](/uploads/2019/02/behind-the-scenes-ramonsuarez.jpg)Video issues
 ------------
 
 As an example, the intro video I recorded. Super short script that was mended and amended more than 20 times while I was rehearsing it. I did about 10 takes until I decided that it was good enough (not perfect).

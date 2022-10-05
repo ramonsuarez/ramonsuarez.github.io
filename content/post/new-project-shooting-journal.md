@@ -32,11 +32,11 @@ Since the last time…
 
 [Last week](https://ramonsuarez.com/new-project-business-idea-sprint/) I spent time going through my business ideation framework and came up with twenty some new ideas easily. I also came up with new questions accelerate the process. The time frame was too short to be able to really work on improving the framework a lot, but at least I improved the spreadsheet to organize the ideas.
 
-![](https://ramonsuarez.com/wp-content/uploads/2019/03/ideation-framework-tabs.png)I did advance a lot in my affiliate research and restarted my Google sheets course (and learned a lot!).
+![](/uploads/2019/03/ideation-framework-tabs.png)I did advance a lot in my affiliate research and restarted my Google sheets course (and learned a lot!).
 
 So mixed success in last week’s project and now a new challenge.
 
-![](https://ramonsuarez.com/wp-content/uploads/2019/03/journal.png)Shooting journal
+![](/uploads/2019/03/journal.png)Shooting journal
 ----------------
 
 One of the things I’m working on to improve myself and my days is **journaling**. I’m currently working with productivity and personal journals, but also with my shooting journal, that I started a few months after I started shooting almost two years ago.
