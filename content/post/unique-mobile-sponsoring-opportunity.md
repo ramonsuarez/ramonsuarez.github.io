@@ -11,4 +11,6 @@ categories:
 tag: []
 post_format: []
 ---
-<div class="p_embed p_image_embed">[![Media_https2i1picplzt_tmgze](http://ramonsuarez.files.wordpress.com/2011/02/media_https2i1picplzt_tmgze-scaled1000.jpg?w=300)](http://ramonsuarez.files.wordpress.com/2011/02/media_https2i1picplzt_tmgze-scaled1000.jpg)</div>Taken with [picplz](http://picplz.com) at [BetaGroup Coworking Brussels](http://picplz.com/pics/betagroup-coworking-brussels-etterbek-belgium/) in [Etterbeek, Belgium](http://picplz.com/city/etterbeek-be/). 
+<div class="p_embed p_image_embed">[![Media_https2i1picplzt_tmgze](/uploads/
+2011/02/media_https2i1picplzt_tmgze-scaled1000.jpg?w=300)](/uploads/
+2011/02/media_https2i1picplzt_tmgze-scaled1000.jpg)</div>Taken with [picplz](http://picplz.com) at [BetaGroup Coworking Brussels](http://picplz.com/pics/betagroup-coworking-brussels-etterbek-belgium/) in [Etterbeek, Belgium](http://picplz.com/city/etterbeek-be/). 

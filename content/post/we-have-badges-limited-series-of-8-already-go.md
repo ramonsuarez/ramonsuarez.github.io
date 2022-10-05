@@ -11,4 +11,6 @@ categories:
 tag: []
 post_format: []
 ---
-<div class="p_embed p_image_embed">[![Media_https2i1picplzt_aiycw](http://ramonsuarez.files.wordpress.com/2011/02/media_https2i1picplzt_aiycw-scaled1000.jpg?w=300)](http://ramonsuarez.files.wordpress.com/2011/02/media_https2i1picplzt_aiycw-scaled1000.jpg)</div>Taken with [picplz](http://picplz.com). 
+<div class="p_embed p_image_embed">[![Media_https2i1picplzt_aiycw](/uploads/
+2011/02/media_https2i1picplzt_aiycw-scaled1000.jpg?w=300)](/uploads/
+2011/02/media_https2i1picplzt_aiycw-scaled1000.jpg)</div>Taken with [picplz](http://picplz.com). 

@@ -16,7 +16,11 @@ tags:
     - twitter
 post_format: []
 ---
-> ![](http://ramonsuarez.files.wordpress.com/2010/07/beltweet0.jpg?w=185)![](http://ramonsuarez.files.wordpress.com/2010/07/beltweet1.jpg?w=186)![](http://ramonsuarez.files.wordpress.com/2010/07/beltweet2.jpg?w=186)![](http://ramonsuarez.files.wordpress.com/2010/07/beltweet3.jpg?w=184)
+> ![](/uploads/
+2010/07/beltweet0.jpg?w=185)![](/uploads/
+2010/07/beltweet1.jpg?w=186)![](/uploads/
+2010/07/beltweet2.jpg?w=186)![](/uploads/
+2010/07/beltweet3.jpg?w=184)
 
 </div>via [bvlg.blogspot.com](http://bvlg.blogspot.com/)</div>[Bruno Peeters](http://twitter.com/bvlg) has crawled the Belgian twitosphere to get some insight about it. He has produced a very interesting infographic extrapolating data from over 46000 Twitter accounts located in Belgium.
 

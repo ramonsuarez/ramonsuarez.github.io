@@ -16,4 +16,6 @@ tags:
     - world
 post_format: []
 ---
-<div class="p_embed p_image_embed">[![Fastest_download_upload_countr](http://ramonsuarez.files.wordpress.com/2009/12/fastest_download_upload_countr-xcf-converted.jpg?w=300)](http://ramonsuarez.files.wordpress.com/2009/12/fastest_download_upload_countr-xcf-converted.jpg)</div><div class="gmail_quote">I came accross this [Internet Service Provider speed test](http://www.speedtest.net/global.php) and was surprised by how far down Belgium is in the ranking. It gives interesting insight about top download and upload ISP per continent, country, region and city. Not of much use because of the limited possibilities of changing providers, but gives a lot of Megabytes to dream about 😉</div>
+<div class="p_embed p_image_embed">[![Fastest_download_upload_countr](/uploads/
+2009/12/fastest_download_upload_countr-xcf-converted.jpg?w=300)](/uploads/
+2009/12/fastest_download_upload_countr-xcf-converted.jpg)</div><div class="gmail_quote">I came accross this [Internet Service Provider speed test](http://www.speedtest.net/global.php) and was surprised by how far down Belgium is in the ranking. It gives interesting insight about top download and upload ISP per continent, country, region and city. Not of much use because of the limited possibilities of changing providers, but gives a lot of Megabytes to dream about 😉</div>

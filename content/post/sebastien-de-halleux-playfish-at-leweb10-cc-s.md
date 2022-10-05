@@ -11,4 +11,6 @@ categories:
 tag: []
 post_format: []
 ---
-<div class="p_embed p_image_embed">[![2010-12-09_12](http://ramonsuarez.files.wordpress.com/2010/12/2010-12-09_12-49-02-scaled-1000.jpg?w=168)](http://ramonsuarez.files.wordpress.com/2010/12/2010-12-09_12-49-02-scaled-1000.jpg)</div>It's in the press!
+<div class="p_embed p_image_embed">[![2010-12-09_12](/uploads/
+2010/12/2010-12-09_12-49-02-scaled-1000.jpg?w=168)](/uploads/
+2010/12/2010-12-09_12-49-02-scaled-1000.jpg)</div>It's in the press!

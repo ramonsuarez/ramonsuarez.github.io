@@ -15,7 +15,9 @@ tags:
     - videos
 post_format: []
 ---
-<div class="p_embed p_image_embed">[![Vcasmo-video-powerpoint-presentation](http://ramonsuarez.files.wordpress.com/2010/11/vcasmo-video-powerpoint-presentation-scaled1000.png?w=300)](http://ramonsuarez.files.wordpress.com/2010/11/vcasmo-video-powerpoint-presentation-scaled1000.png)</div>Since Google bought and closed down [Omnisio](http://www.omnisio.com/ "Omnisio is dead, Google killed it"), I’ve been looking for alternatives to make videos where I could easily synchronise the slides **(PowerPoint, OpenOffice or KeyNote**) with the video of the speaker’s presentation, principally for uploading them to YouTube, but eventually also for screencasting.
+<div class="p_embed p_image_embed">[![Vcasmo-video-powerpoint-presentation](/uploads/
+2010/11/vcasmo-video-powerpoint-presentation-scaled1000.png?w=300)](/uploads/
+2010/11/vcasmo-video-powerpoint-presentation-scaled1000.png)</div>Since Google bought and closed down [Omnisio](http://www.omnisio.com/ "Omnisio is dead, Google killed it"), I’ve been looking for alternatives to make videos where I could easily synchronise the slides **(PowerPoint, OpenOffice or KeyNote**) with the video of the speaker’s presentation, principally for uploading them to YouTube, but eventually also for screencasting.
 
 There are several **alternatives to omnisio**:
 

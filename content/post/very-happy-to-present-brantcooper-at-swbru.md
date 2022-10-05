@@ -18,7 +18,8 @@ tags:
     - swbru
 post_format: []
 ---
-<div class="p_embed p_image_embed">![Media_httpfarm6static_iuaaa](http://ramonsuarez.files.wordpress.com/2011/01/media_httpfarm6static_iuaaa-scaled500.jpg?w=199)</div>via [flickr.com](http://www.flickr.com/photos/nataliehillphotography/5397750592/)</div>He gave a terrific talk about [customer development](http://market-by-numbers.com/customer-development/) and lean startup methodology.
+<div class="p_embed p_image_embed">![Media_httpfarm6static_iuaaa](/uploads/
+2011/01/media_httpfarm6static_iuaaa-scaled500.jpg?w=199)</div>via [flickr.com](http://www.flickr.com/photos/nataliehillphotography/5397750592/)</div>He gave a terrific talk about [customer development](http://market-by-numbers.com/customer-development/) and lean startup methodology.
 
 You guys missed a great talk. In 15 minutes Brant was able to motivate and help the participants more than some business courses can do in a semester. Inspiring, practical and funny.
 

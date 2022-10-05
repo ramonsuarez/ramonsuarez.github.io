@@ -16,7 +16,8 @@ tags:
     - socialmedia
 post_format: []
 ---
-<div class="p_embed p_image_embed">![Media_httpwwwblogbrus_iblbh](http://ramonsuarez.files.wordpress.com/2010/06/media_httpwwwblogbrus_iblbh-scaled500.png?w=300)</div>via [blogbruselas.com](http://www.blogbruselas.com/2010/06/mercenarios-en-blog-bruselas.html)</div>I was pretty shocked when I found this ad on my [Spanish blog about Brussels](http://www.blogbruselas.com). Somehow, Google Adsense has decided that the most relevant ad to include in a blog written in Spanish about Brussels and in an article about Dutch learning schools is: a mercenary school! … and in English…
+<div class="p_embed p_image_embed">![Media_httpwwwblogbrus_iblbh](/uploads/
+2010/06/media_httpwwwblogbrus_iblbh-scaled500.png?w=300)</div>via [blogbruselas.com](http://www.blogbruselas.com/2010/06/mercenarios-en-blog-bruselas.html)</div>I was pretty shocked when I found this ad on my [Spanish blog about Brussels](http://www.blogbruselas.com). Somehow, Google Adsense has decided that the most relevant ad to include in a blog written in Spanish about Brussels and in an article about Dutch learning schools is: a mercenary school! … and in English…
 
 Google Ads may not be an excellent source of revenue, but it does pay in laughs.
 

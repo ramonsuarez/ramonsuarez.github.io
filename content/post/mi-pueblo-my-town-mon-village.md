@@ -15,4 +15,6 @@ tags:
     - fun
 post_format: []
 ---
-<div class="p_embed p_image_embed">[![Ramonete](http://ramonsuarez.files.wordpress.com/2011/02/ramonete.jpg?w=300)](http://ramonsuarez.files.wordpress.com/2011/02/ramonete.jpg)</div>
+<div class="p_embed p_image_embed">[![Ramonete](/uploads/
+2011/02/ramonete.jpg?w=300)](/uploads/
+2011/02/ramonete.jpg)</div>

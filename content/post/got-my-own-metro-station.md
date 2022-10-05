@@ -14,6 +14,8 @@ tags:
     - brussels
 post_format: []
 ---
-<div class="p_embed p_image_embed">[![Media_httpkreaturebei_gddoe](http://ramonsuarez.files.wordpress.com/2011/01/media_httpkreaturebei_gddoe-scaled1000.gif?w=300)](http://ramonsuarez.files.wordpress.com/2011/01/media_httpkreaturebei_gddoe-scaled1000.gif)</div>via [kreature.be](http://www.kreature.be/2011/01/25/ma-blogosphre-liste-de-blogs-bruxellois/)</div>Thanks to [Florence Manente](http://twitter.com/flexyflow) for including my blogs in her great list of Brussels’ blogs 🙂
+<div class="p_embed p_image_embed">[![Media_httpkreaturebei_gddoe](/uploads/
+2011/01/media_httpkreaturebei_gddoe-scaled1000.gif?w=300)](/uploads/
+2011/01/media_httpkreaturebei_gddoe-scaled1000.gif)</div>via [kreature.be](http://www.kreature.be/2011/01/25/ma-blogosphre-liste-de-blogs-bruxellois/)</div>Thanks to [Florence Manente](http://twitter.com/flexyflow) for including my blogs in her great list of Brussels’ blogs 🙂
 
 </div>
