@@ -7,7 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 1114
-thumbnail: ../../uploads/2019/05/november-stats-ramonsuarez-com-wordpress-com1.png
+thumbnail: /uploads/2019/05/november-stats-ramonsuarez-com-wordpress-com1.png
 category:
     - Automation
     - Marketing
@@ -68,7 +68,7 @@ Stats
 
 There have also been **1193 visits to the blog** since I got back and I have to guess that most of those are thanks to the email. Unfortunately the Mail Merge and WordPress.com stats are not that good to figure this out exactly. Of those, **427 have been to the** [**signup page**](https://ramonsuarez.com/do-you-want-to-hear-from-me/) (no way to know the source).
 
-<figure class="wp-block-image">![](https://ramonsuarez.com/wp-content/uploads/2018/11/november-stats-ramonsuarez-com-wordpress-com1.png)</figure>As I said, not impressive numbers but infinitely better than zero. There’s some momentum to build on and some compound interests accruing towards the future 🙂
+<figure class="wp-block-image">![](/uploads/2018/11/november-stats-ramonsuarez-com-wordpress-com1.png)</figure>As I said, not impressive numbers but infinitely better than zero. There’s some momentum to build on and some compound interests accruing towards the future 🙂
 
 List &amp; Add-On Problems: Email Verifier App &amp; Mail Merge with Attachments 
 ---------------------------------------------------------------------------------

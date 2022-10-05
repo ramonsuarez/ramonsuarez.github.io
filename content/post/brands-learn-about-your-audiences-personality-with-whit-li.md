@@ -40,12 +40,12 @@ This year I had the chance to catch up with [Andy Gillentine](https://twitter.co
 
 So they decided to change the product based on the technology they had already developed and they now segment the followers of brands based on five personality traits (Daring, Sophisticated, Wholesome, Rugged, and Reliable) and add information about each character, for example the TV shows that they like. This is where the magic of Whit.li is: you have a personality segmentation that allows you to tailor the advertising placement and content based on the personality of your target audience, not just their age, gender, education, etc.
 
-![](https://ramonsuarez.com/wp-content/uploads/2013/04/whit-li-dashboard-1-300x173.png)  
+![](/uploads/2013/04/whit-li-dashboard-1-300x173.png)  
 I’m sick and tired of getting absurd advertisements about cars and sports of which I could not care less (among many others), while I may be even receptive to the ads if they are more daring and funny, not just based on old missconceptions about gender. So I look forward to this kind of innovations that focus on me to give me a better experience.
 
 Media planners, market researches, and product developers are the people that will use Whit.li and we all will, hopefuly, be receiving better advertising based on the tool, and with it more useful information.
 
-![](https://ramonsuarez.com/wp-content/uploads/2013/04/whit-li-dashboard-2-300x171.png)
+![](/uploads/2013/04/whit-li-dashboard-2-300x171.png)
 
 The tool allows them to see an evolution, not just a picture in a particular time. Compared to other tools like Radian6 , Whit.li tells you about your followers, not just what they are saying about you. You can also track the effectiveness of your campaign by seing if you’ve managed to grow the character trait of your followers.
 

@@ -7,7 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 846
-thumbnail: ../../uploads/2018/11/diving-into-udemy.png
+thumbnail: /uploads/2018/11/diving-into-udemy.png
 category:
     - Courses
     - Marketing
@@ -37,9 +37,9 @@ This week I’ve been really digging deep into [Udemy’s](https://www.coworking
 
 I’ve finished all their video courses on how to create your content and how to record it and now I’m trying to get through with their [Market Your Course 101 site](https://teach.udemy.com/course-marketing/). I’ve read a lot, and taken a lot of notes. There are a lot of articles and they all have lots of links. This is what my screen looks like (not even all the tabs are displaying any more):
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/11/udemy-marketing-help.png)
+![](/uploads/2018/11/udemy-marketing-help.png)
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/11/overwhelmed.gif)
+![](/uploads/2018/11/overwhelmed.gif)
 
 If you are thinking on making an online course (or any kind of course) I recommend you go through their courses. They are very direct to the point and full of good actionable tips:
 

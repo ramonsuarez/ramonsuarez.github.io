@@ -7,7 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 740
-thumbnail: ../../uploads/2018/10/going-postal.jpg
+thumbnail: /uploads/2018/10/going-postal.jpg
 category:
     - Automation
     - Entrepreneurship
@@ -46,13 +46,13 @@ On top of this, I will be catching up with a lot of you and revitalizing my netw
 
 Some of you may be saying:
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/10/naughtyboygoingpostal.gif)
+![](/uploads/2018/10/naughtyboygoingpostal.gif)
 
 But I don’t think I’m a naughty boy. I’m offering a genuine opportunity to catch up and to send content based on the interests of the people that have gone through my inbox. I’ve organized so many events and initiatives that I have a lot of contacts. Most of those initiatives where volunteering and I have already proven the quality of my value delivery.
 
 If you get an email from me [asking for your interests](https://ramonsuarez.com/do-you-want-to-hear-from-me/) it means that it is working!
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/10/goingpostaltachan.gif)
+![](/uploads/2018/10/goingpostaltachan.gif)
 
 If not, you can always [signup here](https://ramonsuarez.com/do-you-want-to-hear-from-me/) to receive information from me about the interests that we have in common.
 

@@ -34,7 +34,7 @@ geo_public:
 video_background:
     - ''
 ---
-![](https://ramonsuarez.com/wp-content/uploads/2013/08/img_1232-195x300.jpg)One of my reference blogs, LifeHacker, has launched an initiative to get more people to [share how they work](http://lifehacker.com/how-you-work-yes-you-1166233790 "how do you work? "), a series that they have been doing for some time with known startup &amp; Internet people. Hopefully there will be some good tips here for others like me that are continuously looking to hack their lives to make them better.
+![](/uploads/2013/08/img_1232-195x300.jpg)One of my reference blogs, LifeHacker, has launched an initiative to get more people to [share how they work](http://lifehacker.com/how-you-work-yes-you-1166233790 "how do you work? "), a series that they have been doing for some time with known startup &amp; Internet people. Hopefully there will be some good tips here for others like me that are continuously looking to hack their lives to make them better.
 
 For those that do not know me, I’ve had an eclectic [professional experience](http://www.linkedin.com/in/ramonsuarez "CV Ramon Suarez") working as a journalist, producer, political adviser, marketer, and entrepreneur. The links among all these positions have been communication and the thrill of new challenges.
 
@@ -44,7 +44,7 @@ How I work
 **Location:** [Betacowork Coworking Brussels  ](http://www.betacowork.com "Best coworking space in Brussels, Belgium")**Current gig:** Founder of Betacowork, promoter of the Belgian tech startup ecosystem through [Betagroup](http://betagroup.org "Startup network in Belgium"), [Startups.be](http://startups.be "Association that brings together the entities that promote tech entrepreneurship in Belgium"), [Global Entrepreneurship Week Belgium](http://entrepreneurshipweek.be/ "A week of events to promote entrepreneurship"), and others. I’m also an international correspondent for the Spanish leading blog about tech startups, [Loogic.com](http://loogic.com/author/ramonsuarez/ "Tech Startups Reporting in Spain. ").  
 **Current mobile device:** Samsung Galaxy Note II
 
-![](https://ramonsuarez.com/wp-content/uploads/2013/08/homescreen-android-ramonsuarez-576x1024.png)
+![](/uploads/2013/08/homescreen-android-ramonsuarez-576x1024.png)
 
 As you can see, I use folders to access my most used apps in the homescreen.  
 **Current computer:** Dell Latitude E5430 and an old HP Pavilion DM3, both running Ubuntu Linux and on 128GB SSD disks.  
@@ -68,7 +68,7 @@ As you can see, I use folders to access my most used apps in the homescreen.
 
 A structured mess. Things are in their right place and I need to see what I have to do/act upon.if you move my papers around or put something on top of what I need to see I will forget about it and not notice until it is probably too late.
 
-![](https://ramonsuarez.com/wp-content/uploads/2013/08/desk-ramonsuarez-at-betacowork-coworking-brussels-300x225.jpg)
+![](/uploads/2013/08/desk-ramonsuarez-at-betacowork-coworking-brussels-300x225.jpg)
 
 #### What’s your best time-saving trick?
 

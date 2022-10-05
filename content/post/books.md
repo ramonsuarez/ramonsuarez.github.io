@@ -7,7 +7,7 @@ author: ramon
 excerpt: ''
 type: post
 id: 1383
-thumbnail: ../../uploads/2019/05/Canva-Books-on-Shelf-in-Library.jpg
+thumbnail: /uploads/2019/05/Canva-Books-on-Shelf-in-Library.jpg
 ---
 This is my selection of entrepreneurship and business related books. I read a lot and try to implement what I find interesting. You may also want to check out [my book summaries](https://ramonsuarez.com/tag/book-summary/).
 

@@ -7,7 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 519
-thumbnail: ../../uploads/2018/11/an-ounce-of-action-is-worth-a-ton-of-theory-rwe-instagram-post.png
+thumbnail: /uploads/2018/11/an-ounce-of-action-is-worth-a-ton-of-theory-rwe-instagram-post.png
 category:
     - 'Business Ideas'
     - Coworking
@@ -36,7 +36,7 @@ From all the experience I’ve gained through the years one of the best things I
 Learning
 --------
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/10/mini-ramon.png)
+![](/uploads/2018/10/mini-ramon.png)
 
 From the moment I was born I’ve been learning and changing. Not only kids learn and change (yes, that’s a pic of mini-me to give you an idea of how much I’ve changed at least physically), adults keep on learning and changing their whole life.
 
@@ -44,7 +44,7 @@ Challenges and learning do a lot more than keep me alive, they make me thrive. L
 
 ### Thinking
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/10/thinking.jpg)
+![](/uploads/2018/10/thinking.jpg)
 
 In the past few months I’ve done a lot of thinking trying to come up with business ideas and also on how to come up with those ideas. I’ve gotten a list of over 160 ideas so far thanks to the [business idea generation framework](https://www.bifgmethod.com) I’ve come up with (more on that later) and have much clearer priorities and knowledge of myself. But the inaction was killing me.
 
@@ -59,7 +59,7 @@ When I started looking for business ideas I was a bit lost. There’s tons of in
 
 Thanks to this effort I generated a list of 145 ideas in my first sprint, and I keep on adding ideas regularly. I’ve reduced the list to 10 businesses opportunities or projects with a very delicate methodology.
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/10/axe.gif)
+![](/uploads/2018/10/axe.gif)
 
 The definitive business idea is not there yet, or at least I cannot see it clearly, but I cannot sit around only thinking. My brain slows down if I don’t get more done! I have good lists of ideas to launch businesses, to invest, and to learn. I also want to have multiple projects running at the same time, to gain more freedom from them and also more financial freedom/independence.
 

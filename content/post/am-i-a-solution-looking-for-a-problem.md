@@ -7,7 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 1106
-thumbnail: ../../uploads/2019/05/ruminating.gif
+thumbnail: /uploads/2019/05/ruminating.gif
 category:
     - Coworking
 tag:
@@ -25,7 +25,7 @@ video_background:
 ---
 I’m struggling with what to do about my knowledge of coworking and the assets I’ve built about it.
 
-<div class="wp-block-image"><figure class="aligncenter">![](https://ramonsuarez.com/wp-content/uploads/2019/03/ruminating.gif)</figure></div>I know I can help a lot and that my knowledge is useful to a lot of founders and staff of coworking spaces (thanks for the feedback!).
+<div class="wp-block-image"><figure class="aligncenter">![](/uploads/2019/03/ruminating.gif)</figure></div>I know I can help a lot and that my knowledge is useful to a lot of founders and staff of coworking spaces (thanks for the feedback!).
 
 At the same time I cannot help but think that I’m trying too much to develop coworking related projects. There’s this inner struggle between turning the page and forgetting about it, and using these assets to build some side projects and sources of income.
 

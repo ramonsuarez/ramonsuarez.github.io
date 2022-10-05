@@ -458,7 +458,7 @@ I’m happy to be in the list together with other [Betacowork Coworking Brussels
 
 Tribalytics is a tool for marketers that want to find the top twitter influencers in the different topics and segments that they tweet about. To give you an idea, this is what the report looks like for my Twitter account [@ramonsuarez](http://twitter.com/ramonsuarez "coworking, tech startups, entrepreneurship, belgium"):
 
-![](https://ramonsuarez.com/wp-content/uploads/2014/04/twitter-communities-report-tribalytics-ramonsuarez-2014-04-04-14-28-56.png)
+![](/uploads/2014/04/twitter-communities-report-tribalytics-ramonsuarez-2014-04-04-14-28-56.png)
 
 Tribalytics also offers a [competitive insights report](http://tribalytics.com/#inline-competitive-report-form) to see how you fare compared to your main competitors.
 

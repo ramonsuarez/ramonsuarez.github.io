@@ -26,7 +26,7 @@ publicize_google_plus_url:
 video_background:
     - ''
 ---
-![](https://ramonsuarez.com/wp-content/uploads/2018/10/jedi-squirrel.gif)
+![](/uploads/2018/10/jedi-squirrel.gif)
 
 *[Don’t miss any of my adventures as a Jedi entrepreneur](https://docs.google.com/forms/d/e/1FAIpQLSerPrYxhHkx55PoPtZrKvolDDw5Q-sMc5akSpWP4j0SxsjmzA/viewform)*
 
@@ -61,7 +61,7 @@ Facebook Ads
 
 Facebook ads have driven almost no traffic to the site, but I did get some likes on the post and I’ve invited those people to like the page.
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/10/facebook-ads-coworking-space-first-campaign.png)
+![](/uploads/2018/10/facebook-ads-coworking-space-first-campaign.png)
 
 I’ve stopped that campaign, duplicated it and relaunched it for the USA only, to see what happens.
 
@@ -69,7 +69,7 @@ After the email I sent this morning to seventy some people in the mailing list, 
 
 I was hoping that this campaign would solve the issue I have with Facebook flagging my coworking.space links as malicious (I’ve tried to get it fixed but can’t get far). No luck with the link but they do charge me. I guess they do not like dot space domains.
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/10/img_20181022_1648067283931683048881199-1024x862.jpg)
+![](/uploads/2018/10/img_20181022_1648067283931683048881199-1024x862.jpg)
 
 Tracking Marketing Efforts
 --------------------------

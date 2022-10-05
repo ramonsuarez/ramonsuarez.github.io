@@ -7,7 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'These are the projects I''m working on as part of my entrepreneurship challenge. I will be updating the links as I move on with each project:'
 type: post
 id: 745
-thumbnail: ../../uploads/2018/10/pexels-photo-1098365.jpeg
+thumbnail: /uploads/2018/10/pexels-photo-1098365.jpeg
 geo_latitude:
     - '50.852660'
     - '50.852660'

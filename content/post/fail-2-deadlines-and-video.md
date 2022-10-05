@@ -7,7 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 1018
-thumbnail: ../../uploads/2019/05/fail-1.gif
+thumbnail: /uploads/2019/05/fail-1.gif
 category:
     - News
 tag:
@@ -30,7 +30,7 @@ publicize_google_plus_url:
 video_background:
     - ''
 ---
-<div class="wp-block-image"><figure class="aligncenter">![](https://ramonsuarez.com/wp-content/uploads/2019/01/fail.gif)</figure></div>The end of 2018 has not been good for my [challenge](https://ramonsuarez.com/challenge-projects/). I’ve stalled with the creation of the [video course](https://ramonsuarez.com/new-project-coworking-course/) and kept on extending a deadline that was just too soft. Here’s the recap of what I’ve learned and what comes next.
+<div class="wp-block-image"><figure class="aligncenter">![](/uploads/2019/01/fail.gif)</figure></div>The end of 2018 has not been good for my [challenge](https://ramonsuarez.com/challenge-projects/). I’ve stalled with the creation of the [video course](https://ramonsuarez.com/new-project-coworking-course/) and kept on extending a deadline that was just too soft. Here’s the recap of what I’ve learned and what comes next.
 
 Deadlines need to be precise
 ----------------------------
@@ -44,7 +44,7 @@ Having only one result to measure (the completion of the whole course) makes it 
 
 For example, I did all the courses available in Udemy concerning how to make good courses (very helpful) and took notes that I used to work on my own course. I also read all the available documentation they had and checked all their files (mostly templates). I’ve also prepared 139 great slides full of content and with a lot of helpful exercises and tasks.
 
-<figure class="wp-block-image">![](https://ramonsuarez.com/wp-content/uploads/2019/01/slides-coworking-course.png)</figure>It is not that I did not do anything, I worked hard, but I also procrastinated because of fear of the video lesson.
+<figure class="wp-block-image">![](/uploads/2019/01/slides-coworking-course.png)</figure>It is not that I did not do anything, I worked hard, but I also procrastinated because of fear of the video lesson.
 
 Video lessons are hard
 ----------------------
@@ -76,7 +76,7 @@ The course is taking shape more like a workbook, with tasks that help improve th
 
 I want to improve my project management and I will test using [OKR (objectives and key results)](https://amzn.to/2ssdiKh) even if it is just for myself. This book has made me think a lot about it:
 
-<figure class="wp-block-image">[![](https://ramonsuarez.com/wp-content/uploads/2019/01/measure-what-matters-okr.jpg)](https://amzn.to/2ssdiKh)</figure>So this week I will be reviewing my notes and making myself a guide on how to implement OKR for the next project.
+<figure class="wp-block-image">[![](/uploads/2019/01/measure-what-matters-okr.jpg)](https://amzn.to/2ssdiKh)</figure>So this week I will be reviewing my notes and making myself a guide on how to implement OKR for the next project.
 
 Next deadline : 21/1
 --------------------

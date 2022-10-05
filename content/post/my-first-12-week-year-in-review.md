@@ -7,7 +7,7 @@ author: ramon
 excerpt: ''
 type: post
 id: 1581
-thumbnail: ../../uploads/2019/07/12WY1-85.jpg
+thumbnail: /uploads/2019/07/12WY1-85.jpg
 category:
     - 'Progress Report'
     - Projects
@@ -38,7 +38,7 @@ The core of this three month year has been the projects and it has worked well. 
 
 #### BIGF Method™ 
 
-<figure class="wp-block-image">[![](https://ramonsuarez.com/wp-content/uploads/2019/07/bigfmethod-logo.png)](https://www.bigfmethod.com/)</figure>My [method to come up with more business ideas for solopreneurs](https://www.bigfmethod.com) is up after a small test run and two platform changes. I’m not ready to start selling it yet, but I’ll be promoting it to get more beta testers and to improve it.
+<figure class="wp-block-image">[![](/uploads/2019/07/bigfmethod-logo.png)](https://www.bigfmethod.com/)</figure>My [method to come up with more business ideas for solopreneurs](https://www.bigfmethod.com) is up after a small test run and two platform changes. I’m not ready to start selling it yet, but I’ll be promoting it to get more beta testers and to improve it.
 
 #### Fight Hate Not Sport Shooters
 
@@ -46,7 +46,7 @@ The core of this three month year has been the projects and it has worked well. 
 
 #### Grow coworking income
 
-<figure class="wp-block-image">[![](https://ramonsuarez.com/wp-content/uploads/2019/07/Coworking-Community-Challenge.jpg)](https://courses.coworkinghandbook.com/course/coworking-community-challenge/)</figure>I relaunched the [coworking community course ](https://courses.coworkinghandbook.com/course/coworking-community-challenge/)in my own Learnpress installation. It has not done well in sales yet. My mailing list has gone a bit stale, so I cleaned it up. I have to do something with it after the summer to see if I can get some more traction, but not now. I also repackaged the webinar I did before launching the course and made it available as a [free coworking course](https://courses.coworkinghandbook.com/course/coworking-community-webinar-and-qa/).
+<figure class="wp-block-image">[![](/uploads/2019/07/Coworking-Community-Challenge.jpg)](https://courses.coworkinghandbook.com/course/coworking-community-challenge/)</figure>I relaunched the [coworking community course ](https://courses.coworkinghandbook.com/course/coworking-community-challenge/)in my own Learnpress installation. It has not done well in sales yet. My mailing list has gone a bit stale, so I cleaned it up. I have to do something with it after the summer to see if I can get some more traction, but not now. I also repackaged the webinar I did before launching the course and made it available as a [free coworking course](https://courses.coworkinghandbook.com/course/coworking-community-webinar-and-qa/).
 
 The **abridged version of The Coworking Handbook was a total flop** (more on this below). I got crap back when I outsourced and I could not bring myself to do it. Dropped.
 

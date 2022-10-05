@@ -21,4 +21,4 @@ post_format: []
 video_background:
     - ''
 ---
-<div class="p_embed p_image_embed"></div><div>![](https://ramonsuarez.com/wp-content/uploads/2013/02/image.png)</div><div>At least for their maps &amp; places service…</div><div></div>
+<div class="p_embed p_image_embed"></div><div>![](/uploads/2013/02/image.png)</div><div>At least for their maps &amp; places service…</div><div></div>

@@ -7,7 +7,7 @@ author: ramon
 excerpt: ''
 type: post
 id: 1659
-thumbnail: ../../uploads/2019/09/Running-away-from-doubt.jpg
+thumbnail: /uploads/2019/09/Running-away-from-doubt.jpg
 category:
     - 'Business Ideas'
     - Coworking

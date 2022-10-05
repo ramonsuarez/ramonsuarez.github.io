@@ -25,7 +25,7 @@ publicize_google_plus_url:
 video_background:
     - ''
 ---
-![](https://ramonsuarez.com/wp-content/uploads/2018/10/screenshot-from-2018-10-23-15-49-12.png)
+![](/uploads/2018/10/screenshot-from-2018-10-23-15-49-12.png)
 
 **Meditation has had a profound positive impact in my life**. Being more aware is bringing a lot of improvements to my actions and feelings. **It has improved my work, my personal relationships and my sport practice**. I enjoy the [benefits](https://www.headspace.com/science/meditation-benefits) of awareness/mindfulness meditation.
 
@@ -37,7 +37,7 @@ Since then I’ve been meditating on and off, tried other apps (none of them rea
 
 For the last few months I’ve been meditating more often, regularly but not daily. Now **I’ve decided to meditate every day**. I hope this will become like brushing my teeth, something I do every day automatically, without even thinking, and that I can’t leave the house without doing it.
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/10/headspace_quote-108460_26-10-2018-1024x1024.png)
+![](/uploads/2018/10/headspace_quote-108460_26-10-2018-1024x1024.png)
 
 To help me succeed (and start the day with a success that motivates me and sets a positive mood) I’ve set 7 am as my meditation time. My son’s alarm is set for 7h15, and this way I have just enough time to do a 10 minute meditation. If I cannot get to do it then (babies and little kids do not follow very regular schedules), I do it as soon as I can. It can be a walking meditation, a commuting standing meditation, or the first thing I do when I arrive to the coworking space I work at (directly at my desk, I don’t mind the people in the room). My objective is not doing a number of minutes per day, but to do it every day. Some days I’ll do multiple meditation sessions, other days I’ll do a very short one. **Meditation has to work for me, not me for meditation**.
 
@@ -47,7 +47,7 @@ The app reminders are helpful when I cannot meditate in the morning not to forge
 
 So far I’ve managed to meditate for 44 days in a row. My objective is to make it to a full year, but in the meantime I set myself shorter term objectives, like getting to 50, 75, 90…
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/10/headspace-stats-ramonsuarez-com-20181023.png)
+![](/uploads/2018/10/headspace-stats-ramonsuarez-com-20181023.png)
 
 What I’m struggling with is remembering to do the mindful moments during the day. I’m just too focused on whatever I’m doing and forget about it.
 

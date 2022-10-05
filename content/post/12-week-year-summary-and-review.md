@@ -7,7 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Yearly deadlines are way too long. We tend to slack until the last minute, wasting too much time and having no time to maneuver left. Every moment is important, and shorter deadlines help make things happen, keep you motivated and build momentum.'
 type: post
 id: 1152
-thumbnail: ../../uploads/2019/04/we-are-what-we-repeatedly-do.-excellence-is-not-an-act-but-a-habit.png
+thumbnail: /uploads/2019/04/we-are-what-we-repeatedly-do.-excellence-is-not-an-act-but-a-habit.png
 category:
     - books
 tag:
@@ -28,7 +28,7 @@ video_background:
 ---
 The first of my book summary and review series has to be the book that has helped me to finally [write down my vision and start a plan](https://ramonsuarez.com/my-vision-and-plan/) to move towards the future I want: [The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months](https://amzn.to/2Z6QxL1) by Brian P. Moran and Michael Lennington.
 
-<figure class="wp-block-image">[![](https://ramonsuarez.com/wp-content/uploads/2019/05/12-week-year-cover.jpg)](https://amzn.to/2VQut9E)</figure>Summary
+<figure class="wp-block-image">[![](/uploads/2019/05/12-week-year-cover.jpg)](https://amzn.to/2VQut9E)</figure>Summary
 -------
 
 The basic premise of the book is that yearly deadlines are way too long and that we tend to slack until the last minute, wasting too much time and having no time to maneuver left. Every moment is important, and shorter deadlines help make things happen, keep you motivated and build momentum (sounds like [my entrepreneurship challenge](https://ramonsuarez.com/launching-at-least-one-project-every-month-my-entrepreneurship-learning-challenge/), doesn’t it?).
@@ -71,7 +71,7 @@ This is how you turn your dreams into a reality.
 
 ### Other highlights
 
-<figure class="wp-block-image">![](https://ramonsuarez.com/wp-content/uploads/2019/04/we-are-what-we-repeatedly-do.-excellence-is-not-an-act-but-a-habit-1.png)</figure>> “We are what we repeatedly do. Excellence then is not an act, but a habit.”
+<figure class="wp-block-image">![](/uploads/2019/04/we-are-what-we-repeatedly-do.-excellence-is-not-an-act-but-a-habit-1.png)</figure>> “We are what we repeatedly do. Excellence then is not an act, but a habit.”
 > 
 > <cite>*Aristotle*</cite>
 
@@ -108,7 +108,7 @@ Review
 
 <figure class="wp-block-image">![](https://ramonsuarez.files.wordpress.com/2019/04/5-stars-rating.png)</figure>There is also an accompanying [12 Week Year Field Guide](https://amzn.to/2WYLLgK) that I have not read (at least yet). If you have worked with it, I’m definitely interested in knowing what you think of it. I really like the idea of making it easier to implement what you learn in books. Field guides, [handbooks](https://gumroad.com/l/coworkinghandbook) and the sort are great tools.
 
-[<figure class="wp-block-image">![](https://ramonsuarez.com/wp-content/uploads/2019/05/image-1.png)</figure>](https://amzn.to/2Z6QxL1)What I found really useful was subscribing to their [free getting started course](https://12weekyear.com/gsc/). The first 3 lessons come with 3 PDF files that make it much easier to put everything down. I used them to write [my own vision](https://ramonsuarez.com/my-vision-and-plan/) after finishing the book. The emails you receive are one of the best examples of email marketing I’ve seen. They are very helpful, insightful and to the point. Even if you don’t read the book it is worth it to sign up for their course.
+[<figure class="wp-block-image">![](/uploads/2019/05/image-1.png)</figure>](https://amzn.to/2Z6QxL1)What I found really useful was subscribing to their [free getting started course](https://12weekyear.com/gsc/). The first 3 lessons come with 3 PDF files that make it much easier to put everything down. I used them to write [my own vision](https://ramonsuarez.com/my-vision-and-plan/) after finishing the book. The emails you receive are one of the best examples of email marketing I’ve seen. They are very helpful, insightful and to the point. Even if you don’t read the book it is worth it to sign up for their course.
 
 If you are curious about the books I’m reading, check out [my Goodreads profile](https://www.goodreads.com/author/show/7992456.Ram_n_Su_rez_V_zquez). There are already over a thousand books there.
 

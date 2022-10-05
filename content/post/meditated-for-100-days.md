@@ -7,7 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 1005
-thumbnail: ../../uploads/2019/05/buzzing-mind-headspace.gif
+thumbnail: /uploads/2019/05/buzzing-mind-headspace.gif
 category:
     - 'Progress Report'
 tag:
@@ -23,7 +23,7 @@ publicize_google_plus_url:
 video_background:
     - ''
 ---
-<figure class="wp-block-image">![](https://ramonsuarez.com/wp-content/uploads/2018/12/Screenshot-from-2018-12-17-15-49-40.png)</figure>So far the [meditation challenge](https://ramonsuarez.com/meditate-every-day-for-a-year/) is going well. I’ve gotten to 100 days in a row and I’m quite happy about it.
+<figure class="wp-block-image">![](/uploads/2018/12/Screenshot-from-2018-12-17-15-49-40.png)</figure>So far the [meditation challenge](https://ramonsuarez.com/meditate-every-day-for-a-year/) is going well. I’ve gotten to 100 days in a row and I’m quite happy about it.
 
 Not a habit yet
 ---------------

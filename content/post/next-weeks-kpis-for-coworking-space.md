@@ -7,7 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 577
-thumbnail: ../../uploads/2018/10/red-coworking-space-facebook-cover.png
+thumbnail: /uploads/2018/10/red-coworking-space-facebook-cover.png
 category:
     - News
 tag: []

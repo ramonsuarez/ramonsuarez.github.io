@@ -7,7 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 817
-thumbnail: ../../uploads/2018/11/practicetrumpstheory.png
+thumbnail: /uploads/2018/11/practicetrumpstheory.png
 category:
     - Automation
     - Marketing
@@ -44,7 +44,7 @@ Revamping Network and Mailing Lists
 
 So far [1479 emails](http://ramonsuarez.com/the-email-segmentation-campaign-is-rolling/) of the [segmentation project](http://ramonsuarez.com/dipping-my-toes-into-email-marketing-automation/) have gone out. The few responses I’m getting are extremely positive and I’ve had my first meeting thanks to it today. I know more about what some people are doing and is super interesting. Computer assisted networking FTW!
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/11/giphy-1.gif)
+![](/uploads/2018/11/giphy-1.gif)
 
 Only 10 people have signed up via the [interest form ](http://ramonsuarez.com/do-you-want-to-hear-from-me/)to hear back from me, but this blog is getting some more views (nothing crazy though)
 
@@ -55,14 +55,14 @@ Repurposing: Lead Magnets
 
 I’ve made a list of 44 pieces of content to use as lead magnets and get more relevant emails. You can check the [list here](https://ramonsuarez.com/category/projects/progress-report/). Hurry before I put it behind a form and you have to give me your email 🙂
 
-![](https://ramonsuarez.com/wp-content/uploads/2018/11/teaser-lead-magnets-challenge-1024x369.png)
+![](/uploads/2018/11/teaser-lead-magnets-challenge-1024x369.png)
 
 They are separated by property and can be ordered by priority. Some of the [Olympic Pistol](https://www.olympicpistol.com) documents are set to low priority because they already exist, ugly but available. I will probably improve them with outsourced help.
 
 Outsourcing via Fiverr
 ----------------------
 
-I’ve ordered two times the same infographic about the [Advantages of Coworking](https://www.coworkinghandbook.com/advantages-benefits-coworking-list/) on [Fiverr](http://www.fiverr.com/s2/6024be1e4a). This is part of the first one I’ve received (still under revision), for which I paid $32.50: ![](https://ramonsuarez.com/wp-content/uploads/2018/11/teaser-advantages-coworking-handbook-1024x394.png)
+I’ve ordered two times the same infographic about the [Advantages of Coworking](https://www.coworkinghandbook.com/advantages-benefits-coworking-list/) on [Fiverr](http://www.fiverr.com/s2/6024be1e4a). This is part of the first one I’ve received (still under revision), for which I paid $32.50: ![](/uploads/2018/11/teaser-advantages-coworking-handbook-1024x394.png)
 
 I’ve also ordered close to a hundred [Pinterest](https://pin.it/kcxsdnuxjohdmi) quotes from my [coworking book](https://www.coworkinghandbook.com/). I’m curious about using Instagram to drive traffic to my posts and if including Instagram optimized images in my posts will result in more social shares.
 

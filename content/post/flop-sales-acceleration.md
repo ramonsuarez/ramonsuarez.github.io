@@ -7,7 +7,7 @@ author: ramon
 excerpt: ''
 type: post
 id: 1692
-thumbnail: ../../uploads/2019/10/BIGF-raising-in-in-the-desert.jpg
+thumbnail: /uploads/2019/10/BIGF-raising-in-in-the-desert.jpg
 category:
     - 'Progress Report'
 tag:
@@ -35,7 +35,7 @@ There are a few factors to consider for this flop:
 
 - The **original landing page that I contracted via Fiverr did not work at all**. Too much text to read, it was hard to get what BIGF is about. I later edited it and still it got now sign ups via ads, which makes me fear that…
 - … I’m **preaching in the desert** and there’s no real interest about it. There are a lot of people asking for new business ideas to be given to them, but maybe there are too few interested in doing the work needed to come up with their own.  
-  ![](https://ramonsuarez.com/wp-content/uploads/2019/10/BIGF-raising-in-in-the-desert.jpg)
+  ![](/uploads/2019/10/BIGF-raising-in-in-the-desert.jpg)
 - My **energy and motivation are low**. I’ve been struggling with this since the summer and it is not getting better. Part of it is linked to the change of season, but I think that it mostly comes from not finding anything that works (too many commercial flops?), not having a business challenge that motivates me more.
 - I **suck at scheduling** and taking into account festivities, visits, kids and myself getting sick… Still, better to have a tight deadline than an easy deadline.
 
