@@ -79,4 +79,4 @@ I feel that I need to get more intellectually, more learning. It will probably b
 
 This week I will also work on the three planners I got and on some documents to dig deeper into myself and my motivations. Writing in my [shooting journal](https://www.olympicpistol.com/pistol-shooting-diary-journal/) has a positive impact. It is time to try it for other parts of my life.
 
-*Connect on [Twitter](https://twitter.com/ramonsuarez), [Facebook](https://www.facebook.com/ramonsuarezdotcom), [Linkedin](https://www.linkedin.com/in/ramonsuarez/), [Pinterest](https://www.pinterest.com/ramonsuarez/), and [YouTube](https://www.youtube.com/ramonsuarezv) accounts.*
+*Connect on [Twitter](https://twitter.com/ramonsuarez), [Facebook](https://www.facebook.com/ramonsuarezdotcom), [Linkedin](https://www.linkedin.com/in/ramonsuarez/), [Pinterest](https://www.pinterest.com/ramonsuarez/), and [YouTube](https://www.youtube.com/ramonsuarezv).*

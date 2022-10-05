@@ -52,4 +52,4 @@ If you are thinking on making an online course (or any kind of course) I recomme
 
 Next week I’ll start recording videos and testing equipment, first with what I have at home and then I will see if I can rent a camera or borrow one from a friend to compare and see which one suffices. One thing that Udemy makes clear in their onboarding is that you don’t need to spend a lot of money in equipment, that you should try first with what you have (and they will give you feedback on it), and that **you can be great without being perfect**, like themselves.
 
-*Connect on [Twitter](https://twitter.com/ramonsuarez), [Facebook](https://www.facebook.com/ramonsuarezdotcom), [Linkedin](https://www.linkedin.com/in/ramonsuarez/), [Pinterest](https://www.pinterest.com/ramonsuarez/), and [YouTube](https://www.youtube.com/ramonsuarezv) accounts.*
+*Connect on [Twitter](https://twitter.com/ramonsuarez), [Facebook](https://www.facebook.com/ramonsuarezdotcom), [Linkedin](https://www.linkedin.com/in/ramonsuarez/), [Pinterest](https://www.pinterest.com/ramonsuarez/), and [YouTube](https://www.youtube.com/ramonsuarezv).*

@@ -75,4 +75,4 @@ Meditation Goals
 
 I’m meditating every day and have managed to do so for 69 days on a row, but I think I got the intermediary goals wrong. The ultimate goal of meditating for a year is good, but the only goal that really matters is to **meditate today**. This is a daily challenge, every day matters. The intermediary goals I’d thought of are more rewards than goals in themselves.
 
-*Connect on [Twitter](https://twitter.com/ramonsuarez), [Facebook](https://www.facebook.com/ramonsuarezdotcom), [Linkedin](https://www.linkedin.com/in/ramonsuarez/), [Pinterest](https://www.pinterest.com/ramonsuarez/), and [YouTube](https://www.youtube.com/ramonsuarezv) accounts.*
+*Connect on [Twitter](https://twitter.com/ramonsuarez), [Facebook](https://www.facebook.com/ramonsuarezdotcom), [Linkedin](https://www.linkedin.com/in/ramonsuarez/), [Pinterest](https://www.pinterest.com/ramonsuarez/), and [YouTube](https://www.youtube.com/ramonsuarezv).*

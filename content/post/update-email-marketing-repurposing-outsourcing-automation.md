@@ -81,4 +81,4 @@ The lead magnets I started adding to my [olympic pistol blog](https://www.olympi
 
 Gotta go train now. Make sure you tune in on Monday to learn about the [next challenge](http://ramonsuarez.com/challenge-projects/). Enjoy the weekend!
 
-*Connect on [Twitter](https://twitter.com/ramonsuarez), [Facebook](https://www.facebook.com/ramonsuarezdotcom), [Linkedin](https://www.linkedin.com/in/ramonsuarez/), [Pinterest](https://www.pinterest.com/ramonsuarez/), and [YouTube](https://www.youtube.com/ramonsuarezv) accounts.*
+*Connect on [Twitter](https://twitter.com/ramonsuarez), [Facebook](https://www.facebook.com/ramonsuarezdotcom), [Linkedin](https://www.linkedin.com/in/ramonsuarez/), [Pinterest](https://www.pinterest.com/ramonsuarez/), and [YouTube](https://www.youtube.com/ramonsuarezv).*

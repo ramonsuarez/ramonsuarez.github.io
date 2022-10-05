@@ -92,4 +92,4 @@ Working with the learning platform has been quirky at times, but they have an ex
 
 The [course is ready](https://courses.coworkinghandbook.com/course?courseid=coworking-community-challenge) to drip from Monday. If you want in, use the code **IreadyouRamon** for a 25% discount.
 
-*Connect on [Twitter](https://twitter.com/ramonsuarez), [Facebook](https://www.facebook.com/ramonsuarezdotcom), [Linkedin](https://www.linkedin.com/in/ramonsuarez/), [Pinterest](https://www.pinterest.com/ramonsuarez/), and [YouTube](https://www.youtube.com/ramonsuarezv) accounts.*
+*Connect on [Twitter](https://twitter.com/ramonsuarez), [Facebook](https://www.facebook.com/ramonsuarezdotcom), [Linkedin](https://www.linkedin.com/in/ramonsuarez/), [Pinterest](https://www.pinterest.com/ramonsuarez/), and [YouTube](https://www.youtube.com/ramonsuarezv).*

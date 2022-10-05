@@ -77,4 +77,4 @@ The service I used to clean up the list (twice) did not really do a good job. **
 
 The **Mail Merge Add-on** got me in trouble with Google because the sending limits are based on rolling 24h and do not reset at a specific time. The bounce report does not reflect the reality of my inbox, it is overly under representative. I never heard back from its creator about my support questions.
 
-*Connect on [Twitter](https://twitter.com/ramonsuarez), [Facebook](https://www.facebook.com/ramonsuarezdotcom), [Linkedin](https://www.linkedin.com/in/ramonsuarez/), [Pinterest](https://www.pinterest.com/ramonsuarez/), and [YouTube](https://www.youtube.com/ramonsuarezv) accounts.*
+*Connect on [Twitter](https://twitter.com/ramonsuarez), [Facebook](https://www.facebook.com/ramonsuarezdotcom), [Linkedin](https://www.linkedin.com/in/ramonsuarez/), [Pinterest](https://www.pinterest.com/ramonsuarez/), and [YouTube](https://www.youtube.com/ramonsuarezv).*
