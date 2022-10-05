@@ -31,7 +31,7 @@ I’ve scoured the Internet for some templates to use and my scorecard is based 
 
 This is what the current [scorecard looks like](https://ramonsuarez.com/scorecard/):
 
-<figure class="wp-block-image">![](https://ramonsuarez.com/wp-content/uploads/2019/04/12-week-year-scorecard-ramonsuarez.com_.png)<figcaption><https://ramonsuarez.com/scorecard/></figcaption></figure><del>Unfortunately, I can not embed it here right now due to the limitations of wordpress.com, but I’m already working on moving the blog to a self hosted install where you will be able to come to </del>[<del>my blog</del>](https://ramonsuarez.com)<del> to follow my progress… you peeping Tom.</del>
+![](https://ramonsuarez.com/wp-content/uploads/2019/04/12-week-year-scorecard-ramonsuarez.com_.png)<figcaption><https://ramonsuarez.com/scorecard/></figcaption><del>Unfortunately, I can not embed it here right now due to the limitations of wordpress.com, but I’m already working on moving the blog to a self hosted install where you will be able to come to </del>[<del>my blog</del>](https://ramonsuarez.com)<del> to follow my progress… you peeping Tom.</del>
 
 I’ve now included [my scorecard in this page](https://ramonsuarez.com/scorecards/).
 

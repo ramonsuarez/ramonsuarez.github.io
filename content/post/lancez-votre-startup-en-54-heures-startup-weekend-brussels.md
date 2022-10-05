@@ -15,7 +15,7 @@ post_format: []
 <span><span>![Brussels-logobanner-011.jpg](http://brussels.startupweekend.org/files/2010/11/Brussels-logobanner-011.jpg "Brussels-logobanner-011.jpg")??</span></span>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<span><span></span>Lancez votre Startup en 54 heures</span>
+<span>Lancez votre Startup en 54 heures</span>
 -----------------------------------------------------------
 
 <span>Pour la premi??re fois en Belgique, 80 personnes se rassembleront ?? Bruxelles pour transformer leurs id??es en jeunes entreprises. Cela se d??roule au cours du Startup Weekend Brussels: de l'id??e ?? la startup en juste 54 heures.</span>
@@ -65,15 +65,15 @@ post_format: []
 
 <span><span>??</span>\* Dimanche 08:30 ?? 24:00</span>
 
-<span style="font-family:Symbol;"><span>??<span style="font:7pt Times New Roman;">???????????????? </span></span></span><span>Site??: </span><span>[<span>http://brussels.startupweekend.org</span>](http://brussels.startupweekend.org/)</span><span> </span><span></span>
+<span style="font-family:Symbol;"><span>??<span style="font:7pt Times New Roman;">???????????????? </span></span></span><span>Site??: </span><span>[<span>http://brussels.startupweekend.org</span>](http://brussels.startupweekend.org/)</span><span> </span>
 
-<span style="font-family:Symbol;"><span>??<span style="font:7pt Times New Roman;">???????????????? </span></span></span><span>Register : </span><span>[<span>http://swbru.eventbrite.com</span>](http://swbru.eventbrite.com/)</span><span> </span><span></span>
+<span style="font-family:Symbol;"><span>??<span style="font:7pt Times New Roman;">???????????????? </span></span></span><span>Register : </span><span>[<span>http://swbru.eventbrite.com</span>](http://swbru.eventbrite.com/)</span><span> </span>
 
-<span style="font-family:Symbol;"><span>??<span style="font:7pt Times New Roman;">???????????????? </span></span></span><span>Twitter : </span><span>[<span>http://twitter.com/swbru</span>](http://twitter.com/swbru)</span><span> Hashtag </span><span>[<span>\#swbru</span>](http://search.twitter.com/search?q=%23swbru)</span><span></span>
+<span style="font-family:Symbol;"><span>??<span style="font:7pt Times New Roman;">???????????????? </span></span></span><span>Twitter : </span><span>[<span>http://twitter.com/swbru</span>](http://twitter.com/swbru)</span><span> Hashtag </span><span>[<span>\#swbru</span>](http://search.twitter.com/search?q=%23swbru)</span>
 
 <span style="font-family:Symbol;"><span>??<span style="font:7pt Times New Roman;">???????????????? </span></span></span><span>Facebook??: </span><span><span><http://www.facebook.com/swbru>??</span></span>
 
-<span><span></span></span><span>L</span><span style="font-size:12pt;font-family:Times New Roman, serif;">inkedin??: </span><span style="font-size:12pt;font-family:Times New Roman, serif;">[<span>http://www.linkedin.com/groups/SWBRU</span>](http://www.linkedin.com/groups/SWBRU)</span>
+<span>L</span><span style="font-size:12pt;font-family:Times New Roman, serif;">inkedin??: </span><span style="font-size:12pt;font-family:Times New Roman, serif;">[<span>http://www.linkedin.com/groups/SWBRU</span>](http://www.linkedin.com/groups/SWBRU)</span>
 
 Add the following code to your site to include a widget for Startup Weekend Brussels:
 

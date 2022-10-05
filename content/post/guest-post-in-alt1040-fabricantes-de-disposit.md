@@ -29,7 +29,7 @@ post_format: []
 > 
 > S?? de verdad quieren mantener su negocio en forma y superar a otros sistemas como el **iOS** de **Apple**, lo que deben hacer es **crear una organizaci??n que les acoja junto con Google** para que **contribuyan todos a la creaci??n del mejor interfaz Android del mundo**, uno que funcione con los muchos aparatos diferentes que producen ustedes.
 > 
-> <span></span>
+> 
 > 
 > Lo crean o no, ustedes y **[Google](http://google.com)** tienen una o dos cosas que aprender (o que dejar de ignorar) de otros sistemas operativos como **[Linux](http://bitelia.com/tag/linux)** (el mejor ejemplo) y **Microsoft Windows** (el ejemplo m??s popular). **Simplifiquen el proceso de actualizaci??n del sistema operativo eliminando todas las intervenciones innecesarias de su parte**, y de paso, ya que est??n en ello, las de todos los operadores de telefon??a que no hacen m??s que a??adir una capa innecesaria de incompetencia y abandono de los usuarios. Dejen una sola fuente de actualizaciones, **sus modificaciones solo a??aden pasos y retrasos innecesarios**.
 > 

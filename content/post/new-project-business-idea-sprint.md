@@ -27,7 +27,7 @@ publicize_linkedin_url:
 video_background:
     - ''
 ---
-<figure class="wp-block-image">![](https://www.intheblack.com/~/media/intheblack/allimages/magazine-2014/10-october/idea-running.jpg)</figure>One of the projects that I want to launch in the very near future is my **[Business Idea Generation Framework](https://www.bigfmethod.com)**. I think that the best thing I can do right now is to go through it again and do an idea sprint until Friday to:
+![](https://www.intheblack.com/~/media/intheblack/allimages/magazine-2014/10-october/idea-running.jpg)One of the projects that I want to launch in the very near future is my **[Business Idea Generation Framework](https://www.bigfmethod.com)**. I think that the best thing I can do right now is to go through it again and do an idea sprint until Friday to:
 
 1. Come out with new project ideas for the challenge.
 2. Improve the framework itself and think about how to best deliver it.

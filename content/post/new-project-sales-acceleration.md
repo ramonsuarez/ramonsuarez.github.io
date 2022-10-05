@@ -22,7 +22,7 @@ I’ve taken a few weeks off to enjoy the summer break with my family and to thi
 
 If you are reading [my emails](https://ramonsuarez.com/do-you-want-to-hear-from-me/), you know that I’ve struggled a bit with this. Part of my struggles has to do with a repeating yearly happening: seasonal affective disorder. Every end of summer, starting in the second half of August, my brain and body chemistry get unbalanced and I have a mood change that makes me be more insecure. Luckily it is much lighter than it ever has been, but I still have to remember that it is there and to fight it. Talking to other entrepreneurs helps, and my mastermind helps even more because it is like a positive fire under my butt telling me to move.
 
-<figure class="wp-block-image">![](https://i1.wp.com/ramonsuarez.com/wp-content/uploads/2019/09/Running-away-from-doubt.jpg?fit=1000%2C1000&ssl=1)</figure>The projects have been a success in terms of taking them on and carrying them out, but I don’t think I’ve done a good work promoting them, so I decided to spend the next three weeks working on marketing:
+![](https://i1.wp.com/ramonsuarez.com/wp-content/uploads/2019/09/Running-away-from-doubt.jpg?fit=1000%2C1000&ssl=1)The projects have been a success in terms of taking them on and carrying them out, but I don’t think I’ve done a good work promoting them, so I decided to spend the next three weeks working on marketing:
 
 1. [The BIGF Method (Business Idea Generation Framework)](https://www.bigfmethod.com)
 2. [The Coworking Community Course](https://courses.coworkinghandbook.com/course/coworking-community-challenge/)

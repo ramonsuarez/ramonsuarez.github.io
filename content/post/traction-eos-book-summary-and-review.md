@@ -174,7 +174,7 @@ Action is the process of doing. You have to be able to create accountability, di
 
 To reach and manage traction they recommend using clear 90 days priorities for everyone in the organization and a Scorecard, much like in the 12 Week Year ([summary here](https://ramonsuarez.com/12-week-year-summary-and-review/)). This priorities are what they call Rocks, following the rocks, sand and water analogy.
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" loading="lazy" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/RAzMGtJypsE?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent" style="border:0;" width="640"></iframe></span></div></figure>Do the Rocks first. By doing less you end up accomplishing more. They are Specific, Measurable, Attainable, Relevant and Timely.
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" loading="lazy" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/RAzMGtJypsE?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent" style="border:0;" width="640"></iframe></span></div>Do the Rocks first. By doing less you end up accomplishing more. They are Specific, Measurable, Attainable, Relevant and Timely.
 
 #### Meetings
 
@@ -197,7 +197,7 @@ Review
 
 [Gino Wickman](https://amzn.to/2HfyNX0) has written a useful instructional book that should be read in every business school. [Traction](https://amzn.to/2JDqQN4) helps to structure work and to get the things that matter done. It goes along really well with [The 12 Week Year](https://amzn.to/2vY8rCz) ([summary](https://ramonsuarez.com/12-week-year-summary-and-review/)) and both stress to work within 90 days (a quarter, three months).
 
-<figure class="wp-block-image">[![](https://ramonsuarez.com/wp-content/uploads/2019/05/5-stars-rating.png)](https://amzn.to/2JDqQN4)</figure>This is definitely a book that I will re-read, to implement it and to refresh my memory (like I’ve done already with [Getting Things Done](https://amzn.to/2LFadCX)). I wish they made a set of cards [like the ones for GTD](https://amzn.to/2VsDyQO). They make it much easier to recall and integrate key concepts.
+[![](https://ramonsuarez.com/wp-content/uploads/2019/05/5-stars-rating.png)](https://amzn.to/2JDqQN4)This is definitely a book that I will re-read, to implement it and to refresh my memory (like I’ve done already with [Getting Things Done](https://amzn.to/2LFadCX)). I wish they made a set of cards [like the ones for GTD](https://amzn.to/2VsDyQO). They make it much easier to recall and integrate key concepts.
 
 A lot of useful companion [tools](https://www.eosworldwide.com/eos-tools) and [documents](https://www.eosworldwide.com/dl-tools) are freely available on their website. Get them, work with them, and read the book.
 

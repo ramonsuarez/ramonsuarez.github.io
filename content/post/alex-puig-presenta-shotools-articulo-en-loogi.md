@@ -17,7 +17,7 @@ tag:
     - startups
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> <div><span></span>**El 11 de marzo dos startups españolas competirán en [Plugg](http://plugg.eu/)**, el evento para iniciadores web y mobil europeos en Bruselas: [**SHOTools**](http://shotools.com/) y [Sclipo](http://sclipo.com/). Deberán superar una primera ronda de eliminación en competencia con otras 18 startups europeas, con tan solo dos minutos para presentar su proyecto. Hemos enviado un cuestionario de presentación a los fundadores de los proyectos españoles. Hoy presentamos las respuestas de [Alex Puig](http://es.linkedin.com/in/alexpuig), fundador de **SHOTools**:
+<div class="posterous_bookmarklet_entry">> <div>**El 11 de marzo dos startups españolas competirán en [Plugg](http://plugg.eu/)**, el evento para iniciadores web y mobil europeos en Bruselas: [**SHOTools**](http://shotools.com/) y [Sclipo](http://sclipo.com/). Deberán superar una primera ronda de eliminación en competencia con otras 18 startups europeas, con tan solo dos minutos para presentar su proyecto. Hemos enviado un cuestionario de presentación a los fundadores de los proyectos españoles. Hoy presentamos las respuestas de [Alex Puig](http://es.linkedin.com/in/alexpuig), fundador de **SHOTools**:
 > 
 > ![Alex_Puig_SHOTools_plugg](http://loogic.com/files/2010/03/Alex_Puig_SHOTools_plugg1.jpg)**En 140 caracteres ¿qué hace tu proyecto o empresa?**  
 >  Dinamizar el networking entre profesionales en distintas redes sociales. Ayudamos a compartir y analizamos la efectividad de su comunicación.

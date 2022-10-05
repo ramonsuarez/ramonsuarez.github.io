@@ -53,7 +53,7 @@ Also, it shipped! I hated not being able to finish the first video iteration.
 Pride
 -----
 
-<figure class="wp-block-image">![](https://ramonsuarez.com/wp-content/uploads/2019/03/coworking-community-challenge.png)</figure>The content of the course is really good. Chunking it for a 28 days delivery was a good idea and I think it would have helped the students get things done , and to think and remember more.
+![](https://ramonsuarez.com/wp-content/uploads/2019/03/coworking-community-challenge.png)The content of the course is really good. Chunking it for a 28 days delivery was a good idea and I think it would have helped the students get things done , and to think and remember more.
 
 I loved having to do some more public speaking, like in the webinar. Recording the [video introduction](https://ramonsuarez.com/coworking-course-launched/) was also helpful to remember the thrill. I’ve given a small presentation since and I’m looking forward to do some more public speaking, but not to make a living out of it.
 

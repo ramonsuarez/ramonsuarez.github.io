@@ -34,7 +34,7 @@ publicize_google_plus_url:
 video_background:
     - ''
 ---
-<div class="wp-block-image"><figure class="aligncenter">![](https://media.giphy.com/media/DupMFENd0g6bu/giphy.gif)</figure></div>After a while longer than expected all the emails have been sent and the feedback is very positive, although the number of subscriptions are not that big.
+<div class="wp-block-image"><figure class="aligncenter">![](https://media.giphy.com/media/DupMFENd0g6bu/giphy.gif)</div>After a while longer than expected all the emails have been sent and the feedback is very positive, although the number of subscriptions are not that big.
 
 Super Positive Emails
 ---------------------
@@ -68,7 +68,7 @@ Stats
 
 There have also been **1193 visits to the blog** since I got back and I have to guess that most of those are thanks to the email. Unfortunately the Mail Merge and WordPress.com stats are not that good to figure this out exactly. Of those, **427 have been to the** [**signup page**](https://ramonsuarez.com/do-you-want-to-hear-from-me/) (no way to know the source).
 
-<figure class="wp-block-image">![](https://ramonsuarez.com/wp-content/uploads/2018/11/november-stats-ramonsuarez-com-wordpress-com1.png)</figure>As I said, not impressive numbers but infinitely better than zero. There’s some momentum to build on and some compound interests accruing towards the future 🙂
+![](https://ramonsuarez.com/wp-content/uploads/2018/11/november-stats-ramonsuarez-com-wordpress-com1.png)As I said, not impressive numbers but infinitely better than zero. There’s some momentum to build on and some compound interests accruing towards the future 🙂
 
 List &amp; Add-On Problems: Email Verifier App &amp; Mail Merge with Attachments 
 ---------------------------------------------------------------------------------

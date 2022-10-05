@@ -26,7 +26,7 @@ post_format: []
 > 
 > My algorithm for determining these blog posts is the same as previous ones, and once again I have tried my best to organize them into categories for you. Although I didn???t write as many posts about this site as I did about Twitter and LinkedIn, where appropriate I will introduce my own writings as well in case you missed them.
 > 
-> ### <span></span>**Personal Profile Tips and Tricks** 
+> ### **Personal Profile Tips and Tricks** 
 > 
 > [10 Cool Facebook Status Tips and Tricks](http://mashable.com/2010/07/10/facebook-status-tips-tricks/) by Amy-Mae Elliott \[4,225\]
 > 

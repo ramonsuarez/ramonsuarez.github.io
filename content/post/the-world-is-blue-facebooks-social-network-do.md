@@ -46,7 +46,7 @@ post_format: []
 > 
 > \[[Versione italiana dell’analisi di dicembre](http://www.vincos.it/2010/12/10/la-mappa-dei-social-network-nel-mondo-dicembre-2010/)\]
 > 
-> [<span><span style="cursor:pointer;"><span>Share</span></span><span></span><span><span>1322</span></span></span>](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.vincos.it%2Fworld-map-of-social-networks%2F&t=World%20Map%20of%20Social%20Networks%20%7C%20Vincos%20Blog&src=sp)
+> [<span><span style="cursor:pointer;"><span>Share</span></span><span><span>1322</span></span></span>](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.vincos.it%2Fworld-map-of-social-networks%2F&t=World%20Map%20of%20Social%20Networks%20%7C%20Vincos%20Blog&src=sp)
 > 
 > <span style="line-height:1;vertical-align:middle;display:inline-block;text-align:center;"><span style="padding:0;margin:0;text-indent:0;font-size:1px;display:inline-block;"><span>[<span>in</span><span>Share</span>](http://www.vincos.it/world-map-of-social-networks#)</span></span><span style="padding:0;margin:0;text-indent:0;font-size:1px;display:inline-block;"><span><span><span><span>16</span></span></span></span></span></span>
 > 

@@ -33,14 +33,14 @@ video_background:
 ---
 It took a while, but the [coworking community course](https://courses.coworkinghandbook.com/course?courseid=coworking-community-challenge) has finally been launched. I kept my timing and the email announcing it went out last Thursday.
 
-<figure class="wp-block-image">![](https://ramonsuarez.com/wp-content/uploads/2019/02/coworking-community-challenge-screenshot-from-2019-02-28-14-37-33.png)</figure>Text is the way to go
+![](https://ramonsuarez.com/wp-content/uploads/2019/02/coworking-community-challenge-screenshot-from-2019-02-28-14-37-33.png)Text is the way to go
 ---------------------
 
 Doing a text only course was a good choice. It is much easier to work and rework the content and I can make the delivery much faster. The students have to put their time into doing the tasks to improve their own coworking space community, not on trying to understand my accent in a video.
 
 Being able to revisit texts after the whole course is done is much easier than re-recording a video. No script is ever definitive, you have to settle at some point, but the workload of having to re-shot a video is so big that you just don’t do it unless it is absolutely necessary
 
-<figure class="wp-block-image">![](https://ramonsuarez.com/wp-content/uploads/2019/02/behind-the-scenes-ramonsuarez.jpg)</figure>Video issues
+![](https://ramonsuarez.com/wp-content/uploads/2019/02/behind-the-scenes-ramonsuarez.jpg)Video issues
 ------------
 
 As an example, the intro video I recorded. Super short script that was mended and amended more than 20 times while I was rehearsing it. I did about 10 takes until I decided that it was good enough (not perfect).
@@ -51,9 +51,9 @@ I noticed right away but did not want to delay the launch. Thanks to my friend a
 
 **Original**
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" loading="lazy" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/iWWs2UjrYPI?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent" style="border:0;" width="640"></iframe></span></div><figcaption>Lost of noise and very low volume</figcaption></figure>**Fixed**
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" loading="lazy" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/iWWs2UjrYPI?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent" style="border:0;" width="640"></iframe></span></div><figcaption>Lost of noise and very low volume</figcaption>**Fixed**
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" loading="lazy" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/R0nWyS6Dl08?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent" style="border:0;" width="640"></iframe></span></div><figcaption>Voice volume is up and noise is a bit muted compared to the voice, but sounds louder too</figcaption></figure>YouTube’s subtitling AI is good
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" loading="lazy" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/R0nWyS6Dl08?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent" style="border:0;" width="640"></iframe></span></div><figcaption>Voice volume is up and noise is a bit muted compared to the voice, but sounds louder too</figcaption>YouTube’s subtitling AI is good
 -------------------------------
 
 Subtitling has been very easy thanks to YouTube’s AI. I had to make few edits and they made my life much easier.

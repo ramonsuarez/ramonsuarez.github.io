@@ -22,7 +22,7 @@ publicize_google_plus_url:
 video_background:
     - ''
 ---
-<figure aria-describedby="caption-attachment-767" class="wp-caption aligncenter" id="attachment_767" style="width: 1880px">![](https://ramonsuarez.com/wp-content/uploads/2018/10/pexels-photo-355988.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-767">Photo by Pixabay on [Pexels.com](https://www.pexels.com/photo/blackboard-business-chalkboard-concept-355988/)</figcaption></figure>
+<figure aria-describedby="caption-attachment-767" class="wp-caption aligncenter" id="attachment_767" style="width: 1880px">![](https://ramonsuarez.com/wp-content/uploads/2018/10/pexels-photo-355988.jpeg)<figcaption class="wp-caption-text" id="caption-attachment-767">Photo by Pixabay on [Pexels.com](https://www.pexels.com/photo/blackboard-business-chalkboard-concept-355988/)</figcaption>
 
 *I’ve taken this out of the original [challenge](http://ramonsuarez.com/launching-at-least-one-project-every-month-my-entrepreneurship-learning-challenge/) post because it was confusing. I’ll keep it here for reference. Most of the learning can be found in the posts curated in the [<span style="color: #557d73;">**entrepreneurship**</span> challenge projects page](http://ramonsuarez.com/challenge-projects/).*
 

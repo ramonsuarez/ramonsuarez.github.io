@@ -27,7 +27,7 @@ The truth is that it does not matter. Using the [Headspace](https://www.headspac
 
 I have issues with the days that break the routine (usually when there are holidays or days of the weekend with no regular alone time) but missing a day here and there does not really matter when I take into account that I have meditated a lot since December 6 2018 and [gotten a lot out of it](https://ramonsuarez.com/meditated-for-100-days/).
 
-<figure class="wp-block-image">![](https://ramonsuarez.com/wp-content/uploads/2019/05/image.png)</figure>On top of this, I’ve meditated outside of the Headspace app too. In fact in every competition I do meditation exercises and I don’t need the app to do any of the meditations. I’ve learned a lot and remember enough to be autonomous, although I still enjoy and use the app.
+![](https://ramonsuarez.com/wp-content/uploads/2019/05/image.png)On top of this, I’ve meditated outside of the Headspace app too. In fact in every competition I do meditation exercises and I don’t need the app to do any of the meditations. I’ve learned a lot and remember enough to be autonomous, although I still enjoy and use the app.
 
 I’ve succeeded in making mediation work for me like I set myself to do, and that’s what really matters, not an external sign of recognition in the form of a badge. The fact is that meditation has helped me see the futility of the one year goal 🙂
 
