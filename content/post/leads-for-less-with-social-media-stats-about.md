@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Leads for Less with Social Media FEBRUARY 25, 2010 Social media, blogs and search engine optimization more cost-effective for lead gen Pull marketing tactics such as search, blog and social media generate cheaper leads than more traditional outbou...'
 type: post
 id: 65
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - Marketing

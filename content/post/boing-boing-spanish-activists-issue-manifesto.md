@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Spanish activists issue manifesto on the rights of Internet users Javier "Barrapunto" Candeira writes, "Last Monday the Spanish Government sent the parliament the latest draft for the Ley de Economia Sostenible (Sustainable Economy Act), which con...'
 type: post
 id: 367
-category:
-    - Uncategorized
+categories:
 tags:
     - freedom
     - internet

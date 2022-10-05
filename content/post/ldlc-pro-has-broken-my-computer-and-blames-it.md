@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'I''ve been unlucky enough to start buying at LDLC-Pro my IT material. They had a good reputation and based on it I went ahead and bought a computer, plus an extra SSD disc for another computer, plus some other stuff. It took them a bit longer than ...'
 type: post
 id: 205
-category:
-    - Uncategorized
+categories:
 tags:
     - computers
     - customerservice

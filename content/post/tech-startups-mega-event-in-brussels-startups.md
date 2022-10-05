@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Next April 19th there will be a mega event for tech startups and starters at the Egg in Brussels. If you have a startup or want to start one, you can not miss it. The event starts at 2pm and will go on until the night, with some drinks after a Bet...'
 type: post
 id: 47
-category:
-    - Uncategorized
+categories:
 tags:
     - belgium
     - brussels

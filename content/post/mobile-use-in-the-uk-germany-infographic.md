@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via mobile-attitudes.com Interesting apetizer.'
 type: post
 id: 361
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - mobile

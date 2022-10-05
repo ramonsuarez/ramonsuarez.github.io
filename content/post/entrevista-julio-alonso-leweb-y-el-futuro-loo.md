@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Por Ram??n Su??rez el 17 Noviembre 2010 Julio Alonso presentando en el SIMO (foto cc Pixel y Dixel) Julio Alonso es el fundador y CEO de Weblogs SL, la principal red de blogs en espa??ol, con m??s de 15 millones de visitantes ??nicos en septiembre...'
 type: post
 id: 237
-category:
-    - Uncategorized
+categories:
 tags:
     - español
     - events

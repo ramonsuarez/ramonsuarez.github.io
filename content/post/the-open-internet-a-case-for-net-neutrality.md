@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Amazingly simple way to clearly explain what is at stake in the debate for net neutrality. Yes, the Internet must remain neutral. Don''t let telecom companies ruin our future and our economy.'
 type: post
 id: 10
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - freedom

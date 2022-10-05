@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via youtube.com A sneak peek into the Founder Institute chapter in Brussels. Do you have what it takes to become an entrepreneur? Prove it.'
 type: post
 id: 343
-category:
-    - Uncategorized
+categories:
 tags:
     - betagroupcoworkingbrussels
     - brfi

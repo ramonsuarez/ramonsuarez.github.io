@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Distribution of Facebook Users in Spain by Age and Gender Top Ten Facebook Countries Worldwide and Ten Fastest Growing Countries via facebookmarketing.es Spain is the 10th country in the World with more Facebook users with about 10,5 millions, a f...'
 type: post
 id: 141
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - facebook

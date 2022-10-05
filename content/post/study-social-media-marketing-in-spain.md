@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via etc.territoriocreativo.es'
 type: post
 id: 241
-category:
-    - Uncategorized
+categories:
 tags:
     - blog
     - español

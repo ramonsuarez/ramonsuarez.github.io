@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via plus7.arte.tv An interesting video from Arte TV that tryes to analyze the geopolitics of the Internet and to explain what is the Internet for Mr. and Ms. Everybody.'
 type: post
 id: 247
-category:
-    - Uncategorized
+categories:
 tags:
     - français
     - internet

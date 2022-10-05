@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 1067
 thumbnail: /uploads/2019/05/coyote-thinking.gif
-category:
+categories: 
     - 'Business Ideas'
     - Projects
 tags:

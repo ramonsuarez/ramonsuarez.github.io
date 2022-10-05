@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'I don''t want to be mean, but you guys missed it! via Edouard Seynaeve via coworking.betagroup.be We had a great time.'
 type: post
 id: 159
-category:
-    - Uncategorized
+categories:
 tags:
     - betacowork
     - betagroupcoworkingbrussels

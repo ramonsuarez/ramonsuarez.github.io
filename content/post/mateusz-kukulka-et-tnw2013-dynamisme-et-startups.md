@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 400
-category:
-    - Uncategorized
+categories:
 tags:
     - '#tnw2013'
     - français

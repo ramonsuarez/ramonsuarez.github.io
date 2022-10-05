@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'El mayor evento Europeo en torno a Internet vuelve a su cita anual parisina los pr??ximos 8 y 9 de diciembre. En LeWeb se juntar??n 2400 emprendedores, l??deres, inversores, bloggers y periodistas. Es uno de las grandes acontecimientos mundiales que ...'
 type: post
 id: 293
-category:
-    - Uncategorized
+categories:
 tags:
     - español
     - europe

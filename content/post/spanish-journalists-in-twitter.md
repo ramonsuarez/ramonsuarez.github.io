@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Aced, Cristina (freelancer) @blogocorp Aguilera, Rafael (Radio Euskadi) @rafa\_aguilera Alday, Ainhoa (P??blico) @ainhoaalday Alc??zar, Mikel (Radio Zaragoza) @mikelalcazar Almeida, Manuel (freelancer) @mmeida Alonso, Juan Francisco (ABC) @jfalonso A...'
 type: post
 id: 89
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - journalism

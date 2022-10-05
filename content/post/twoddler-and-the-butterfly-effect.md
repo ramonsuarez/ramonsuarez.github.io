@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'You need to a flashplayer enabled browser to view this YouTube video via globecorp.biz As Jean-Yves writes, there are powerful multiplicators in today''s new media landscape. A university project presented in Brussel''s BetaGroup got a couple twits ...'
 type: post
 id: 52
-category:
-    - Uncategorized
+categories:
 tags:
     - betagroup
     - english

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Reasons for not regularly opening email marketing messages via b2bemailmarketing.com A good reminder of things to keep in mind when preparing and executing an email marketing strategy.'
 type: post
 id: 1113
-category:
-    - Uncategorized
+categories:
 tags:
     - email
     - english

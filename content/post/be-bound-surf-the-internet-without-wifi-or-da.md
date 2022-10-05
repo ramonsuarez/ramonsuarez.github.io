@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Be-Bound is the great world changer of the startup competition at LeWeb. They propose a smarphone app that relies on the standard mobile phone networks to allow for Internet use. How do they do it? By sending sms to and from their servers. To use ...'
 type: post
 id: 265
-category:
-    - Uncategorized
+categories:
 tags:
     - bebound
     - english

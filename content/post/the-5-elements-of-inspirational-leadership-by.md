@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Taken with picplz at BetaGroup Coworking Brussels in Etterbeek, Belgium. Confidence, Emotional Intelligence, Adaptability, Pragmatism, Intellectual Curiosity'
 type: post
 id: 121
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - harleylovegrove

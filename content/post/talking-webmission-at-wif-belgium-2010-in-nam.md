@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via youtube.com I recently had the chance of being interviewed by the AWT TV during the belgian WIF 2010 web design event in Namur. Explaining may be an overstatement, it is more like mumbling, but hopefully some people will dig it and join the ne...'
 type: post
 id: 354
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - events

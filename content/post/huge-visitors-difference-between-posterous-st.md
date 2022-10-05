@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'The more analytics I see, the more puzzled I am by the disparity among them. In this particular case, the huge difference between Posterous stats and Google Analytics after just one month of publishing. According to Posterous, this blog has alread...'
 type: post
 id: 26
-category:
-    - Uncategorized
+categories:
 tags:
     - analytics
     - english

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Manifesto: management 2.0 Management 2.0 is not about a CEO having a blog or a cool presence engineered by his PR people. It is not about having Twitter accounts and nice Facebook pages. Management 2.0 is about rethinking radically the way compani...'
 type: post
 id: 27
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - ideas

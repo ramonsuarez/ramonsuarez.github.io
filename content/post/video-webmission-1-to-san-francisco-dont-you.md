@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via youtube.com We are preparing a new to go to San Francisco in Mai. Would you like to join us and present your company in the valley? Thanks to Sam Piroton for editing and posting the video!'
 type: post
 id: 95
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - Entrepreneurship

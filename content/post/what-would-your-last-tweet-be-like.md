@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via marilink.net Mine: I love you. You know who it is addressed to.'
 type: post
 id: 80
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - socialmedia

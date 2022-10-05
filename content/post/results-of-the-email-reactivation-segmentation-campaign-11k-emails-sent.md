@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 1114
 thumbnail: /uploads/2019/05/november-stats-ramonsuarez-com-wordpress-com1.png
-category:
+categories: 
     - Automation
     - Marketing
     - 'Progress Report'

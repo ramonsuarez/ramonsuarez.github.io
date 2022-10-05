@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Alain Baritault est un des coll??gues qui organisent le Founder Institute en Europe. Depuis Paris, il nous explique en quelques mots qu''est-ce que c''est le Founder Institute: via frenchweb.fr Si vous voulez plus conna??tre et faire connaissance d''un...'
 type: post
 id: 244
-category:
-    - Uncategorized
+categories:
 tags:
     - brussels
     - filiptack

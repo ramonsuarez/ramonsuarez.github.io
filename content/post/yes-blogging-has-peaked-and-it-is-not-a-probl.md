@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'According to the Pew Research Center''s Internet &amp; American Life Project, blogging activity has dropped drastically among young adults in the United States, a demographic that traditionally helps define the tenor of the online conversation. In Dece...'
 type: post
 id: 307
-category:
-    - Uncategorized
+categories:
 tags:
     - blog
     - english

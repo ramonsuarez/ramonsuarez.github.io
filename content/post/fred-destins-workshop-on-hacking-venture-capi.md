@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'LIFT10: Workshop on Hacking Venture Capital This morning at the excellent LIFT Conference I gave a two hour workshop on "Hacking Venture Capital" designed to give entrepreneurs a hands-on experience of (a) pitching and (b) negotiating with detaile...'
 type: post
 id: 301
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - funding

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'KodesK fait l???unanimit?? au Startup Weekend post?? par Zoe de York le 31 jan 2011 dans Bizz, Featured Articles, Geekosph??re | 2 commentaires 5ShareEmailShare5EmailPour les sept ??quipes qui ont surv??cu ? la nuit du samedi au dimanche, c?????t...'
 type: post
 id: 316
-category:
-    - Uncategorized
+categories:
 tags:
     - benpiquard
     - briceleblevennec

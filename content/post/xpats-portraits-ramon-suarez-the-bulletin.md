@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Ramon Suarez Ramon Suarez is one of the four organisers of Startup Weekend Brussels, a new event which aims to help prospective entrepreneurs launch a business in just 54 hours There are so many people out there who have great ideas but think that...'
 type: post
 id: 105
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - interview

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Confirmed speakers Plugg 2010 Mike Butcher Tariq Krim Ilja Laurs Saul Klein Inmaculada Martinez Jon S. von Tetzchner Cyril Zimmermann Peter Crosby view all speakers via plugg.eu Plugg is coming again to Brussels, to celebrate "entrepreneurship and...'
 type: post
 id: 358
-category:
-    - Uncategorized
+categories:
 tags:
     - conferences
     - english

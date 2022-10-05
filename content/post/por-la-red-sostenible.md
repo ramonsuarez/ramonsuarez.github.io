@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Por la Red sostenible Consideramos imprescindible la retirada de la disposici??n final primera de la Ley de Econom??a Sostenible por los siguientes motivos: 1 -Viola los derechos constitucionales en los que se ha de basar un estado democr??tico en es...'
 type: post
 id: 11
-category:
-    - Uncategorized
+categories:
 tags:
     - español
     - freedom

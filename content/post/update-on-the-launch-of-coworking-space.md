@@ -7,7 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 601
-category:
+categories: 
     - Coworking
     - 'Progress Report'
     - Projects

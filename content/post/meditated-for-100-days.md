@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 1005
 thumbnail: /uploads/2019/05/buzzing-mind-headspace.gif
-category:
+categories: 
     - 'Progress Report'
 tags:
     - headspace

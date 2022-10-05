@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via royal.pingdom.com A very interesting study about age distribution of social network users in the USA. It is worth a full read, but these are the key-points for me: The average social network user is 37 years old. The dominant age group is 35-4...'
 type: post
 id: 107
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - socialmedia

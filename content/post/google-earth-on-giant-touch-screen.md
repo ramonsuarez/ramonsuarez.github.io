@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via vimeo.com One of the gadgets I liked the most at LeWeb10 was this giant touch screen with Google Earth on it. The interaction with the maps was incredibly natural and intuitive. The computer behind it was running Windows and using Internet Exp...'
 type: post
 id: 215
-category:
-    - Uncategorized
+categories:
 tags:
     - gadgets
     - googleearth

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'An explosive mix on Facebook. The thing that strikes me the most is not the lingerie ad (I exagerated a bit on the sex part) but the custom precission rifle. How the hell has that ad ended up in my profile?'
 type: post
 id: 372
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - facebook

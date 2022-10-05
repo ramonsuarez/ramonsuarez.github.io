@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via techcrunch.com I just love this image created by Facebook Intern Paul Butler, to visualize the international connections of profiles in Facebook. It was created with a subset of only 10 million profiles. Amazing and beautiful.'
 type: post
 id: 212
-category:
-    - Uncategorized
+categories:
 tags:
     - datavisualization
     - english

@@ -7,7 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 629
-category:
+categories: 
     - Coworking
     - Entrepreneurship
     - News

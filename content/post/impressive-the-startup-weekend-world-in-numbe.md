@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'I''m really impressed to see the amount of hard working and motivated entrepreneurs there are in the world. This infographic gives you a very good idea of the Startup Weekend world entrepreneurs, to which we contribute from Brussels. If you have ev...'
 type: post
 id: 262
-category:
-    - Uncategorized
+categories:
 tag: []
 post_format: []
 ---

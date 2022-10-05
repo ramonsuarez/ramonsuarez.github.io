@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'One of the things that has always amazed me about the Renaissance is how the most famous wise-men of the time had all multiple fields of expertise and interest. They had a focus on learning and education, coming out of a time of obscurity, fightin...'
 type: post
 id: 254
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - internet

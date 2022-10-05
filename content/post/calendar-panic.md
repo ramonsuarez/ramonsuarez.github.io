@@ -8,8 +8,7 @@ excerpt: ''
 type: post
 id: 1026
 thumbnail: /uploads/2019/05/panic.gif
-category:
-    - Uncategorized
+categories:
 tag: []
 post_format: []
 timeline_notification:

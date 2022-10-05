@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via vincos.it The world is being conquered by Facebook. Will this hegemony last?'
 type: post
 id: 88
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - facebook

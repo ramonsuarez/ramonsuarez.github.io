@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Investors - VC &amp; Angels 123Venture (France) 360 Capital Partners (Luxembourg) A Plus Finance (France) Accel Partners (London) Actem (France) Advent (London) AGF PE (France) Allyum Alto Invest (France) Alven Capital (France) Amadeus Capital (UK) An...'
 type: post
 id: 40
-category:
-    - Uncategorized
+categories:
 tags:
     - betagroup
     - brussels

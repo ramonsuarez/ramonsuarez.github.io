@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Just the begining of the list, which is rather long, thanks to Carlos: Iniciador: http://www.iniciador.com/ Twittmad: http://www.twittmad.com/ Conversion Thursday: http://www.conversion-thursday.com/ Beers &amp; Blogs: http://www.beersandblogs.es/ Thu...'
 type: post
 id: 91
-category:
-    - Uncategorized
+categories:
 tag: []
 post_format: []
 ---

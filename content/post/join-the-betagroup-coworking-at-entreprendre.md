@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Taken with picplz at Tour &amp; Taxis in Brussels, Belgium.'
 type: post
 id: 211
-category:
-    - Uncategorized
+categories:
 tag: []
 post_format: []
 ---

@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 1079
 thumbnail: /uploads/2019/05/dear-diary.gif
-category:
+categories: 
     - books
     - Projects
 tags:

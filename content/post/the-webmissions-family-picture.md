@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via gallery.me.com Had a great time at EBE09 with the Belgian Webmission. Looking forward to the next. :)'
 type: post
 id: 359
-category:
-    - Uncategorized
+categories:
 tags:
     - ebe09
     - english

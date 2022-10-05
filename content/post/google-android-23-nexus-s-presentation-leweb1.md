@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Dave Burke from Google presents the changes in Android 2.3 and the new Samsung Nexus S smartphone at LeWeb10. Google Android 2.3 &amp; Nexus S presentation LeWeb10 from Ramon Suarez on Vimeo.'
 type: post
 id: 255
-category:
-    - Uncategorized
+categories:
 tag: []
 post_format: []
 ---

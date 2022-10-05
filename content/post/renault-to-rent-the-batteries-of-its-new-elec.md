@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Renault is bringing an interesting business model to the market with its new electric cars: they will sell the cars and rent the batteries. Advantages for the users: no worries about lifetime of the batteries, recycling taken care of by the compan...'
 type: post
 id: 227
-category:
-    - Uncategorized
+categories:
 tags:
     - electriccars
     - english

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'ymedia has published an interactive map of the Spanish Media landscape which helps understand the links between companies and publications. You can search it for a company and limit the view by sector, but I think that the best is to leave all act...'
 type: post
 id: 256
-category:
-    - Uncategorized
+categories:
 tags:
     - companies
     - datavisualization

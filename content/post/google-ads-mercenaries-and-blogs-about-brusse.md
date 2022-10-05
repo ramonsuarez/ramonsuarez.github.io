@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via blogbruselas.com I was pretty shocked when I found this ad on my Spanish blog about Brussels. Somehow, Google Adsense has decided that the most relevant ad to include in a blog written in Spanish about Brussels and in an article about Dutch le...'
 type: post
 id: 279
-category:
-    - Uncategorized
+categories:
 tags:
     - advertising
     - blogs

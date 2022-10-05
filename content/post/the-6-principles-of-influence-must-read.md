@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via slideshare.net Reciprocity This principle is based on the fact that people give back what another has given to them. It might seem obvious, and it is indeed one of the main rules of our society. Test for example yourself: smile to the people y...'
 type: post
 id: 249
-category:
-    - Uncategorized
+categories:
 tags:
     - books
     - english

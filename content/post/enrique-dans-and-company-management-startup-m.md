@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: '???The efficiency gap between startups and companies managed in a traditional way is widening??? You need to a flashplayer enabled browser to view this YouTube video via globecorp.biz Enrique Dans was one of the many great people the members of th...'
 type: post
 id: 161
-category:
-    - Uncategorized
+categories:
 tags:
     - blog
     - english

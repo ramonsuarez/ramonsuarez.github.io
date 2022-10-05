@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via picplz.com I just had the chance of finding myself in a pannel about digital communication with Steve Rubel and Patrick Bosteels. The event was named "A sneak peek into the future of digital communications", but we got much more. Gotta run to ...'
 type: post
 id: 160
-category:
-    - Uncategorized
+categories:
 tags:
     - audio
     - betagroupcoworkingbrussels

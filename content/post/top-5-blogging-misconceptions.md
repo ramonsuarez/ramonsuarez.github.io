@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: '1\. If you write it they will come??? If you promote it they might come. You could be writing the most fantastic blog on earth but if no one knows about it why bother? It???s almost like the old saying, ???If a tree falls in the woods and no one is there...'
 type: post
 id: 192
-category:
-    - Uncategorized
+categories:
 tags:
     - blog
     - communication

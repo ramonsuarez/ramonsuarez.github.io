@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via kreature.be Thanks to Florence Manente for including my blogs in her great list of Brussels'' blogs :)'
 type: post
 id: 175
-category:
-    - Uncategorized
+categories:
 tags:
     - bloggers
     - blogs

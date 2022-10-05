@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 1403
 thumbnail: /uploads/2019/05/image.png
-category:
+categories: 
     - 'Progress Report'
 tags:
     - headspace

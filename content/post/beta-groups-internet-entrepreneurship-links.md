@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Associations ABE - Brussels beCommerce Belgian Venture Capital Brussels Girl geek Cide- Socran Club informatique U-Mons Creative Club Belgium FeWeb Fondation Marketing IAB iMal - Brussels Label eTIC Medianet Vlaanderen Mobilemonday.be/ Netlab (Net...'
 type: post
 id: 157
-category:
-    - Uncategorized
+categories:
 tags:
     - betagroup
     - brussels

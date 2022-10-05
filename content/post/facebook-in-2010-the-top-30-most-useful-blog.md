@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Since Facebook is where Americans spend more time than anywhere else on the Internet, our needs as social media marketers as well as professionals to stay on top of the latest trends in 2010 regarding the social media gorilla are as important as e...'
 type: post
 id: 267
-category:
-    - Uncategorized
+categories:
 tags:
     - articles
     - english

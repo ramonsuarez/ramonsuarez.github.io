@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'I''m on a plane, on my way to Austin for SXSW and the Global Coworking Unconference, enjoying the great service onboard a United Airlines flight. One of the movies playing is The Artist, starring Jean Dujardin, a film you should absolutely watch. B...'
 type: post
 id: 43
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - Entrepreneurship

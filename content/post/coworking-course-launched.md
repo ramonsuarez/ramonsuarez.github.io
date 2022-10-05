@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 1052
 thumbnail: /uploads/2019/05/blastoff.gif
-category:
+categories: 
     - Courses
     - Coworking
     - News

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Le co-working, une nouvelle vision de l???entreprise Le Co-Working, c???est selon la d??finition de Wikip??dia, un type d???organisation qui regroupe deux notions : un espace de travail partag?? et un r??seau qui encourage l?????change et l???ouve...'
 type: post
 id: 23
-category:
-    - Uncategorized
+categories:
 tags:
     - alaingerlache
     - audio

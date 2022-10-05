@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: '84% (16 out of 19) of the sites have more female than male users. The social news sites Digg, Reddit and Slashdot have significantly more male users than female. The standout here is Slashdot which takes male geekdom to new heights with 82% male u...'
 type: post
 id: 30
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - socialmedia

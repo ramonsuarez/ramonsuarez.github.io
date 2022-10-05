@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Drunken Ultimatums The so-called ultimatum game contains a world of psychological and economic mysteries. In a laboratory setting, one person is given an allotment of money (say, $100) and instructed to offer a second person a portion. If the seco...'
 type: post
 id: 9
-category:
-    - Uncategorized
+categories:
 tags:
     - behavior
     - economy

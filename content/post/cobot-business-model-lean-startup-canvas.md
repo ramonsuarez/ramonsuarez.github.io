@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Problem What???s the problem we think we have identified? Running a coworking space involves too much repetitive work (which costs too much money to do by hand): managing members (sign up, sign contract, change plan or other details from time to tim...'
 type: post
 id: 109
-category:
-    - Uncategorized
+categories:
 tags:
     - businessmodel
     - Coworking

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via vimeo.com Madlen Nicolaus, social media manager EMEA for Kodak, explains what her job is like, the advantages of the Kodak Playtouch video camera (which I used to record the interview), and refuses to say if there''s a WiFi version cooking. Som...'
 type: post
 id: 54
-category:
-    - Uncategorized
+categories:
 tags:
     - kodakemea
     - kodakplaytouch

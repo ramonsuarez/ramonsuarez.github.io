@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Facebook is a government. Facebook''s users are citizens, and Facebook''s applications developers are the private companies that drive much of the economy. Apple. Twitter, Myspace, Craigslist, Foursquare, Tumblr and every other large network of enga...'
 type: post
 id: 81
-category:
-    - Uncategorized
+categories:
 tags:
     - corporatesocialresponsibility
     - governance

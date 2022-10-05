@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Photo c Natalie Hill 85 participants, 46 ideas, 11 finalist, a hell of a good entrepreneurial time. WORKING TEAMS Description Founder Heal.th Helps users make sense of their (future) health data Misha GroupOn Wishlist Offers driven by group wishli...'
 type: post
 id: 170
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - startupcompetition

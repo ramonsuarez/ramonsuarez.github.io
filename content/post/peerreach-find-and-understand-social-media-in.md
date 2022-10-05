@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'PeerReach is a tool to find the influencers in a topic, language and geographic area. But it does more than help you find them, it helps you understand their main areas of interest and influence in each one of them. You probably thought of other t...'
 type: post
 id: 142
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - influence

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'A large number of web services are geographically restricted, such as Hulu, Pandora and Spotify. The reasons are usually to do with content licensing restrictions, or because US visitors (or visitors from other advanced economies) are of a higher ...'
 type: post
 id: 132
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - expat

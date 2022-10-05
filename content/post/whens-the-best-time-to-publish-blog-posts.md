@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'This guest post is by HubSpot???s social media scientist, Dan Zarrella. Of all the data analysis that I???ve done, day-of-week and time-of-day data has been consistently the most popular. So in preparation for my upcoming webinar, titled Science of Bl...'
 type: post
 id: 263
-category:
-    - Uncategorized
+categories:
 tags:
     - blogs
     - english

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'For the second year on a row there will be a unified Belgian startups stand at LeWeb. On this occassion there will be 15 startups participating from the three Belgian regions: 14 as part of the Startups.be #beleweb delegation and one in the startu...'
 type: post
 id: 145
-category:
-    - Uncategorized
+categories:
 tags:
     - 87seconds
     - 8thcolor

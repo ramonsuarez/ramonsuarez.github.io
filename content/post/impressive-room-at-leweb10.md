@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 242
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - events

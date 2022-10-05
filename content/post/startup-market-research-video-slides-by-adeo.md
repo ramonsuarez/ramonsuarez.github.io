@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Are you planning to launch your own startup? This presentation by Adeo Ressi can help you do the basic market research What market are you pursuing? Is it big enough? Is it growing or shrinking? What are the other characteristics of your market, a...'
 type: post
 id: 302
-category:
-    - Uncategorized
+categories:
 tag: []
 post_format: []
 ---

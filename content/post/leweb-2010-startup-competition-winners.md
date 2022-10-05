@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Out of the 16 startups that where selected to compete at LeWeb10, the 3 finalists have been awarded a price each: Virality prize: Paper.Li Technology prize: Waze Originality prize: Super Marmite Prize of the audience: Deways'
 type: post
 id: 108
-category:
-    - Uncategorized
+categories:
 tags:
     - deways
     - english

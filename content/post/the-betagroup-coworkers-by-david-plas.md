@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via davidplas.be This is just a selection of the pictures that David took of the Betagroup coworkers that pooled together to get some mean pro pictures. In coworking pulchritudo'
 type: post
 id: 116
-category:
-    - Uncategorized
+categories:
 tags:
     - betagroupcoworkingbrussels
     - coworkers

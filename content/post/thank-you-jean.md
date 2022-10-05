@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Yesterday was a bitter-sweet night for all of us. On one part we had the first demo day of the Betagroup, with almost 1200 signups and over 700 attendees. The place was packed and the startups doing the demos where very busy pitching. At the same ...'
 type: post
 id: 335
-category:
-    - Uncategorized
+categories:
 tags:
     - belgianstartups
     - betagroup

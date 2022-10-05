@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 1659
 thumbnail: /uploads/2019/09/Running-away-from-doubt.jpg
-category:
+categories: 
     - 'Business Ideas'
     - Coworking
     - Marketing

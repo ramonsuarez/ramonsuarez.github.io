@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via cleverwood.be via youtube.com I was lucky enough to be the testing subject for the eye-tracking experiment :) Arm is still out of business, so can''t do much typing.'
 type: post
 id: 15
-category:
-    - Uncategorized
+categories:
 tags:
     - eyetracking
     - presentation

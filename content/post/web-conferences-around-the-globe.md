@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'General Web Design Conferences UI, UX, &amp; IA Conferences JavaScript &amp; Ajax Conferences Graphic Design Conferences Mobile Web Conferences Back-End Programming Conferences Ruby on Rails Conferences Flash &amp; ActionScript Conferences SEO &amp; SEM Conferenc...'
 type: post
 id: 373
-category:
-    - Uncategorized
+categories:
 tags:
     - conferences
     - english

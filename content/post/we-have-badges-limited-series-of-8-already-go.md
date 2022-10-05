@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Taken with picplz.'
 type: post
 id: 136
-category:
-    - Uncategorized
+categories:
 tag: []
 post_format: []
 ---

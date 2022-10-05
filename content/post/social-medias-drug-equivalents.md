@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via intrigue.soup.io #wearealladdicts ;)'
 type: post
 id: 328
-category:
-    - Uncategorized
+categories:
 tags:
     - fun
     - socialmedia

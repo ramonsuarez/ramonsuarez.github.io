@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'First Startup Weekend in Belgium Launch Your Startup in 54 hours For the first time in Belgium, 80 people will get together in Brussels to turn their ideas into running startups over the course of the Startup Weekend Brussels: from idea to startup...'
 type: post
 id: 365
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - events

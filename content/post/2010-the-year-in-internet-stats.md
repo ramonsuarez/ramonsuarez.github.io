@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'The internet is at the stage where it???s producing some pretty incredible numbers. The number of emails sent on the internet in 2010 was 107 trillion, according to statistics gathered by Royal Pingdom. Since antivirus companies say that about 89 pe...'
 type: post
 id: 123
-category:
-    - Uncategorized
+categories:
 tags:
     - '2010'
     - english

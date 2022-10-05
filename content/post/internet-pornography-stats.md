@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via gizmodo.com In its efforts to explain all things Internet related and to bridge the digital divide, tonight''s Caf?? Numerique is dedicated to Internet porn: a controversial business that is usually refferred to as one of the main engines of inn...'
 type: post
 id: 76
-category:
-    - Uncategorized
+categories:
 tags:
     - datavisualization
     - english

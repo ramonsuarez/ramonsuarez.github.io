@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'The guys are setting it up and can use up to 25 screens as one. Widgets relate semantically. It runs on their own software over a linux system. Each 2 screen module goes for about ???55.000. Who said you can not make money using open source?'
 type: post
 id: 312
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - gadgets

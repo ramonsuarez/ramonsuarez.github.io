@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 1581
 thumbnail: /uploads/2019/07/12WY1-85.jpg
-category:
+categories: 
     - 'Progress Report'
     - Projects
 tags:

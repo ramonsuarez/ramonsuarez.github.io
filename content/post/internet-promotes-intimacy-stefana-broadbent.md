@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via ted.com Another great talk by Stefana Broadbent on the cultural impact of Internet use: it encourages greater intimacy and reintroduces private life in the working sphere.'
 type: post
 id: 221
-category:
-    - Uncategorized
+categories:
 tags:
     - anthropology
     - english

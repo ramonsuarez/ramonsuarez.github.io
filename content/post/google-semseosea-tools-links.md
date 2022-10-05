@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Google Webmaster Tools Google Analytics Google Website Optimizer Google Zeitgeist Google Trends Google Insights for Search Google Traffic Estimator Google Keyword Tool Google Search Based Keyword Tool Google Ad Planner via wwwhatsnew.com An easy t...'
 type: post
 id: 93
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - google

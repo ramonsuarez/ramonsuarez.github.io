@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via slideshare.net Last April I participated in the coordination of the Bloggers area of the Campus Party Europe in Madrid. This was possible thanks to Jonan Basterra and Marcos Morales the masterminds behind Pixel y Dixel. Beyond the great experi...'
 type: post
 id: 60
-category:
-    - Uncategorized
+categories:
 tags:
     - blog
     - cpartyeu

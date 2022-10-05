@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Belgium: 78% Internet Penetration 61% Reading &amp; writing blogs 86% Video watching 66% Photo sharing 93% Social networking via conversity.be'
 type: post
 id: 191
-category:
-    - Uncategorized
+categories:
 tags:
     - belgium
     - socialmedia

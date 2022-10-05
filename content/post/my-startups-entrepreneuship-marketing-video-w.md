@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Powered by Dailymotion'
 type: post
 id: 362
-category:
-    - Uncategorized
+categories:
 tags:
     - Coworking
     - dailymotion

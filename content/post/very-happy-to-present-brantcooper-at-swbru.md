@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via flickr.com He gave a terrific talk about customer development and lean startup methodology. You guys missed a great talk. In 15 minutes Brant was able to motivate and help the participants more than some business courses can do in a semester. ...'
 type: post
 id: 101
-category:
-    - Uncategorized
+categories:
 tags:
     - brantcooper
     - businessmodel

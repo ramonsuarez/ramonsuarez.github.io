@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 124
-category:
-    - Uncategorized
+categories:
 tags:
     - mbasolvay
     - pictures

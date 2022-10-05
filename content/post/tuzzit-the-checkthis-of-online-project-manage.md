@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'TUZZit is a very promising online project management tool that focuses in ease of use and visual appeal. There are no save buttons and it allows to present ideas and task just like we would do in a whiteboard, with a visual organization instead of...'
 type: post
 id: 102
-category:
-    - Uncategorized
+categories:
 tags:
     - belgianstartups
     - checkthis

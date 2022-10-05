@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Pitch Bootcamp in Brussels with Filip Tack The Founder Insitute and the Betagroup are hosting a free Pitch Bootcamp in Brussels with entrepreneur and FI mentor Filip Tack. Filip is the Founder of Nomadesk, a Belgian startup that specializes in onl...'
 type: post
 id: 269
-category:
-    - Uncategorized
+categories:
 tags:
     - elevatorpitch
     - english

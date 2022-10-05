@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Sometimes one is amazed by the things that can be done with a lot of pressure. This presentation is one of these cases. Thanks to Patrick Boostels I was given the chance to do the closing keynote presentation at DroidCon Belgium 2010 in Brussels, ...'
 type: post
 id: 296
-category:
-    - Uncategorized
+categories:
 tags:
     - android
     - conferences

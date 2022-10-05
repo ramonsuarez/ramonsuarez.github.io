@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Por Ram??n Su??rez el 9 Mayo 2011 Editar Share --&gt; Se va acercando la conferencia Next11 en Berl??n y con ello el concurso de startups NextElevator. Estos son los 12 finalistas: egoArchive Buscador personal basado en archivo con capturas de pantal...'
 type: post
 id: 12
-category:
-    - Uncategorized
+categories:
 tags:
     - articles
     - español

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: '7 tricks for your corporate twitter Author: Dmitri Joukov27 November 2009 Our twitter @turbomilk is one of the most popular corporate twitters in Russia. The password to the twitter is available to all our staff but there is just a few of us posti...'
 type: post
 id: 38
-category:
-    - Uncategorized
+categories:
 tags:
     - corporate
     - english

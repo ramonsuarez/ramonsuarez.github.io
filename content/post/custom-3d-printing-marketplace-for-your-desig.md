@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'At the last TEDxLeuven I was gratefully surprised: I found out about Materialise, a world leader and pioneer in industrial 3D printing, which comes out of Belgium. One more of the leading tech companies that not so many people have ever heard abou...'
 type: post
 id: 223
-category:
-    - Uncategorized
+categories:
 tags:
     - 3dprinting
     - belgium

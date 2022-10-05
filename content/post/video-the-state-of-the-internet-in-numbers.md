@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via emmanuelvivier.com I can not help it, I love meaningful data. And if the data is portrayed in a way that is easy to visualize I love it even more. This is a great video example of Internet data visualization. For all those preparing presentati...'
 type: post
 id: 298
-category:
-    - Uncategorized
+categories:
 tags:
     - blog
     - datavisualization

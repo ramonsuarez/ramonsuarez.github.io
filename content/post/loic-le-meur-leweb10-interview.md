@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via loogic.com This year I will be participating in LeWeb as a correspondent for Loogic, a prominent Spanish blog about Internet entrepreneurship. With this in mind, I''ve taken advantage to interview some internet figures like the organizer of LeW...'
 type: post
 id: 69
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - events

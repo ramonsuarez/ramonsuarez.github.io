@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via xtranormal.com In case you have not yet made up your mind, this should help you sign up. Via @nicolasfrenay. Update: There''s more! via xtranormal.com I want one for the #betacowork!'
 type: post
 id: 84
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - events

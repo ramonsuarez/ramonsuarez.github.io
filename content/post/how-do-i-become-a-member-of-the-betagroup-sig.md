@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Some people have asked me what do they have to do to sign-up to the Betagroup and become a member. Easy! It is free and simple: you just have to signup to one of the events, to the Linkedin group or to the newsletter box in the Betagroup''s website...'
 type: post
 id: 82
-category:
-    - Uncategorized
+categories:
 tags:
     - betagroup
     - brussels

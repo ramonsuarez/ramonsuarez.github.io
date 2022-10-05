@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Three things you should never tell a VC when fundraising Disclosure is a good thing. Early disclosure of thorny issues is a very good thing (such as, "I am embroiled in a legal dispute with my co-founder over ownership of the company and here is w...'
 type: post
 id: 111
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - funding

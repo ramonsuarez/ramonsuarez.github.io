@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via bvlg.blogspot.com Bruno Peeters has crawled the Belgian twitosphere to get some insight about it. He has produced a very interesting infographic extrapolating data from over 46000 Twitter accounts located in Belgium. The average Twitter accoun...'
 type: post
 id: 300
-category:
-    - Uncategorized
+categories:
 tags:
     - belgium
     - english

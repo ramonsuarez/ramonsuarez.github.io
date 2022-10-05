@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via linkedin.com Very interesting statistics about the Betagroup in Linkedin. Over 2425 members, 832 are owners of their business, 495 are senior, and 276 have manager positions. It should open the eyes of a lot of people that think that Internet ...'
 type: post
 id: 13
-category:
-    - Uncategorized
+categories:
 tags:
     - betagroup
     - linkedin

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via economist.com The Economist has published a very interesting article on the blooming tech entrepreneur sceene in Europe and the main differences with the USA. The two things that struck me the most were: The seed and start-up venture capital s...'
 type: post
 id: 156
-category:
-    - Uncategorized
+categories:
 tags:
     - economy
     - english

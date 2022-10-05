@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'If you know me, you know I hate driving. But I really want to drive a Twizy electric city car (no driving license needed.) I will be test driving a Fluence later on the day. Disclosure: Renault pays for my travel and lodging in Paris for LeWeb, bu...'
 type: post
 id: 360
-category:
-    - Uncategorized
+categories:
 tags:
     - electriccars
     - english

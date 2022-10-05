@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Presenta tu startup en Berl??n: nextelevator Por Ram??n Su??rez el 24 Marzo 2011 Editar Share --&gt; Aviso a todos los emprendedores: se acaba de abrir el plazo para presentarse a nextelevator, el concurso de startups de la conferencia Next11 en Berl??n....'
 type: post
 id: 190
-category:
-    - Uncategorized
+categories:
 tags:
     - elevatorpitch
     - español

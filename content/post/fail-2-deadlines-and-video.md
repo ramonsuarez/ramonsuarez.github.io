@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 1018
 thumbnail: /uploads/2019/05/fail-1.gif
-category:
+categories: 
     - News
 tags:
     - deadlines

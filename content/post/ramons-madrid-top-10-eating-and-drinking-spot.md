@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Here''s the list of my favorite places to eat and drink in Madrid, my much loved hometown. They are all either in the center of the city or within a short bus ride. There are a hell of a lot more good places and you will see that the city is very l...'
 type: post
 id: 204
-category:
-    - Uncategorized
+categories:
 tags:
     - cpartyeu
     - eatanddrink

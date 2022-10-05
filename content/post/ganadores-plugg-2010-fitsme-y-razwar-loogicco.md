@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Por Ram??n Su??rez el 11 Marzo 2010 Twitter1 clicks 1 Tras una jornada cargada de buenas presentaciones y de mejor networking, acaba en Bruselas Plugg, una de las principales citas para los emprendedores europeos especializados en Internet y m??vil. ...'
 type: post
 id: 208
-category:
-    - Uncategorized
+categories:
 tags:
     - español
     - events

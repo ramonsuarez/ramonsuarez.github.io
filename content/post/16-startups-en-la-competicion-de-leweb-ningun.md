@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Por Ram??n Su??rez el 12 Noviembre 2010 Editar Share Recomendar Facebook Twitter1 clicks 1 16 startups han sido elegidas para la competici??n de LeWeb 2010. La selecci??n es variada y est??n representadas muchas empresas europeas, con un claro pre...'
 type: post
 id: 86
-category:
-    - Uncategorized
+categories:
 tags:
     - articles
     - conferences

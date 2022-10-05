@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'World Map of Social Networks A brand new map of the world, showing the most popular social networks by country, according to Alexa &amp; Google Trends for Websites traffic data\* (December 2010). I???ve decided to drop Many Eyes and redesign the map in o...'
 type: post
 id: 274
-category:
-    - Uncategorized
+categories:
 tag: []
 post_format: []
 ---

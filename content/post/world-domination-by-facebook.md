@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via readwriteweb.com Today we take Stanford, tomorrow the World! The phrase that never existed? Interesting map to add to the penetration of Facebook in Europe. Play with the world map of social networks to get a more detailed view.'
 type: post
 id: 207
-category:
-    - Uncategorized
+categories:
 tags:
     - datavisualization
     - english

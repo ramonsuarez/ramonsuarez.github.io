@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via benitocastro.com It has been a while since my last post here (I''ve been active in my Spanish blog about Brussels). Nothing better than this cartoon to showcase one of the many facets of the strugle to post: while many times we are enthusiastic...'
 type: post
 id: 135
-category:
-    - Uncategorized
+categories:
 tags:
     - blog
     - english

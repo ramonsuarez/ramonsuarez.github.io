@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Help us promote the best event ever: add this code to your site Event Registration Online for Brussels Startup Weekend 2011 It looks (great) like this: Event Registration Online for Brussels Startup Weekend 2011 Keep on starting up!'
 type: post
 id: 36
-category:
-    - Uncategorized
+categories:
 tags:
     - startupcompetition
     - startupweekendbrussels

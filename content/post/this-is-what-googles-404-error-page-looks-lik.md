@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'At least for their maps &amp; places service...'
 type: post
 id: 333
-category:
-    - Uncategorized
+categories:
 tags:
     - '404'
     - google

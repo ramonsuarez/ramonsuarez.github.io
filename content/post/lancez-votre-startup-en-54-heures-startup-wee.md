@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Lancez votre Startup en 54 heures Pour la premi??re fois en Belgique, 80 personnes se rassembleront ? Bruxelles pour transformer leurs id??es en jeunes entreprises. Cela se d??roule au cours du Startup Weekend Brussels: de l''id??e ? la startup e...'
 type: post
 id: 331
-category:
-    - Uncategorized
+categories:
 tags:
     - brussels
     - events

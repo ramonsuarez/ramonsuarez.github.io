@@ -7,7 +7,7 @@ author: ramon
 excerpt: ''
 type: post
 id: 1355
-category:
+categories: 
     - books
     - Entrepreneurship
     - Productivity

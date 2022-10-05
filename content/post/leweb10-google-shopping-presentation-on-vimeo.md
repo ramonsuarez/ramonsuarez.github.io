@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via vimeo.com Discover Google Shopping the dedicated e-commerce search engine, partially launched in France and fully available in the USA and UK. Presentation by French googlers Marie-Astrid Michel and Lucia Le Menn.'
 type: post
 id: 277
-category:
-    - Uncategorized
+categories:
 tags:
     - googleshoopping
     - leweb

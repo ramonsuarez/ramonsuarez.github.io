@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via slideshare.net The two highlights of this year''s Digital Marketing First in Brussels where this presentation by Evan Van Lissum and the BetaGroup pitch slam. I also saw the 2009 version and will definitely follow the 2011 presentation if Evan ...'
 type: post
 id: 35
-category:
-    - Uncategorized
+categories:
 tags:
     - digitalmarketingfirst
     - dmf

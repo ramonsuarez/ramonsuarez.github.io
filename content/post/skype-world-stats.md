@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'We all marvel at Facebook and its number of users, which at last check stood at around 400 million. For context, consider Skype, which at the end of the fourth quarter of 2009 had 560 million registered users, a data point Skype???s chief technology...'
 type: post
 id: 245
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - statistics

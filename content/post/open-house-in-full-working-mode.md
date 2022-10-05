@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 355
-category:
-    - Uncategorized
+categories:
 tags:
     - fun
 post_format: []

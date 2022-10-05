@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'El 11 de marzo dos startups espa??olas competir??n en Plugg, el evento para iniciadores web y mobil europeos en Bruselas: SHOTools y Sclipo. Deber??n superar una primera ronda de eliminaci??n en competencia con otras 18 startups europeas, con tan ...'
 type: post
 id: 350
-category:
-    - Uncategorized
+categories:
 tags:
     - conferences
     - Entrepreneurship

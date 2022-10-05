@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 1692
 thumbnail: /uploads/2019/10/BIGF-raising-in-in-the-desert.jpg
-category:
+categories: 
     - 'Progress Report'
 tags:
     - 'BIGF Method'

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Sclipo y Shootools son las dos startup espa??olas elegidas para presentar en Plugg, el evento para iniciadores web y mobil europeos en Bruselas. De entre 122 proyectos presentadosde , se han elegido 20 que dispondr??n de tan solo de 2 minutos en e...'
 type: post
 id: 209
-category:
-    - Uncategorized
+categories:
 tags:
     - brussels
     - conferences

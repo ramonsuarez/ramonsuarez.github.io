@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: '140 programs world-wide 2089 companies accelerated 109 exits for $ 1,115,758,100 $ 1,551,526,081 funding 5154 jobs created via seed-db.com But they do lead the charts! It is great to have a source that at least hints at the impact of accelerators.'
 type: post
 id: 32
-category:
-    - Uncategorized
+categories:
 tags:
     - accelerators
     - directory

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'EBO4 - Blogs, social networks, instant messaging, video-, geo-localisation, M-business... A revolution is walking! How to integrate those new e-marketing levers and boost efficiency of your multi-channel contact centre ? in French and English The ...'
 type: post
 id: 345
-category:
-    - Uncategorized
+categories:
 tags:
     - conferences
     - devcom

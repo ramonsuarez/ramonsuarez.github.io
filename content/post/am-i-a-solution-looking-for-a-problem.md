@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 1106
 thumbnail: /uploads/2019/05/ruminating.gif
-category:
+categories: 
     - Coworking
 tags:
     - 'entrepreneur doubts'

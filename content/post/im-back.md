@@ -8,7 +8,7 @@ excerpt: 'I abandoned the blog but I missed it so much that now I''m back :)'
 type: post
 id: 511
 thumbnail: /uploads/2018/10/ramon-surez.jpg
-category:
+categories: 
     - News
 tags:
     - 'Ramon Suarez'

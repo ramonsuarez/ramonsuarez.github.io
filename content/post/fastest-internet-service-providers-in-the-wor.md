@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'I came accross this Internet Service Provider speed test and was surprised by how far down Belgium is in the ranking. It gives interesting insight about top download and upload ISP per continent, country, region and city. Not of much use because o...'
 type: post
 id: 206
-category:
-    - Uncategorized
+categories:
 tags:
     - belgium
     - english

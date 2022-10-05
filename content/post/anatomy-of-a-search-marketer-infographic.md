@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via seomoz.org Check out the results of the SEOMoz 2010 SEO Industry Survey Results.'
 type: post
 id: 34
-category:
-    - Uncategorized
+categories:
 tags:
     - datavisualization
     - infographic

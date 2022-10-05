@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Event management for Brussels Startup Weekend 2011 And counting!'
 type: post
 id: 68
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - events

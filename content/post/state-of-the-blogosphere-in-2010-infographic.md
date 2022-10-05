@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via blogherald.com "Only" 146,628,598 blogs have been identified by BlogPulse, bloggers are mostly males, from the USA, 25 to 44, update regularly over the week, and Japanese is bigger than English.'
 type: post
 id: 272
-category:
-    - Uncategorized
+categories:
 tags:
     - blogs
     - english

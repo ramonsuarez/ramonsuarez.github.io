@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via mashable.com A very interesting view by Muhammad Saleem on the users and uses of Twitter. The two things that have struck me the most are that Twitter is gender balanced and the current small amount of spam (the opposite of email.)'
 type: post
 id: 181
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - socialmedia

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'What Do Seniors Do Online? Visit Facebook and YouTube, of Course \[STATS\] December 10th, 2009 | by Ben Parr View comments23 Comments and 719 Reactions 82Share We???ve known for a while that Facebook users are getting a lot older, but now new data rel...'
 type: post
 id: 351
-category:
-    - Uncategorized
+categories:
 tags:
     - email
     - english

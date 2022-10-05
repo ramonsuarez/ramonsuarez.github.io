@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via solvay.edu via solvay.edu via solvay.edu via solvay.edu via solvay.edu via solvay.edu via solvay.edu'
 type: post
 id: 155
-category:
-    - Uncategorized
+categories:
 tags:
     - brussels
     - english

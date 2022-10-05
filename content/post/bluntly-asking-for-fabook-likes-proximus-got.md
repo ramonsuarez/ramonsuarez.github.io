@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Taken with picplz at Bruxelles-Central / Brussel-Centraal in Brussels, Belgium.'
 type: post
 id: 51
-category:
-    - Uncategorized
+categories:
 tag: []
 post_format: []
 ---

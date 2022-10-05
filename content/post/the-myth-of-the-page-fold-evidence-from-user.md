@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Scrollbars are used to assess page length and to indicate content below the fold One of the most common things we see on a heatmap is a strong hotspot over the scrollbar. The scrollbar is used to assess the page length. Users expect to have to scr...'
 type: post
 id: 14
-category:
-    - Uncategorized
+categories:
 tags:
     - webdesign
 post_format: []

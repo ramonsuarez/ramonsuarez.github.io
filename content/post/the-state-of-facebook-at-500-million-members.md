@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via mashable.com Facebook has just reached the impressive 500 million users mark, something to celebrate, share and like. Among their different initiatives to promote this success and to gain even more users, I''ve found this graphic by Facebakers ...'
 type: post
 id: 176
-category:
-    - Uncategorized
+categories:
 tags:
     - datavisualization
     - english

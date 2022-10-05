@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Top 5 Ranking Factors Keyword Focused Anchor Text from External Links 73% very high importance 73% External Link Popularity (quantity/quality of external links) 71% very high importance 71% Diversity of Link Sources (links from many unique root do...'
 type: post
 id: 266
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - google

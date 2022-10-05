@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'El 11 de marzo se celebra en Bruselas la tercera edici??n de Plugg. La conferencia gira en torno a la iniciativa empresarial y a la innovaci??n europeas, con el objetivo de servir de plataforma para promocionar las mejores empresas Web / Mobil 2.0...'
 type: post
 id: 5
-category:
-    - Uncategorized
+categories:
 tags:
     - conferences
     - Entrepreneurship

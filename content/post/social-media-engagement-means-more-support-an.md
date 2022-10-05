@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via mashable.com Yes, there is a link between engagement of consumers and brands/products/services and the revenue of those companies.It is a link that helps us look into the future.'
 type: post
 id: 112
-category:
-    - Uncategorized
+categories:
 tags:
     - behavior
     - engagement

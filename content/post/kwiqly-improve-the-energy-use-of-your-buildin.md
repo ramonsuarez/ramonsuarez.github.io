@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'kwiqly wants to help you save energy money by using the data from your utility provider and combining it with the weather information. There''s nothing to install, no need to buy any hardware. James Ferguson, has presented the company at the startu...'
 type: post
 id: 106
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - kwiqly

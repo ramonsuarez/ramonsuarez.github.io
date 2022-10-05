@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 854
 thumbnail: /uploads/2019/05/source-file-1.jpg
-category:
+categories: 
     - Marketing
     - 'Progress Report'
     - Projects

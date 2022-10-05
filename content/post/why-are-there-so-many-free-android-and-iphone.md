@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Because it is much easier to make an app than to sell an app.'
 type: post
 id: 163
-category:
-    - Uncategorized
+categories:
 tags:
     - android
     - apps

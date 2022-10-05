@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'This is a guest post by Colette Ballou, founder of Ballou PR. Conferences are awkward situations. You know that you need to make the most of your time there ??? chances are that you paid not only the entrance fee, but also for the flight and the hot...'
 type: post
 id: 138
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - events

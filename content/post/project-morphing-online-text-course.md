@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 1032
 thumbnail: /uploads/2019/05/working.gif
-category:
+categories: 
     - Courses
     - Coworking
     - Projects

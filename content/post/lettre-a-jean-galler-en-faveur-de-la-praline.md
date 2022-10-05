@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Je viens d''envoyer ce lettre ci. ??a fait un bail que j''aurais du le faire. Cher Mr. Galler, Je voulais seulement vous transmetre ma deception pour la disparition de votre praline Noir 85. Je suis un gran fan de la marque depuis ma d??couverte du ...'
 type: post
 id: 201
-category:
-    - Uncategorized
+categories:
 tags:
     - belgique
     - chocolat

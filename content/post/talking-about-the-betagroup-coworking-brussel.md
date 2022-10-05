@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via video.rtlinfo.be Great team, very interesting and geeky program, I truly enjoyed it. Don''t doubt about getting in touch with them if you have a startup to present. Want more? Check out the BetaGroup Coworking Brussels.'
 type: post
 id: 165
-category:
-    - Uncategorized
+categories:
 tags:
     - betagroup
     - brussels

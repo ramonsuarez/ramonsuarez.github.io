@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'What and who are the influencers? INFLUENCERS TRAILER from R+I creative on Vimeo. A conversation starter, via @annmarcelis.'
 type: post
 id: 344
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - influencers

@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 824
 thumbnail: /uploads/2018/11/coworking-handbook-kindle-cover-e1542018032885.jpg
-category:
+categories: 
     - Coworking
     - Marketing
     - News

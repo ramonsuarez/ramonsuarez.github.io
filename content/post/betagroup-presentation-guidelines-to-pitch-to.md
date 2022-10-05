@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Tomorrow is the preselection for the Betapitch, a special Betagroup event hosted at the Betacowork where startups will pitch to a panel of investors that can invest from ???20.000 to ???5.000.000 . This is the template for the presentation that Jean h...'
 type: post
 id: 217
-category:
-    - Uncategorized
+categories:
 tags:
     - betacowork
     - betagroup

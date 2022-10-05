@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 1194
 thumbnail: /uploads/2019/04/barbara-coloroso.jpeg
-category:
+categories: 
     - books
 tags:
     - 'Barbara Coloroso'

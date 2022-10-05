@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Since Google bought and closed down Omnisio, I''ve been looking for alternatives to make videos where I could easily synchronise the slides (PowerPoint, OpenOffice or KeyNote) with the video of the speaker''s presentation, principally for uploading ...'
 type: post
 id: 213
-category:
-    - Uncategorized
+categories:
 tags:
     - presentation
     - slides

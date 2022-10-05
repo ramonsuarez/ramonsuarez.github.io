@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 1171
 thumbnail: /uploads/2019/04/12-week-year-scorecard-ramonsuarez.com_.png
-category:
+categories: 
     - 'Progress Report'
     - Projects
 tags:

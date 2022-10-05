@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 476
-category:
-    - Uncategorized
+categories:
 tags:
     - 'blogposts by Ramon Suarez'
     - 'blogs by Ramon Suarez'

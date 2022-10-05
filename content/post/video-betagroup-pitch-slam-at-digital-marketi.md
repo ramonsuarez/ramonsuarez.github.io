@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via arjuna.rcms.rambla.be The BetaGroup had a special session at this years Digital Marketing First fair in Brussels. The presenting startups where: Userplus.com WooRank.com desktop-reporting.com Wataro.com tinkertouch.com adlogix.eu dialogfeed.co...'
 type: post
 id: 210
-category:
-    - Uncategorized
+categories:
 tags:
     - betagroup
     - english

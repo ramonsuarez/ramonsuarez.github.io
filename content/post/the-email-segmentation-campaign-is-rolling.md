@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 789
 thumbnail: /uploads/2018/11/pexels-photo-954662.jpeg
-category:
+categories: 
     - Automation
     - Marketing
     - 'Progress Report'

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Thanks to Edouard Seynaeve for creating and sharing this document with the program of TEDxBrussels 2010 in an easily searchable format that can be printed and read on mobile devices. See you all onsite tomorrow! Here is a copy of the document at 1...'
 type: post
 id: 67
-category:
-    - Uncategorized
+categories:
 tags:
     - brussels
     - english

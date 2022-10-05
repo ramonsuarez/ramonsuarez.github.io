@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via mashable.com Will publishers take advantage of this opportunity or just try to suffocate it?'
 type: post
 id: 222
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - facebook

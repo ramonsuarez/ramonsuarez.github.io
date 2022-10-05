@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via inmaps.linkedinlabs.com Love it on the aesthetics part but I do not understand the choice of colors nor what do they represent.'
 type: post
 id: 308
-category:
-    - Uncategorized
+categories:
 tags:
     - datavisualization
     - linkedin

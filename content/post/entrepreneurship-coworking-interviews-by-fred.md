@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Fred Ooms has just finished publishing the interview we had a couple months ago. It was really nice to have some time to talk entrepreneurship with somebody like Fred, alumnus of MBA Solvay like myself, and also working with a university to try to...'
 type: post
 id: 324
-category:
-    - Uncategorized
+categories:
 tags:
     - Coworking
     - english

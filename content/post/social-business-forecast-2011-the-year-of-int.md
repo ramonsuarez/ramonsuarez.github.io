@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via ustream.tv via slideshare.net The last and one of the best presentations at LeWeb.'
 type: post
 id: 162
-category:
-    - Uncategorized
+categories:
 tags:
     - corporate
     - leweb

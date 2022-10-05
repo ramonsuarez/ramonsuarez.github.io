@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'I had my first experiences with Posterous'' customer support this week and it has been very positive. As you can see from my posts, I use this blog as a notebook for content I find on the Internet (my memory in the cloud) thanks to Posterous'' wonde...'
 type: post
 id: 120
-category:
-    - Uncategorized
+categories:
 tags:
     - blog
     - bug

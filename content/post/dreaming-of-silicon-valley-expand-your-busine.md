@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: '"Expand Your Business in the USA" - Free seminar and workshops, 4 February 2010 in Brussels, Belgium The Council of American States in Europe (CASE) and the U.S. Department of Commerce have organized this seminar to inform Belgian companies about ...'
 type: post
 id: 75
-category:
-    - Uncategorized
+categories:
 tags:
     - conferences
     - english

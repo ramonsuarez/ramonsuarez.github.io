@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Ram??n Su??rez BetaGroup coworking space Ram??n is a mobile junkie that pays for his addiction as an Internet business and marketing strategist. He has a flair for the promotion of Belgian entrepreneurship at home and abroad, and was first introduced...'
 type: post
 id: 164
-category:
-    - Uncategorized
+categories:
 tag: []
 post_format: []
 ---

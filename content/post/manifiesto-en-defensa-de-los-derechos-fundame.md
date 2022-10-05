@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Ante la inclusi??n en el Anteproyecto de Ley de Econom??a sostenible de modificaciones legislativas que afectan al libre ejercicio de las libertades de expresi??n, informaci??n y el derecho de acceso a la cultura a trav??s de Internet, los periodistas,...'
 type: post
 id: 220
-category:
-    - Uncategorized
+categories:
 tags:
     - español
     - freedom

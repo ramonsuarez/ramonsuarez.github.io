@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'I''ve been lucky enought to put my hands on a Samsung 900x3a for a couple weeks. I fell in love with it at a Samsung event in Brussels, like the picoprojector, and had been asking for it ever since. WOW! The Looks The design of the Samsung 9 series...'
 type: post
 id: 173
-category:
-    - Uncategorized
+categories:
 tags:
     - design
     - portablecomputers

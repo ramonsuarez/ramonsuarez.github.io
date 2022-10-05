@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Startup Lessons Learned 2011 is the sequel to last year''s inaugural event, which brought together nearly 400 entrepreneurs and executives interested in building and supporting lean startups. The goal for this event is to give practitioners and stu...'
 type: post
 id: 177
-category:
-    - Uncategorized
+categories:
 tags:
     - betacowork
     - betagroupcoworkingbrussels

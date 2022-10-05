@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'I''ve been uploading my startup videos to YouTube , Vimeo, DailyMotion and Blip.tv with the help of OneLoad (the best tool I know to upload to multiple video hosting sites at the same time.) I love OneLoad as a tool and recommend it wholeheartedly ...'
 type: post
 id: 137
-category:
-    - Uncategorized
+categories:
 tags:
     - bliptv
     - comparison

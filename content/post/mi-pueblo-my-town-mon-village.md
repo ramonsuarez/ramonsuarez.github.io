@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 271
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - español

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Tech Brew Episode 004 ??? Ram??n Su??rez from the Founder Institute Podcast: Play in new window | Download In episode #4 of Tech Brew, we drink Chimay Bleu, one of the six Belgian Trappist beers, and Gilbert chats with Ram??n Su??rez about the Founder I...'
 type: post
 id: 46
-category:
-    - Uncategorized
+categories:
 tags:
     - audio
     - belgium

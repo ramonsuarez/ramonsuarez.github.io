@@ -8,7 +8,7 @@ excerpt: 'Yearly deadlines are way too long. We tend to slack until the last min
 type: post
 id: 1152
 thumbnail: /uploads/2019/04/we-are-what-we-repeatedly-do.-excellence-is-not-an-act-but-a-habit.png
-category:
+categories: 
     - books
 tags:
     - '12 week year'

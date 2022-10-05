@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'BetaGroup CoworkingPromote Your Page Too BetaGroupPromote Your Page Too ICoursesPromote Your Page Too Open Coffee Club BrusselsPromote Your Page Too Coworking VisaPromote Your Page Too Comer, hablar, amar: vivir al fin y al caboPromote Your Page T...'
 type: post
 id: 94
-category:
-    - Uncategorized
+categories:
 tags:
     - betacowork
     - betagroup

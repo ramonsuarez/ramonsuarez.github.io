@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Ramon Suarez He comes from Madrid, and works in Brussels He is entrepreneur of e-commerce and marketing. Active participant, the initiator and moderator of many internet projects in Belgium. He is a member of BetaGroup, organizer of pitch-slam mee...'
 type: post
 id: 18
-category:
-    - Uncategorized
+categories:
 tags:
     - conferences
     - english

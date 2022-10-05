@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via slideshare.net Presentation given at a workshop for expat entrepreneurs organized by WeStartUp (Leo Exter). Great crowd and panelist, I was loaded of energy that day and talking about something I love: people could tell :)'
 type: post
 id: 8
-category:
-    - Uncategorized
+categories:
 tags:
     - brussels
     - conferences

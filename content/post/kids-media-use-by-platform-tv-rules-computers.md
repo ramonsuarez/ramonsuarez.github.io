@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'The Shocking Media Habits Of 8-18 Year Olds 1/45 TV still rules... Kids'' Media Use By Platform Image: Kaiser Foundation Source: Kaiser Family Foundation via businessinsider.com If you see the full deck you will find that more minutes of TV time is...'
 type: post
 id: 31
-category:
-    - Uncategorized
+categories:
 tags:
     - computers
     - english

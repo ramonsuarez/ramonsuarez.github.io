@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 394
-category:
-    - Uncategorized
+categories:
 tags:
     - advertising
     - 'Andy Gillentine'

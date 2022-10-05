@@ -7,7 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 616
-category:
+categories: 
     - 'Progress Report'
     - Projects
 tags:

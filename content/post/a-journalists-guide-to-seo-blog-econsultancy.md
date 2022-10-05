@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'SEO is not the enemy of good writing via econsultancy.com A truth often ignored by a lot of poor writers that care not about their readers'
 type: post
 id: 187
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - journalism

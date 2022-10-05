@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 998
 thumbnail: /uploads/2019/05/authors-block.gif
-category:
+categories: 
     - Courses
     - Coworking
     - 'Progress Report'

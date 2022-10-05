@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Worldwide Premiere! Presentation of the French Translation of Steve Blank''s The Four Steps to the Epiphany 05/05/2011 0 Comments The Betagroup Coworking Brussels is proud to host the worlwide premiere of the brand new translation in French of the ...'
 type: post
 id: 341
-category:
-    - Uncategorized
+categories:
 tags:
     - antoinebruyns
     - betacowork

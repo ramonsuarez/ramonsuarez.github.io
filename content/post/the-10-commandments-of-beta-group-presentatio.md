@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'The 10 commandments of Beta Group presentations Speaking with some Beta Group members about the Webmission Accademy and the need to organize something to improve the presenation and pitchin skills, I thought that a good place to start would be to ...'
 type: post
 id: 251
-category:
-    - Uncategorized
+categories:
 tags:
     - betagroup
     - english

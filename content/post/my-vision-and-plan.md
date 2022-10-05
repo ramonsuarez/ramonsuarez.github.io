@@ -8,7 +8,7 @@ excerpt: 'This is my aspirational vision upon which I''m building my future. It 
 type: post
 id: 1116
 thumbnail: /uploads/2019/05/my-aspirational-vision.jpg
-category:
+categories: 
     - Entrepreneurship
     - Projects
 tags:

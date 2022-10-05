@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Member List Full Members 3D Participaties 3i Allegro Investment FundARKimedes FondsBecap PE Asset Managers &amp; AdvisorsBMI-SBI BNP Paribas Fortis Capricorn Venture PartnersCreafund Management E-Capital Fin.Co Gemma Frisius FondsGilde Buy-Out Partner...'
 type: post
 id: 195
-category:
-    - Uncategorized
+categories:
 tags:
     - belgium
     - investment

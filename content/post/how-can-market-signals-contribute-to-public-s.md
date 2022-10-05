@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'The EU Commission has invited me to participate in a series of very interesting discussions about how to help tech entrepreneurs in the EU. The conversations have been very interesting and have given me the opportunity to exchange with entrepreneu...'
 type: post
 id: 28
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - europe

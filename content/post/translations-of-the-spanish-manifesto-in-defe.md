@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Manifesto in Defense of Fundamental Rights on the Internet (ingl??s). Manifeste pour la d??fense des droits fondamentaux sur Internet (franc??s). Manifesto em defesa dos direitos fundamentais na Internet (portugu??s brasileiro) (versi??n corta). Manife...'
 type: post
 id: 172
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - freedom

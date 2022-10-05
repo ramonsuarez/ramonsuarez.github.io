@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'COUNTRY ORGANISATION MEMBER CATEGORY WEBSITE AUSTRIA Austria Wirtschaftsservice (AWS) Network www.awsg.at BELARUS BAVIN Network www.bavin.by BELGIUM Be Angels Network www.beangels.be BAN Vlaanderen Network www.banvlaanderen.be WABAN Associate www....'
 type: post
 id: 346
-category:
-    - Uncategorized
+categories:
 tags:
     - businessangels
     - europe

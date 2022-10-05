@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Venue: ULB Campus Solbosh Bulding U, Room UB2-252 (Room Name: LAMEERE) -&gt; http://www.ulb.ac.be/campus/solbosch/plan-U.html Agenda: 6:30PM - Welcome drink 7:00PM - Demos of 5 Belgian Web startups : 1) OpenGraphy.com 2) clickyourcar.be 3) streetpage...'
 type: post
 id: 303
-category:
-    - Uncategorized
+categories:
 tags:
     - betagroup
     - brussels

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via youtube.com Check them out! Kodesk'
 type: post
 id: 168
-category:
-    - Uncategorized
+categories:
 tags:
     - betacowork
     - betagroupcoworkingbrussels

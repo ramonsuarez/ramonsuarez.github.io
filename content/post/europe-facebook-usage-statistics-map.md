@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via deram.net A belated thank you post to Mathieu for making this map of Facebook''s colonization of Europe using Facebook''s own data in their advertising section. It presents the percentage of the population of each country that uses Facebook. I w...'
 type: post
 id: 140
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - europe

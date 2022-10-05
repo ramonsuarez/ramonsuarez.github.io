@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 798
 thumbnail: /uploads/2018/11/pexels-photo-167698.jpeg
-category:
+categories: 
     - Automation
     - Marketing
     - Projects

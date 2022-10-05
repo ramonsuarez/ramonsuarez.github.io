@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: '12\) Ramon Suarez, BetaGroup Coworking manager, @ramonsuarez, Klout score 61, following 355, followers 3.228. via datanews.levif.be :)'
 type: post
 id: 72
-category:
-    - Uncategorized
+categories:
 tags:
     - belgique
     - belgium

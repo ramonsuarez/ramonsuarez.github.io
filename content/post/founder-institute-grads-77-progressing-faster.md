@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Charts of Founder Institute Age Analysis Age of All Founder Institute Applicants Accuracy of Founder Institute Predictive Testing Success of Founder Institute Grads Age of Founder Institute Grads via founderinstitute.com Adeo wrotte a great articl...'
 type: post
 id: 167
-category:
-    - Uncategorized
+categories:
 tags:
     - Entrepreneurship
     - founderinstitute

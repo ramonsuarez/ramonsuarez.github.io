@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'For those that can not make it to LeWeb this year, an easy way to watch the plenary and the startup competition and to follow what is said about it in social media. You can also track the hashtags #leweb10 and #leweb. I will be watching all this l...'
 type: post
 id: 189
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - events

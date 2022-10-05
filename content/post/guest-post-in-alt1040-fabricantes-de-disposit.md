@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Fabricantes de dispositivos Android: dejen de joder la interfaz de usuario (carta abierta) Por Ram??n Su??rez el 21 de Junio de 2010, 18:34 en Destacadas, Software, Tecnolog??a.Carta Abierta. Estimados fabricantes de dispositivos Android:Entiendo que...'
 type: post
 id: 49
-category:
-    - Uncategorized
+categories:
 tags:
     - android
     - articles

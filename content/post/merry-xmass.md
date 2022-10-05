@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via xtranormal.com Buy THE gift for that special someone in your life ;)'
 type: post
 id: 182
-category:
-    - Uncategorized
+categories:
 tags:
     - Coworking
     - diy

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'N ? 2 is brewing. Targeting fall 2011 for the next Startup Weekend Brussels :)'
 type: post
 id: 332
-category:
-    - Uncategorized
+categories:
 tags:
     - presentation
     - startupweekendbrussels

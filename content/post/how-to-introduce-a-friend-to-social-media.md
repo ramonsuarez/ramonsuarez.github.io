@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'I have received a request from a friend for an introduction to social media: ... please send me some references for: the effective use of social media for professional purposes - twitter, facebook, etcetera. The purposess could be promotion and ca...'
 type: post
 id: 294
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - recommended

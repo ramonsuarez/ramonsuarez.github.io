@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'What is coworking? Just because you work independently doesn''t mean you have to work alone. A coworking office is a professional, comfortable and focused environment where you can get stuff done. Unlike coffee shops and libraries, a coworking spac...'
 type: post
 id: 369
-category:
-    - Uncategorized
+categories:
 tags:
     - Coworking
     - english

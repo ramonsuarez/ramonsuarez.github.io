@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Facebook users uploaded more than 2.7 million photographs, shared 1 million links and ???liked??? 7.6 million pages every 20 minutes in 2010, according to the company. Among other data the social network is releasing: Lady Gaga was the most-liked cele...'
 type: post
 id: 113
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - facebook

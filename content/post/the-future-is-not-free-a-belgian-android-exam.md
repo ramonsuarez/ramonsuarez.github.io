@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'there???s plenty of other information out there that has chosen to run in the opposite direction from Free via newyorker.com Malcolm Gladwell has pointed out in The New Yorker something that a lot of people have chosen to ignore: storage cost is not...'
 type: post
 id: 92
-category:
-    - Uncategorized
+categories:
 tags:
     - economy
     - english

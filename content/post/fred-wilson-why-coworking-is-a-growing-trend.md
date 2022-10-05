@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Union Square Ventures??? Fred Wilson has a brilliant explanation of why coworking is a growing trend: ???The main benefits of this kind of setup are camaraderie (small startups can be lonely), knowledge sharing, high energy, culture, and cost sharing....'
 type: post
 id: 304
-category:
-    - Uncategorized
+categories:
 tags:
     - advantages
     - Coworking

@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 846
 thumbnail: /uploads/2018/11/diving-into-udemy.png
-category:
+categories: 
     - Courses
     - Marketing
     - 'Progress Report'

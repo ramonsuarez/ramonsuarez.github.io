@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Mon nouveau ordinateur (HP DM3-1120eb) avait un probl??me de blocage de souris et clavier chaque fois que l''ordi se r??veill?? du mode veille (sleep). Voici la solution au probl??me fournie par le service technique de HP: ??tape I : D??chargement ...'
 type: post
 id: 185
-category:
-    - Uncategorized
+categories:
 tags:
     - français
     - hpdm3

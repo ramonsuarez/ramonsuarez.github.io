@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Webmission: The Belgians Are Coming! What is a WebmissionA Webmission is a delegation of Belgian Web, Tech &amp; Mobile entrepreneurs that travel abroad to promote their companies and to network, taking advantage of an international Internet/Tech even...'
 type: post
 id: 70
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - Entrepreneurship

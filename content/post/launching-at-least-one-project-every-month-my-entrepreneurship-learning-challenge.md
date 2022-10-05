@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 519
 thumbnail: /uploads/2018/11/an-ounce-of-action-is-worth-a-ton-of-theory-rwe-instagram-post.png
-category:
+categories: 
     - 'Business Ideas'
     - Coworking
     - Entrepreneurship

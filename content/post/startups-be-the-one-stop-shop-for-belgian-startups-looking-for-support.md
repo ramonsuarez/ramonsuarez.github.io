@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 411
-category:
-    - Uncategorized
+categories:
 tags:
     - betacowork
     - betagroup

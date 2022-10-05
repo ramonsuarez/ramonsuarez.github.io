@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'If you???re like us, you???re using Dropbox for all kinds of unusual tasks. But we wanted to go further, so we asked the experts at Dropbox to tell us their most unusual, unexpected and crazy ways to use this versatile software tool. If you???re not fam...'
 type: post
 id: 348
-category:
-    - Uncategorized
+categories:
 tags:
     - howto
     - productivity

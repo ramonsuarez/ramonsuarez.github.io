@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via picplz.com During the presentation of the latest Samsung products in Brussels, I fell in love with a couple geeky gadgets and the first one was the Samsung pico projector SP-H03. The fact of being able to play with a projector that fit the pal...'
 type: post
 id: 280
-category:
-    - Uncategorized
+categories:
 tags:
     - gadgets
     - reviews

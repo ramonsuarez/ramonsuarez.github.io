@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Tomorrow at DevCom Brussels, I will be doing some basic Search Engine Optimization (SEO) analysis live, in the framework of the 7 minute one to one demos. For this, I have prepared a checklist with some basic points to take home by the clients / v...'
 type: post
 id: 276
-category:
-    - Uncategorized
+categories:
 tags:
     - checklist
     - devcom

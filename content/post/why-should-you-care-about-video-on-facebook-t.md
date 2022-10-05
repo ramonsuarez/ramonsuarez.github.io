@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via techcrunch.com The medium is not the message, but it matters a lot to your audience: they choose how, where and when they want to engage with the information.'
 type: post
 id: 357
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - facebook

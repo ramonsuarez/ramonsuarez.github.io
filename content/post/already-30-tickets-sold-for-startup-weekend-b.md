@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Event Registration Online for Brussels Startup Weekend 2011 powered by Eventbrite'
 type: post
 id: 98
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - startupcompetition

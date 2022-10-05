@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'I''ve been running Ubuntu 11.4 Natty Narwhal for a few days already on a brand new Samsung 900x3a and I have to say that I''m quite happy with it. First of all, Ubuntu Linux is the best operating system in this galaxy. Then, the machine is great, an...'
 type: post
 id: 62
-category:
-    - Uncategorized
+categories:
 tags:
     - howto
     - install

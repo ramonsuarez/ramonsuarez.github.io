@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Selfmade man in internet communicatie Lunchinterview met: Ramon Suarez Ramon is een legende in de Franstalige social media community. Oorspronkelijk van Spaanse origine, landde hij via de Europese instellingen in Brussel maar kwam er via zijn MBA ...'
 type: post
 id: 297
-category:
-    - Uncategorized
+categories:
 tags:
     - eatanddrink
     - economy

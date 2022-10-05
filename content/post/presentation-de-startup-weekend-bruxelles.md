@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via blip.tv A bit more tired everyday and also a lot more thrilled about the great experience we are going to have starting tomorrow at Startup Weekend Brussels. I can''t wait! Video interview by G??rald Trockart.'
 type: post
 id: 87
-category:
-    - Uncategorized
+categories:
 tags:
     - events
     - français

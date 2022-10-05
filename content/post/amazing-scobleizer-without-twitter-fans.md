@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'This is something I thought I would never see in my life: a Robert Scoble (@scobleizer) account without any followers, in this case in Twitter. I''m never quick enough to have this view and be his first follower in a service to claim ??ber-early-ado...'
 type: post
 id: 275
-category:
-    - Uncategorized
+categories:
 tags:
     - fun
     - socialmedia

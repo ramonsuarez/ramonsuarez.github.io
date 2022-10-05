@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Belgium Facebook Statistics /cc @bvlg Number of users on Facebook in Belgium: 3 500 540 Number of male users on Facebook in Belgium: 1 725 940 Number of female users on Facebook in Belgium: 1 706 780 Penetration in Belgium: 33.61 % Online penetrat...'
 type: post
 id: 311
-category:
-    - Uncategorized
+categories:
 tags:
     - belgium
     - english

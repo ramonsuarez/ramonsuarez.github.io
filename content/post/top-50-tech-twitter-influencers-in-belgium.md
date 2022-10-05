@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 445
-category:
-    - Uncategorized
+categories:
 tags:
     - '@bartbecks'
     - '@bnox'

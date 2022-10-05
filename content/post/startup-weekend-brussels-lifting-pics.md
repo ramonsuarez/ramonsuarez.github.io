@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via b-honey.be Good song to help you feel the vibe that most of you missed ;) More Startup Weekend Brussels awesomeness soon...'
 type: post
 id: 193
-category:
-    - Uncategorized
+categories:
 tags:
     - events
     - photos

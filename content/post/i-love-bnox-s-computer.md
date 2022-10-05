@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 130
-category:
-    - Uncategorized
+categories:
 tags:
     - design
     - english

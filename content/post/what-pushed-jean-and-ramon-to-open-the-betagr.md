@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'May 26, 2011 Interview with Ramon Suarez Betagroup coworking Brussels via youtube.com Summary of the interview with Ramon Suarez co-founder of the Betagroup coworking space Brussels In this first part of the interview with Ramon Suarez (@ramonsuar...'
 type: post
 id: 78
-category:
-    - Uncategorized
+categories:
 tags:
     - betacowork
     - Coworking

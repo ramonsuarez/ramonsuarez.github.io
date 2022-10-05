@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'The Digital Creativity area of Campus Party Europe could not have had a better start. This morning Paul Bennet and Ben Hammersley have given two very interestin presentations about design innovation and the future of Internet. These are the highli...'
 type: post
 id: 299
-category:
-    - Uncategorized
+categories:
 tags:
     - cpartyeu
     - english

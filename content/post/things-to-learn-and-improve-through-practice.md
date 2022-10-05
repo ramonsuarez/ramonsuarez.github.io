@@ -7,7 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 583
-category:
+categories: 
     - News
 tag: []
 post_format: []

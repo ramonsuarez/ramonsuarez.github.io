@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via fr.amiando.com'
 type: post
 id: 313
-category:
-    - Uncategorized
+categories:
 tags:
     - bloggers
     - blogs

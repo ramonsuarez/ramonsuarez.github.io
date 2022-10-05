@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Por invitado el 4 Diciembre 2009 Art??culo realizado por Ram??n Su??rez promotor de la Webmission en EBE09. Evento Blog Espa??a se est?? abriendo a Europa. Los organizadores del principal evento sobre la internet participativa en espa??ol del mund...'
 type: post
 id: 179
-category:
-    - Uncategorized
+categories:
 tags:
     - betagroup
     - ebe09

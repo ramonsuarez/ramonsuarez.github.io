@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'General guidelines Webmaster guidelines Search Engine Optimization (SEO) Google-friendly sites Search Engine Optimizers Making sure Google knows about your site Site management Site design and content Confidential content Images, video, Flash, and...'
 type: post
 id: 133
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - google

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'The Categories do not provide knowledge of individual, particular objects. Any object, however, must have Categories as its characteristics if it is to be an object of experience. via en.wikipedia.org Is there such a thing as meta social media phi...'
 type: post
 id: 169
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - socialmedia

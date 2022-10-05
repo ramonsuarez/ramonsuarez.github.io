@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: '1\) Dries Buytaert, CTO Acquia, @dries, Klout score 65, following 7, followers 12.105. 2) Vincent Van Quickenborne, Ministre d??missionnaire des Entreprises et de la Simplification, @vincentvq, Klout score 65, following 516, followers 16.813. 3) Cl...'
 type: post
 id: 158
-category:
-    - Uncategorized
+categories:
 tags:
     - '2011'
     - belgium

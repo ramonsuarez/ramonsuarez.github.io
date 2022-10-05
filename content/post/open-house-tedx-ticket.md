@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Dear friends, I want to invite you to discover the new BetaGroup Coworking space in Brussels during our open house tomorrow (Thursday) from 9 to 18h30. Bring along your computer if you want to get some work done or just come for a tour and a drink...'
 type: post
 id: 154
-category:
-    - Uncategorized
+categories:
 tags:
     - betagroup
     - brussels

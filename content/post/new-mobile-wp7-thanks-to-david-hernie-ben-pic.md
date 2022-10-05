@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'P Taken with picplz at BetaGroup Coworking Brussels in Etterbeek, Belgium.'
 type: post
 id: 119
-category:
-    - Uncategorized
+categories:
 tag: []
 post_format: []
 ---

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Tomorrow I''will be participating in DevCom Brussels, a forum for commercial development in Belgium. Besides networking and getting inspired by the conferences, I will be speaking about social media and also doing 7 minute one to one demos. One of ...'
 type: post
 id: 278
-category:
-    - Uncategorized
+categories:
 tags:
     - devcom
     - english

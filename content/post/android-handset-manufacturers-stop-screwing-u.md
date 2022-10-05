@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Dear Android handset manufacturers: I understand that you would like to lock-in your users with something more than the hardware you produce, which risks being completely commoditized soon. But please, do yourself and your users a favor and stop s...'
 type: post
 id: 29
-category:
-    - Uncategorized
+categories:
 tags:
     - android
     - english

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Comme promis, voici la deuxi??me partie des r??sultats d???un r??cent sondage sur le coworking men?? au niveau mondial par Deskmag. Cette partie porte sur les attentes des coworkers. Les coworkers appr??cient les espaces petits et interactifs. Ils...'
 type: post
 id: 134
-category:
-    - Uncategorized
+categories:
 tags:
     - betacowork
     - betagroupcoworkingbrussels

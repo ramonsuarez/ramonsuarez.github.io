@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 817
 thumbnail: /uploads/2018/11/practicetrumpstheory.png
-category:
+categories: 
     - Automation
     - Marketing
     - 'Progress Report'

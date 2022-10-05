@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 740
 thumbnail: /uploads/2018/10/going-postal.jpg
-category:
+categories: 
     - Automation
     - Entrepreneurship
     - Marketing

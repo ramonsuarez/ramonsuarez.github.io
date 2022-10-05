@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'L''interview d''un ??vang??liste Web, Ramon via lepodcasthightech.com Last Wednesday, I participated as a speaker at one of the pannels of Webstartupday on new ways of networking for entrepreneurs. Michel Godart from Le Podcast High-Tech managed to ge...'
 type: post
 id: 323
-category:
-    - Uncategorized
+categories:
 tags:
     - audio
     - conferences

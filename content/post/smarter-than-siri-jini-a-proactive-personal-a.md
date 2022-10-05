@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Jini is an application for smartphones that proactively sugests you things to do based on other applications usage (like RunKeeper) and the sensor information from your phone (location, speed, light...) Filip Maertens is the founder of this Belgia...'
 type: post
 id: 252
-category:
-    - Uncategorized
+categories:
 tags:
     - alaingerlache
     - artificialintelligence

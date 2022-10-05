@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 id: 1059
 thumbnail: /uploads/2019/05/fail.gif
-category:
+categories: 
     - Courses
     - 'Progress Report'
     - Projects

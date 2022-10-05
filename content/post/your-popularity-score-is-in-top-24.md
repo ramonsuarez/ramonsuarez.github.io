@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 464
-category:
-    - Uncategorized
+categories:
 tag: []
 post_format: []
 publicize_tumblr_url:

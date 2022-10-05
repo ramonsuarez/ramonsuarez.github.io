@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via rtbf.be Mmmmmm :) Geeks cookin'' and eatin'' with the help of Fabien Mossay. A great lunch for a bunch of hungry geeks at the Betacowork. What you do not see in the cameras is the great discussion about hacking food I had with Fabien. He''s passi...'
 type: post
 id: 79
-category:
-    - Uncategorized
+categories:
 tags:
     - betacowork
     - betagroupcoworkingbrussels

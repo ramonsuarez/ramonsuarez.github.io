@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via video.nextconf.eu Amazing presentation by Stefana Broadbent about how and why we choose our communication channels and who do we communicate with: The communication channnel choice is complex and does not depend on cost. The more attention it ...'
 type: post
 id: 261
-category:
-    - Uncategorized
+categories:
 tags:
     - anthropology
     - attention

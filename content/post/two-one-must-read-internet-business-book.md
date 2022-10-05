@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via ramonsuarez.com Influence is not only for Internet, but fully applicable :)'
 type: post
 id: 229
-category:
-    - Uncategorized
+categories:
 tags:
     - books
     - english

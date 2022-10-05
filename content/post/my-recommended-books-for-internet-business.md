@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 408
-category:
-    - Uncategorized
+categories:
 tags:
     - books
     - 'business books'

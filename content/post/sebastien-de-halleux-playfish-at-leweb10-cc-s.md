@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'It''s in the press!'
 type: post
 id: 270
-category:
-    - Uncategorized
+categories:
 tag: []
 post_format: []
 ---

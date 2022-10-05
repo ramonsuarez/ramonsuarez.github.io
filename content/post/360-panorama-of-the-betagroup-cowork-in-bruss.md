@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'via occip.it Thanks to @xdamman the newest member coming to cowork in Brussels.'
 type: post
 id: 110
-category:
-    - Uncategorized
+categories:
 tags:
     - betagroup
     - brussels

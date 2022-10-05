@@ -7,7 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 838
-category:
+categories: 
     - Automation
     - Courses
     - Coworking

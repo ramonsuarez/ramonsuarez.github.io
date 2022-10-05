@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Tim, possibly working on "The AOL Way" Two years into his tenure as AOL CEO, Tim Armstrong is stepping on the gas. By April, he wants AOL editorial to increase its stories per month from 33,000 to 55,000. He wants pageviews per story to jump from ...'
 type: post
 id: 295
-category:
-    - Uncategorized
+categories:
 tags:
     - aol
     - bloggers

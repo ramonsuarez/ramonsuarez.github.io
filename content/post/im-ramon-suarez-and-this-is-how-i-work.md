@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: ''
 type: post
 id: 422
-category:
-    - Uncategorized
+categories:
 tags:
     - english
     - 'how I work'

@@ -7,8 +7,7 @@ author: '@ramonsuarez'
 excerpt: 'Nearly 80% of children between the ages of 0 and 5 use the Internet on at least a weekly basis in the United States, according to a report released Monday from education non-profit organizations Joan Ganz Cooney Center and Sesame Workshop.The repo...'
 type: post
 id: 363
-category:
-    - Uncategorized
+categories:
 tags:
     - children
     - english
