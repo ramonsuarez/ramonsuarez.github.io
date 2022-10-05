@@ -16,8 +16,8 @@ tag:
     - writing
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> **SEO is not the enemy of good writing**
+> **SEO is not the enemy of good writing**
 
-<div class="posterous_quote_citation">via [econsultancy.com](http://econsultancy.com/blog/5034-a-journalists-guide-to-seo)</div>A truth often ignored by a lot of poor writers that care not about their readers
+via [econsultancy.com](http://econsultancy.com/blog/5034-a-journalists-guide-to-seo)</div>A truth often ignored by a lot of poor writers that care not about their readers
 
 </div>

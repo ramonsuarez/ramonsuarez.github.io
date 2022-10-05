@@ -19,7 +19,7 @@ tag:
     - leweb10
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> El mayor evento Europeo en torno a Internet vuelve a su cita anual parisina los próximos 8 y 9 de diciembre. En **[LeWeb](http://bit.ly/bfn5EV "Apúntate a LeWeb")** se juntarán 2400 emprendedores, líderes, inversores, bloggers y periodistas. Es uno de las grandes acontecimientos mundiales que copan la información y en el que este año puedes acabar presentando tú.
+> El mayor evento Europeo en torno a Internet vuelve a su cita anual parisina los próximos 8 y 9 de diciembre. En **[LeWeb](http://bit.ly/bfn5EV "Apúntate a LeWeb")** se juntarán 2400 emprendedores, líderes, inversores, bloggers y periodistas. Es uno de las grandes acontecimientos mundiales que copan la información y en el que este año puedes acabar presentando tú.
 > 
 > <span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/dZ6O44xlk90?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent" style="border:0;" width="640"></iframe></span>
 > 
@@ -33,6 +33,6 @@ post_format: []
 > 
 > Espero que podamos ver alguna presentación con acento español.
 
-<div class="posterous_quote_citation">via [loogic.com](http://loogic.com/%c2%bfquieres-presentar-en-leweb/)</div>Do you want to present at LeWeb Paris 2010? You have a chance to do so in their Ignite section. [Sign up before Wednesday at midnight San Francisco time](http://igniteleweb.producteev.com/home.php).
+via [loogic.com](http://loogic.com/%c2%bfquieres-presentar-en-leweb/)</div>Do you want to present at LeWeb Paris 2010? You have a chance to do so in their Ignite section. [Sign up before Wednesday at midnight San Francisco time](http://igniteleweb.producteev.com/home.php).
 
 </div>

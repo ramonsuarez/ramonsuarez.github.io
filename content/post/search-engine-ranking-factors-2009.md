@@ -16,7 +16,7 @@ tag:
     - seo
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> <div class="sub-section" style="display:block;"><div class="span-11 colborder">## Top 5 Ranking Factors
+> <div class="sub-section" style="display:block;"><div class="span-11 colborder">## Top 5 Ranking Factors
 > 
 > 1. #### Keyword Focused Anchor Text from External Links
 >   

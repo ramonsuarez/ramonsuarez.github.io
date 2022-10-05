@@ -20,7 +20,7 @@ tag:
     - spain
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> <div><span style="float:left;">Por **Ramón Suárez** el 17 Noviembre 2010</span>[<span><span style="cursor:pointer;"><span> </span></span><span> </span><span></span></span>](http://www.facebook.com/sharer.php?u=http%3A%2F%2Floogic.com%2Fentrevista-julio-alonso-leweb-y-el-futuro%2F&t=Entrevista%3A%20Julio%20Alonso%2C%20LeWeb%20y%20el%20futuro%20Loogic.com&src=sp)<span></span>
+> <div><span style="float:left;">Por **Ramón Suárez** el 17 Noviembre 2010</span>[<span><span style="cursor:pointer;"><span> </span></span><span> </span><span></span></span>](http://www.facebook.com/sharer.php?u=http%3A%2F%2Floogic.com%2Fentrevista-julio-alonso-leweb-y-el-futuro%2F&t=Entrevista%3A%20Julio%20Alonso%2C%20LeWeb%20y%20el%20futuro%20Loogic.com&src=sp)<span></span>
 > 
 > <div>[![Julio Alonso presentando en el Simo (foto cc Pixel y Dixel)](http://loogic.com/files/2010/11/Julio-Alonso-Simo-Foto-cc-Pixel-y-Dixel.jpg)](http://www.flickr.com/photos/pixelydixel/3949202526/ "Julio Alonso en el SIMO por Pixel y Dixel")Julio Alonso presentando en el SIMO (foto cc Pixel y Dixel)
 > 
@@ -48,7 +48,7 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [loogic.com](http://loogic.com/entrevista-julio-alonso-leweb-y-el-futuro/)</div>Julio Alonso is the founder and CEO of Weblogs SL, the largest Spanish speaking blog network and probably the biggest in Europe. His publications caught the attention of over 15 million unique visitors last september and it looks like these numbers wi  
+via [loogic.com](http://loogic.com/entrevista-julio-alonso-leweb-y-el-futuro/)</div>Julio Alonso is the founder and CEO of Weblogs SL, the largest Spanish speaking blog network and probably the biggest in Europe. His publications caught the attention of over 15 million unique visitors last september and it looks like these numbers wi  
 ll continue to Grow.
 
 In this interview we discussed his coming participation in LeWeb10 and also his ideas about the future of Media and the Internet.

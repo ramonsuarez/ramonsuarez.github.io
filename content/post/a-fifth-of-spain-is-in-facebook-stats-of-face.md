@@ -18,7 +18,7 @@ tag:
     - stats
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> ## Distribution of Facebook Users in Spain by Age and Gender
+> ## Distribution of Facebook Users in Spain by Age and Gender
 > 
 > [![](http://www.facebookmarketing.es/wp-content/uploads/2010/06/usuarios-fb-espa%C3%B1a-mayo-edad-660x392.jpg "usuarios fb espa??a mayo edad")](http://www.facebookmarketing.es/usuarios-facebook-espana-mayo/usuarios-fb-espana-mayo-edad/)[![](http://www.facebookmarketing.es/wp-content/uploads/2010/06/usuarios-fb-espa%C3%B1a-mayo-sexo.jpg "usuarios fb espa??a mayo sexo")](http://www.facebookmarketing.es/usuarios-facebook-espana-mayo/usuarios-fb-espana-mayo-sexo/)
 > 
@@ -26,7 +26,7 @@ post_format: []
 > 
 > [![](http://www.facebookmarketing.es/wp-content/uploads/2010/06/pa%C3%ADses-con-mayor-crecimiento-m%C3%A1s-usuarios-659x283.jpg "pa??ses con mayor crecimiento  m??s usuarios")](http://www.facebookmarketing.es/usuarios-facebook-espana-mayo/paises-con-mayor-crecimiento-mas-usuarios/)
 
-<div class="posterous_quote_citation">via [facebookmarketing.es](http://www.facebookmarketing.es/usuarios-facebook-espana-mayo/)</div>Spain is the **10th country in the World with more Facebook users with about 10,5 millions, a fifth of the Spanish population (22%)**.
+via [facebookmarketing.es](http://www.facebookmarketing.es/usuarios-facebook-espana-mayo/)</div>Spain is the **10th country in the World with more Facebook users with about 10,5 millions, a fifth of the Spanish population (22%)**.
 
 Thanks to [Ra??l Dorado](http://twitter.com/raul_sp) for sharing the information.
 

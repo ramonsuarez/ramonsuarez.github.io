@@ -14,8 +14,8 @@ tag:
     - socialmedia
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> The Categories do not provide knowledge of individual, particular objects. Any object, however, must have Categories as its characteristics if it is to be an object of experience.
+> The Categories do not provide knowledge of individual, particular objects. Any object, however, must have Categories as its characteristics if it is to be an object of experience.
 
-<div class="posterous_quote_citation">via [en.wikipedia.org](http://en.wikipedia.org/wiki/Category_(Kant))</div>Is there such a thing as meta social media philosophy?
+via [en.wikipedia.org](http://en.wikipedia.org/wiki/Category_(Kant))</div>Is there such a thing as meta social media philosophy?
 
 </div>

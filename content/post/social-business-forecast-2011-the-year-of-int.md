@@ -21,6 +21,6 @@ tag:
     - videos
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry"><div class="posterous_quote_citation">via [ustream.tv](http://www.ustream.tv/recorded/2833304)</div><div class="posterous_quote_citation">via [slideshare.net](http://www.slideshare.net/jeremiah_owyang/keynote-social-business-forecast-2011-the-year-of-integration)</div>The last and one of the best presentations at LeWeb.
+via [ustream.tv](http://www.ustream.tv/recorded/2833304)</div>via [slideshare.net](http://www.slideshare.net/jeremiah_owyang/keynote-social-business-forecast-2011-the-year-of-integration)</div>The last and one of the best presentations at LeWeb.
 
 </div>

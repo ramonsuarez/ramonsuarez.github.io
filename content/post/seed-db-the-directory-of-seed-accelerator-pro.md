@@ -18,7 +18,7 @@ tag:
     - stats
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> **140** programs world-wide
+> **140** programs world-wide
 > 
 > **2089** companies accelerated
 > 
@@ -28,6 +28,6 @@ post_format: []
 > 
 > **5154** jobs created
 
-<div class="posterous_quote_citation">via [seed-db.com](http://www.seed-db.com/accelerators)</div>But they do lead the charts! It is great to have a source that at least hints at the impact of accelerators.
+via [seed-db.com](http://www.seed-db.com/accelerators)</div>But they do lead the charts! It is great to have a source that at least hints at the impact of accelerators.
 
 </div>

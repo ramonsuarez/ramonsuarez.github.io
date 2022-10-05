@@ -19,6 +19,6 @@ tag:
     - westartup
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry"><div class="posterous_quote_citation">via [slideshare.net](http://www.slideshare.net/ramonsuarez/entrepreneurship-brusselsexpats)</div>Presentation given at a workshop for expat entrepreneurs organized by WeStartUp (Leo Exter). Great crowd and panelist, I was loaded of energy that day and talking about something I love: people could tell 🙂
+via [slideshare.net](http://www.slideshare.net/ramonsuarez/entrepreneurship-brusselsexpats)</div>Presentation given at a workshop for expat entrepreneurs organized by WeStartUp (Leo Exter). Great crowd and panelist, I was loaded of energy that day and talking about something I love: people could tell 🙂
 
 </div>

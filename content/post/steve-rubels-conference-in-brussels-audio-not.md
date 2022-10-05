@@ -25,7 +25,7 @@ post_format: []
 video_background:
     - ''
 ---
-<div class="p_embed p_image_embed"></div><div>![](https://ramonsuarez.com/wp-content/uploads/2013/02/media_https1i1picplzt_uegbd-scaled500.jpg)</div><div class="posterous_quote_citation">via [picplz.com](http://picplz.com/user/ramonsuarez/pic/63qbb/)</div>I just had the chance of finding myself in a pannel about digital communication with **[Steve Rubel](http://twitter.com/steverubel)** and [**Patrick Bosteels**](http://twitter.com/patrickbosteels). The event was named “**A sneak peek into the future of digital communications**“, but we got much more. Gotta run to a meeting, so I leave you here my **notes and the audio** of the full conference and Q&amp;A.
+<div class="p_embed p_image_embed"></div><div>![](https://ramonsuarez.com/wp-content/uploads/2013/02/media_https1i1picplzt_uegbd-scaled500.jpg)</div>via [picplz.com](http://picplz.com/user/ramonsuarez/pic/63qbb/)</div>I just had the chance of finding myself in a pannel about digital communication with **[Steve Rubel](http://twitter.com/steverubel)** and [**Patrick Bosteels**](http://twitter.com/patrickbosteels). The event was named “**A sneak peek into the future of digital communications**“, but we got much more. Gotta run to a meeting, so I leave you here my **notes and the audio** of the full conference and Q&amp;A.
 
 Audio: Steve Rubel’s Conference in Brussels
 -------------------------------------------

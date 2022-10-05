@@ -18,7 +18,7 @@ tag:
     - presentation
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> # The 10 commandments of Beta Group presentations
+> # The 10 commandments of Beta Group presentations
 > 
 >  Speaking with some Beta Group members about the Webmission Accademy and the need to organize something to improve the presenation and pitchin skills, I thought that a good place to start would be to inspire ourselves from the 10 Commandments of TED speakers ( [http://www.ted.com/pages/view/id/360](http://www.linkedin.com/redirect?url=http%3A%2F%2Fwww%2Eted%2Ecom%2Fpages%2Fview%2Fid%2F360&urlhash=MvwU "New window will open") ):
 > 
@@ -60,6 +60,6 @@ post_format: []
 > BetaGroup: [http://www.betagroup.be](http://www.linkedin.com/redirect?url=http%3A%2F%2Fwww%2Ebetagroup%2Ebe&urlhash=6k3c "New window will open")   
 > BetaGroup House: [http://groups.google.com/group/betahousebe](http://www.linkedin.com/redirect?url=http%3A%2F%2Fgroups%2Egoogle%2Ecom%2Fgroup%2Fbetahousebe&urlhash=1gBp "New window will open")
 
-<div class="posterous_quote_citation">via [linkedin.com](http://www.linkedin.com/groupAnswers?viewQuestionAndAnswers=&gid=87954&discussionID=11957447&sik=1262886119376&trk=ug_qa_q&goback=%2Eand_87954_11957447_*2_*2%2Eana_87954_1262886119376_3_1)</div>Participate in the [discussion](http://www.linkedin.com/groupAnswers?viewQuestionAndAnswers=&gid=87954&discussionID=11957447&sik=1262886119376&trk=ug_qa_q&goback=%2Eand_87954_11957447_*2_*2%2Eana_87954_1262886119376_3_1). Looking forward to your comments and suggestions.
+via [linkedin.com](http://www.linkedin.com/groupAnswers?viewQuestionAndAnswers=&gid=87954&discussionID=11957447&sik=1262886119376&trk=ug_qa_q&goback=%2Eand_87954_11957447_*2_*2%2Eana_87954_1262886119376_3_1)</div>Participate in the [discussion](http://www.linkedin.com/groupAnswers?viewQuestionAndAnswers=&gid=87954&discussionID=11957447&sik=1262886119376&trk=ug_qa_q&goback=%2Eand_87954_11957447_*2_*2%2Eana_87954_1262886119376_3_1). Looking forward to your comments and suggestions.
 
 </div>

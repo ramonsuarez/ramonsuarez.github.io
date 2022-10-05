@@ -19,7 +19,7 @@ tag:
     - rtbf
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> ## [Le co-working, une nouvelle vision de l???entreprise ](http://alaingerlache.be/post/6379149415/le-co-working-une-nouvelle-vision-de-lentreprise)
+> ## [Le co-working, une nouvelle vision de l???entreprise ](http://alaingerlache.be/post/6379149415/le-co-working-une-nouvelle-vision-de-lentreprise)
 > 
 > <div class="textpostbody">![](http://nomatime.com/sites/default/files/imagecache/venue_large/David_Plas_Betagroup_8373.jpg)
 > 
@@ -43,4 +43,4 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [alaingerlache.be](http://alaingerlache.be/post/6379149415/le-co-working-une-nouvelle-vision-de-lentreprise)</div><div></div></div>
+via [alaingerlache.be](http://alaingerlache.be/post/6379149415/le-co-working-une-nouvelle-vision-de-lentreprise)</div><div></div></div>

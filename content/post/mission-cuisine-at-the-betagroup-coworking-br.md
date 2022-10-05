@@ -24,6 +24,6 @@ tag:
     - videos
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry"><div class="posterous_quote_citation">via [rtbf.be](http://www.rtbf.be/tv/emission/detail_mission-cuisine?id=433)</div>Mmmmmm 🙂 Geeks cookin’ and eatin’ with the help of [Fabien Mossay](http://www.idealcooking.be/pages/0188/Cours-de-cuisine.fr.php). A great lunch for a bunch of hungry geeks at the [Betacowork](http://coworking.betagroup.be). What you do not see in the cameras is the great discussion about hacking food I had with Fabien. He’s passionate about food and shares that passion, but you can already feel that in the video.
+via [rtbf.be](http://www.rtbf.be/tv/emission/detail_mission-cuisine?id=433)</div>Mmmmmm 🙂 Geeks cookin’ and eatin’ with the help of [Fabien Mossay](http://www.idealcooking.be/pages/0188/Cours-de-cuisine.fr.php). A great lunch for a bunch of hungry geeks at the [Betacowork](http://coworking.betagroup.be). What you do not see in the cameras is the great discussion about hacking food I had with Fabien. He’s passionate about food and shares that passion, but you can already feel that in the video.
 
 </div>

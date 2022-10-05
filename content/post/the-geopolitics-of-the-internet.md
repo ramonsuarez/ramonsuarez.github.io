@@ -17,6 +17,6 @@ tag:
     - videos
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry"><div class="posterous_quote_citation">via [plus7.arte.tv](http://plus7.arte.tv/fr/1697660,CmC=3175036,scheduleId=3129940.html)</div>An interesting video from Arte TV that tryes to analyze the geopolitics of the Internet and to explain what is the Internet for Mr. and Ms. Everybody.
+via [plus7.arte.tv](http://plus7.arte.tv/fr/1697660,CmC=3175036,scheduleId=3129940.html)</div>An interesting video from Arte TV that tryes to analyze the geopolitics of the Internet and to explain what is the Internet for Mr. and Ms. Everybody.
 
 </div>

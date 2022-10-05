@@ -16,7 +16,7 @@ tag:
     - swbru
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> <div><div>[![IMG_7465](http://farm6.static.flickr.com/5092/5397753548_9f98afb3cb.jpg)](http://www.flickr.com/photos/nataliehillphotography/5397753548/ "IMG_7465 by NatalieHillPhotography, on Flickr")[](http://www.flickr.com/photos/nataliehillphotography/5397753548/ "IMG_7465 by NatalieHillPhotography, on Flickr")
+> <div><div>[![IMG_7465](http://farm6.static.flickr.com/5092/5397753548_9f98afb3cb.jpg)](http://www.flickr.com/photos/nataliehillphotography/5397753548/ "IMG_7465 by NatalieHillPhotography, on Flickr")[](http://www.flickr.com/photos/nataliehillphotography/5397753548/ "IMG_7465 by NatalieHillPhotography, on Flickr")
 > 
 > Photo c Natalie Hill
 > 
@@ -34,6 +34,6 @@ post_format: []
 > 
 > </div></div>
 
-<div class="posterous_quote_citation">via [brussels.startupweekend.org](http://brussels.startupweekend.org/2011/01/29/the-startup-weekend-brussels-idea-list/)</div>Wow! Teams are working hard on their projects, hyper concentrated. Really looking forward to their presentations tomorrow!
+via [brussels.startupweekend.org](http://brussels.startupweekend.org/2011/01/29/the-startup-weekend-brussels-idea-list/)</div>Wow! Teams are working hard on their projects, hyper concentrated. Really looking forward to their presentations tomorrow!
 
 </div>

@@ -17,7 +17,7 @@ tag:
     - socialnetworks
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> ## EBO4 – **Blogs, social networks, instant messaging, video-, geo-localisation, M-business…  
+> ## EBO4 – **Blogs, social networks, instant messaging, video-, geo-localisation, M-business…  
 > A revolution is walking! How to integrate those new e-marketing levers and boost efficiency of your multi-channel contact centre ?** *in French and English*
 > 
 > 
@@ -44,6 +44,6 @@ post_format: []
 > Lecturer in e-Business BOSTON UNIVERSITY  
 > Charles presents lively, interactive courses, seminars and workshops to help people better understand and use the Internet in business and in their daily lives. Whether teaching in the classroom, presenting at a congress, or working directly with companies on a project, he focuses on giving practical information which people can use to improve their own online performance.</td></tr></tbody></table>
 
-<div class="posterous_quote_citation">via [devcom.be](http://www.devcom.be/conferences_content/155032/blogs-social-networks-instant-messaging-video-geo-localisation-m-business-a-revolution-is-walking-how-to-integrate-those-new-e-marketing-levers-and-boost-efficiency-of-your-multi-channel-contact-centre-in-french-and-english.html)</div>Here’s the programme for tomorrow’s social media conference at DevCom Brussels. You can still **[sign up](http://www.devcom.be/panier/INSCR_index.php?id_event=691)**.
+via [devcom.be](http://www.devcom.be/conferences_content/155032/blogs-social-networks-instant-messaging-video-geo-localisation-m-business-a-revolution-is-walking-how-to-integrate-those-new-e-marketing-levers-and-boost-efficiency-of-your-multi-channel-contact-centre-in-french-and-english.html)</div>Here’s the programme for tomorrow’s social media conference at DevCom Brussels. You can still **[sign up](http://www.devcom.be/panier/INSCR_index.php?id_event=691)**.
 
 </div>

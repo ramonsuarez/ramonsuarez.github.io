@@ -21,7 +21,7 @@ tag:
     - startups
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> <div class="entry"># [Presenta tu startup en Berl??n: nextelevator](http://loogic.com/presenta-tu-startup-en-berlin-nextelevator/ "Permanent Link to Presenta tu startup en Berl??n: nextelevator")
+> <div class="entry"># [Presenta tu startup en Berl??n: nextelevator](http://loogic.com/presenta-tu-startup-en-berlin-nextelevator/ "Permanent Link to Presenta tu startup en Berl??n: nextelevator")
 > 
 > </div><div class="post-content"><span class="post-date" style="float:left;">Por **Ram??n Su??rez** el 24 Marzo 2011 [Editar](http://loogic.com/wp-admin/post.php?action=edit&post=14799 "Editar entrada")</span> [<span class="fb_share_size_Small "><span class="FBConnectButton FBConnectButton_Small" style="cursor:pointer;"><span class="FBConnectButton_Text">Share</span></span><span class="fb_share_count fb_share_no_count fb_share_count_right"><span class="fb_share_count_inner"> </span></span></span>](http://www.facebook.com/sharer.php?u=http%3A%2F%2Floogic.com%2Fpresenta-tu-startup-en-berlin-nextelevator%2F&t=Presenta%20tu%20startup%20en%20Berl%C3%ADn%3A%20nextelevator%20Loogic.com&src=sp)[![](http://recomendar.com/images/rc.gif)](http://recomendar.com/)–&gt;  
 > Aviso a todos los emprendedores: se acaba de abrir el plazo para presentarse a [**nextelevator**](http://elevator.nextconf.eu/), el concurso de startups de la conferencia [Next11](http://nextconf.eu/next11/) en Berl??n. Se trata de una nueva iniciativa de Next11 en colaboraci??n con la revista Wired UK y con la incubadora Hanse Ventures. Se pueden presentar startups con menos de 12 meses que tengan ideas innovadoras y un modelo de negocio sostenible en la industrias de Internet y el comercio electr??nico. Seg??n las [condiciones de nextelevator](http://elevator.nextconf.eu/procedure), el plazo de presentaci??n termina el 17 de abril y las startups que se vayan presentando podr??n ser votadas inmediatamente. El plazo para votar termina el 27 de abril. Entre los 30 m??s votados el jurado elegir?? 12 proyectos que ser??n presentados en la final de mayo (la conferencia tiene lugar entre el 17 y 18 de mayo).
@@ -40,4 +40,4 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [loogic.com](http://loogic.com/presenta-tu-startup-en-berlin-nextelevator/)</div><div></div></div>
+via [loogic.com](http://loogic.com/presenta-tu-startup-en-berlin-nextelevator/)</div><div></div></div>

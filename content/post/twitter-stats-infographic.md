@@ -17,6 +17,6 @@ tag:
     - twitter
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry"><div class="p_embed p_image_embed">![Media_httpcdnmashable_tygfp](http://ramonsuarez.files.wordpress.com/2010/03/media_httpcdnmashable_tygfp-scaled500.jpg?w=105)</div><div class="posterous_quote_citation">via [mashable.com](http://mashable.com/2010/03/18/twitter-infographic/)</div>A very interesting view by Muhammad Saleem on the users and uses of [Twitter](http://twitter.com/ramonsuarez). The two things that have struck me the most are that Twitter is gender balanced and the current small amount of spam (the opposite of email.)
+<div class="p_embed p_image_embed">![Media_httpcdnmashable_tygfp](http://ramonsuarez.files.wordpress.com/2010/03/media_httpcdnmashable_tygfp-scaled500.jpg?w=105)</div>via [mashable.com](http://mashable.com/2010/03/18/twitter-infographic/)</div>A very interesting view by Muhammad Saleem on the users and uses of [Twitter](http://twitter.com/ramonsuarez). The two things that have struck me the most are that Twitter is gender balanced and the current small amount of spam (the opposite of email.)
 
 </div>

@@ -17,7 +17,7 @@ tag:
     - mobile
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> # Fabricantes de dispositivos Android: dejen de joder la interfaz de usuario (carta abierta)
+> # Fabricantes de dispositivos Android: dejen de joder la interfaz de usuario (carta abierta)
 > 
 > <div class="metatop"> Por **[Ram??n Su??rez](http://alt1040.com/author/ramonsuarez/ "Entradas de Ram??n Su??rez")** el 21 de Junio de 2010, 18:34 en [Destacadas](http://alt1040.com/categoria/destacadas "Ver todas las entradas en Destacadas"), [Software](http://alt1040.com/categoria/software "Ver todas las entradas en Software"), [Tecnolog??a](http://alt1040.com/categoria/tecnologia "Ver todas las entradas en Tecnolog??a").
 > 
@@ -39,7 +39,7 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [alt1040.com](http://alt1040.com/2010/06/fabricantes-de-dispositivos-android-dejen-de-joder-el-interfaz-de-usuario-carta-abierta#comments)</div>My post [Android handset manufacturers: stop screwing up the interface (open letter)](http://ramonsuarez.com/android-handset-manufacturers-stop-screwing-u) caught the eye of **[Eduardo Arcos](http://eduardo.arcos.me/)**, CEO of **[Hipertextual](http://eduardo.arcos.me/), one of the largest online publication networks in Spanish**, which gets over 7 million unique visitors a month. He inmediately retweeted the original post and asked if I could send a translation for publication in [Alt1040](http://alt1040.com/).
+via [alt1040.com](http://alt1040.com/2010/06/fabricantes-de-dispositivos-android-dejen-de-joder-el-interfaz-de-usuario-carta-abierta#comments)</div>My post [Android handset manufacturers: stop screwing up the interface (open letter)](http://ramonsuarez.com/android-handset-manufacturers-stop-screwing-u) caught the eye of **[Eduardo Arcos](http://eduardo.arcos.me/)**, CEO of **[Hipertextual](http://eduardo.arcos.me/), one of the largest online publication networks in Spanish**, which gets over 7 million unique visitors a month. He inmediately retweeted the original post and asked if I could send a translation for publication in [Alt1040](http://alt1040.com/).
 
 As you could imagine, I am honored and happy. It feels like when you get your thoughts published in the *letters to the editor* section of traditional newspaper: really good. I’m looking forward to the coments by the readers
 

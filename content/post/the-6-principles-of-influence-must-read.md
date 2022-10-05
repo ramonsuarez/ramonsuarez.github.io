@@ -21,4 +21,4 @@ tag:
     - slides
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry"><div class="posterous_quote_citation">via [slideshare.net](http://www.slideshare.net/thomasvdc/persuasion-herding-the-digital-sheep)</div><div></div></div>
+via [slideshare.net](http://www.slideshare.net/thomasvdc/persuasion-herding-the-digital-sheep)</div><div></div></div>

@@ -18,7 +18,7 @@ tag:
     - us
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry"><div class="author-photo"><div class="headline">[What Do Seniors Do Online? Visit Facebook and YouTube, of Course \[STATS\]](http://mashable.com/2009/12/10/seniors-online-habits/ "Permanent Link to What Do Seniors Do Online? Visit Facebook and YouTube, of Course [STATS]")
+<div class="author-photo"><div class="headline">[What Do Seniors Do Online? Visit Facebook and YouTube, of Course \[STATS\]](http://mashable.com/2009/12/10/seniors-online-habits/ "Permanent Link to What Do Seniors Do Online? Visit Facebook and YouTube, of Course [STATS]")
 ================================================================================================================================================================================================================================
 
 **December 10th, 2009 | by [Ben Parr](http://mashable.com/author/ben-parr/ "Posts by Ben Parr")**<span class="comments">[](http://mashable.com/2009/12/10/seniors-online-habits/#comments)</span>

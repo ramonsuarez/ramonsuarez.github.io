@@ -16,7 +16,7 @@ tag:
     - webmission
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry"><div class="posterous_quote_citation">via [youtube.com](http://www.youtube.com/watch?v=uAgVoj_ilzY&feature=youtu.be)</div>We are preparing a new [](http://wiki.webmission.be) to go to San Francisco in Mai. Would you like to join us and present your company in the valley?
+via [youtube.com](http://www.youtube.com/watch?v=uAgVoj_ilzY&feature=youtu.be)</div>We are preparing a new [](http://wiki.webmission.be) to go to San Francisco in Mai. Would you like to join us and present your company in the valley?
 
 Thanks to [Sam Piroton](http://twitter.com/sam_piroton) for editing and posting the video!
 

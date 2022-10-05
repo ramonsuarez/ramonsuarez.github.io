@@ -17,7 +17,7 @@ tag:
     - startups
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> <div><span></span>**El 11 de marzo dos startups españolas competirán en [Plugg](http://plugg.eu/)**, el evento para iniciadores web y mobil europeos en Bruselas: [**SHOTools**](http://shotools.com/) y [Sclipo](http://sclipo.com/). Deberán superar una primera ronda de eliminación en competencia con otras 18 startups europeas, con tan solo dos minutos para presentar su proyecto. Hemos enviado un cuestionario de presentación a los fundadores de los proyectos españoles. Hoy presentamos las respuestas de [Alex Puig](http://es.linkedin.com/in/alexpuig), fundador de **SHOTools**:
+> <div><span></span>**El 11 de marzo dos startups españolas competirán en [Plugg](http://plugg.eu/)**, el evento para iniciadores web y mobil europeos en Bruselas: [**SHOTools**](http://shotools.com/) y [Sclipo](http://sclipo.com/). Deberán superar una primera ronda de eliminación en competencia con otras 18 startups europeas, con tan solo dos minutos para presentar su proyecto. Hemos enviado un cuestionario de presentación a los fundadores de los proyectos españoles. Hoy presentamos las respuestas de [Alex Puig](http://es.linkedin.com/in/alexpuig), fundador de **SHOTools**:
 > 
 > ![Alex_Puig_SHOTools_plugg](http://loogic.com/files/2010/03/Alex_Puig_SHOTools_plugg1.jpg)**En 140 caracteres ¿qué hace tu proyecto o empresa?**  
 >  Dinamizar el networking entre profesionales en distintas redes sociales. Ayudamos a compartir y analizamos la efectividad de su comunicación.
@@ -41,6 +41,6 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [loogic.com](http://loogic.com/alex-puig-presenta-shotools/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Loogiccom+%28Loogic.com%29)</div>Alex Puig is the founder of SHOTools, a tool for social network professionals to improve the dynamization and analysis of their online efforts. He will be presenting SHOTools in [Plugg 2010 startup competition](http://ramonsuarez.com/dos-startups-espanolas-en-plugg-articulo-en-l). This article is part of the Plugg series that I’m publishing in collaboration with Loogic, the Spanish reference for new media entrepreneurship.
+via [loogic.com](http://loogic.com/alex-puig-presenta-shotools/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Loogiccom+%28Loogic.com%29)</div>Alex Puig is the founder of SHOTools, a tool for social network professionals to improve the dynamization and analysis of their online efforts. He will be presenting SHOTools in [Plugg 2010 startup competition](http://ramonsuarez.com/dos-startups-espanolas-en-plugg-articulo-en-l). This article is part of the Plugg series that I’m publishing in collaboration with Loogic, the Spanish reference for new media entrepreneurship.
 
 </div>

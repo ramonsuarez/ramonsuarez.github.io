@@ -17,7 +17,7 @@ tag:
     - leanstartup
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> #### Problem
+> #### Problem
 > 
 > *What???s the problem we think we have identified?*
 > 
@@ -144,6 +144,6 @@ post_format: []
 > - advantages: they may be better than cobot at specific tasks
 > - disadvantages: not an integrated solution specifically for coworking, so will never be an ideal solution
 
-<div class="posterous_quote_citation">via [cobot.tumblr.com](http://cobot.tumblr.com/post/1489264800/our-business-model)</div>A great exercise by Alex: public distribution of the business model of his great tool to manage coworking spaces and a step further into lean startup. Can only say bravo!
+via [cobot.tumblr.com](http://cobot.tumblr.com/post/1489264800/our-business-model)</div>A great exercise by Alex: public distribution of the business model of his great tool to manage coworking spaces and a step further into lean startup. Can only say bravo!
 
 </div>

@@ -36,4 +36,4 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [gigaom.com](http://gigaom.com/2010/04/20/skype-q4-2009-number/)</div>
+via [gigaom.com](http://gigaom.com/2010/04/20/skype-q4-2009-number/)</div>

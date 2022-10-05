@@ -18,7 +18,7 @@ tag:
     - tips
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> <div>*This guest post is by HubSpot???s social media scientist, [Dan Zarrella](http://www.danzarella.com).*
+> <div>*This guest post is by HubSpot???s social media scientist, [Dan Zarrella](http://www.danzarella.com).*
 > 
 > Of all the data analysis that I???ve done, day-of-week and time-of-day data has been consistently the most popular. So in preparation for my upcoming webinar, titled Science of Blogging, I decided to combine all of my existing data on timing with my new research into one master post on the subject.
 > 
@@ -62,7 +62,7 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [problogger.net](http://www.problogger.net/archives/2010/12/06/whens-the-best-time-to-publish-blog-posts/)</div>Must read for every blogger. Main learnings:
+via [problogger.net](http://www.problogger.net/archives/2010/12/06/whens-the-best-time-to-publish-blog-posts/)</div>Must read for every blogger. Main learnings:
 
 
 4. Publish often, more than once a day

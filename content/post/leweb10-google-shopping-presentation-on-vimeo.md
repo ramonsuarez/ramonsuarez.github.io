@@ -16,6 +16,6 @@ tag:
     - videos
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry"><div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="283" mozallowfullscreen="" src="https://player.vimeo.com/video/17642483" webkitallowfullscreen="" width="500"></iframe></div><div class="posterous_quote_citation">via [vimeo.com](http://vimeo.com/17642483)</div>Discover Google Shopping the dedicated e-commerce search engine, partially launched in France and fully available in the USA and UK. Presentation by French googlers Marie-Astrid Michel and Lucia Le Menn.
+<div class="embed-vimeo" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="283" mozallowfullscreen="" src="https://player.vimeo.com/video/17642483" webkitallowfullscreen="" width="500"></iframe></div>via [vimeo.com](http://vimeo.com/17642483)</div>Discover Google Shopping the dedicated e-commerce search engine, partially launched in France and fully available in the USA and UK. Presentation by French googlers Marie-Astrid Michel and Lucia Le Menn.
 
 </div>

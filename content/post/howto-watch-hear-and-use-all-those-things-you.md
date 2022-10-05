@@ -16,7 +16,7 @@ tag:
     - internet
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> A large number of web services are geographically restricted, such as [Hulu![](http://i.ixnp.com/images/v6.17/t.gif)](http://crunchbase.com/company/hulu), [Pandora![](http://i.ixnp.com/images/v6.17/t.gif)](http://crunchbase.com/company/pandora) and <a>Spotify</a>. The reasons are usually to do with content licensing restrictions, or because US visitors (or visitors from other advanced economies) are of a higher value from a monetization perspective. A web application can only guess at the location of a visitor based on an IP address and other information, such as browser language and regional settings.
+> A large number of web services are geographically restricted, such as [Hulu![](http://i.ixnp.com/images/v6.17/t.gif)](http://crunchbase.com/company/hulu), [Pandora![](http://i.ixnp.com/images/v6.17/t.gif)](http://crunchbase.com/company/pandora) and <a>Spotify</a>. The reasons are usually to do with content licensing restrictions, or because US visitors (or visitors from other advanced economies) are of a higher value from a monetization perspective. A web application can only guess at the location of a visitor based on an IP address and other information, such as browser language and regional settings.
 > 
 > IP addresses are mapped to countries (and in some instances, further to states and cities) using large commercial datasets such as GeoIP from [Maxmind![](http://i.ixnp.com/images/v6.17/t.gif)](http://www.maxmind.com/), which is a ???best guess??? database based on data it has collected (how, I would rather not know). The system is accurate enough to enable services to block on a country level, but often fail at a more local level.
 > 
@@ -56,7 +56,7 @@ post_format: []
 > 
 > There are entire business models that depend on geographic targeting, so there is a constant cat-and-mouse game between providers of these services and those seeking to bypass the set restrictions. Those who are seeking to access content are winning though, and they will continue to win, as the very nature of the Internet and web make it near impossible to detect where somebody actually is if they refuse to let you know.
 
-<div class="posterous_quote_citation">via [techcrunch.com](http://www.techcrunch.com/2009/10/05/internet-anonymizer-web-surf-vpn-hulu-pandora-spotify/)</div>To be able to watch and hear all those things we are missing when we are living abroad (also applicable to other countries, including Spain).
+via [techcrunch.com](http://www.techcrunch.com/2009/10/05/internet-anonymizer-web-surf-vpn-hulu-pandora-spotify/)</div>To be able to watch and hear all those things we are missing when we are living abroad (also applicable to other countries, including Spain).
 
 It sucks to be cut out to your culture because of your location. Internet, knowledge, arts, culture are universal and should be ubiquitous.
 

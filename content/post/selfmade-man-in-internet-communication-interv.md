@@ -20,7 +20,7 @@ tag:
     - ramonsuarez
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> # Selfmade man in internet communicatie
+> # Selfmade man in internet communicatie
 > 
 > <div class="content-area"><div class="region region-content"><div class="block block-system clearfix"><div class="inner tb-terminal"><div class="middle tb-terminal"><div><div class="node node-blog node-promoted even clearfix"><div class="float-overflow tb-terminal"><div><div class="field field-name-field-knappekop field-type-text field-label-inline clearfix"><div class="field-label">Lunchinterview met:</div><div class="field-items"><div class="field-item even">Ramon Suarez</div></div></div><div class="field field-name-field-fotoknappekop field-type-image field-label-hidden"><div class="field-items"><div class="field-item even">[![](http://www.20kk.be/sites/www.20kk.be/files/styles/thumbnail/kk_ramon-3_filtered_0.jpg)](http://www.20kk.be/sites/www.20kk.be/files/kk_ramon-3_filtered_0.jpg)</div></div></div><div class="field field-name-field-introtekst field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">*Ramon is een legende in de Franstalige social media community. Oorspronkelijk van Spaanse origine, landde hij via de Europese instellingen in Brussel maar kwam er via zijn MBA al snel achter dat zijn toekomst in internet communicatie lag.*
 > 
@@ -91,7 +91,7 @@ post_format: []
 > 
 > </div></div></div><div class="field field-name-field-fotoaantafel field-type-image field-label-hidden"><div class="field-items"><div class="field-item even">[![](http://www.20kk.be/sites/www.20kk.be/files/styles/large/kk_ramon-4_filtered.jpg)](http://www.20kk.be/sites/www.20kk.be/files/kk_ramon-4_filtered.jpg)</div></div></div></div></div></div></div></div></div></div></div></div>
 
-</div><div class="posterous_quote_citation">via [20kk.be](http://www.20kk.be/ramon)</div>[Koen Delvaux](http://www.kodel.be/) is carrying out a very interesting blog project this summer: he has blocked a month of his vacation to meet with 20 belgian internet brains for lunch and interview. The subjects: work, internet, economy and good food. The result is [20 Knappe Koppen](http://www.20kk.be/).
+</div>via [20kk.be](http://www.20kk.be/ramon)</div>[Koen Delvaux](http://www.kodel.be/) is carrying out a very interesting blog project this summer: he has blocked a month of his vacation to meet with 20 belgian internet brains for lunch and interview. The subjects: work, internet, economy and good food. The result is [20 Knappe Koppen](http://www.20kk.be/).
 
 I was lucky enough to be considered one of those internet brains, but I think that what tilted the balance was how I enjoy the good restaurants of Brussels. Nothing beats a nice conversation over lunch like the one we had! The place of choice was [Houtsiplou](http://houtsiplou.be/), home of a good selection of quality burgers.
 

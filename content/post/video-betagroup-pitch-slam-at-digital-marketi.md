@@ -18,7 +18,7 @@ tag:
     - videos
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry"><div class="posterous_quote_citation">via [arjuna.rcms.rambla.be](http://arjuna.rcms.rambla.be/webinar/36578)</div>The BetaGroup had a [special session](http://www.betagroup.be/2010/10/12/dmf-digital-marketing-first/) at this years Digital Marketing First fair in Brussels.
+via [arjuna.rcms.rambla.be](http://arjuna.rcms.rambla.be/webinar/36578)</div>The BetaGroup had a [special session](http://www.betagroup.be/2010/10/12/dmf-digital-marketing-first/) at this years Digital Marketing First fair in Brussels.
 
 The presenting startups where:
 

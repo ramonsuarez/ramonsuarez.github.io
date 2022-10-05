@@ -30,7 +30,7 @@ tag:
     - videos
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry"><div class="posterous_quote_citation">via [video.nextconf.eu](http://video.nextconf.eu/video/885228/the-power-struggle-choosing)</div>Amazing presentation by [Stefana Broadbent](http://nextconf.eu/next10/speaker/stefana-broadbent.html) about how and why we choose our communication channels and who do we communicate with:
+via [video.nextconf.eu](http://video.nextconf.eu/video/885228/the-power-struggle-choosing)</div>Amazing presentation by [Stefana Broadbent](http://nextconf.eu/next10/speaker/stefana-broadbent.html) about how and why we choose our communication channels and who do we communicate with:
 
 
 3. The communication channnel choice is complex and does not depend on cost.

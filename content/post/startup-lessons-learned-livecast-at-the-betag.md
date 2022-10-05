@@ -19,7 +19,7 @@ tag:
     - westartup
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> StartupLessons Learned 2011 is the sequel to last year’s inaugural event, whichbrought together nearly 400 entrepreneurs and executives interested in buildingand supporting lean startups. The goal for this event is to givepractitioners and students of the lean startup methodology the opportunity tohear insights from leaders in embracing and deploying the core principles of thelean startup methodology. The day-long event will feature a mix of panels andtalks focused on the key challenges and issues that technical and market-facingpeople at startups need to understand in order to succeed in buildingsuccessful lean startups.
+> StartupLessons Learned 2011 is the sequel to last year’s inaugural event, whichbrought together nearly 400 entrepreneurs and executives interested in buildingand supporting lean startups. The goal for this event is to givepractitioners and students of the lean startup methodology the opportunity tohear insights from leaders in embracing and deploying the core principles of thelean startup methodology. The day-long event will feature a mix of panels andtalks focused on the key challenges and issues that technical and market-facingpeople at startups need to understand in order to succeed in buildingsuccessful lean startups.
 > 
 > ConfirmedSpeakers Include:  
 > Eric Ries, The Lean Startup (@ericries)  
@@ -38,6 +38,6 @@ post_format: []
 > Josh Seiden, Program Dir, LUXr NYC (@jseiden)  
 > Zach Larson, Entrepreneur/Former CPO, SideReel (@zachlarson)
 
-<div class="posterous_quote_citation">via [sll11brusimulcast.eventbrite.com](http://sll11brusimulcast.eventbrite.com/)</div>[Signup](http://sll11brusimulcast.eventbrite.com/) and enjoy the Lean Startup and Customer Development networking.
+via [sll11brusimulcast.eventbrite.com](http://sll11brusimulcast.eventbrite.com/)</div>[Signup](http://sll11brusimulcast.eventbrite.com/) and enjoy the Lean Startup and Customer Development networking.
 
 </div>

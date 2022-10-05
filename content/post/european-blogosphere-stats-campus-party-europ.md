@@ -19,7 +19,7 @@ tag:
     - videos
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry"><div class="posterous_quote_citation">via [slideshare.net](http://www.slideshare.net/pixelydixel/the-european-blogosphere)</div>Last April I participated in the coordination of the Bloggers area of the [Campus Party Europe in Madrid](http://www.campus-party.eu/home-en.html). This was possible thanks to <a>Jonan Basterra</a> and [Marcos Morales](http://es.linkedin.com/in/mdmorales) the masterminds behind [Pixel y Dixel](http://www.pixelydixel.com/).
+via [slideshare.net](http://www.slideshare.net/pixelydixel/the-european-blogosphere)</div>Last April I participated in the coordination of the Bloggers area of the [Campus Party Europe in Madrid](http://www.campus-party.eu/home-en.html). This was possible thanks to <a>Jonan Basterra</a> and [Marcos Morales](http://es.linkedin.com/in/mdmorales) the masterminds behind [Pixel y Dixel](http://www.pixelydixel.com/).
 
 Beyond the great experience of spending a few days in a super-geeky event, I also had the opportunity to prepare with Jonan this study about the perception of the European Blogosphere based on the responses given by European bloggers invited to Campus Party Europe. This is not a scientific work, it is fully subjective but still bears a lot of interesting information that prompted a very interesting debate with my copresenter [Ben Hammersley](http://benhammersley.com/) and with the audience.
 

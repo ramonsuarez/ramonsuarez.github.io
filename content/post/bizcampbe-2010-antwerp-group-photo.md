@@ -21,6 +21,6 @@ tag:
     - sharing
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry"><div class="p_embed p_image_embed">![Media_httpfarm6static_hadln](http://ramonsuarez.files.wordpress.com/2010/12/media_httpfarm6static_hadln-scaled500.jpg?w=300)</div><div class="posterous_quote_citation">via [flickr.com](http://www.flickr.com/photos/tenderfeelings/5251571461/sizes/l/in/set-72157625451158825/)</div>Had a great time. Love the Barcamp format. Looking forward to more sharing.
+<div class="p_embed p_image_embed">![Media_httpfarm6static_hadln](http://ramonsuarez.files.wordpress.com/2010/12/media_httpfarm6static_hadln-scaled500.jpg?w=300)</div>via [flickr.com](http://www.flickr.com/photos/tenderfeelings/5251571461/sizes/l/in/set-72157625451158825/)</div>Had a great time. Love the Barcamp format. Looking forward to more sharing.
 
 </div>

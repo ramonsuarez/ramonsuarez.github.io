@@ -16,7 +16,7 @@ tag:
     - twitter
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> ### 7 tricks for your corporate twitter
+> ### 7 tricks for your corporate twitter
 > 
 > [![Dmitri Joukov](http://mt41.turbomilk.com/mt-static/support/assets_c/userpics/joukov-50x50.png)](/about/joukov/)<span>Author: [Dmitri Joukov](/about/joukov/)  
 > 27 November 2009</span>
@@ -73,6 +73,6 @@ post_format: []
 > 
 > Do not forget [to sign up](https://twitter.com/signup) for twitter and subscribe to us at @[turbomilkcom](http://twitter.com/turbomilkcom). That???s our twitter in English.
 
-<div class="posterous_quote_citation">via [turbomilk.com](http://turbomilk.com/blog/cookbook/masterclass/twitter/)</div>Simple, straight forward, right.
+via [turbomilk.com](http://turbomilk.com/blog/cookbook/masterclass/twitter/)</div>Simple, straight forward, right.
 
 </div>

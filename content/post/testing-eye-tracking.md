@@ -16,7 +16,7 @@ tag:
     - webdesign
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry"><div class="p_embed p_image_embed">![Media_httpwwwcleverwo_tprbh](http://ramonsuarez.files.wordpress.com/2011/03/media_httpwwwcleverwo_tprbh-scaled500.jpg?w=300)</div><div class="posterous_quote_citation">via [cleverwood.be](http://www.cleverwood.be/blog/2011/03/eye-tracking-friday-session/)</div><div class="posterous_quote_citation">via [youtube.com](http://www.youtube.com/user/CleverwoodBelgium#p/a/u/0/lqXEpy0MIIg)</div>I was lucky enough to be the testing subject for the eye-tracking experiment 🙂
+<div class="p_embed p_image_embed">![Media_httpwwwcleverwo_tprbh](http://ramonsuarez.files.wordpress.com/2011/03/media_httpwwwcleverwo_tprbh-scaled500.jpg?w=300)</div>via [cleverwood.be](http://www.cleverwood.be/blog/2011/03/eye-tracking-friday-session/)</div>via [youtube.com](http://www.youtube.com/user/CleverwoodBelgium#p/a/u/0/lqXEpy0MIIg)</div>I was lucky enough to be the testing subject for the eye-tracking experiment 🙂
 
 Arm is still out of business, so can’t do much typing.
 

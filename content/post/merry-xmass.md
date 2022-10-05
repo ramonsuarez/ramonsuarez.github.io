@@ -16,6 +16,6 @@ tag:
     - videos
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry"><div class="posterous_quote_citation">via [xtranormal.com](http://www.xtranormal.com/watch/8120757/)</div>**[Buy THE gift for that special someone in your life](http://coworking.betagroup.be) 😉**
+via [xtranormal.com](http://www.xtranormal.com/watch/8120757/)</div>**[Buy THE gift for that special someone in your life](http://coworking.betagroup.be) 😉**
 
 </div>

@@ -82,4 +82,4 @@ post_format: []
 > 
 > *We’d like to thank all those at [Dropbox ](http://www.dropbox.com)who helped us prepare this post.*
 
-<div class="posterous_quote_citation">via [mashable.com](http://mashable.com/2011/01/15/dropbox-tips/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29)</div><div class="posterous_quote_citation">I just upped my subscription to 50Gb. Can’t live without [Dropbox](https://www.dropbox.com/referrals/NTI4MjAxOTk "Get 250Mb free extra storage with this Dropbox link").</div>
+via [mashable.com](http://mashable.com/2011/01/15/dropbox-tips/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29)</div>I just upped my subscription to 50Gb. Can’t live without [Dropbox](https://www.dropbox.com/referrals/NTI4MjAxOTk "Get 250Mb free extra storage with this Dropbox link").</div>

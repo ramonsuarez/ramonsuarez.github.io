@@ -17,7 +17,7 @@ tag:
     - spain
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> ## [Por la Red sostenible](http://www.benitocastro.com/por-la-red-sostenible)
+> ## [Por la Red sostenible](http://www.benitocastro.com/por-la-red-sostenible)
 > 
 > <div class="post_body"><div class="posterousGalleryMainDiv">![](http://ramonsuarez.files.wordpress.com/2010/01/sosred1.png?w=300)</div>Consideramos imprescindible la retirada de la disposici??n final primera de la Ley de Econom??a Sostenible por los siguientes motivos:
 > 
@@ -70,4 +70,4 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [benitocastro.com](http://www.benitocastro.com/por-la-red-sostenible)</div></div>
+via [benitocastro.com](http://www.benitocastro.com/por-la-red-sostenible)</div></div>

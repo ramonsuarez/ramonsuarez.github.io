@@ -12,7 +12,7 @@ category:
 tag: []
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> <div>### World Map of Social Networks
+> <div>### World Map of Social Networks
 > 
 > A brand new map of the world, showing the most popular social networks by country, according to [Alexa](http://www.alexa.com/) &amp; [Google Trends for Websites](http://trends.google.com/websites) traffic data\* (December 2010).  
 > I???ve decided to drop Many Eyes and redesign the map in order to give each social network a fixed colour to ease comparability over time. Below you will find an updated version plus an infographic poster of all changes since June 2009.
@@ -160,6 +160,6 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [vincos.it](http://www.vincos.it/world-map-of-social-networks/)</div>Facebook is every year a couple steps closer to become the **social network monopoly**.
+via [vincos.it](http://www.vincos.it/world-map-of-social-networks/)</div>Facebook is every year a couple steps closer to become the **social network monopoly**.
 
 </div>

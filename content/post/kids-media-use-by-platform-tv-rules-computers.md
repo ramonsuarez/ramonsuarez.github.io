@@ -22,7 +22,7 @@ tag:
     - tv
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> # The Shocking Media Habits Of 8-18 Year Olds
+> # The Shocking Media Habits Of 8-18 Year Olds
 > 
 > <div class="slide-module" style="display:block;"><div class="container">[??](http://www.businessinsider.com/the-shocking-media-habits-of-8-18-year-olds-2010-7/more-media-all-the-time-now-105-hours-a-day-2)<div class="count">1/45</div>[??](http://www.businessinsider.com/the-shocking-media-habits-of-8-18-year-olds-2010-7)
 > 
@@ -38,7 +38,7 @@ post_format: []
 > 
 > </div></div>
 
-<div class="posterous_quote_citation">via [businessinsider.com](http://www.businessinsider.com/the-shocking-media-habits-of-8-18-year-olds-2010-7#tv-still-rules-1)</div>If you see the full deck you will find that more minutes of TV time is watched out of the TV broadcasting itself, on computers, ipods, etc. TV still rules but there’s a silverback growing in its backyard.
+via [businessinsider.com](http://www.businessinsider.com/the-shocking-media-habits-of-8-18-year-olds-2010-7#tv-still-rules-1)</div>If you see the full deck you will find that more minutes of TV time is watched out of the TV broadcasting itself, on computers, ipods, etc. TV still rules but there’s a silverback growing in its backyard.
 
 Get the [full report: Generation M2: Media in the Lives of 8- to 18-Year-Olds](http://www.kff.org/entmedia/upload/8010.pdf) and share your understanding of it and your ideas.
 

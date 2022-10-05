@@ -17,7 +17,7 @@ tag:
     - startups
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> **Venue:**
+> **Venue:**
 > 
 > ULB Campus Solbosh
 > 
@@ -45,4 +45,4 @@ post_format: []
 > 
 > 8:30 PM – Networking: drinks and snacks are offered by our sponsors.
 
-<div class="posterous_quote_citation">via [betagroup25.eventbrite.com](http://betagroup25.eventbrite.com/)</div></div>
+via [betagroup25.eventbrite.com](http://betagroup25.eventbrite.com/)</div></div>

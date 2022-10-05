@@ -27,7 +27,7 @@ enclosure:
     - "http://techbrew.be/assets/casts/tech-brew-004-ramon-suarez-from-founder-institute.mp3\n20342700\naudio/mpeg\n"
     - "http://techbrew.be/assets/casts/tech-brew-004-ramon-suarez-from-founder-institute.mp3\n20342700\naudio/mpeg\n"
 ---
-<div class="posterous_bookmarklet_entry">> ## [Tech Brew Episode 004 ??? Ram??n Su??rez from the Founder Institute](http://techbrew.be/2011/09/tech-brew-episode-004-ramon-suarez-from-the-founder-institute/ "Tech Brew Episode 004 ??? Ram??n Su??rez from the Founder Institute")
+> ## [Tech Brew Episode 004 ??? Ram??n Su??rez from the Founder Institute](http://techbrew.be/2011/09/tech-brew-episode-004-ramon-suarez-from-the-founder-institute/ "Tech Brew Episode 004 ??? Ram??n Su??rez from the Founder Institute")
 > 
 > <div class="powerpress_player"></div>Podcast: [Play in new window](http://techbrew.be/assets/casts/tech-brew-004-ramon-suarez-from-founder-institute.mp3 "Play in new window") | [Download](http://techbrew.be/assets/casts/tech-brew-004-ramon-suarez-from-founder-institute.mp3 "Download")
 > 
@@ -43,6 +43,6 @@ enclosure:
 > 
 > </div></div></div>
 
-<div class="posterous_quote_citation">via [techbrew.be](http://techbrew.be/)</div>Always a pleasure 🙂
+via [techbrew.be](http://techbrew.be/)</div>Always a pleasure 🙂
 
 </div>

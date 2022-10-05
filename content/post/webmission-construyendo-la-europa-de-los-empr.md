@@ -17,7 +17,7 @@ tag:
     - webmission
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> <div><span>Por **invitado** el 4 Diciembre 2009 </span>![Webmission_emprendedores_belgas_EBE09](http://loogic.com/files/2009/12/Webmission_emprendedores_belgas_EBE09.jpg)
+> <div><span>Por **invitado** el 4 Diciembre 2009 </span>![Webmission_emprendedores_belgas_EBE09](http://loogic.com/files/2009/12/Webmission_emprendedores_belgas_EBE09.jpg)
 > 
 > Artículo realizado por [Ramón Suárez](http://twitter.com/ramonsuarez) promotor de la [Webmission](http://wiki.webmission.be/ebe09) en EBE09.
 > 
@@ -40,7 +40,7 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [loogic.com](http://loogic.com/construyendo-la-europa-de-los-emprendedores-en-ebe09/)</div>Gracias a Javier Martín por darme la oportunidad de hablar de la Webmission en [Loogic.com](http://www.loogic.com).
+via [loogic.com](http://loogic.com/construyendo-la-europa-de-los-emprendedores-en-ebe09/)</div>Gracias a Javier Martín por darme la oportunidad de hablar de la Webmission en [Loogic.com](http://www.loogic.com).
 
 Y más gracias todavía a [Benito](http://www.benitocastro.com) por su comentario. Así dan más ganas de hacer cosas:
 

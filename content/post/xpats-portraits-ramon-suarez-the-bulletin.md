@@ -15,7 +15,7 @@ tag:
     - startupweekendbrussels
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> <div>### Ramon Suarez
+> <div>### Ramon Suarez
 > 
 >  ![portrait picture](http://www.xpats.com/polopoly_fs/1.183810%21image/3138788231.JPG_gen/derivatives/teaser/3138788231.JPG)
 > 
@@ -41,6 +41,6 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [xpats.com](http://www.xpats.com/lifestyle/portraits/7.191/1.183810)</div>Sometimes quoting can be quite creative 😉
+via [xpats.com](http://www.xpats.com/lifestyle/portraits/7.191/1.183810)</div>Sometimes quoting can be quite creative 😉
 
 </div>

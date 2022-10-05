@@ -18,7 +18,7 @@ tag:
     - stats
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> <div>![](http://9.mshcdn.com/wp-content/uploads/2011/03/baby_computer.jpg)Nearly 80% of children between the ages of 0 and 5 use the Internet on at least a weekly basis in the United States, according to a report released Monday from education non-profit organizations Joan Ganz Cooney Center and Sesame Workshop.
+> <div>![](http://9.mshcdn.com/wp-content/uploads/2011/03/baby_computer.jpg)Nearly 80% of children between the ages of 0 and 5 use the Internet on at least a weekly basis in the United States, according to a report released Monday from education non-profit organizations Joan Ganz Cooney Center and Sesame Workshop.
 > 
 > The [report](http://joanganzcooneycenter.org/Reports-28.html), which was assembled using data from seven recent studies, indicates that young children are increasingly consuming all types of digital media, in many cases consuming more than one type at once.
 > 
@@ -40,6 +40,6 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [mashable.com](http://mashable.com/2011/03/14/children-internet-stats/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29)</div>Not only the data about child internet use is impressive, TV has a stronger hold on them that before. Will it last as they grow up or just drive them to more video consumption online?
+via [mashable.com](http://mashable.com/2011/03/14/children-internet-stats/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29)</div>Not only the data about child internet use is impressive, TV has a stronger hold on them that before. Will it last as they grow up or just drive them to more video consumption online?
 
 </div>

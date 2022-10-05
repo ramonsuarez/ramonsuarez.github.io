@@ -19,7 +19,7 @@ tag:
     - vc
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> 1. ## Associations
+> 1. ## Associations
 >   
 >   
 >   - [ABE – Brussels](http://www.abe-bao.be/ "ABE - Brussels")
@@ -197,7 +197,7 @@ post_format: []
 >   - [Wallonie grants](http://www.aidesdirectes.be/ "Wallonie grants")
 >   - [WeStartup](http://www.westartup.eu)
 
-<div class="posterous_quote_citation">via [betagroup.be](http://www.betagroup.be/)</div>Thanks to [Jean Derely](http://be.linkedin.com/in/jderely) for improving this list on and on.
+via [betagroup.be](http://www.betagroup.be/)</div>Thanks to [Jean Derely](http://be.linkedin.com/in/jderely) for improving this list on and on.
 
 In case you do not know about it, the [Beta Group ](http://www.betagroup.be/) is the largest Internet &amp; Tech entrepreneurship networking event in Belgium, with about 350 attendees in each of its monthly meetups. The event consists of a pitch slam with six startups showcasing their products, short requests and announcements from the audience (the *live tweets*), and lots of networking over free warm beer. A must.
 

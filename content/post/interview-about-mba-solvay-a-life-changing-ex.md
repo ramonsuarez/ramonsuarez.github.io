@@ -18,4 +18,4 @@ tag:
     - videos
 post_format: []
 ---
-<div class="posterous_quote_citation">via [solvay.edu](http://www.solvay.edu/mba)</div><div class="posterous_bookmarklet_entry"><div class="posterous_quote_citation">via [solvay.edu](http://www.solvay.edu/mba)</div></div><div class="posterous_quote_citation">via [solvay.edu](http://www.solvay.edu/mba)</div><div class="posterous_quote_citation">via [solvay.edu](http://www.solvay.edu/mba)</div><div class="posterous_quote_citation">via [solvay.edu](http://www.solvay.edu/mba)</div><div class="posterous_quote_citation">via [solvay.edu](http://www.solvay.edu/mba)</div><div class="posterous_quote_citation">via [solvay.edu](http://www.solvay.edu/mba)</div><div></div>
+via [solvay.edu](http://www.solvay.edu/mba)</div>via [solvay.edu](http://www.solvay.edu/mba)</div></div>via [solvay.edu](http://www.solvay.edu/mba)</div>via [solvay.edu](http://www.solvay.edu/mba)</div>via [solvay.edu](http://www.solvay.edu/mba)</div>via [solvay.edu](http://www.solvay.edu/mba)</div>via [solvay.edu](http://www.solvay.edu/mba)</div><div></div>

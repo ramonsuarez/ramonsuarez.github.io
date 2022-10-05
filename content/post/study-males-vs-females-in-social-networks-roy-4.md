@@ -17,7 +17,7 @@ tag:
     - uk
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> - **84%** (16 out of 19) of the sites have more female than male users.
+> - **84%** (16 out of 19) of the sites have more female than male users.
 > - **The social news sites Digg, Reddit and Slashdot** have significantly more male users than female. The standout here is Slashdot which takes male geekdom to new heights with 82% male users. ![:)](http://royal.pingdom.com/wp-includes/images/smilies/icon_smile.gif)
 > - If we hadn’t included the three social news sites, all of the sites would have had more females than males.
 > - **Twitter and Facebook** have almost the same male-female ratio; Twitter with 59% female users and Facebook with 57%.
@@ -32,6 +32,6 @@ post_format: []
 > 
 > Why do you think certain sites attract more males than females and vice versa? We’d love to hear what you think, so please let us know in the comments.
 
-<div class="posterous_quote_citation">via [royal.pingdom.com](http://royal.pingdom.com/2009/11/27/study-males-vs-females-in-social-networks/)</div>Only good for the US but quite interesting. Age distribution by gender would be very helpful to get a better picture.
+via [royal.pingdom.com](http://royal.pingdom.com/2009/11/27/study-males-vs-females-in-social-networks/)</div>Only good for the US but quite interesting. Age distribution by gender would be very helpful to get a better picture.
 
 </div>

@@ -17,7 +17,7 @@ tag:
     - stats
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> <div>## Leads for Less with Social Media
+> <div>## Leads for Less with Social Media
 > 
 > </div><div>#### FEBRUARY 25, 2010
 > 
@@ -43,6 +43,6 @@ post_format: []
 > 
 > Unsurprisingly, for business-to-business firms, LinkedIn was most effective for customer acquisition. Business-to-consumer companies did better on each of the other sites, with the best results coming from Facebook, where nearly seven in 10 had found a new customer.
 
-<div class="posterous_quote_citation">via [emarketer.com](http://www.emarketer.com/mobile/article_m.aspx?R=1007534)</div>I wonder what would be the result of the stats if what was measured was conversion and engagement from those leads. What’s your bet on it?
+via [emarketer.com](http://www.emarketer.com/mobile/article_m.aspx?R=1007534)</div>I wonder what would be the result of the stats if what was measured was conversion and engagement from those leads. What’s your bet on it?
 
 </div>

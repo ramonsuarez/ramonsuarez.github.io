@@ -13,7 +13,7 @@ tag:
     - webdesign
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> ## Scrollbars are used to assess page length and to indicate content below the fold
+> ## Scrollbars are used to assess page length and to indicate content below the fold
 > 
 > One of the most common things we see on a heatmap is a strong hotspot over the scrollbar. The scrollbar is used to assess the page length. Users expect to have to scroll. The heatmap below shows this.
 > 
@@ -24,6 +24,6 @@ post_format: []
 > 
 > <div class="fullsize">![Bristol Airport eyetracking showing how users explore the page if there is less above the page fold](http://www.cxpartners.co.uk/wp-content/uploads/brisair.png "Bristol Airport eyetracking showing how users explore the page if there is less above the page fold")</div><div class="fullsize">The image on the left has more crammed in above the fold, and the image on the right has less.</div>
 
-<div class="posterous_quote_citation">via [cxpartners.co.uk](http://www.cxpartners.co.uk/thoughts/the_myth_of_the_page_fold_evidence_from_user_testing.htm)</div>A very interesting article based on internet users’ eyetracking research. More than the death of a myth, we are speaking of an **evolution in user’s behavior**. Years of **Internet evangelization and education** result in users that know better how to interact with their browsers.
+via [cxpartners.co.uk](http://www.cxpartners.co.uk/thoughts/the_myth_of_the_page_fold_evidence_from_user_testing.htm)</div>A very interesting article based on internet users’ eyetracking research. More than the death of a myth, we are speaking of an **evolution in user’s behavior**. Years of **Internet evangelization and education** result in users that know better how to interact with their browsers.
 
 </div>

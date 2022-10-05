@@ -17,7 +17,7 @@ tag:
     - startups
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> <div> <span>Por **Ram??n Su??rez** el 11 Marzo 2010 <span> Twitter<span>1 clicks</span></span>[![](http://recomendar.com/images/rc.gif)](http://recomendar.com/)</span><span>1</span>
+> <div> <span>Por **Ram??n Su??rez** el 11 Marzo 2010 <span> Twitter<span>1 clicks</span></span>[![](http://recomendar.com/images/rc.gif)](http://recomendar.com/)</span><span>1</span>
 > 
 > [![](http://plugg.eu/userfiles/images/banner468.gif)](http://plugg.eu)
 > 
@@ -33,6 +33,6 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [loogic.com](http://loogic.com/ganadores-plugg-2010-fitsme-razwar/)</div>I forgot to add this blogpost I published in Loogic.com about the winners of this year’s Plugg: Fits.me and Raz\*War. Already looking forward to Plugg 2011.
+via [loogic.com](http://loogic.com/ganadores-plugg-2010-fitsme-razwar/)</div>I forgot to add this blogpost I published in Loogic.com about the winners of this year’s Plugg: Fits.me and Raz\*War. Already looking forward to Plugg 2011.
 
 </div>

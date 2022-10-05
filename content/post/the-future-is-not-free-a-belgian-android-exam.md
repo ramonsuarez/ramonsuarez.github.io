@@ -16,9 +16,9 @@ tag:
     - internet
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> there’s plenty of other information out there that has chosen to run in the opposite direction from Free
+> there’s plenty of other information out there that has chosen to run in the opposite direction from Free
 
-<div class="posterous_quote_citation">via [newyorker.com](http://www.newyorker.com/arts/critics/books/2009/07/06/090706crbo_books_gladwell?currentPage=3)</div>Malcolm Gladwell has pointed out in The New Yorker something that a lot of people have chosen to ignore: **storage cost is not the only cost** and even if it was, the numbers needed to make some business run on top of *free* (or *gratis)* are so high that they **end up meaning millions**.
+via [newyorker.com](http://www.newyorker.com/arts/critics/books/2009/07/06/090706crbo_books_gladwell?currentPage=3)</div>Malcolm Gladwell has pointed out in The New Yorker something that a lot of people have chosen to ignore: **storage cost is not the only cost** and even if it was, the numbers needed to make some business run on top of *free* (or *gratis)* are so high that they **end up meaning millions**.
 
 **[*Free*](http://www.wired.com/techbiz/it/magazine/16-03/ff_free?currentPage=all "Chris Anderson's "Free! Why $0.00 Is the Future of Business" article in Wired Magazine") is not the Holy Grail of the Internet**. To have a sustainable ecosystem we need to have sources of revenue that do not involve having half the planet using our service. Smaller companies tailoring a product to a smaller audience must charge to sustain their business… and that is good!
 

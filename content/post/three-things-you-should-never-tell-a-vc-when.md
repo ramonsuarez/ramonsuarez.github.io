@@ -16,9 +16,9 @@ tag:
     - videos
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> ### Three things you should never tell a VC when fundraising
+> ### Three things you should never tell a VC when fundraising
 > 
-> <div class="entry-content"><div class="entry-body">Disclosure is a good thing. Early disclosure of thorny issues is a very good thing (such as, “I am embroiled in a legal dispute with my co-founder over ownership of the company and here is why”). That does NOT mean, however, that you should be totally transparent during fundraising.
+> Disclosure is a good thing. Early disclosure of thorny issues is a very good thing (such as, “I am embroiled in a legal dispute with my co-founder over ownership of the company and here is why”). That does NOT mean, however, that you should be totally transparent during fundraising.
 > 
 > In particular, there are three things you should be <span style="text-decoration:underline;">extremely selective in disclosing</span>:
 > 
@@ -40,7 +40,7 @@ post_format: []
 > 
 > </div></div>
 
-<div class="posterous_quote_citation">via [freddestin.com](http://www.freddestin.com/blog/2009/11/three-things-you-should-never-tell-a-vc-when-fundraising.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2FFredDestin+%28Fred+Destin%29&utm_content=Google+Reader)</div>A great peace of advice from a seasoned venture capitalist. Read in full.
+via [freddestin.com](http://www.freddestin.com/blog/2009/11/three-things-you-should-never-tell-a-vc-when-fundraising.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2FFredDestin+%28Fred+Destin%29&utm_content=Google+Reader)</div>A great peace of advice from a seasoned venture capitalist. Read in full.
 
 Fred Destin is a VC I follow since I saw his brilliant participation in this roundtable at [Plugg in Brussels: ](http://www.plugg.eu)
 

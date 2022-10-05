@@ -17,7 +17,7 @@ tag:
     - twitter
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> Aced, Cristina (freelancer) @[blogocorp](http://twitter.com/blogocorp)  
+> Aced, Cristina (freelancer) @[blogocorp](http://twitter.com/blogocorp)  
 >  Aguilera, Rafael (Radio Euskadi) @[rafa\_aguilera](http://twitter.com/rafa_aguilera)  
 >  Alday, Ainhoa (P??blico) @[ainhoaalday](http://twitter.com/ainhoaalday)  
 >  Alc??zar, Mikel (Radio Zaragoza) @[mikelalcazar](http://twitter.com/mikelalcazar)  

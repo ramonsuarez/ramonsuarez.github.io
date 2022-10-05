@@ -18,7 +18,7 @@ tag:
     - tools
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> [Google Webmaster Tools](http://www.google.com/webmasters/tools/)
+> [Google Webmaster Tools](http://www.google.com/webmasters/tools/)
 > 
 > [Google Analytics](http://www.google.com/analytics/)
 > 
@@ -38,6 +38,6 @@ post_format: []
 > 
 > [Google Ad Planner](https://www.google.com/adplanner/)
 
-<div class="posterous_quote_citation">via [wwwhatsnew.com](http://wwwhatsnew.com/2009/12/08/10-herramientas-seo-hechas-por-google/)</div>An easy to copy and share list for friends, colleagues and clients.
+via [wwwhatsnew.com](http://wwwhatsnew.com/2009/12/08/10-herramientas-seo-hechas-por-google/)</div>An easy to copy and share list for friends, colleagues and clients.
 
 </div>

@@ -19,7 +19,7 @@ tag:
     - startups
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> <div>**[Sclipo](http://loogic.com/dos-startups-espanolas-en-plugg#Sclipo) y [Shootools](http://loogic.com/dos-startups-espanolas-en-plugg#Shotools)** son las dos ***startup* españolas elegidas para presentar en [Plugg](http://plugg.eu "Plugg es la conferencia para emprendedores web y mobil europeos que se desarrolla en Bruselas")**, el evento para i[niciadores web y mobil europeos en Bruselas](http://loogic.com/emprendedores-web-europeos-en-bruselas-plugg/ "Emprendedores Web europeos en Bruselas: Plugg"). De entre 122 proyectos presentadosde , se han elegido [20](http://plugg.eu/program/start-ups-rally/the-20-finalists-for-plugg-2010 "20 startups finalistas Plugg 2010") que dispondrán de tan solo de **2 minutos** en el escenario **para convencer** al jurado y al público de que merecen pasar a la gran final. Es un **gran reto para los iniciadores**, que han de sintetizar al máximo su proyecto y presentarlo de forma atractiva y convincente ante un público heterogéneo y exigente.
+> <div>**[Sclipo](http://loogic.com/dos-startups-espanolas-en-plugg#Sclipo) y [Shootools](http://loogic.com/dos-startups-espanolas-en-plugg#Shotools)** son las dos ***startup* españolas elegidas para presentar en [Plugg](http://plugg.eu "Plugg es la conferencia para emprendedores web y mobil europeos que se desarrolla en Bruselas")**, el evento para i[niciadores web y mobil europeos en Bruselas](http://loogic.com/emprendedores-web-europeos-en-bruselas-plugg/ "Emprendedores Web europeos en Bruselas: Plugg"). De entre 122 proyectos presentadosde , se han elegido [20](http://plugg.eu/program/start-ups-rally/the-20-finalists-for-plugg-2010 "20 startups finalistas Plugg 2010") que dispondrán de tan solo de **2 minutos** en el escenario **para convencer** al jurado y al público de que merecen pasar a la gran final. Es un **gran reto para los iniciadores**, que han de sintetizar al máximo su proyecto y presentarlo de forma atractiva y convincente ante un público heterogéneo y exigente.
 > 
 > Éstas son las empresas seleccionadas:
 > 
@@ -93,6 +93,6 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [loogic.com](http://loogic.com/dos-startups-espanolas-en-plugg/)</div>As Loogic’s correspondant to **[Plugg](http://plugg.eu)**, I am writing a series of articles on the entrepreneurial event to take place in Brussels. This article presents the **20 finalists of the startup competition that will be presenting on stage.** Within the wide European country selection, ****two of the companies are Spanish (Sclipo &amp; SHOTools)****.
+via [loogic.com](http://loogic.com/dos-startups-espanolas-en-plugg/)</div>As Loogic’s correspondant to **[Plugg](http://plugg.eu)**, I am writing a series of articles on the entrepreneurial event to take place in Brussels. This article presents the **20 finalists of the startup competition that will be presenting on stage.** Within the wide European country selection, ****two of the companies are Spanish (Sclipo &amp; SHOTools)****.
 
 </div>

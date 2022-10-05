@@ -18,9 +18,9 @@ tag:
     - vc
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> ### LIFT10: Workshop on Hacking Venture Capital
+> ### LIFT10: Workshop on Hacking Venture Capital
 > 
-> <div class="entry-content"><div class="entry-body">This morning at the excellent LIFT Conference I gave a two hour workshop on “[Hacking Venture Capital](http://liftconference.com/fr/lift10/workshops/hacking-venture-capital)” designed to give entrepreneurs a hands-on experience of (a) pitching and (b) negotiating with detailed debrief and tricks of the trade. As promised I wanted to share the material and presentations, with my thanks to @venturehacks for a good part of the content.
+> This morning at the excellent LIFT Conference I gave a two hour workshop on “[Hacking Venture Capital](http://liftconference.com/fr/lift10/workshops/hacking-venture-capital)” designed to give entrepreneurs a hands-on experience of (a) pitching and (b) negotiating with detailed debrief and tricks of the trade. As promised I wanted to share the material and presentations, with my thanks to @venturehacks for a good part of the content.
 > 
 > First off the two prezis and then the case study material (i used ERPLY as inspiration).
 > 
@@ -44,6 +44,6 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [freddestin.com](http://www.freddestin.com/blog/2010/05/lift10-workshop-on-hacking-venture-capital.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2FFredDestin+%28Fred+Destin%29)</div>I only wish there was a video of this presentation.
+via [freddestin.com](http://www.freddestin.com/blog/2010/05/lift10-workshop-on-hacking-venture-capital.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2FFredDestin+%28Fred+Destin%29)</div>I only wish there was a video of this presentation.
 
 </div>

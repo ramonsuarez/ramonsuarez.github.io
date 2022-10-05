@@ -14,7 +14,7 @@ tag:
     - english
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> ## What is coworking?
+> ## What is coworking?
 > 
 > <div class="bubble whatisit">Just because you work independently doesn’t mean you have to work alone.
 > 
@@ -30,4 +30,4 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [mapleleafbranch.org](http://www.mapleleafbranch.org/)</div><div></div></div>
+via [mapleleafbranch.org](http://www.mapleleafbranch.org/)</div><div></div></div>

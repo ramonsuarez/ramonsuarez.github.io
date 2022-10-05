@@ -18,7 +18,7 @@ tag:
     - openhouse
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> <td class="data">Dear friends, I want to invite you to discover the new BetaGroup Coworking space in Brussels during our open house tomorrow (Thursday) from 9 to 18h30. Bring along your computer if you want to get some work done or just come for a tour and a drink: [<span>http://coworking.betagroup</span><span class="><span><a href=">.be/</span>](http://coworking.betagroup.be/)
+> <td class="data">Dear friends, I want to invite you to discover the new BetaGroup Coworking space in Brussels during our open house tomorrow (Thursday) from 9 to 18h30. Bring along your computer if you want to get some work done or just come for a tour and a drink: [<span>http://coworking.betagroup</span><span class="><span><a href=">.be/</span>](http://coworking.betagroup.be/)
 > 
 > The address: 4 rue des P??res Blancs, 1040, Etterbeck, Brussels, Belgium.
 > 
@@ -32,6 +32,6 @@ post_format: []
 > 
 > </td>
 
-<div class="posterous_quote_citation">via [facebook.com](http://www.facebook.com/event.php?eid=160040477372169&num_event_invites=0)</div>See you all at the [BetaGroup Coworking in Brussels](http://coworking.betagroup.be)!
+via [facebook.com](http://www.facebook.com/event.php?eid=160040477372169&num_event_invites=0)</div>See you all at the [BetaGroup Coworking in Brussels](http://coworking.betagroup.be)!
 
 </div>

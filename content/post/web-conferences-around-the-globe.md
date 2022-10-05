@@ -18,7 +18,7 @@ tag:
     - networking
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> 1. [General Web Design Conferences](http://www.smashingmagazine.com/2009/10/21/web-conferences-roundup-events-from-around-the-globe/#general)
+> 1. [General Web Design Conferences](http://www.smashingmagazine.com/2009/10/21/web-conferences-roundup-events-from-around-the-globe/#general)
 > 2. [UI, UX, &amp; IA Conferences](http://www.smashingmagazine.com/2009/10/21/web-conferences-roundup-events-from-around-the-globe/#ui)
 > 3. [JavaScript &amp; Ajax Conferences](http://www.smashingmagazine.com/2009/10/21/web-conferences-roundup-events-from-around-the-globe/#js)
 > 4. [Graphic Design Conferences](http://www.smashingmagazine.com/2009/10/21/web-conferences-roundup-events-from-around-the-globe/#graphic)
@@ -30,6 +30,6 @@ post_format: []
 > 10. [Marketing &amp; Social Media Conferences](http://www.smashingmagazine.com/2009/10/21/web-conferences-roundup-events-from-around-the-globe/#marketing)
 > 11. [Technology Conferences](http://www.smashingmagazine.com/2009/10/21/web-conferences-roundup-events-from-around-the-globe/#tech)
 
-<div class="posterous_quote_citation">via [smashingmagazine.com](http://www.smashingmagazine.com/2009/10/21/web-conferences-roundup-events-from-around-the-globe/)</div>An inspiring and extensive list of web events around the world. Just added [Evento Blog España](http://www.eventoblog.com) and [Plugg](http://plugg.eu/) in the comments.
+via [smashingmagazine.com](http://www.smashingmagazine.com/2009/10/21/web-conferences-roundup-events-from-around-the-globe/)</div>An inspiring and extensive list of web events around the world. Just added [Evento Blog España](http://www.eventoblog.com) and [Plugg](http://plugg.eu/) in the comments.
 
 </div>

@@ -18,7 +18,7 @@ tag:
     - startups
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> <div> <span style="float:left;">Por **Ram??n Su??rez** el 12 Noviembre 2010 [Editar](http://loogic.com/wp-admin/post.php?action=edit&post=13453 "Editar entrada")</span>[<span><span style="cursor:pointer;"><span>Share</span></span><span></span><span><span> </span></span></span>](http://www.facebook.com/sharer.php?u=http%3A%2F%2Floogic.com%2F16-startups-en-la-competicion-de-leweb-ninguna-espanola%2F&t=16%20startups%20en%20la%20competici%C3%B3n%20de%20LeWeb%3A%20ninguna%20espa%C3%B1ola%20Loogic.com&src=sp)<span>[ Recomendar](http://loogic.com/16-startups-en-la-competicion-de-leweb-ninguna-espanola# "Enviar a Recomendar.com")[ Facebook](http://loogic.com/16-startups-en-la-competicion-de-leweb-ninguna-espanola# "Enviar a Facebook")[ Twitter](http://loogic.com/16-startups-en-la-competicion-de-leweb-ninguna-espanola# "Enviar a twitter")<span>1 clicks</span></span>[![](http://recomendar.com/images/rc.gif)](http://recomendar.com/)
+> <div> <span style="float:left;">Por **Ram??n Su??rez** el 12 Noviembre 2010 [Editar](http://loogic.com/wp-admin/post.php?action=edit&post=13453 "Editar entrada")</span>[<span><span style="cursor:pointer;"><span>Share</span></span><span></span><span><span> </span></span></span>](http://www.facebook.com/sharer.php?u=http%3A%2F%2Floogic.com%2F16-startups-en-la-competicion-de-leweb-ninguna-espanola%2F&t=16%20startups%20en%20la%20competici%C3%B3n%20de%20LeWeb%3A%20ninguna%20espa%C3%B1ola%20Loogic.com&src=sp)<span>[ Recomendar](http://loogic.com/16-startups-en-la-competicion-de-leweb-ninguna-espanola# "Enviar a Recomendar.com")[ Facebook](http://loogic.com/16-startups-en-la-competicion-de-leweb-ninguna-espanola# "Enviar a Facebook")[ Twitter](http://loogic.com/16-startups-en-la-competicion-de-leweb-ninguna-espanola# "Enviar a twitter")<span>1 clicks</span></span>[![](http://recomendar.com/images/rc.gif)](http://recomendar.com/)
 > 
 > [<span>1</span>](http://recomendar.com/)
 > 
@@ -48,6 +48,6 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [loogic.com](http://loogic.com/16-startups-en-la-competicion-de-leweb-ninguna-espanola/)</div>16 startups at #LeWeb10, not a single Spanish one. I wish there were more (and also Belgian and from other countries).
+via [loogic.com](http://loogic.com/16-startups-en-la-competicion-de-leweb-ninguna-espanola/)</div>16 startups at #LeWeb10, not a single Spanish one. I wish there were more (and also Belgian and from other countries).
 
 </div>

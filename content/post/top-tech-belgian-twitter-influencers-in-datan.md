@@ -20,7 +20,7 @@ tag:
     - twitter
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> 1\) **Dries Buytaert**, CTO Acquia, @dries, **Klout score 65**, following 7, followers 12.105.  
+> 1\) **Dries Buytaert**, CTO Acquia, @dries, **Klout score 65**, following 7, followers 12.105.  
 > 2\) **Vincent Van Quickenborne**, Ministre d??missionnaire des Entreprises et de la Simplification, @vincentvq, **Klout score 65**, following 516, followers 16.813.  
 > 3\) **Clo Willaerts**, business unit manager chez Sanoma Belgium, @bnox, **Klout score 65**, following 4.314, followers 8.994.  
 > 4\) **Bart De Waele**, CEO Netlash-bSeen, @netlash, **Klout score 64**, following 4.588, followers 5.795.  
@@ -53,7 +53,7 @@ post_format: []
 > 29\) **Carmelo Zaccone**, ??vang??liste en technologie ?? l’AWT, @carmelo, **Klout score 48**, following 588, followers 665.  
 > 30\) **Bruno Peeters**, blogger et project manager chez Dexia, @bvlg, **Klout score 47**, following 681, followers 1.428.
 
-<div class="posterous_quote_citation">via [datanews.rnews.be](http://datanews.rnews.be/fr/ict/actualite/blog/qui-devez-vous-suivre-dans-la-twittosphere-belge/article-1195010830793.htm)</div>Surprised and flattered to find my self in n?? 10 🙂
+via [datanews.rnews.be](http://datanews.rnews.be/fr/ict/actualite/blog/qui-devez-vous-suivre-dans-la-twittosphere-belge/article-1195010830793.htm)</div>Surprised and flattered to find my self in n?? 10 🙂
 
 If you want to easily follow their tweets, I’ve created a [list with the 30 top tech Belgian Twitter influencers](http://bit.ly/kV6VzL).
 

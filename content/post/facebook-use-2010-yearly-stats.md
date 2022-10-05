@@ -19,7 +19,7 @@ tag:
     - use
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> Facebook users uploaded more than 2.7 million photographs, shared 1 million links and “liked” 7.6 million pages every 20 minutes in 2010, according to the company.
+> Facebook users uploaded more than 2.7 million photographs, shared 1 million links and “liked” 7.6 million pages every 20 minutes in 2010, according to the company.
 > 
 > Among other data the social network is releasing: Lady Gaga was the most-liked celebrity on <span class="blippr-nobr">Facebook<span class="blippr-nobr">[<span> (</span>![Facebook](http://cdn.blippr.com/images/inline-face_05.png?1265851550)<span>)</span>](http://www.blippr.com/apps/336650-Facebook)</span></span> with 24.7 million likes, beating out Eminem with 23.7 million and Barack Obama, who had 17.2 million.
 > 
@@ -40,7 +40,7 @@ post_format: []
 > 
 > [This video](http://www.facebook.com/video/video.php?v=10150360749935484&oid=20531316728&comments%20target=) also details some of the hottest topics on Facebook, including the Chilean mine collapse and the new acronym HMU.
 
-<div class="posterous_quote_citation">via [mashable.com](http://mashable.com/2010/12/31/facebook-by-the-numbers-in-2010-stats/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29)</div>The numbers are so big I could not help myself to get a look at them “**by the billion**“, **translating these 20 minute data into a year and also to look at the members average use throughout the year and per day**. I do not have the average number of Facebook users for 2010, but in a quick and dirty way using the [500 million member stats](http://www.facebook.com/press/info.php?statistics), the average user of Facebook did the following in 2010:
+via [mashable.com](http://mashable.com/2010/12/31/facebook-by-the-numbers-in-2010-stats/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29)</div>The numbers are so big I could not help myself to get a look at them “**by the billion**“, **translating these 20 minute data into a year and also to look at the members average use throughout the year and per day**. I do not have the average number of Facebook users for 2010, but in a quick and dirty way using the [500 million member stats](http://www.facebook.com/press/info.php?statistics), the average user of Facebook did the following in 2010:
 
 <table border="0"><tr><td align="LEFT" height="30" width="171">**<span style="font-size:large;">  
 </span>**</td><td align="LEFT" width="214">**<span style="font-size:large;">Facebook Usage Stats 2010\*</span>**</td><td align="LEFT" width="171"></td><td align="LEFT" width="139"></td></tr><tr><td align="LEFT" height="17">  

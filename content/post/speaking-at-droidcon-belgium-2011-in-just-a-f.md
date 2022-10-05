@@ -12,7 +12,7 @@ category:
 tag: []
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> ![](http://www.droidcon.be/drupal/sites/all/themes/basicv2/img/speaker_ramon.png)
+> ![](http://www.droidcon.be/drupal/sites/all/themes/basicv2/img/speaker_ramon.png)
 > 
 > <div class="speakerContent">## Ram??n Su??rez
 > 
@@ -21,6 +21,6 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [droidcon.be](http://www.droidcon.be/drupal/content/speakers)</div>My presentation: Handheld Hormones
+via [droidcon.be](http://www.droidcon.be/drupal/content/speakers)</div>My presentation: Handheld Hormones
 
 </div>

@@ -18,7 +18,7 @@ tag:
     - networking
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> ## Investors – VC &amp; Angels
+> ## Investors – VC &amp; Angels
 > 
 > - [123Venture (France)](http://www.123venture.com)
 > - [360 Capital Partners (Luxembourg)](http://www.360capitalpartners.com)
@@ -106,7 +106,7 @@ post_format: []
 > - [Xange P.E. (France)](http://www.xange.fr/)
 > - [YL ventures (Netherlands)](http://ylventures.com/ "YL ventures")
 
-<div class="posterous_quote_citation">via [betagroup.be](http://www.betagroup.be/)</div>**Jean Derely** is doing a great job rallying the Belgian Web Entrepreneur scene and acting as a network multiplier in Brussels.
+via [betagroup.be](http://www.betagroup.be/)</div>**Jean Derely** is doing a great job rallying the Belgian Web Entrepreneur scene and acting as a network multiplier in Brussels.
 
 Among the services he provides to the community he has collected a very interesting selection of links to make the life of entrepreneurs easier, among which is this list of investors (venture capitalists and business angels). Check the **[BetaGroup](http://www.betagroup.be)‘**s website for more.
 

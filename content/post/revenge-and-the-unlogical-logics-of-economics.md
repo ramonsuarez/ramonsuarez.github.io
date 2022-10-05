@@ -17,7 +17,7 @@ tag:
     - science
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> <div># Drunken Ultimatums
+> <div># Drunken Ultimatums
 > 
 > <span class="regularText"> The so-called ultimatum game contains a world of psychological and economic mysteries. In a laboratory setting, one person is given an allotment of money (say, $100) and instructed to offer a second person a portion. If the second player says yes to the offer, both keep the cash. If the second player says no, both walk away with nothing.</span>
 > 
@@ -33,6 +33,6 @@ post_format: []
 > 
 > </div>
 
-<div class="posterous_quote_citation">via [nytimes.com](http://www.nytimes.com/projects/magazine/ideas/2009/#d)</div>Great short piece from the New York Times showing how *logical* economic behavior is far from *real* economic behavior. Economics is a long way from being a science, but it is the closest we have.
+via [nytimes.com](http://www.nytimes.com/projects/magazine/ideas/2009/#d)</div>Great short piece from the New York Times showing how *logical* economic behavior is far from *real* economic behavior. Economics is a long way from being a science, but it is the closest we have.
 
 </div>

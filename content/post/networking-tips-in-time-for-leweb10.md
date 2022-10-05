@@ -18,7 +18,7 @@ tag:
     - pr
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> <div>![](http://eu.techcrunch.com/wp-content/uploads/Colette-200x300.jpg)This is a guest post by [Colette Ballou](http://twitter.com/coletteballou), founder of [Ballou PR](http://www.crunchbase.com/service-provider/ballou-pr).
+> <div>![](http://eu.techcrunch.com/wp-content/uploads/Colette-200x300.jpg)This is a guest post by [Colette Ballou](http://twitter.com/coletteballou), founder of [Ballou PR](http://www.crunchbase.com/service-provider/ballou-pr).
 > 
 > Conferences are awkward situations. You know that you need to make the most of your time there ??? chances are that you paid not only the entrance fee, but also for the flight and the hotel. But why do we fail to make meaningful connections at conferences? Because we often forget the perspective of the very people we are trying to connect with.
 > 
@@ -54,6 +54,6 @@ post_format: []
 > 
 > </div></div><div>Information provided by [CrunchBase](http://www.crunchbase.com/)</div></div></div></div>
 
-<div class="posterous_quote_citation">via [eu.techcrunch.com](http://eu.techcrunch.com/2010/11/19/guest-post-hold-on-who-are-you-again-networking-tips-in-time-for-le-web/)</div>Great post by Colette Ballou about the basics of PR and networking in conferences.
+via [eu.techcrunch.com](http://eu.techcrunch.com/2010/11/19/guest-post-hold-on-who-are-you-again-networking-tips-in-time-for-le-web/)</div>Great post by Colette Ballou about the basics of PR and networking in conferences.
 
 </div>

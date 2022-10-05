@@ -20,7 +20,7 @@ tag:
     - venturecapital
 post_format: []
 ---
-<div class="posterous_bookmarklet_entry">> # Member List
+> # Member List
 > 
 > <div class="detailSubBlock"><div>## **Full Members**
 > 
@@ -186,6 +186,6 @@ post_format: []
 > 
 > </div></div>
 
-<div class="posterous_quote_citation">via [bva.be](http://www.bva.be/fb111mggc622gkw1szu149.aspx)</div>An excellent source, to add to the investor funds list maintained by the [Betagroup](http://www.betagroup.be).
+via [bva.be](http://www.bva.be/fb111mggc622gkw1szu149.aspx)</div>An excellent source, to add to the investor funds list maintained by the [Betagroup](http://www.betagroup.be).
 
 </div>

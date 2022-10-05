@@ -17,7 +17,7 @@ post_format: []
 video_background:
     - ''
 ---
-<div class="p_embed p_image_embed"></div><div>![](https://ramonsuarez.com/wp-content/uploads/2013/02/media_https2i1picplzt_gbxtz-scaled500.jpg)</div><div class="posterous_quote_citation">via [picplz.com](http://picplz.com/user/ramonsuarez/pic/r3j5l/)</div>During the presentation of the latest Samsung products in Brussels, I fell in love with a couple geeky gadgets and the first one was the <a>Samsung pico projector SP-H03</a>. The fact of being able to play with a projector that fit the palm of my hand was just mesmerizing.
+<div class="p_embed p_image_embed"></div><div>![](https://ramonsuarez.com/wp-content/uploads/2013/02/media_https2i1picplzt_gbxtz-scaled500.jpg)</div>via [picplz.com](http://picplz.com/user/ramonsuarez/pic/r3j5l/)</div>During the presentation of the latest Samsung products in Brussels, I fell in love with a couple geeky gadgets and the first one was the <a>Samsung pico projector SP-H03</a>. The fact of being able to play with a projector that fit the palm of my hand was just mesmerizing.
 
 Luckily, I have been able to test it. I find it to be a **step in the right direction: pico projectors in our mobile phones and tablets**.
 
