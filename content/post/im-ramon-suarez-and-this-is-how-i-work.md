@@ -1,5 +1,5 @@
 ---
-title: 'I&#8217;m Ramon Suarez, and this is how I work'
+title: "I'm Ramon Suarez, and this is how I work"
 date: '2013-08-22T12:40:34+00:00'
 status: publish
 permalink: /im-ramon-suarez-and-this-is-how-i-work

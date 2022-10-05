@@ -1,5 +1,5 @@
 ---
-title: 'Geekin&#8217; and eatin&#8217; at the Betagroup Coworking Brussels (AKA Betacowork)'
+title: "Geekin' and eatin' at the Betagroup Coworking Brussels (AKA Betacowork)"
 date: '2011-02-14T15:53:00+00:00'
 status: publish
 permalink: /geekin-and-eatin-at-the-betagroup-coworking-b

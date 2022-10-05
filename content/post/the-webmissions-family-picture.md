@@ -1,5 +1,5 @@
 ---
-title: 'The Webmission&#8217;s family picture'
+title: 'The Webmission family picture'
 date: '2009-11-20T13:40:00+00:00'
 status: publish
 permalink: /the-webmissions-family-picture

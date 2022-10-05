@@ -1,5 +1,5 @@
 ---
-title: 'At this time tomorrow I should be here&#8230;'
+title: 'At this time tomorrow I should be here'
 date: '2010-12-06T20:31:00+00:00'
 status: publish
 permalink: /at-this-time-tomorrow-i-should-be-here

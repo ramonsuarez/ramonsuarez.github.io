@@ -1,5 +1,5 @@
 ---
-title: 'Getting over Procrastination and Creator&#8217;s Block'
+title: "Getting over Procrastination and Creator's Block"
 date: '2018-12-06T15:16:53+00:00'
 status: publish
 permalink: /getting-over-procrastination-and-creators-block

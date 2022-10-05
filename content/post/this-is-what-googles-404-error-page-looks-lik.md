@@ -1,5 +1,5 @@
 ---
-title: 'This is what Google&#8217;s 404 error page looks like'
+title: "This is what Google's 404 error page looks like"
 date: '2011-06-22T08:11:03+00:00'
 status: publish
 permalink: /this-is-what-googles-404-error-page-looks-lik

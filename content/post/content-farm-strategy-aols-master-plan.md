@@ -1,5 +1,5 @@
 ---
-title: 'Content Farm Strategy: AOL&#8217;s Master Plan'
+title: "Content Farm Strategy: AOL's Master Plan"
 date: '2011-02-04T10:05:00+00:00'
 status: publish
 permalink: /content-farm-strategy-aols-master-plan

@@ -1,5 +1,5 @@
 ---
-title: 'Brands, learn about your audience&#8217;s personality with Whit.li'
+title: "Brands, learn about your audience's personality with Whit.li"
 date: '2013-04-22T10:18:30+00:00'
 status: publish
 permalink: /brands-learn-about-your-audiences-personality-with-whit-li

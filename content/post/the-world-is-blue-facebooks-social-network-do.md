@@ -1,5 +1,5 @@
 ---
-title: 'The World is Blue: Facebook&#8217;s Social Network Dominance'
+title: "The World is Blue: Facebook's Social Network Dominance"
 date: '2010-12-12T19:35:00+00:00'
 status: publish
 permalink: /the-world-is-blue-facebooks-social-network-do

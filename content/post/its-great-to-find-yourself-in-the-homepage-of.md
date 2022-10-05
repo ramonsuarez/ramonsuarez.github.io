@@ -1,5 +1,5 @@
 ---
-title: 'It&#8217;s great to find yourself in the homepage of you university :)'
+title: "It's great to find yourself in the homepage of you university :)"
 date: '2011-06-30T10:56:25+00:00'
 status: publish
 permalink: /its-great-to-find-yourself-in-the-homepage-of

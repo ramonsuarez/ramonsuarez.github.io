@@ -1,5 +1,5 @@
 ---
-title: 'Seed-DB:  the directory of seed accelerator programs (there&#8217;s life beyond Y Combinator)'
+title: "Seed-DB:  the directory of seed accelerator programs (there's life beyond Y Combinator)"
 date: '2012-12-10T17:26:00+00:00'
 status: publish
 permalink: /seed-db-the-directory-of-seed-accelerator-pro

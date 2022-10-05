@@ -1,5 +1,5 @@
 ---
-title: 'Come to the Presentation of the French Translation of Steve Blank&#8217;s The Four Steps to the Epiphany &#8211; Coworking Brussels &#8211; Bruxelles Coworking &#8211; Brussel BetaGroup Betacowork'
+title: "Come to the Presentation of the French Translation of Steve Blank's The Four Steps to the Epiphany &#8211; Coworking Brussels &#8211; Bruxelles Coworking &#8211; Brussel BetaGroup Betacowork"
 date: '2011-05-09T06:50:00+00:00'
 status: publish
 permalink: /come-to-the-presentation-of-the-french-transl

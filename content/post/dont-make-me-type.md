@@ -1,5 +1,5 @@
 ---
-title: 'Don&#8217;t make me type!'
+title: "Don't make me type!"
 date: '2011-02-21T11:59:01+00:00'
 status: publish
 permalink: /dont-make-me-type

@@ -1,5 +1,5 @@
 ---
-title: 'Google&#8217;s Site Management Guidelines'
+title: "Google's Site Management Guidelines"
 date: '2009-12-20T11:20:00+00:00'
 status: publish
 permalink: /googles-site-management-guidelines

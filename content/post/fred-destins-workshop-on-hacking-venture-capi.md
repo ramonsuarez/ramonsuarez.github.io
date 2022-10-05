@@ -1,5 +1,5 @@
 ---
-title: 'Fred Destin&#8217;s Workshop on Hacking Venture Capital'
+title: 'Fred Destin''s Workshop on Hacking Venture Capital'
 date: '2010-05-31T17:09:38+00:00'
 status: publish
 permalink: /fred-destins-workshop-on-hacking-venture-capi

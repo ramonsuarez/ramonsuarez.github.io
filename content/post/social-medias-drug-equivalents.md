@@ -1,5 +1,5 @@
 ---
-title: 'Social Media&#8217;s drug equivalents'
+title: "Social Media's drug equivalents"
 date: '2009-12-01T13:41:00+00:00'
 status: publish
 permalink: /social-medias-drug-equivalents

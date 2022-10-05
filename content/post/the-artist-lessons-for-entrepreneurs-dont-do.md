@@ -1,5 +1,5 @@
 ---
-title: 'The Artist: lessons for entrepreneurs (don&#8217;t do as The Muppets do)'
+title: "The Artist: lessons for entrepreneurs (don't do as The Muppets do)"
 date: '2012-03-06T21:29:00+00:00'
 status: publish
 permalink: /the-artist-lessons-for-entrepreneurs-dont-do

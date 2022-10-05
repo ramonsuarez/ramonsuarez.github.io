@@ -1,5 +1,5 @@
 ---
-title: 'Qu&#8217;est-ce que c&#8217;est le Founder Institute? Explication de Alain Baritault [Video]'
+title: "Qu'est-ce que c'est le Founder Institute? Explication de Alain Baritault [Video]"
 date: '2011-08-25T12:33:00+00:00'
 status: publish
 permalink: /quest-ce-que-cest-le-founder-institute-explic

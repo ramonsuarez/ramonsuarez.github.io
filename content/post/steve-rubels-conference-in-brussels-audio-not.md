@@ -1,5 +1,5 @@
 ---
-title: 'Steve Rubel&#8217;s Conference in Brussels: Audio &#038; Notes'
+title: "Steve Rubel's Conference in Brussels: Audio &#038; Notes"
 date: '2011-04-27T09:24:00+00:00'
 status: publish
 permalink: /steve-rubels-conference-in-brussels-audio-not

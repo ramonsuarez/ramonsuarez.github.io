@@ -1,5 +1,5 @@
 ---
-title: 'Ramon&#8217;s Madrid Top 10 Eating and Drinking Spots'
+title: "Ramon's Madrid Top 10 Eating and Drinking Spots"
 date: '2010-04-12T09:08:00+00:00'
 status: publish
 permalink: /ramons-madrid-top-10-eating-and-drinking-spot

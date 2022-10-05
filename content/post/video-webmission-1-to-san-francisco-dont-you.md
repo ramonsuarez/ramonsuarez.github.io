@@ -1,5 +1,5 @@
 ---
-title: 'Video Webmission #1 to San Francisco. Don&#8217;t you want to join this year?'
+title: "Video Webmission #1 to San Francisco. Don't you want to join this year?"
 date: '2010-02-24T09:26:08+00:00'
 status: publish
 permalink: /video-webmission-1-to-san-francisco-dont-you

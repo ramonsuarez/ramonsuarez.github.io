@@ -1,5 +1,5 @@
 ---
-title: 'Ramon&#8217;s Vision about the Future of Mobile. Keynote Presentation at Droidcon Belgium 2010'
+title: "Ramon's Vision about the Future of Mobile. Keynote Presentation at Droidcon Belgium 2010"
 date: '2010-04-07T14:17:00+00:00'
 status: publish
 permalink: /ramons-vision-about-the-future-of-mobile-keyn

@@ -1,5 +1,5 @@
 ---
-title: 'Beta Group&#8217;s Internet Entrepreneurship Links'
+title: "Beta Group's Internet Entrepreneurship Links"
 date: '2010-06-11T07:24:09+00:00'
 status: publish
 permalink: /beta-groups-internet-entrepreneurship-links

@@ -1,5 +1,5 @@
 ---
-title: 'This Week&#8217;s Focus: Repurposing, Outsourcing, Automation'
+title: "This Week's Focus: Repurposing, Outsourcing, Automation"
 date: '2018-11-06T11:23:39+00:00'
 status: publish
 permalink: /this-weeks-focus-repurposing-outsourcing-automation

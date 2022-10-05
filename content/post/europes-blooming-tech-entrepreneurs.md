@@ -1,5 +1,5 @@
 ---
-title: 'Europe&#8217;s Blooming Tech Entrepreneurs'
+title: "Europe's Blooming Tech Entrepreneurs"
 date: '2010-06-22T15:32:00+00:00'
 status: publish
 permalink: /europes-blooming-tech-entrepreneurs

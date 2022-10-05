@@ -1,5 +1,5 @@
 ---
-title: 'Next week&#8217;s KPIs for coworking.space'
+title: "Next week's KPIs for coworking.space"
 date: '2018-10-19T12:32:42+00:00'
 status: publish
 permalink: /next-weeks-kpis-for-coworking-space
