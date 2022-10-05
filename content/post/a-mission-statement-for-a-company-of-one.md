@@ -37,7 +37,7 @@ I already wrote one for me as a [competitive shooter](https://www.olympicpistol.
 
 > Find new sources of revenue and business ideas in Internet and knowledge products by executing new business projects and learning from practice.
 
-<figure class="wp-block-image">![](/uploads/2019/01/internet-businesses-knowledge-products.png)</figure>I know, I know… The wording is a bit convoluted, but even if I change it to something more readable the core won’t change (unless there’s a major and probably traumatic event in my life).
+![](/uploads/2019/01/internet-businesses-knowledge-products.png)I know, I know… The wording is a bit convoluted, but even if I change it to something more readable the core won’t change (unless there’s a major and probably traumatic event in my life).
 
 As always, helpful advice is appreciated and sought after!
 

@@ -28,7 +28,7 @@ publicize_twitter_user:
 publicize_linkedin_url:
     - 'www.linkedin.com/updates?topic=6476449218608271360'
 ---
-<figure class="wp-block-image">![](https://media.giphy.com/media/l46CpQCMebfMmnPq0/giphy.gif)</figure>I have to admit it, I’ve been procrastinating a bit with this last project ([creating a coworking online course](https://ramonsuarez.com/ew-project-coworking-course/)). It has not been time completely lost (I did advance in other things that I wanted to do like setting up an onboarding email sequence for The Coworking Handbook), but I skipped doing what I knew I should. I was not taking care of my [frog every morning](https://www.fastcompany.com/1592454/work-smart-do-your-worst-task-first-or-eat-live-frog-every-morning) (the hardest task of the day).
+![](https://media.giphy.com/media/l46CpQCMebfMmnPq0/giphy.gif)I have to admit it, I’ve been procrastinating a bit with this last project ([creating a coworking online course](https://ramonsuarez.com/ew-project-coworking-course/)). It has not been time completely lost (I did advance in other things that I wanted to do like setting up an onboarding email sequence for The Coworking Handbook), but I skipped doing what I knew I should. I was not taking care of my [frog every morning](https://www.fastcompany.com/1592454/work-smart-do-your-worst-task-first-or-eat-live-frog-every-morning) (the hardest task of the day).
 
 Two things have contributed to this:
 

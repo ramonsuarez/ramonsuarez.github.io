@@ -33,7 +33,7 @@ I’m [not good with video yet](http://ramonsuarez.com/fail-2-deadlines-and-vide
 
 The core of the course is ready, I have about 130 slides with a mix of information and exercises. It is a workbook focused on getting coworking space operators to take actions that will help them build a vibrant and healthy communities while they are taking the course and that will give provide a toolbox they can keep on using and referring to. It will be delivered in daily bits, like a challenge, not to overload the participants and to nudge them into taking repeated action.
 
-<figure class="wp-block-image">![](/uploads/2019/01/coworking-communty-challenge-wip.png)</figure>What needs to be done
+![](/uploads/2019/01/coworking-communty-challenge-wip.png)What needs to be done
 ---------------------
 
 - Write down **timeline, deliverables and milestones**.
@@ -46,7 +46,7 @@ The core of the course is ready, I have about 130 slides with a mix of informati
 - **Find a way to automatically generate a final document with all the workbooks submissions from the students**. This is a nice have, so I will probably do it manually first.
 - **Get to work!** I’ve been too slow lately. No failure sobbing!
 
-<figure class="wp-block-image">![](/uploads/2019/01/working.gif)</figure>Deadline
+![](/uploads/2019/01/working.gif)Deadline
 --------
 
 The deadline for this project is **February 21st**.

@@ -30,7 +30,7 @@ Since the launch of [my first 12 week year](https://ramonsuarez.com/my-vision-an
 12 Week Year One Results
 ------------------------
 
-<figure class="wp-block-image">![](https://i2.wp.com/ramonsuarez.com/wp-content/uploads/2019/07/12WY1-85.jpg?fit=1000%2C1000&ssl=1)</figure>**Overall, this has been a successful 12 week year**, with a lot of learning and launching. The total score for year one is 85%, which looks like I’ve completed a lot, but I don’t think that my scorecard was good enough. The **most setbacks have come on the outsourcing side**. The **biggest wins came in the projects and reading**.
+![](https://i2.wp.com/ramonsuarez.com/wp-content/uploads/2019/07/12WY1-85.jpg?fit=1000%2C1000&ssl=1)**Overall, this has been a successful 12 week year**, with a lot of learning and launching. The total score for year one is 85%, which looks like I’ve completed a lot, but I don’t think that my scorecard was good enough. The **most setbacks have come on the outsourcing side**. The **biggest wins came in the projects and reading**.
 
 ### Projects
 
@@ -38,15 +38,15 @@ The core of this three month year has been the projects and it has worked well. 
 
 #### BIGF Method™ 
 
-<figure class="wp-block-image">[![](/uploads/2019/07/bigfmethod-logo.png)](https://www.bigfmethod.com/)</figure>My [method to come up with more business ideas for solopreneurs](https://www.bigfmethod.com) is up after a small test run and two platform changes. I’m not ready to start selling it yet, but I’ll be promoting it to get more beta testers and to improve it.
+[![](/uploads/2019/07/bigfmethod-logo.png)](https://www.bigfmethod.com/)My [method to come up with more business ideas for solopreneurs](https://www.bigfmethod.com) is up after a small test run and two platform changes. I’m not ready to start selling it yet, but I’ll be promoting it to get more beta testers and to improve it.
 
 #### Fight Hate Not Sport Shooters
 
-<figure class="wp-block-image is-resized">[![](https://i0.wp.com/ramonsuarez.com/wp-content/uploads/2019/07/fhns.jpg?fit=1000%2C750&ssl=1)](https://www.fighthatenotsport.com/shop/?orderby=date)</figure>This is my [not for profit initiative to promote shooting sports](https://www.fighthatenotsport.com/shop/?orderby=date). Thanks to it I’ve set up my first e-commerce site, which has started selling (it works!) but very little. More marketing is needed. It started as Fight Hate Not Shooters, but some people found the word shooter to strong. Following their lead I renamed the site, moved it to a new domain and ordered new designs.
+<figure class="wp-block-image is-resized">[![](https://i0.wp.com/ramonsuarez.com/wp-content/uploads/2019/07/fhns.jpg?fit=1000%2C750&ssl=1)](https://www.fighthatenotsport.com/shop/?orderby=date)This is my [not for profit initiative to promote shooting sports](https://www.fighthatenotsport.com/shop/?orderby=date). Thanks to it I’ve set up my first e-commerce site, which has started selling (it works!) but very little. More marketing is needed. It started as Fight Hate Not Shooters, but some people found the word shooter to strong. Following their lead I renamed the site, moved it to a new domain and ordered new designs.
 
 #### Grow coworking income
 
-<figure class="wp-block-image">[![](/uploads/2019/07/Coworking-Community-Challenge.jpg)](https://courses.coworkinghandbook.com/course/coworking-community-challenge/)</figure>I relaunched the [coworking community course ](https://courses.coworkinghandbook.com/course/coworking-community-challenge/)in my own Learnpress installation. It has not done well in sales yet. My mailing list has gone a bit stale, so I cleaned it up. I have to do something with it after the summer to see if I can get some more traction, but not now. I also repackaged the webinar I did before launching the course and made it available as a [free coworking course](https://courses.coworkinghandbook.com/course/coworking-community-webinar-and-qa/).
+[![](/uploads/2019/07/Coworking-Community-Challenge.jpg)](https://courses.coworkinghandbook.com/course/coworking-community-challenge/)I relaunched the [coworking community course ](https://courses.coworkinghandbook.com/course/coworking-community-challenge/)in my own Learnpress installation. It has not done well in sales yet. My mailing list has gone a bit stale, so I cleaned it up. I have to do something with it after the summer to see if I can get some more traction, but not now. I also repackaged the webinar I did before launching the course and made it available as a [free coworking course](https://courses.coworkinghandbook.com/course/coworking-community-webinar-and-qa/).
 
 The **abridged version of The Coworking Handbook was a total flop** (more on this below). I got crap back when I outsourced and I could not bring myself to do it. Dropped.
 

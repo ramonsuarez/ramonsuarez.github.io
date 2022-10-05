@@ -23,7 +23,7 @@ publicize_google_plus_url:
 video_background:
     - ''
 ---
-<figure class="wp-block-image">![](/uploads/2018/12/Screenshot-from-2018-12-17-15-49-40.png)</figure>So far the [meditation challenge](https://ramonsuarez.com/meditate-every-day-for-a-year/) is going well. I’ve gotten to 100 days in a row and I’m quite happy about it.
+![](/uploads/2018/12/Screenshot-from-2018-12-17-15-49-40.png)So far the [meditation challenge](https://ramonsuarez.com/meditate-every-day-for-a-year/) is going well. I’ve gotten to 100 days in a row and I’m quite happy about it.
 
 Not a habit yet
 ---------------
@@ -37,7 +37,7 @@ It has happened already at least three nights that I’ve gone to bed to sleep a
 Challenge = Monkey Mind
 -----------------------
 
-<div class="wp-block-image"><figure class="aligncenter">![](https://media.giphy.com/media/3ohs4oJF5ezJlBvYn6/giphy-downsized.gif)</figure></div>The most challenging thing happening in my meditations since I started the entrepreneurship challenge is my monkey mind going all over the place. My mind is bubbling with new ideas and things to do and this makes it really hard to focus and to stay in the now. After so many days I’m still having a lot of different thoughts, but the monkey is slowly calming down.
+<div class="wp-block-image"><figure class="aligncenter">![](https://media.giphy.com/media/3ohs4oJF5ezJlBvYn6/giphy-downsized.gif)</div>The most challenging thing happening in my meditations since I started the entrepreneurship challenge is my monkey mind going all over the place. My mind is bubbling with new ideas and things to do and this makes it really hard to focus and to stay in the now. After so many days I’m still having a lot of different thoughts, but the monkey is slowly calming down.
 
 On the upside, I’m much better at getting back into the present moment and at being kinder to myself 🙂
 

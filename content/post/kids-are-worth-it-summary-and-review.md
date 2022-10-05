@@ -354,13 +354,13 @@ Preteens need to know the detailed facts. When children reach puberty we have to
 Review
 ------
 
-[<figure class="wp-block-image">![](/uploads/2019/04/barbara-coloroso.jpeg)</figure>](https://amzn.to/2GILB89)Barbara Coloroso has written a great resource for parents that is worth reading. I agree with her ethics and philosophy, but I wish [Kids Are Worth It](https://amzn.to/2GILB89) had been shorter and more structured. It takes too long to read and to reach the actionable part, but it is worth the read.
+[![](/uploads/2019/04/barbara-coloroso.jpeg)](https://amzn.to/2GILB89)Barbara Coloroso has written a great resource for parents that is worth reading. I agree with her ethics and philosophy, but I wish [Kids Are Worth It](https://amzn.to/2GILB89) had been shorter and more structured. It takes too long to read and to reach the actionable part, but it is worth the read.
 
 There are useful examples, but not so many to apply to my current three year old crisis 🙂
 
 A workbook or playbook would be a great addition to make it easier for parents to act and improve the education of their kids.
 
-<figure class="wp-block-image">![](/uploads/2019/04/four-stars.png)</figure>The bullying section really struck a chord and brought a lot of painful memories from my childhood. both as a victim and then as a bully myself (I’m not proud of it, but it has been part of my learning).
+![](/uploads/2019/04/four-stars.png)The bullying section really struck a chord and brought a lot of painful memories from my childhood. both as a victim and then as a bully myself (I’m not proud of it, but it has been part of my learning).
 
 The phrase “two don’t fight if one does not want to” was thrown at me to many times by dismissive adults that:
 

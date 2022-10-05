@@ -63,7 +63,7 @@ These are all the things that I want to have, to do, and to be in my life:
 5. **Time and financial independence.**
 6. **Target pistol mastery &amp; competition.**
 
-<figure class="wp-block-image">![](/uploads/2019/05/my-aspirational-vision-1024x1024.jpg)</figure>### Great father and husband
+![](/uploads/2019/05/my-aspirational-vision-1024x1024.jpg)### Great father and husband
 
 My family is the most important thing in my life. I want to be a great father and husband, not a perfect one. I know that I’ve made and will keep on making mistakes, but I work on improving myself and try not to repeat them. If I ever have to make a choice, it will come first. Luckily there are very few situations where I will be confronted with such a hard choice.
 
@@ -77,7 +77,7 @@ I have to be in good shape to be able to be the father and husband I want to be,
 
 I grow by doing. Learning and doing are part of me and they help with all aspects of my life. I have a growth mindset. I have to keep on learning, but theory is not enough, practice is key. I guess that’s why [I’ve written three manuals](https://www.goodreads.com/author/show/7992456.Ram_n_Su_rez_V_zquez) and my course and publishing projects are based on my experience: theory is not enough. In fact, if you stick only to theory you are going to be learning way too many things that are wrong. Practice brings reality into your knowledge and a better understanding.
 
-<div class="wp-block-image"><figure class="aligncenter">![](/uploads/2019/04/i-grow-by-doing.-my-motivation-optimism-and-honesty-help-me-enjoy-life-fully..png)</figure></div>### Contribute
+<div class="wp-block-image"><figure class="aligncenter">![](/uploads/2019/04/i-grow-by-doing.-my-motivation-optimism-and-honesty-help-me-enjoy-life-fully..png)</div>### Contribute
 
 I am a positive force of change in the world. I contribute. I don’t whine. I look for the positive to learn and to change things. This includes helping and is intimately linked with me sharing my knowledge through blogs, articles, conferences, books, mentoring… I help make things better. When I find a problem I try to find or create a solution.
 
