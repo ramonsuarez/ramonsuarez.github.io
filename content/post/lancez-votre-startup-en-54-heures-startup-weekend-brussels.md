@@ -64,11 +64,11 @@ post_format: []
 
 <span><span>??</span>\* Dimanche 08:30 ?? 24:00</span>
 
-<span style="font-family:Symbol;"><span>??<span style="font:7pt Times New Roman;">???????????????? </span></span></span><span>Site??: </span><span>[<span>http://brussels.startupweekend.org</span>](http://brussels.startupweekend.org/)</span><span> </span><span></span>
+<span style="font-family:Symbol;"><span>??<span style="font:7pt Times New Roman;">???????????????? </span></span></span><span>Site??: </span><span>[<span>http://brussels.startupweekend.org</span>](http://brussels.startupweekend.org/)</span><span> </span>
 
-<span style="font-family:Symbol;"><span>??<span style="font:7pt Times New Roman;">???????????????? </span></span></span><span>Register : </span><span>[<span>http://swbru.eventbrite.com</span>](http://swbru.eventbrite.com/)</span><span> </span><span></span>
+<span style="font-family:Symbol;"><span>??<span style="font:7pt Times New Roman;">???????????????? </span></span></span><span>Register : </span><span>[<span>http://swbru.eventbrite.com</span>](http://swbru.eventbrite.com/)</span><span> </span>
 
-<span style="font-family:Symbol;"><span>??<span style="font:7pt Times New Roman;">???????????????? </span></span></span><span>Twitter : </span><span>[<span>http://twitter.com/swbru</span>](http://twitter.com/swbru)</span><span> Hashtag </span><span>[<span>\#swbru</span>](http://search.twitter.com/search?q=%23swbru)</span><span></span>
+<span style="font-family:Symbol;"><span>??<span style="font:7pt Times New Roman;">???????????????? </span></span></span><span>Twitter : </span><span>[<span>http://twitter.com/swbru</span>](http://twitter.com/swbru)</span><span> Hashtag </span><span>[<span>\#swbru</span>](http://search.twitter.com/search?q=%23swbru)</span>
 
 <span style="font-family:Symbol;"><span>??<span style="font:7pt Times New Roman;">???????????????? </span></span></span><span>Facebook??: </span><span><span><http://www.facebook.com/swbru>??</span></span>
 

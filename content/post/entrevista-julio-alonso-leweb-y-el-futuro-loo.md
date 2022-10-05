@@ -19,7 +19,7 @@ tags:
     - spain
 post_format: []
 ---
-> <div><span style="float:left;">Por **Ramón Suárez** el 17 Noviembre 2010</span>[<span><span style="cursor:pointer;"><span> </span></span><span> </span><span></span></span>](http://www.facebook.com/sharer.php?u=http%3A%2F%2Floogic.com%2Fentrevista-julio-alonso-leweb-y-el-futuro%2F&t=Entrevista%3A%20Julio%20Alonso%2C%20LeWeb%20y%20el%20futuro%20Loogic.com&src=sp)<span></span>
+> <div><span style="float:left;">Por **Ramón Suárez** el 17 Noviembre 2010</span>[<span><span style="cursor:pointer;"><span> </span></span><span> </span><span></span></span>](http://www.facebook.com/sharer.php?u=http%3A%2F%2Floogic.com%2Fentrevista-julio-alonso-leweb-y-el-futuro%2F&t=Entrevista%3A%20Julio%20Alonso%2C%20LeWeb%20y%20el%20futuro%20Loogic.com&src=sp)
 > 
 > <div>[![Julio Alonso presentando en el Simo (foto cc Pixel y Dixel)](http://loogic.com/files/2010/11/Julio-Alonso-Simo-Foto-cc-Pixel-y-Dixel.jpg)](http://www.flickr.com/photos/pixelydixel/3949202526/ "Julio Alonso en el SIMO por Pixel y Dixel")Julio Alonso presentando en el SIMO (foto cc Pixel y Dixel)
 > 

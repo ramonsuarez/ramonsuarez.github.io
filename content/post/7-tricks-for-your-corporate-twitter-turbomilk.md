@@ -22,7 +22,7 @@ post_format: []
 > 
 > [![](http://img2.turbomilk.com/blog/cookbook/twitter/dj-7twitter-01.png)](http://turbomilk.com/blog/cookbook/masterclass/twitter/)Our twitter @[turbomilk](http://twitter.com/turbomilk) is one of the most popular corporate twitters in Russia. The password to the twitter is available to all our staff but there is just a few of us posting. And, as it happens, most of the posts are coming from me. After more than a year of observations and experiments involving real people I came up with a range of plain tricks on how to make twitter more interesting and popular.
 > 
-> <span></span>
+> 
 > 
 > Once we even got a chance to take a fresh look at our twits while being in a small company of little-known people ??? the room was filled with stifled giggling??? So we realized that we should carry on like that. So, what is that you should do in a corporate twitter?
 > 
