@@ -1,3 +1,9 @@
 [submodule "themes/gokarna"]
 	path = themes/gokarna
 	url = https://github.com/526avijitgupta/gokarna.git
+[submodule "themes/themes/anubis"]
+	path = themes/themes/anubis
+	url = https://github.com/mitrichius/hugo-theme-anubis.git
+[submodule "themes/hugo-eureka"]
+	path = themes/hugo-eureka
+	url = git@github.com:wangchucheng/hugo-eureka.git
