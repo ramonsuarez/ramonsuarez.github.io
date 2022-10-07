@@ -10,7 +10,7 @@ pagination = 11
 removePathAccents = true
 summaryLength = 70
 timeZone = "Europe/Brussels"
-googleAnalytics = ""
+googleAnalytics = "UA-11272252-1"
 
 
 # Choose one of emacs, trac or perldoc
