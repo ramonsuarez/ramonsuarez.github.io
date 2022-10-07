@@ -3,7 +3,7 @@ languageCode = 'en'
 defaultContentLanguage = "en"
 title = "Ramon's curiosity lead learning life"
 theme = 'gokarna'
-ShowTableOfContents = true
+
 enableEmoji = true
 enableRobotsTXT = true
 enableInlineShortcodes = true
@@ -25,6 +25,7 @@ pygmentsStyle = "monokai"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
   showPostsOnHomePage = "recent"
+  ShowTableOfContents = true
   customHeadHTML = """
   <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-11272252-1"></script>
