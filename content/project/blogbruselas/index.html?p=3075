@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="es-ES" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.blogbruselas.com/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://www.blogbruselas.com/wp-content/themes/twentyfifteen/js/html5.js"></script>
+	<![endif]-->
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>ASBRU cumple 5 años &#8211; Blog Bruselas en español</title>
+<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Blog Bruselas en español &raquo; Feed" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Blog Bruselas en español &raquo; RSS de los comentarios" href="comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Blog Bruselas en español &raquo; ASBRU cumple 5 años RSS de los comentarios" href="blog/2010/09/13/asbru-cumple-5-anos/feed/index.html" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.blogbruselas.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='yarppWidgetCss-css'  href='wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-language-css'  href='wp-content/plugins/wordpress-language/res/css/style.css?ver=1.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='wp-content/themes/twentyfifteen/genericons/genericons.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-style-css'  href='wp-content/themes/twentyfifteen/style.css?ver=4.7.3' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfifteen-ie-css'  href='http://www.blogbruselas.com/wp-content/themes/twentyfifteen/css/ie.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentyfifteen-ie7-css'  href='http://www.blogbruselas.com/wp-content/themes/twentyfifteen/css/ie7.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Cosas Belgas (II)' href='index.html?p=3072' />
+<link rel='next' title='Jornadas de Puertas abiertas en el IRPA' href='index.html?p=3098' />
+<meta name="generator" content="WordPress 4.7.3" />
+<link rel='shortlink' href='index.html?p=3075' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed?url=http%253A%252F%252Fwww.blogbruselas.com%252Fblog%252F2010%252F09%252F13%252Fasbru-cumple-5-anos%252F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed?url=http%253A%252F%252Fwww.blogbruselas.com%252Fblog%252F2010%252F09%252F13%252Fasbru-cumple-5-anos%252F&amp;format=xml" />
+<!-- Start Of Script Generated By Post-Thumb Revisited Library -->
+	<script type="text/javascript" src="wp-content/plugins/alakhnors-post-thumb/js/xfade2.js"></script>
+	<link rel="stylesheet" href="wp-content/plugins/alakhnors-post-thumb/js/slideshow.css" type="text/css" media="screen" />
+	<!-- End Of Script Generated By Post-Thumb Revisited Library -->
+
+<!-- Subscribe Sidebar widget -->
+<link rel="stylesheet" href="wp-content/plugins/subscribe-sidebar/subscribe_sidebar.css" type="text/css" media="screen" />
+<link rel='stylesheet' type='text/css' href='wp-content/plugins/subscription-options/suboptions.css' />
+<link rel="icon" href="wp-content/uploads/2016/04/cropped-Manneken_Pis_Blog_Bruselas_Ricardo_Imbern-512-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/2016/04/cropped-Manneken_Pis_Blog_Bruselas_Ricardo_Imbern-512-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="wp-content/uploads/2016/04/cropped-Manneken_Pis_Blog_Bruselas_Ricardo_Imbern-512-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://www.blogbruselas.com/wp-content/uploads/2016/04/cropped-Manneken_Pis_Blog_Bruselas_Ricardo_Imbern-512-270x270.jpg" />
+</head>
+
+<body class="post-template-default single single-post postid-3075 single-format-standard wp-custom-logo">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="index.html?p=3075#content">Saltar al contenido</a>
+
+	<div id="sidebar" class="sidebar">
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-branding">
+				<a href="index.html" class="custom-logo-link" rel="home" itemprop="url"><img width="248" height="248" src="wp-content/uploads/2016/04/cropped-Manneken_Pis_Blog_Bruselas_Ricardo_Imbern-248.jpg" class="custom-logo" alt="" itemprop="logo" srcset="wp-content/uploads/2016/04/cropped-Manneken_Pis_Blog_Bruselas_Ricardo_Imbern-248.jpg 248w, wp-content/uploads/2016/04/cropped-Manneken_Pis_Blog_Bruselas_Ricardo_Imbern-248-150x150.jpg 150w" sizes="(max-width: 248px) 100vw, 248px" /></a>						<p class="site-title"><a href="index.html" rel="home">Blog Bruselas en español</a></p>
+											<p class="site-description">El blog-guía escrito por españoles en Bruselas para los hispanoparlantes que viven aquí y para los turistas que aprovechan los vuelos baratos para descubrir el chocolate, la cerveza, la Grand Place y tantas otras cosas buenas.</p>
+									<button class="secondary-toggle">Menú y widgets</button>
+			</div><!-- .site-branding -->
+		</header><!-- .site-header -->
+
+			<div id="secondary" class="secondary">
+
+		
+		
+					<div id="widget-area" class="widget-area" role="complementary">
+				<aside id="text-3" class="widget widget_text"><h2 class="widget-title">Blog Bruselas es</h2>			<div class="textwidget"><p>Un <strong>blog en español escrito en Bruselas</strong> por unos enamorados de la capital de Bélgica, corazón mágico de Europa. Una ciudad pequeña y grande, llena de gente, comida, eventos y rincones encantadores; para descubrir y disfrutar sin dejarse aguar la fiesta por el tiempo (no es tan malo). </p>
+<p>Para quienes pasan por Bruselas, porque vienen de visita, de turismo o tienen la suerte de vivir aquí. Sí quieres conocer más que los hoteles en Bruselas, aprovecha los vuelos baratos y <strong>vive la ciudad</strong>.</p>
+<p>Blog Bruselas es el bebé de <a href="http://www.ramonsuarez.com">Ramón Suárez</a>, bruseleño convencido desde 2003.</p>
+</div>
+		</aside><aside id="text-16" class="widget widget_text"><h2 class="widget-title">Espacios de trabajo compartido</h2>			<div class="textwidget"><a href="http://www.betacowork.com">Betacowork Coworking Bruselas</a>
+<a href="http://coworkingbelgium.com">Mapa de espacios de coworking en Bélgica</a></div>
+		</aside>	<aside id="pt-recent-video" class="widget wid_recent_video">		<h2 class="widget-title">Último vídeo</h2>		<ul>
+					</ul>
+	</aside>	<li></li>        <aside id="text-8" class="widget widget_text"><h2 class="widget-title">Asociados con Hispagenda, la guía digital de los españoles en Bélgica</h2>			<div class="textwidget"><a href="http://www.hispagenda.com"><img width="250" height="100" title="Hispagenda, la guía digital de los españoles en Bélgica" alt="Hispagenda,la guía digital de los españoles en Bélgica" class="attachment-medium" src="wp-content/uploads/2010/04/Hispagenda-250px.gif"/></a></div>
+		</aside><aside id="text-13" class="widget widget_text"><h2 class="widget-title">Más sobre Bruselas en otros idiomas</h2>			<div class="textwidget"><p><a href="http://www.agenda.be">Agenda.be</a> FR NL<br />
+<a href="http://www.bxlblog.be/">Bruxelles Blog</a> FR<br />
+<a href="http://www.betacowork.com/events/">Eventos para emprendedores y freelance en Bruselas</a><br />
+<a href="http://groups.yahoo.com/group/TheNetworkBrussels/">The Network Brussels</a> EN<br />
+<a href="http://www.whatsupin.be/">What's up in Belgium</a> EN</p>
+</div>
+		</aside><aside id="text-14" class="widget widget_text"><h2 class="widget-title">Más sobre Bélgica en Español</h2>			<div class="textwidget"><a href="http://www.spaniards.es/paises/belgica">Spaniards en Bélgica</a></div>
+		</aside>			</div><!-- .widget-area -->
+		
+	</div><!-- .secondary -->
+
+	</div><!-- .sidebar -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+<article id="post-3075" class="post-3075 post type-post status-publish format-standard hentry category-comer-y-beber category-destacados category-gran-bruselas tag-asbru tag-asturianos-en-bruselas tag-espicha tag-fiesta-bruselas">
+	
+	<header class="entry-header">
+		<h1 class="entry-title">ASBRU cumple 5 años</h1>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<figure id="attachment_3076" style="width: 450px" class="wp-caption alignnone"><a rel="attachment wp-att-3076" href="http://www.blogbruselas.com/2010/09/asbru-cumple-5-anos.html/front-2"><img class="size-medium wp-image-3076" src="wp-content/uploads/2010/09/front-450x219.jpg" alt="Flyer Fiesta Asbru" width="450" height="219" srcset="wp-content/uploads/2010/09/front-450x219.jpg 450w, wp-content/uploads/2010/09/front-150x73.jpg 150w, wp-content/uploads/2010/09/front-1024x498.jpg 1024w, wp-content/uploads/2010/09/front.jpg 1215w" sizes="(max-width: 450px) 100vw, 450px" /></a><figcaption class="wp-caption-text">Flyer Fiesta Asbru</figcaption></figure>
+<p>Una de las asociaciones de asturianos más activas de Bruselas cumple 5 años de vida y lo celebra el 1 de octubre en<a href="http://maps.google.es/maps?f=q&amp;source=s_q&amp;hl=es&amp;geocode=&amp;q=la+tentation,+bruxelles&amp;sll=40.396764,-3.713379&amp;sspn=8.19763,19.753418&amp;ie=UTF8&amp;hq=la+tentation,&amp;hnear=Bruselas,+B%C3%A9lgica&amp;ll=50.853182,4.352818&amp;spn=0.013276,0.038581&amp;t=h&amp;z=15&amp;iwloc=B"> La Tentación.</a> El acto se presenta variado y repleto de contenido.</p>
+<p>Empiezan a las 20h con una espicha o reunión festiva asturiana para romper o espichar un tonel de sidra. Por supuesto habra comida y pinchos varios: embutidos, quesos, empanada de carne y de bonito</p>
+<p>A las 22h comienza la fiesta con música de baile y con su tradicional sorteo de viaje a asturias para 2 personas.</p>
+<p>Durante la espicha y la fiesta, los asistentes podrán asistir a la muestra &#8220;EX-Posters. Cinco años en cartelera&#8221;, que se realiza gracias al apoyo de la Agencia Asturiana de Emigración. En ella han reunido los mejores pósters de las actividades de ASBRU y el autor de los mismos, Moncho Sejas, estará presente en los festejos del 5° aniversario.</p>
+<div class='yarpp-related yarpp-related-none'>
+<p>Parece que no hay ningún artículo relacionado en Blog Bruselas</p>
+</div>
+	</div><!-- .entry-content -->
+
+	
+<div class="author-info">
+	<h2 class="author-heading">Publicado por</h2>
+	<div class="author-avatar">
+		<img alt='' src='http://2.gravatar.com/avatar/2b02ff76fdfd0b21c2d44cbc7c363ac5?s=56&#038;d=blank&#038;r=pg' srcset='http://2.gravatar.com/avatar/2b02ff76fdfd0b21c2d44cbc7c363ac5?s=112&amp;d=blank&amp;r=pg 2x' class='avatar avatar-56 photo' height='56' width='56' />	</div><!-- .author-avatar -->
+
+	<div class="author-description">
+		<h3 class="author-title">Manuel Pueyo</h3>
+
+		<p class="author-bio">
+			Manuel Pueyo. Licenciado en Derecho. Ha trabajado en comunicación web para las instituciones europeas en empresas como Tipik o Scholz &amp; Friends.
+
+En paralelo, se lia organizando eventos y fiestas así como diversos proyectos de cooperación cultural internacional.  Mas información en www.oole.eu.			<a class="author-link" href="blog/author/easysun/index.html" rel="author">
+				Ver todas las entradas de Manuel Pueyo			</a>
+		</p><!-- .author-bio -->
+
+	</div><!-- .author-description -->
+</div><!-- .author-info -->
+
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Publicado el </span><a href="index.html?p=3075" rel="bookmark"><time class="entry-date published" datetime="2010-09-13T17:02:25+00:00">13/09/2010</time><time class="updated" datetime="2010-09-13T18:34:21+00:00">13/09/2010</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Autor </span><a class="url fn n" href="blog/author/easysun/index.html">Manuel Pueyo</a></span></span><span class="cat-links"><span class="screen-reader-text">Categorías </span><a href="blog/category/comer-y-beber/index.html" rel="category tag">Comer y beber</a>, <a href="blog/category/destacados/index.html" rel="category tag">Destacados</a>, <a href="blog/category/gran-bruselas/index.html" rel="category tag">Gran Bruselas</a></span><span class="tags-links"><span class="screen-reader-text">Etiquetas </span><a href="blog/tag/asbru/index.html" rel="tag">asbru</a>, <a href="blog/tag/asturianos-en-bruselas/index.html" rel="tag">asturianos en bruselas</a>, <a href="blog/tag/espicha/index.html" rel="tag">espicha</a>, <a href="blog/tag/fiesta-bruselas/index.html" rel="tag">fiesta bruselas</a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+<div id="disqus_thread">
+            <div id="dsq-content">
+
+
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1" id="dsq-comment-1839">
+        <div id="dsq-comment-header-1839" class="dsq-comment-header">
+            <cite id="dsq-cite-1839">
+                <a id="dsq-author-user-1839" href="http://asbru.blogspot.com" target="_blank" rel="nofollow">ASBRU</a>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1839" class="dsq-comment-body">
+            <div id="dsq-comment-message-1839" class="dsq-comment-message"><p>Más información en nuestro blog (asbru.blogspot.com) o en facebook (www.facebook.com/asbru)</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+
+	<nav class="navigation post-navigation" role="navigation">
+		<h2 class="screen-reader-text">Navegación de entradas</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="index.html?p=3072" rel="prev"><span class="meta-nav" aria-hidden="true">Anterior</span> <span class="screen-reader-text">Entrada anterior:</span> <span class="post-title">Cosas Belgas (II)</span></a></div><div class="nav-next"><a href="index.html?p=3098" rel="next"><span class="meta-nav" aria-hidden="true">Siguiente</span> <span class="screen-reader-text">Entrada siguiente:</span> <span class="post-title">Jornadas de Puertas abiertas en el IRPA</span></a></div></div>
+	</nav>
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+
+	</div><!-- .site-content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+						<a href="https://es.wordpress.org/">Creado con WordPress</a>
+		</div><!-- .site-info -->
+	</footer><!-- .site-footer -->
+
+</div><!-- .site -->
+
+<link rel='stylesheet' id='yarppRelatedCss-css'  href='wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=4.7.3' type='text/css' media='all' />
+<script type='text/javascript' src='wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js?ver=20141010'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expande el men\u00fa inferior<\/span>","collapse":"<span class=\"screen-reader-text\">plegar men\u00fa inferior<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/themes/twentyfifteen/js/functions.js?ver=20150330'></script>
+<script type='text/javascript' src='wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"platform":"wordpress@4.7.3","language":""},"disqusIdentifier":"3075 http:\/\/www.blogbruselas.com\/?p=3075","disqusShortname":"blog-bruselas","disqusTitle":"ASBRU cumple 5 a\u00f1os","disqusUrl":"http:\/\/www.blogbruselas.com\/blog\/2010\/09\/13\/asbru-cumple-5-anos\/","options":{"manualSync":false},"postId":"3075"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/disqus-comment-system/media/js/disqus.js?ver=4.7.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"blog-bruselas"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.7.3'></script>
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.424 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-03-07 10:56:46 -->
+
+<!-- super cache -->

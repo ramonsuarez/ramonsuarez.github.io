@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="es-ES" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.blogbruselas.com/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://www.blogbruselas.com/wp-content/themes/twentyfifteen/js/html5.js"></script>
+	<![endif]-->
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>¿Quieres participar en Blog Bruselas? &#8211; Blog Bruselas en español</title>
+<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Blog Bruselas en español &raquo; Feed" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Blog Bruselas en español &raquo; RSS de los comentarios" href="comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Blog Bruselas en español &raquo; ¿Quieres participar en Blog Bruselas? RSS de los comentarios" href="blog/2009/06/05/quieres-participar-en-blog-bruselas/feed/index.html" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.blogbruselas.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='yarppWidgetCss-css'  href='wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-language-css'  href='wp-content/plugins/wordpress-language/res/css/style.css?ver=1.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='wp-content/themes/twentyfifteen/genericons/genericons.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-style-css'  href='wp-content/themes/twentyfifteen/style.css?ver=4.7.3' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfifteen-ie-css'  href='http://www.blogbruselas.com/wp-content/themes/twentyfifteen/css/ie.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentyfifteen-ie7-css'  href='http://www.blogbruselas.com/wp-content/themes/twentyfifteen/css/ie7.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Descubriendo a Concha Buika' href='index.html?p=349' />
+<link rel='next' title='Cataratas en el centro de Bruselas' href='index.html?p=351' />
+<meta name="generator" content="WordPress 4.7.3" />
+<link rel='shortlink' href='index.html?p=350' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed?url=http%253A%252F%252Fwww.blogbruselas.com%252Fblog%252F2009%252F06%252F05%252Fquieres-participar-en-blog-bruselas%252F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed?url=http%253A%252F%252Fwww.blogbruselas.com%252Fblog%252F2009%252F06%252F05%252Fquieres-participar-en-blog-bruselas%252F&amp;format=xml" />
+<!-- Start Of Script Generated By Post-Thumb Revisited Library -->
+	<script type="text/javascript" src="wp-content/plugins/alakhnors-post-thumb/js/xfade2.js"></script>
+	<link rel="stylesheet" href="wp-content/plugins/alakhnors-post-thumb/js/slideshow.css" type="text/css" media="screen" />
+	<!-- End Of Script Generated By Post-Thumb Revisited Library -->
+
+<!-- Subscribe Sidebar widget -->
+<link rel="stylesheet" href="wp-content/plugins/subscribe-sidebar/subscribe_sidebar.css" type="text/css" media="screen" />
+<link rel='stylesheet' type='text/css' href='wp-content/plugins/subscription-options/suboptions.css' />
+<link rel="icon" href="wp-content/uploads/2016/04/cropped-Manneken_Pis_Blog_Bruselas_Ricardo_Imbern-512-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/2016/04/cropped-Manneken_Pis_Blog_Bruselas_Ricardo_Imbern-512-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="wp-content/uploads/2016/04/cropped-Manneken_Pis_Blog_Bruselas_Ricardo_Imbern-512-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://www.blogbruselas.com/wp-content/uploads/2016/04/cropped-Manneken_Pis_Blog_Bruselas_Ricardo_Imbern-512-270x270.jpg" />
+</head>
+
+<body class="post-template-default single single-post postid-350 single-format-standard wp-custom-logo">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="index.html?p=350#content">Saltar al contenido</a>
+
+	<div id="sidebar" class="sidebar">
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-branding">
+				<a href="index.html" class="custom-logo-link" rel="home" itemprop="url"><img width="248" height="248" src="wp-content/uploads/2016/04/cropped-Manneken_Pis_Blog_Bruselas_Ricardo_Imbern-248.jpg" class="custom-logo" alt="" itemprop="logo" srcset="wp-content/uploads/2016/04/cropped-Manneken_Pis_Blog_Bruselas_Ricardo_Imbern-248.jpg 248w, wp-content/uploads/2016/04/cropped-Manneken_Pis_Blog_Bruselas_Ricardo_Imbern-248-150x150.jpg 150w" sizes="(max-width: 248px) 100vw, 248px" /></a>						<p class="site-title"><a href="index.html" rel="home">Blog Bruselas en español</a></p>
+											<p class="site-description">El blog-guía escrito por españoles en Bruselas para los hispanoparlantes que viven aquí y para los turistas que aprovechan los vuelos baratos para descubrir el chocolate, la cerveza, la Grand Place y tantas otras cosas buenas.</p>
+									<button class="secondary-toggle">Menú y widgets</button>
+			</div><!-- .site-branding -->
+		</header><!-- .site-header -->
+
+			<div id="secondary" class="secondary">
+
+		
+		
+					<div id="widget-area" class="widget-area" role="complementary">
+				<aside id="text-3" class="widget widget_text"><h2 class="widget-title">Blog Bruselas es</h2>			<div class="textwidget"><p>Un <strong>blog en español escrito en Bruselas</strong> por unos enamorados de la capital de Bélgica, corazón mágico de Europa. Una ciudad pequeña y grande, llena de gente, comida, eventos y rincones encantadores; para descubrir y disfrutar sin dejarse aguar la fiesta por el tiempo (no es tan malo). </p>
+<p>Para quienes pasan por Bruselas, porque vienen de visita, de turismo o tienen la suerte de vivir aquí. Sí quieres conocer más que los hoteles en Bruselas, aprovecha los vuelos baratos y <strong>vive la ciudad</strong>.</p>
+<p>Blog Bruselas es el bebé de <a href="http://www.ramonsuarez.com">Ramón Suárez</a>, bruseleño convencido desde 2003.</p>
+</div>
+		</aside><aside id="text-16" class="widget widget_text"><h2 class="widget-title">Espacios de trabajo compartido</h2>			<div class="textwidget"><a href="http://www.betacowork.com">Betacowork Coworking Bruselas</a>
+<a href="http://coworkingbelgium.com">Mapa de espacios de coworking en Bélgica</a></div>
+		</aside>	<aside id="pt-recent-video" class="widget wid_recent_video">		<h2 class="widget-title">Último vídeo</h2>		<ul>
+					</ul>
+	</aside>	<li></li>        <aside id="text-8" class="widget widget_text"><h2 class="widget-title">Asociados con Hispagenda, la guía digital de los españoles en Bélgica</h2>			<div class="textwidget"><a href="http://www.hispagenda.com"><img width="250" height="100" title="Hispagenda, la guía digital de los españoles en Bélgica" alt="Hispagenda,la guía digital de los españoles en Bélgica" class="attachment-medium" src="wp-content/uploads/2010/04/Hispagenda-250px.gif"/></a></div>
+		</aside><aside id="text-13" class="widget widget_text"><h2 class="widget-title">Más sobre Bruselas en otros idiomas</h2>			<div class="textwidget"><p><a href="http://www.agenda.be">Agenda.be</a> FR NL<br />
+<a href="http://www.bxlblog.be/">Bruxelles Blog</a> FR<br />
+<a href="http://www.betacowork.com/events/">Eventos para emprendedores y freelance en Bruselas</a><br />
+<a href="http://groups.yahoo.com/group/TheNetworkBrussels/">The Network Brussels</a> EN<br />
+<a href="http://www.whatsupin.be/">What's up in Belgium</a> EN</p>
+</div>
+		</aside><aside id="text-14" class="widget widget_text"><h2 class="widget-title">Más sobre Bélgica en Español</h2>			<div class="textwidget"><a href="http://www.spaniards.es/paises/belgica">Spaniards en Bélgica</a></div>
+		</aside>			</div><!-- .widget-area -->
+		
+	</div><!-- .secondary -->
+
+	</div><!-- .sidebar -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+<article id="post-350" class="post-350 post type-post status-publish format-standard hentry category-blogs">
+	
+	<header class="entry-header">
+		<h1 class="entry-title">¿Quieres participar en Blog Bruselas?</h1>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://lh5.ggpht.com/_m9ESRqvSnjc/SiljlB1bGUI/AAAAAAAACdE/bTNN0LHTmYE/s400/Pagina%20de%20Blog%20Bruselas.png"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 70px; height: 400px;" src="http://lh5.ggpht.com/_m9ESRqvSnjc/SiljlB1bGUI/AAAAAAAACdE/bTNN0LHTmYE/s400/Pagina%20de%20Blog%20Bruselas.png" alt="" border="0" /></a>He decidido abrir el blog a otras voces, para poder compartir el interés por Bruselas con otros blogueros y blogueras.  Creo que juntando diferentes visiones, personalidades e intereses podemos dar una visión de Bruselas y de lo que es la vida aquí desde una perspectiva hispana.</p>
+<p>¿Requisitos? Tener ganas de escribir, fotografíar o filmar las cosas que pasan por esta pequeña gran ciudad, o las que han pasado y que te parece interesante compartir desde un punto de vista histórico, urbanístico o como una simple anécdota. No hace falta tener un blog propio, pero sí ganas de participar regularmente en la creación de Blog Bruselas. Los que tengan blog propio pero quieran reservarlo para otros temas tienen aquí la oportunidad de participar en un proyecto más comunitario.</p>
+<p>Sí, a no ser que se monte una revolución en contra, creo que va siendo hora de cambiarle el nombre al blog. Lo de Blog Bruselas lo tengo claro por el contenido, pero siempre se pueden añadir coletillas del tipo &#8220;comer, hablar, amar en la capital de Europa&#8221;. Y no es el único cambio, ya anuncié el cambio de plataforma bloguera y dentro de poco espero que podamos estrenar maqueta nueva. Si tienes dotes artísticas y quieres colaborar, lo primero va a ser hacer una cabecera nueva 😉</p>
+<p>Por supuesto, cada uno escribirá con su nombre o alias preferido y tendrá un perfil de presentación propio.</p>
+<p>¿Te animas? Deja un comentario a este mensaje o mándame un correo a comerhablaramar arrobado en gmail con un puntito com</p>
+<div class="blogger-post-footer">Comer, hablar, amar. www.blogbruselas.com</div>
+<div class='yarpp-related yarpp-related-none'>
+<p>Parece que no hay ningún artículo relacionado en Blog Bruselas</p>
+</div>
+	</div><!-- .entry-content -->
+
+	
+<div class="author-info">
+	<h2 class="author-heading">Publicado por</h2>
+	<div class="author-avatar">
+		<img alt='' src='http://1.gravatar.com/avatar/df8036046c12f28446f55958f197ed7d?s=56&#038;d=blank&#038;r=pg' srcset='http://1.gravatar.com/avatar/df8036046c12f28446f55958f197ed7d?s=112&amp;d=blank&amp;r=pg 2x' class='avatar avatar-56 photo' height='56' width='56' />	</div><!-- .author-avatar -->
+
+	<div class="author-description">
+		<h3 class="author-title">Ramón Suárez</h3>
+
+		<p class="author-bio">
+			Soy un español que tiene la suerte de llevar disfrutando Bruselas desde septiembre de 2003. Llegué para un trabajo temporal, como tantos, y acabé quedándome. 
+
+Este blog comenzó como una aventura personal para ir transformándose poco a poco en una especie de diario o <a href="index.html">guía de Bruselas</a>, abierta a otros autores y en la que tratamos de mostrar cosas que hacer y ver en esta pequeña gran ciudad, cada uno con nuestra visión personal.
+
+En los ratos ocupados soy un profesional del marketing y la estrategia de negocios en Internet. Como no, también he comenzado un blog profesional sobre temas de <a href="http://ramonsuarez.com">marketing y empresariado en Internet</a>.
+
+Podéis encontrarme en Twitter con estas dos cuentas que muestran dos perfiles perfiles: <a href="http://twitter.com/blogbruselas">@blogbruselas<a> y <a href="http://twitter.com/ramonsuarez">@ramonsuarez</a>.
+
+<strong>Sí tienes preguntas sobre Bruselas es mejor que las hagas en la página de <a href="http://www.facebook.com/blogbruselas">Blog Bruselas en Facebook</a></strong>. Somos más de mil y tendrás muchas más personas que podrán ayudarte.
+
+Si quieres ponerte en contacto conmigo para colaborar con el blog, enviar información o hacerte esponsor de <a href="index.html">Blog Bruselas</a>, manda un correo electrónico a blogbruselas arrobado en gmail con un puntito com.			<a class="author-link" href="blog/2010/04/30/index.html?author=2" rel="author">
+				Ver todas las entradas de Ramón Suárez			</a>
+		</p><!-- .author-bio -->
+
+	</div><!-- .author-description -->
+</div><!-- .author-info -->
+
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Publicado el </span><a href="index.html?p=350" rel="bookmark"><time class="entry-date published updated" datetime="2009-06-05T20:17:00+00:00">05/06/2009</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Autor </span><a class="url fn n" href="blog/2010/04/30/index.html?author=2">Ramón Suárez</a></span></span><span class="cat-links"><span class="screen-reader-text">Categorías </span><a href="blog/category/blogs/index.html" rel="category tag">Blogs</a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+<div id="disqus_thread">
+            <div id="dsq-content">
+
+
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1" id="dsq-comment-666">
+        <div id="dsq-comment-header-666" class="dsq-comment-header">
+            <cite id="dsq-cite-666">
+                <span id="dsq-author-user-666">Anonymous</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-666" class="dsq-comment-body">
+            <div id="dsq-comment-message-666" class="dsq-comment-message"><p>Me parece muy buena idea y me gustaría participar en el nuevo blog en tanto que músico desde las facetas de la música tanto clásica como popular o como implicado también en la tarea de las letras.<br />José Miguel Arranz</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-667">
+        <div id="dsq-comment-header-667" class="dsq-comment-header">
+            <cite id="dsq-cite-667">
+                <span id="dsq-author-user-667">Comer, hablar, amar</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-667" class="dsq-comment-body">
+            <div id="dsq-comment-message-667" class="dsq-comment-message"><p>Fantástico José Miguel. ¿Me puedes mandar un correo con tus detalles de contacto? Gracias.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-668">
+        <div id="dsq-comment-header-668" class="dsq-comment-header">
+            <cite id="dsq-cite-668">
+                <span id="dsq-author-user-668">Ricardo Imbern</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-668" class="dsq-comment-body">
+            <div id="dsq-comment-message-668" class="dsq-comment-message"><p>Hola Ramón, ahora estoy muy liado con proyectos personales pero intentaré sacar algo de tiempo para diseñarte una propuesta de cabecera.</p>
+<p>Un abrazo</p>
+<p>Ciao</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-669">
+        <div id="dsq-comment-header-669" class="dsq-comment-header">
+            <cite id="dsq-cite-669">
+                <span id="dsq-author-user-669">Comer, hablar, amar</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-669" class="dsq-comment-body">
+            <div id="dsq-comment-message-669" class="dsq-comment-message"><p>Muchas gracias Ricardo 🙂</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-670">
+        <div id="dsq-comment-header-670" class="dsq-comment-header">
+            <cite id="dsq-cite-670">
+                <span id="dsq-author-user-670">Anonymous</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-670" class="dsq-comment-body">
+            <div id="dsq-comment-message-670" class="dsq-comment-message"><p>Hola ramon, me parece dos ideas estupendas. Ayer mismo estuve tomando un te en yeah de ball y la camarera se apunta a contribuir. Hay que ir a hablar con ella porque esta muy muy puesta en temas y cosas que pasan por aqui.<br />Roska</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-671">
+        <div id="dsq-comment-header-671" class="dsq-comment-header">
+            <cite id="dsq-cite-671">
+                <span id="dsq-author-user-671">Edu</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-671" class="dsq-comment-body">
+            <div id="dsq-comment-message-671" class="dsq-comment-message"><p>Hola, me parece muy buena idea y me gustaría participar. Yo trabajo en el estudio y salvaguarda del patrimonio artístico.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-672">
+        <div id="dsq-comment-header-672" class="dsq-comment-header">
+            <cite id="dsq-cite-672">
+                <span id="dsq-author-user-672">Comer, hablar, amar</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-672" class="dsq-comment-body">
+            <div id="dsq-comment-message-672" class="dsq-comment-message"><p>@Edu Mándame un email con tu teléfono para que hablemos de como hacerlo 🙂</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-673">
+        <div id="dsq-comment-header-673" class="dsq-comment-header">
+            <cite id="dsq-cite-673">
+                <span id="dsq-author-user-673">Almudena (Sueño con Palabras)</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-673" class="dsq-comment-body">
+            <div id="dsq-comment-message-673" class="dsq-comment-message"><p>Hola Ramón&#8230;Yo para escribir siempre me apunto. Si quieres puedo colaborar con algunos relatos o poesía en relación a Bruselas&#8230;No tengo todavía nada escrito, aunque siempre he pensado en hacer un poema un poema a la cuesta del parque Botanique. No sé me parece muy interesante la revoltera que se forma ahí en días de viento. La has visto? Incleible;  vuelan, hojas de árboles con hojas de periódicos con basurilla &#8230; todo esto forma un poema en el aire.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-674">
+        <div id="dsq-comment-header-674" class="dsq-comment-header">
+            <cite id="dsq-cite-674">
+                <span id="dsq-author-user-674">Ramón</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-674" class="dsq-comment-body">
+            <div id="dsq-comment-message-674" class="dsq-comment-message"><p>Hola Almudena. Estoy deseando ver lo que escribes sobre Bruselas 🙂 Me gustó mucho tu último relato corto (La lavandería). Una pena no haber podido dejarte un comentario directamente en el blog 🙂</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-675">
+        <div id="dsq-comment-header-675" class="dsq-comment-header">
+            <cite id="dsq-cite-675">
+                <span id="dsq-author-user-675">PabloElFlamenco</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-675" class="dsq-comment-body">
+            <div id="dsq-comment-message-675" class="dsq-comment-message"><p>Hola chic@s Hispabruxellenses.  De primero, pienso que es una muy buena idea de restablecer lazos muy históricos con esas provincias por cierto muy rebeldes pero también, por la acción de los tiempos nuevos Européos, muy abiertos.  Vale, vamos a tomar una caña.<br />En paralelo, temo que para que yo personalmente escribiría (gracias, &quot;Los Verbos españoles&quot;) con periodicidad, habría que permitir nuevos conceptos en la lengua Castellana, renovar las reglas las mas estrictas de la gramática y suplicar a Doña María Moliner a redactar una nueva versión totalmente renovada y interactive de su famoso diccionario de uso del español.<br />Sería un privilegio, Ramón, participar de cual forma que podría a su proyecto, incluido de buena fé en lo del Flamenco representando la ciudad capital de nuestro pais, no, de nuestra nación Européa.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-676">
+        <div id="dsq-comment-header-676" class="dsq-comment-header">
+            <cite id="dsq-cite-676">
+                <span id="dsq-author-user-676">Ramón</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-676" class="dsq-comment-body">
+            <div id="dsq-comment-message-676" class="dsq-comment-message"><p>Gracias Pablo. Espero que aproveches el ímpetu y te vuelvas a lanzar con tu blog 😉 Cuento contigo para las quedadas y los comentarios sin ninguna duda. ¿Qué armamos para la próxima?</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+
+	<nav class="navigation post-navigation" role="navigation">
+		<h2 class="screen-reader-text">Navegación de entradas</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="index.html?p=349" rel="prev"><span class="meta-nav" aria-hidden="true">Anterior</span> <span class="screen-reader-text">Entrada anterior:</span> <span class="post-title">Descubriendo a Concha Buika</span></a></div><div class="nav-next"><a href="index.html?p=351" rel="next"><span class="meta-nav" aria-hidden="true">Siguiente</span> <span class="screen-reader-text">Entrada siguiente:</span> <span class="post-title">Cataratas en el centro de Bruselas</span></a></div></div>
+	</nav>
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+
+	</div><!-- .site-content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+						<a href="https://es.wordpress.org/">Creado con WordPress</a>
+		</div><!-- .site-info -->
+	</footer><!-- .site-footer -->
+
+</div><!-- .site -->
+
+<link rel='stylesheet' id='yarppRelatedCss-css'  href='wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=4.7.3' type='text/css' media='all' />
+<script type='text/javascript' src='wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js?ver=20141010'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expande el men\u00fa inferior<\/span>","collapse":"<span class=\"screen-reader-text\">plegar men\u00fa inferior<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/themes/twentyfifteen/js/functions.js?ver=20150330'></script>
+<script type='text/javascript' src='wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"platform":"wordpress@4.7.3","language":""},"disqusIdentifier":"350 http:\/\/www.blogbruselas.com\/2009\/06\/%c2%bfquieres-participar-en-blog-bruselas.html","disqusShortname":"blog-bruselas","disqusTitle":"\u00bfQuieres participar en Blog Bruselas?","disqusUrl":"http:\/\/www.blogbruselas.com\/blog\/2009\/06\/05\/quieres-participar-en-blog-bruselas\/","options":{"manualSync":false},"postId":"350"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/disqus-comment-system/media/js/disqus.js?ver=4.7.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"blog-bruselas"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.7.3'></script>
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.347 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-03-07 11:25:05 -->
+
+<!-- super cache -->
