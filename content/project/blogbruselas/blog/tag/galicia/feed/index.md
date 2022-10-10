@@ -1,0 +1,160 @@
+galicia -- Blog Bruselas en español
+
+http://www.blogbruselas.com El blog-guía escrito por españoles en
+Bruselas para los hispanoparlantes que viven aquí y para los turistas
+que aprovechan los vuelos baratos para descubrir el chocolate, la
+cerveza, la Grand Place y tantas otras cosas buenas. Sun, 13 Nov 2016
+17:05:48 +0000 es-ES hourly 1 https://wordpress.org/?v=4.7.3
+http://www.blogbruselas.com/wp-content/uploads/2016/04/cropped-Manneken\_Pis\_Blog\_Bruselas\_Ricardo\_Imbern-512-32x32.jpg
+
+galicia -- Blog Bruselas en español
+
+http://www.blogbruselas.com 32 32
+
+Una exposición proyección y concierto cubrirán el tema de la Emigración
+Gallega en el S.XX
+
+http://www.blogbruselas.com/blog/2010/01/28/una-exposicion-proyeccion-y-concierto-cubriran-el-tema-de-la-emigracion-gallega-en-el-s-xx/
+Thu, 28 Jan 2010 15:22:48 +0000 Manuel Pueyo Artes centro galego de
+bruxelas centro gallego de bruselas concierto Isga Collective Bruselas
+emigración emigracion gallega galicia hacer las américas Isga Collective
+las migraciones gallegas y el audivisual
+http://www.blogbruselas.com/?p=1334 El fin de semana del 4 al 7 de
+Febrero, en la Maison des Cultures de Saint Gilles, tendrá lugar un
+conjunto de actividades de distinta naturaleza en torno al tema de la
+emigración gallega en el siglo XX. Una conferencia y una exposición
+hablarán de las formas de asociacionismo que los gallegos ejercían en
+&\#8230; \<a
+href=\"http://www.blogbruselas.com/blog/2010/01/28/una-exposicion-proyeccion-y-concierto-cubriran-el-tema-de-la-emigracion-gallega-en-el-s-xx/\"
+class=\"more-link\"\>Continúa leyendo \<span
+class=\"screen-reader-text\"\>Una exposición proyección y concierto
+cubrirán el tema de la Emigración Gallega en el S.XX\</span\>\</a\>\<div
+class=\'yarpp-related-rss yarpp-related-none\'\> No related posts.
+\</div\> \<p\>El fin de semana del 4 al 7 de Febrero, en la \<a
+href=\"http://www.stgillesculture.irisnet.be/index\_fr.php\"\>Maison des
+Cultures de Saint Gilles\</a\>, tendrá lugar un conjunto de actividades
+de distinta naturaleza en torno al tema de la emigración gallega en el
+siglo XX. Una conferencia y una exposición hablarán de las formas de
+asociacionismo que los gallegos ejercían en los paises de acogida. El
+sábado 6 y el domingo 7 se proyectarán varios documentales
+magistralmente escogidos por el coordinador del evento David Asenjo del
+\<a href=\"http://www.latentation.org/sp/accueil/index.php\"\>Centro
+Galego de Bruxelas. \</a\>\</p\> \<p\>\<a rel=\"attachment wp-att-1335\"
+href=\"http://www.blogbruselas.com/2010/01/una-exposicion-proyeccion-y-concierto-cubriran-el-tema-de-la-emigracion-gallega-en-el-s-xx.html/attachment/2077\"\>\<img
+class=\"alignnone size-full wp-image-1335\"
+src=\"http://www.blogbruselas.com/wp-content/uploads/2010/01/2077.jpg\"
+alt=\"\" width=\"485\" height=\"314\"
+srcset=\"http://www.blogbruselas.com/wp-content/uploads/2010/01/2077.jpg
+668w,
+http://www.blogbruselas.com/wp-content/uploads/2010/01/2077-150x96.jpg
+150w,
+http://www.blogbruselas.com/wp-content/uploads/2010/01/2077-300x193.jpg
+300w\" sizes=\"(max-width: 485px) 100vw, 485px\" /\>\</a\>\</p\> \<p\>El
+sábado 6 de Febrero a las 20:30 tendrá lugar un concierto del grupo \<a
+href=\"http://www.myspace.com/isgacollective\"\>ISGA Collective\</a\>.
+Si hay que ponerle una etiqueta a estos chicos de Vigo, esta sería la de
+músicas del mundo con notas que miran al futuro y combinan,de forma
+equilibrada, modernidad y tradición. Son unos artistas excelentes que
+mezclan estilos y disciplinas y cuya visita a Bruselas no va a pasar
+desapercibida.\</p\> \<figure id=\"attachment\_1336\" style=\"width:
+450px\" class=\"wp-caption alignnone\"\>\<a rel=\"attachment
+wp-att-1336\"
+href=\"http://www.blogbruselas.com/2010/01/una-exposicion-proyeccion-y-concierto-cubriran-el-tema-de-la-emigracion-gallega-en-el-s-xx.html/isga-collectif\"\>\<img
+class=\"size-full wp-image-1336\"
+src=\"http://www.blogbruselas.com/wp-content/uploads/2010/01/ISGA-Collectif.jpg\"
+alt=\"ISGA Collective\" width=\"450\" height=\"320\"
+srcset=\"http://www.blogbruselas.com/wp-content/uploads/2010/01/ISGA-Collectif.jpg
+450w,
+http://www.blogbruselas.com/wp-content/uploads/2010/01/ISGA-Collectif-150x106.jpg
+150w,
+http://www.blogbruselas.com/wp-content/uploads/2010/01/ISGA-Collectif-300x213.jpg
+300w\" sizes=\"(max-width: 450px) 100vw, 450px\" /\>\</a\>\<figcaption
+class=\"wp-caption-text\"\>ISGA Collective\</figcaption\>\</figure\>
+\<div class=\'yarpp-related-rss yarpp-related-none\'\> \<p\>No related
+posts.\</p\> \</div\>
+
+De Cans a Bruselas: una cita con cine gallego
+
+http://www.blogbruselas.com/blog/2009/10/19/de-cans-a-bruselas-una-cita-con-cine-gallego/
+Mon, 19 Oct 2009 15:19:57 +0000 Manuel Pueyo Artes bruselas cine galicia
+http://www.blogbruselas.com/?p=737 Por segundo año consecutivo, Couto
+Mixto A.S.B.L dedica una jornada a presentar en Bruselas unas pinceladas
+del mejor cine hecho en Galicia en 2009. Será en el Cine Vendome
+(Chausee de Wavre 28) el jueves 29 de Octubre a las 19h. Como el año
+anterior, la fórmula empleada, será la de presentar los cortos premiados
+&\#8230; \<a
+href=\"http://www.blogbruselas.com/blog/2009/10/19/de-cans-a-bruselas-una-cita-con-cine-gallego/\"
+class=\"more-link\"\>Continúa leyendo \<span
+class=\"screen-reader-text\"\>De Cans a Bruselas: una cita con cine
+gallego\</span\>\</a\>\<div class=\'yarpp-related-rss
+yarpp-related-none\'\> No related posts. \</div\> \<p\>Por segundo año
+consecutivo, Couto Mixto A.S.B.L dedica una jornada a presentar en
+Bruselas unas pinceladas del mejor cine hecho en Galicia en 2009. Será
+en el Cine Vendome (Chausee de Wavre 28) el jueves 29 de Octubre a las
+19h.\</p\> \<p\>Como el año anterior, la fórmula empleada, será la de
+presentar los cortos premiados en el \<a
+href=\"http://www.festivaldecans.com/festival/content/view/110/102/lang,galego/\"\>Festival
+de Cans \</a\>que es un peculiar festival de cortos que se celebra en
+mayo en la parroquia de Cans (Pontevedra),  que coincide en la fecha con
+el Festival de Cannes. Precisamente la idea del festival salió de la
+similitud entre los nombres.\</p\> \<p\>Este año se proyectaran las
+siguientes producciones gallegas actuales:\</p\> \<p\>&\#8211;
+\<em\>Uruguay 2030\</em\> de Rafa de los Arcos\<br /\> &\#8211;
+\<em\>The Werepig\</em\> de Sam Orti\<br /\> &\#8211; \<em\>X
+nada\</em\> de Dani de la Torre e Toni Veiga\<br /\> &\#8211; \<em\>O
+pintor de Ceos\</em\> de Ferbando Cortizo\</p\> \<p\>\<img
+class=\"alignnone\"
+src=\"http://1.bp.blogspot.com/\_rp2UL8-iAWw/SshytMPa4II/AAAAAAAAADY/J1EPU73kEc0/s320/cartel+final+alargado+Festival+de+Cans+-version+Bruxelas+2009.JPG\"
+alt=\"\" width=\"229\" height=\"320\" /\>\</p\> \<div
+class=\'yarpp-related-rss yarpp-related-none\'\> \<p\>No related
+posts.\</p\> \</div\>
+
+Exposición Galicia 2009, Tiempo de Cómic
+
+http://www.blogbruselas.com/blog/2009/10/02/exposicion-galicia-2009-tiempo-de-comic/
+Fri, 02 Oct 2009 08:22:27 +0000 Manuel Pueyo Artes Gran Bruselas bande
+desinee bd bruselas comic galicia tebeo
+http://www.blogbruselas.com/?p=673 Galicia existe también en tebeo:
+centollos que se apegan a humanos, petroleros a la deriva y paisajes
+celtas. Pero mas allá de esta simplificación sobre todo, existe talento,
+en muchos casos muy grande, por parte de los autores y autoras del
+noroeste peninsular. Del 1 al 8 de octubre en La Maison Pelgrims. Rue de
+&\#8230; \<a
+href=\"http://www.blogbruselas.com/blog/2009/10/02/exposicion-galicia-2009-tiempo-de-comic/\"
+class=\"more-link\"\>Continúa leyendo \<span
+class=\"screen-reader-text\"\>Exposición Galicia 2009, Tiempo de
+Cómic\</span\>\</a\>\<div class=\'yarpp-related-rss
+yarpp-related-none\'\> No related posts. \</div\> \<p\>Galicia existe
+también en tebeo: centollos que se apegan a humanos, petroleros a la
+deriva y paisajes celtas. Pero mas allá de esta simplificación sobre
+todo, existe talento, en muchos casos muy grande, por parte de los
+autores y autoras del noroeste peninsular. Del 1 al 8 de octubre en La
+Maison Pelgrims. Rue de Parme, 69 se puede contemplar una muestra de
+ello en una exposición organizada por la \<a
+href=\"http://www.fundaciongaliciaeuropa.eu\"\>Fundación Galicia Europa.
+\</a\>\</p\> \<p\>\<img class=\"alignnone size-full wp-image-675\"
+src=\"http://www.blogbruselas.com/wp-content/uploads/2009/10/image0011.jpg\"
+alt=\"image001\" width=\"450\" height=\"212\"
+srcset=\"http://www.blogbruselas.com/wp-content/uploads/2009/10/image0011.jpg
+604w,
+http://www.blogbruselas.com/wp-content/uploads/2009/10/image0011-300x141.jpg
+300w\" sizes=\"(max-width: 450px) 100vw, 450px\" /\>\</p\> \<p\>A pesar
+de que el número de editores es escaso en Galicia, existen numerosos
+colectivos de autores de una calidad contrastada e indiscutible. Destaca
+el colectivo \<a href=\"http://www.bdbanda.com/\"\>BDBanda \</a\>,
+asociación de aficcionados que agrupa a una docena de autores y que
+lleva trabajando 5 años en la difusión del cómic en lengua gallega. Su
+trabajo les valió también el reconocimiento del Saló de Barcelona, entre
+otros.\</p\> \<p\>El colectivo \<a
+href=\"http://www.polaqiacomic.com/index.php?option=com\_content&amp;task=blogsection&amp;id=1&amp;Itemid=35\"\>Polaqia\</a\>
+congrega una docena de autores. Desde 2001 tiró alrededor de una
+veintena de títulos, mayoritariamente en formato comicbook en gallego.
+Mantiene desde hace mas de 5 años la publicación periódica Barsowia que
+va por el número 14 y tiene gran éxito de publico y critica.\</p\>
+\<p\>\<img class=\"alignnone\"
+src=\"http://farm4.static.flickr.com/3044/2397868403\_369db78343.jpg\"
+alt=\"\" width=\"450\" height=\"209\" /\>\</p\> \<p\>Vale la pena
+acercarse a la Rue de Parme en Bruselas para comprobar la creatividad de
+estos textos y la belleza de sus dibujos.\</p\> \<div
+class=\'yarpp-related-rss yarpp-related-none\'\> \<p\>No related
+posts.\</p\> \</div\>
