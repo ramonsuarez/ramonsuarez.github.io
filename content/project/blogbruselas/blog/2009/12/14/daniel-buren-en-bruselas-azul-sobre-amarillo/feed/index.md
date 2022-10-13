@@ -1,0 +1,17 @@
+Comentarios en: Daniel Buren en Bruselas: azul sobre amarillo
+
+http://www.blogbruselas.com/blog/2009/12/14/daniel-buren-en-bruselas-azul-sobre-amarillo/
+El blog-guía escrito por españoles en Bruselas para los hispanoparlantes
+que viven aquí y para los turistas que aprovechan los vuelos baratos
+para descubrir el chocolate, la cerveza, la Grand Place y tantas otras
+cosas buenas. Sat, 21 Jan 2017 04:36:00 +0000 hourly 1
+https://wordpress.org/?v=4.7.3
+
+Por: Ramón Suárez
+
+http://www.blogbruselas.com/blog/2009/12/14/daniel-buren-en-bruselas-azul-sobre-amarillo/\#comment-1050
+Ramón Suárez Mon, 14 Dec 2009 23:19:25 +0000
+http://www.blogbruselas.com/?p=1021\#comment-1050 Como vecino de esta
+obra, no puedo decir nada bueno de ella. A ver si dentro de 20 años sigo
+pensando lo mismo. \<p\>Como vecino de esta obra, no puedo decir nada
+bueno de ella. A ver si dentro de 20 años sigo pensando lo mismo.\</p\>

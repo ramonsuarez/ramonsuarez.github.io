@@ -1,0 +1,196 @@
+teatro -- Blog Bruselas en español
+
+http://www.blogbruselas.com El blog-guía escrito por españoles en
+Bruselas para los hispanoparlantes que viven aquí y para los turistas
+que aprovechan los vuelos baratos para descubrir el chocolate, la
+cerveza, la Grand Place y tantas otras cosas buenas. Sun, 13 Nov 2016
+17:05:48 +0000 es-ES hourly 1 https://wordpress.org/?v=4.7.3
+http://www.blogbruselas.com/wp-content/uploads/2016/04/cropped-Manneken\_Pis\_Blog\_Bruselas\_Ricardo\_Imbern-512-32x32.jpg
+
+teatro -- Blog Bruselas en español
+
+http://www.blogbruselas.com 32 32
+
+Festival de arte Bravo Bruselas
+
+http://www.blogbruselas.com/blog/2009/10/02/festival-de-arte-bravo-bruselas/
+Fri, 02 Oct 2009 21:13:56 +0000 Ramón Suárez Artes Gran Bruselas
+actuación arte bruselas bruxelles bravo concierto fiesta musica
+performance teatro visita http://www.blogbruselas.com/?p=690 Hace unas
+horas que ha comenzado el festival de arte Bravo Bruselas (Bruxelles
+Bravo), el cual ofrecerá durante tres días más de 110 eventos en 80
+lugares diferentes. El programa ocupa todo el día, desde bien tempranito
+hasta entrada la noche. Exposiciones, conciertos, actuaciones&\#8230; la
+selección es muy amplia (demasiado para mí a estas horas), &\#8230; \<a
+href=\"http://www.blogbruselas.com/blog/2009/10/02/festival-de-arte-bravo-bruselas/\"
+class=\"more-link\"\>Continúa leyendo \<span
+class=\"screen-reader-text\"\>Festival de arte Bravo
+Bruselas\</span\>\</a\>\<div class=\'yarpp-related-rss
+yarpp-related-none\'\> No related posts. \</div\> \<p\>\<a
+href=\"http://www.brxlbravo.be/2009/spip.php?page=programme\_cat\_en&amp;id\_mot=244810\"\>\<img
+class=\"aligncenter\" title=\"Se tiene que notar el arte hasta en como
+hinchar los globos\"
+src=\"http://www.brxlbravo.be/2009/IMG/jpg/opening\_night-large-3.jpg\"
+alt=\"\" width=\"538\" height=\"236\" /\>\</a\>Hace unas horas que ha
+comenzado el festival de arte Bravo Bruselas (\<strong\>\<a
+title=\"Festival artístico Bruxelles Bravo\"
+href=\"http://www.brxlbravo.be/2009/\" target=\"\_blank\"\>Bruxelles
+Bravo\</a\>\</strong\>), el cual ofrecerá durante tres días más de 110
+eventos en 80 lugares diferentes. El \<a title=\"Programa Bruxelles
+Bravo\"
+href=\"http://www.brxlbravo.be/2009/spip.php?page=programme\_en\"
+target=\"\_blank\"\>\<strong\>programa\</strong\>\</a\> ocupa todo el
+día, desde bien tempranito hasta entrada la noche. Exposiciones,
+conciertos, actuaciones&\#8230; la selección es muy amplia (demasiado
+para mí a estas horas), pero siempre os podéis dejar aconsejar por algún
+famoso, como el DJ \<a title=\"Darko, disc jockey electro minimalista\"
+href=\"http://www.brxlbravo.be/2009/spip.php?page=programme\_cat\_en&amp;id\_mot=245370\"
+target=\"\_blank\"\>\<strong\>Darko \</strong\>\</a\>y la diseñadora
+\<strong\>\<a title=\"Annemie Verbeke, moda femenina de Bruselas\"
+href=\"http://www.brxlbravo.be/2009/spip.php?page=programme\_cat\_en&amp;id\_mot=245363\"
+target=\"\_blank\"\>Annemie Verbeke\</a\>\</strong\>.\</p\> \<p\>No
+olvidéis que además, este fin de semana se celebran también la
+\<strong\>\<a title=\"Noche en Blanco de Bruselas 2009\"
+href=\"http://www.blogbruselas.com/2009/10/nuit-blanche-la-noche-en-blanco-de-bruselas.html\"
+target=\"\_blank\"\>Noche en Blanco\</a\>\</strong\> y el \<strong\>\<a
+title=\"El maratón de Bruselas, en español\"
+href=\"http://www.bruxelles-tourisme.be/informations/eventos\_bruxelles\_\_maraton\_de\_bruselas\_ing/es/E/41901.html\"
+target=\"\_blank\"\>Maratón de Bruselas\</a\>\</strong\>.\</p\> \<div
+class=\'yarpp-related-rss yarpp-related-none\'\> \<p\>No related
+posts.\</p\> \</div\>
+
+KVS: el Teatro Real Flamenco de Bruselas
+
+http://www.blogbruselas.com/blog/2009/09/24/kvs-el-teatro-real-flamenco-de-bruselas/
+http://www.blogbruselas.com/blog/2009/09/24/kvs-el-teatro-real-flamenco-de-bruselas/\#comments
+Thu, 24 Sep 2009 09:14:31 +0000 Eduardo Lamas Delgado Artes Gran
+Bruselas arquitectura arte bar beber belga belgica bruselas fiesta
+flamenco teatro http://www.blogbruselas.com/?p=515 El KVS es el
+Koninklijke Vlaams Schouwburg, es decir, el Teatro Real Flamenco de
+Bruselas.     Pero no os mováis a engaño; este teatro nada tiene que ver
+con el cante jondo ni con los Pink Flamingos. Se trata de uno de los más
+hermosos teatros de Bruselas y lamentablemente, y como tantas cosas
+&\#8230; \<a
+href=\"http://www.blogbruselas.com/blog/2009/09/24/kvs-el-teatro-real-flamenco-de-bruselas/\"
+class=\"more-link\"\>Continúa leyendo \<span
+class=\"screen-reader-text\"\>KVS: el Teatro Real Flamenco de
+Bruselas\</span\>\</a\>\<div class=\'yarpp-related-rss
+yarpp-related-none\'\> No related posts. \</div\> \<p\>El \<a
+href=\"http://www.kvs.be/\"\>KVS \</a\>es el Koninklijke Vlaams
+Schouwburg, es decir, el Teatro Real Flamenco de Bruselas.\</p\>
+\<p\> \</p\> \<p\> \<img
+src=\"http://www.ebru.be/Architectuur/ArchPics/archkvs.jpg\"
+border=\"0\" alt=\"Koninklijke Vlaamse Schouwburg (KVS) \| Brussel \|
+Bruxelles \| Brussels\" width=\"320\" height=\"292\" /\>\</p\> \<p\>Pero
+no os mováis a engaño; este teatro nada tiene que ver con el \<em\>cante
+jondo\</em\> ni con los \<em\>Pink Flamingos\</em\>. Se trata de uno de
+los más hermosos teatros de Bruselas y lamentablemente, y como tantas
+cosas en esta ciudad, es un absoluto desconocido para muchos.\<br /\> El
+\<a href=\"http://www.ebru.be/Architectuur/archkvs.html\"\>KVS
+\</a\> fue construido en 1880-1887, y su fachada principal se debe al
+arquitecto Jean Baes (1848-1914). Su estilo es el que aquí llaman
+"renaissance flamande". Se trata de uno de los diferentes historicismos
+que se desarrollan en esos años en cada país europeo para recrear un
+supuesto estilo "nacional" reinterpretando la arquitectura de un período
+que se supone áulico. Un ejemplo del equivalente en España son las
+fachadas del primer tramo de la Gran Vía de Madrid, donde se pretende
+recrear la arquitectura bajo el reinado de Carlos V.\</p\> \<p\>\<img
+src=\"http://blogsimages.skynet.be/images\_v2/000/000/000/20090615/dyn009\_original\_550\_365\_jpeg\_\_cd24a387b4139df704ff8f3ac3da5c5a.jpg\"
+border=\"0\" alt=\"ciel gris\" /\> \</p\> \<p\>Foto: \<a
+href=\"http://monnikonetmoi.skynetblogs.be/post/7069857/theatre-royal-flamand-de-bruxelles\"\>Mon
+Nikon et moi\</a\>\</p\> \<p\>Las terrazas laterales son las escaleras
+de incendios, avanzadísimas para la época.\</p\> \<p\>El KVS sufrió una
+profunda remodelación hace poco tiempo (se empezó en 2001), y que le ha
+dado el magnífico interior de que hoy dispone, así como el edificio
+anejo, el Box, con una sala suplementaria y donde tienen lugar muy
+buenos saraos con ese gusto que sólo tienen los flamencos.\</p\>
+\<p\>foto: \<a
+href=\"http://www.ebru.be/Architectuur/archkvs.html\"\>KVS \</a\>\<img
+style=\"margin: 0px auto 10px;width: 280px;cursor: hand;height:
+186px;text-align: center\"
+src=\"http://4.bp.blogspot.com/\_OHnSiqPrWkk/SjjrQt6fXwI/AAAAAAAAAtg/3a1Q-ECyhkw/s320/KVS\_bol\_exterior.jpg\"
+border=\"0\" alt=\"\" /\>\</p\> \<p\>La sala principal es el Bol, la
+bola, por oposición al Box, la caja. Y es que el edificio antiguo se ha
+convertido en el envoltorio de una enorme esfera de hormigón, en cuyo
+interior se encuentran los palcos y el patio de butacas. El contraste
+entre la austeridad de las partes nuevas con la decoración abigarrada de
+las antiguas tiene especial encanto muy de Bruselas.\</p\> \<p\>El
+teatro ocupa el lugar de un antiguo arsenal de artillería (1780-1781),
+del que se ha conservado la fachada principal de estilo neoclásico. Hoy
+es la fachada trasera del teatro, que da al Quai aux Pierres de
+Taille/Arduinkaai.\</p\> \<p\>\<img
+src=\"http://www.ebru.be/Architectuur/ArchPics/archkvs2.jpg\"
+border=\"0\" alt=\"Koninklijke Vlaamse Schouwburg (KVS) \| Brussel \|
+Bruxelles \| Brussels\" width=\"334\" height=\"249\" /\>\</p\> \<p\> La
+\<a
+href=\"http://www.kvs.be/index2.php?page=program&amp;discipline=1/\"\>programación
+\</a\>del \<a href=\"http://www.kvs.be/\"\>KVS \</a\>es de las más
+interesantes de Bruselas. Casi todas las obras son en neerlandés, pero
+todas tienen sobretítulos en francés y en inglés. También hay obras
+bilingües o en inglés o en francés. Y no se reduce a teatro; también hay
+danza, conciertos, conferencias, lecturas&\#8230;\</p\> \<p\>Tienen una
+declarada política de apertura al cosmopolitismo de Bruselas y hacen
+verdaderos esfuerzos por hacer del teatro un lugar para todos.\</p\>
+\<p\>Y finalmente, el bar del teatro, en el
+\<em\>\<strong\>foyer,\</strong\>\</em\> es la única zona que conserva
+la decoración original, y es sencillamente genial. El box cuenta con
+otro bar, el Café Congo, que tampoco está mal.\</p\> \<p\>\<img
+src=\"http://www.kvs.be/PHOTOS/GEBOUW/KVS-foyer-004.jpg\" alt=\"\"
+/\> \<br /\> Foto: \<a
+href=\"http://www.ebru.be/Architectuur/archkvs.html\"\>KVS \</a\>\<br
+/\> \<strong\> \</strong\>\</p\> \<p\>Por supuesto, no hay que olvidar
+tampoco el lado más lúdico, y es que el KVS también organiza fiestas en
+el espacio del BOX, fiestas con mucha clase y buena música electrónica.
+Se trata de los saraos \<a
+href=\"http://www.facebook.com/group.php?gid=58378236845&amp;ref=ts/\"\>BAL
+IN DE BOX \</a\>, que se organizan regularmente.\</p\> \<p\>\<img
+src=\"http://farm4.static.flickr.com/3047/2603865366\_0ccfe9f24e.jpg?v=0\"
+alt=\"\" /\> \<br /\> foto: \<a
+href=\"http://www.flickr.com/photos/pforret//\"\>Peter Forret
+\</a\>\</p\> \<p\>Tomad nota de la próxima: \<strong\>viernes 16 de
+octubre \</strong\>\</p\> \<p\>\<span style=\"text-decoration:
+underline\"\>Programa:\</span\>\</p\> \<p\>\<span
+style=\"text-decoration: underline\"\>\*gran sala\*\</span\>\<br /\>
+\<strong\>DJ NERO\</strong\> (Free The Funk, Suite, Poplife)\</p\>
+\<p\>23h30\<br /\> \<a href=\"http://www.madensuyu.be/\"
+target=\"\_blank\"\>MADENSUYU\</a\> &\#8211; concierto en vivo (ver \<a
+href=\"http://www.youtube.com/watch?v=mWG-cOkXYwY\"
+target=\"\_blank\"\>YouTube\</a\>)\</p\> \<p\>1h00\<br /\> \<a
+href=\"http://www.myspace.com/theglimmers\" target=\"\_blank\"\>THE
+GLIMMERS\</a\> presentan \<a
+href=\"http://www.myspace.com/diskodrunkards\" target=\"\_blank\"\>DISKO
+DRUNKARDS\</a\>\<br /\> &gt;&gt; los primeros 500 recibirán un CD
+gratis!!! (ver \<a href=\"http://www.youtube.com/watch?v=TdPAevsXUIo\"
+target=\"\_blank\"\>YouTube\</a\>)\</p\> \<p\>\<a
+href=\"http://www.myspace.com/blackjackmusicman\" target=\"\_blank\"\>DJ
+BLACKJACK aka RAKESH\</a\> (KVS, Charlatan,&\#8230;)\</p\> \<p\>\<span
+style=\"text-decoration: underline\"\>\*café congo\*\</span\>\<br /\>
+\<a href=\"http://www.myspace.com/tlptroubleman\"
+target=\"\_blank\"\>TLP all night long\</a\> (KVS,
+StuBru,&\#8230;)\</p\> \<p\>Entrada: 10 euros\</p\>
+\<p\>\<strong\> \</strong\>\</p\> \<p\>\<strong\>Un lugar que hay que
+descubrir.\<br /\> \</strong\>\</p\>
+\<div\>\<strong\> \</strong\>\</div\> \<div\>Curiosidades:\</div\>
+\<p\>Existe una curiosa anécdota en torno a la fundación del edificio en
+1887. El teatro fue construido por iniciativa del Ayuntamiento de
+Bruselas, y para invitar al rey Leopoldo II a la ceremonia de
+inauguración el burgomaestre (alcalde) se dirigió a él en estos
+términos: \<em\>\<strong\>« J'aurai l'honneur, Sire, de vous souhaiter
+la bievenue en Flamand, dans le temple érigé pour l'art dramatique
+flamand »\</strong\>\</em\> (Tendré el honor, Señor, de desearle la
+bienvenida en flamenco, en el templo dedicado al arte dramático
+flamenco), a lo que el rey respondió: \<em\>\<strong\>« Mon cher
+bourgmestre, vous m'offrez là une bonne occasion pour vous répondre dans
+cette même langue nationale, en Flamand »\</strong\>\</em\> (Mi querido
+alcalde, con ello me ofrece Vd. la ocasión de responderle en esa misma
+lengua nacional, en flamenco). Y así lo hizo, y aquella ceremonia (un 13
+de octubre, día de san Eduardo) se convirtió en algo así como en un
+reconocimiento oficial de esta lengua, aunque todavía habría mucho
+camino por hacer. De hecho, se trataba de la primera vez en que un rey
+belga hablaba en neerlandés en una ceremonia oficial. El burgomaestre en
+cuestión era Charles Buls, quien puso por primera vez los carteles
+bilingües en las calles de Bruselas; los otros municipios lo hicieron
+después.\</p\> \<div class=\'yarpp-related-rss yarpp-related-none\'\>
+\<p\>No related posts.\</p\> \</div\>
+http://www.blogbruselas.com/blog/2009/09/24/kvs-el-teatro-real-flamenco-de-bruselas/feed/
+6
