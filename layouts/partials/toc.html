@@ -1,7 +1,11 @@
 {{ if .Site }}
 <aside class="post-toc">
     <nav id="toc">
+        <h4>Sections</h4>
         {{ .TableOfContents }}
+        <br>
+        {{ partial "partials/signup.html" . }}
     </nav>
 </aside>
+
 {{ end }}
