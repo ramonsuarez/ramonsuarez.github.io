@@ -20,10 +20,6 @@ geo_address:
     - 'Brussels, Belgium'
     - 'Brussels, Belgium'
 ---
-<div class="wp-block-jetpack-contact-form"><a href="" rel="noopener noreferrer" target="_blank">Submit a form.</a>**[Get Updates From Ramon](https://ramonsuarez.com/do-you-want-to-hear-from-me/)**
-----------------------------------------------------------------------------------
-
-[Twitter](https://twitter.com/ramonsuarez) [Facebook](https://www.facebook.com/Ramon-Suarez-736506193359264/) [Linkedin](https://www.linkedin.com/in/ramonsuarez/)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-{{ partial "partials/signup.html" . }}
+### [Linkedin](https://www.linkedin.com/in/ramonsuarez/)
+### [Twitter](https://twitter.com/ramonsuarez)
+### [Facebook](https://www.facebook.com/Ramon-Suarez-736506193359264/)</h3>
