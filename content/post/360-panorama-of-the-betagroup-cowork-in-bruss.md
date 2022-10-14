@@ -1,20 +1,21 @@
 ---
-title: '180?? Panorama of the BetaGroup Cowork in Brussels'
-date: '2010-12-10T17:24:00+00:00'
-status: publish
+excerpt: via occip.it Thanks to @xdamman the newest member coming to cowork in Brussels.
+author: "@ramonsuarez"
 permalink: /360-panorama-of-the-betagroup-cowork-in-bruss
-author: '@ramonsuarez'
-excerpt: 'via occip.it Thanks to @xdamman the newest member coming to cowork in Brussels.'
+date: 2010-12-10T17:24:00+00:00
+status: publish
+post_format: []
+title: Panorama of the BetaGroup Cowork in Brussels
+tags:
+  - betagroup
+  - brussels
+  - Coworking
+  - english
+  - image
 type: post
 id: 110
-categories:
-tags:
-    - betagroup
-    - brussels
-    - Coworking
-    - english
-    - image
-post_format: []
+categories: null
+description: "A 360º panorama of the Betacowork by Xavier Damman. "
 ---
 [](http://occip.it/pyh33lhxj)
 
