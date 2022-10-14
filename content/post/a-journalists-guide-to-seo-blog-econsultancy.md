@@ -1,19 +1,21 @@
 ---
-title: 'A journalist???s guide to SEO | Blog | Econsultancy'
-date: '2009-12-01T12:29:00+00:00'
-status: publish
+excerpt: SEO is not the enemy of good writing via econsultancy.com A truth often
+  ignored by a lot of poor writers that care not about their readers
+author: "@ramonsuarez"
 permalink: /a-journalists-guide-to-seo-blog-econsultancy
-author: '@ramonsuarez'
-excerpt: 'SEO is not the enemy of good writing via econsultancy.com A truth often ignored by a lot of poor writers that care not about their readers'
+date: 2009-12-01T12:29:00+00:00
+status: publish
+post_format: []
+title: A journalist's guide to SEO | Blog | Econsultancy
+tags:
+  - english
+  - journalism
+  - seo
+  - writing
 type: post
 id: 187
-categories:
-tags:
-    - english
-    - journalism
-    - seo
-    - writing
-post_format: []
+categories: null
+description: SEO is not the enemy of good writing
 ---
 > **SEO is not the enemy of good writing**
 
