@@ -12,7 +12,7 @@ categories:
     - 'Progress Report'
     - Projects
 tags:
-    - '#FHNS'
+    - 'FHNS'
     - '12 week year'
     - '12 week year goals'
     - '12 week year review'

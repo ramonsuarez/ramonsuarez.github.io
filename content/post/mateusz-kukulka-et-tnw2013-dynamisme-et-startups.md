@@ -9,7 +9,7 @@ type: post
 id: 400
 categories:
 tags:
-    - '#tnw2013'
+    - 'tnw2013'
     - français
     - Infogram
     - interview
