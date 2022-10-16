@@ -7,3 +7,9 @@
 [submodule "themes/hugo-eureka"]
 	path = themes/hugo-eureka
 	url = git@github.com:wangchucheng/hugo-eureka.git
+[submodule "themes/ed"]
+	path = themes/ed
+	url = git@github.com:sergeyklay/gohugo-theme-ed.git
+[submodule "themes/toha"]
+	path = themes/toha
+	url = git@github.com:hugo-toha/toha.git
