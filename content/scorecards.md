@@ -3,7 +3,7 @@ title: Scorecards
 date: '2019-04-23T08:28:16+00:00'
 status: publish
 permalink: /scorecards
-author: ramon
+author: "Ramon Suarez"
 excerpt: ''
 type: post
 id: 1180

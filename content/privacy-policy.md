@@ -3,7 +3,7 @@ title: 'Terms, Conditions &#038; Privacy Policy'
 date: '2019-04-18T14:52:51+00:00'
 status: publish
 permalink: /privacy-policy
-author: ramon
+author: "Ramon Suarez"
 excerpt: ''
 type: post
 id: 3

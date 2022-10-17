@@ -3,7 +3,7 @@ title: 'My First 12 Week Year in Review'
 date: '2019-07-08T12:19:56+00:00'
 status: publish
 permalink: /my-first-12-week-year-in-review
-author: ramon
+author: "Ramon Suarez"
 excerpt: ''
 type: post
 id: 1581
