@@ -42,7 +42,7 @@ pygmentsStyle = "monokai"
     {name = "buymeacoffee", url = "https://www.buymeacoffee.com/ramonsuarez"},
   ]
   metaKeywords = ["Ramon Suarez", "entrepreneurship", "data visualization", "data analysis", "data analyst", "business intelligence", "entrepreneu", "blog", "ideas", "projects", ]
- 
+
 [menu]
   [[menu.main]]
     name = "Home"
@@ -52,7 +52,7 @@ pygmentsStyle = "monokai"
 
   [[menu.main]]
     name = "Posts"
-    pre = "<span data-feather='book'></span>"
+    pre = "<span data-feather='book-open'></span>"
     url = "/post/"
     weight = 2
 
@@ -61,7 +61,11 @@ pygmentsStyle = "monokai"
   #   pre = "<span data-feather='tag'></span>"
   #   url = "/categories/"
   #   weight = 4
-
+[[menu.main]]
+    name = "Projects"
+    pre = "<span data-feather='box'></span>"
+    url = "/project/"
+    weight = 4
   [[menu.main]]
     name = "Tags"
     pre = "<span data-feather='tag'></span>"
@@ -79,6 +83,11 @@ pygmentsStyle = "monokai"
     pre = "<span data-feather='rss'></span>"
     url = "/index.xml"
     weight = 7
+  [[menu.main]]
+    name = "Terms"
+    pre = "<span data-feather='book'></span>"
+    url = "/page/privacy/"
+    weight = 9
 
 [markup]
   [markup.goldmark.renderer]
