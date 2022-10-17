@@ -44,7 +44,7 @@ pygmentsStyle = "monokai"
     {name = "github", url = "https://github.com/ramonsuarez/"},
     {name = "buymeacoffee", url = "https://www.buymeacoffee.com/ramonsuarez"},
   ]
-  metaKeywords = ["Ramon Suarez", "blog", "ideas", "projects", "entrepreneurship", "data visualization", "business intelligence"]
+  metaKeywords = ["Ramon Suarez", "entrepreneurship", "data visualization", "data analysis", "data analyst", "business intelligence", "entrepreneu", "blog", "ideas", "projects", ]
  
 [menu]
   [[menu.main]]
