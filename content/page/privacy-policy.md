@@ -2,9 +2,8 @@
 title: 'Terms, Conditions &#038; Privacy Policy'
 date: '2019-04-18T14:52:51+00:00'
 status: publish
-permalink: /privacy
 author: "Ramon Suarez"
-excerpt: ''
+excerpt: 'By accessing this web site, you are agreeing to be bound by these web site Terms and Conditions of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this web site are protected by applicable copyright and trade mark law.'
 type: page
 id: 3
 ---

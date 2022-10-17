@@ -86,7 +86,7 @@ pygmentsStyle = "monokai"
   [[menu.main]]
     name = "Terms"
     pre = "<span data-feather='book'></span>"
-    url = "/page/privacy/"
+    url = "/page/privacy-policy/"
     weight = 9
 
 [markup]
