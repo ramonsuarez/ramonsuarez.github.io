@@ -5,7 +5,7 @@ status: publish
 permalink: /privacy-policy
 author: "Ramon Suarez"
 excerpt: ''
-type: post
+type: page
 id: 3
 ---
 ### 1. Terms

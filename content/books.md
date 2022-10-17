@@ -5,7 +5,7 @@ status: publish
 permalink: /books
 author: "Ramon Suarez"
 excerpt: ''
-type: post
+type: page
 id: 1383
 thumbnail: /uploads/2019/05/Canva-Books-on-Shelf-in-Library.jpg
 ---

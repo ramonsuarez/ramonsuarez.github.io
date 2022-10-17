@@ -5,7 +5,7 @@ status: publish
 permalink: /lessons-learned
 author: '@ramonsuarez'
 excerpt: ''
-type: post
+type: page
 id: 1111
 ---
 This is the selection of lessons I’ve learned as a pragmatic and practicing entrepreneur.

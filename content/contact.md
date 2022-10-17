@@ -5,7 +5,7 @@ status: publish
 permalink: /contact
 author: '@ramonsuarez'
 excerpt: 'Contact Ramon Suarez'
-type: post
+type: page
 id: 539
 geo_latitude:
     - '50.8526601'
