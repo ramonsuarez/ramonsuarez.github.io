@@ -38,10 +38,10 @@ pygmentsStyle = "monokai"
 </script>
   """
   socialIcons = [
-    {name = "twitter", url = "https://twitter.com/ramonsuarezraamon"},
     {name = "linkedin", url = "https://www.linkedin.com/in/ramonsuarez/"},
+    {name = "twitter", url = "https://twitter.com/ramonsuarezraamon"},
+    {name = "facebook", url = "https://www.facebook.com/ramonsuarezdotcom"},  
     {name = "github", url = "https://github.com/ramonsuarez/"},
-    {name = "facebook", url = "https://www.facebook.com/ramonsuarezdotcom"},
     {name = "buymeacoffee", url = "https://www.buymeacoffee.com/ramonsuarez"},
   ]
   metaKeywords = ["Ramon Suarez", "blog", "ideas", "projects", "entrepreneurship", "data visualization", "business intelligence"]
