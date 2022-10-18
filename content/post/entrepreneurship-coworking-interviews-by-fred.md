@@ -1,5 +1,5 @@
 ---
-title: 'Entrepreneurship &#038; Coworking: Interviews by Fred Ooms'
+title: 'Entrepreneurship & Coworking: Interviews by Fred Ooms'
 date: '2011-06-14T13:00:00+00:00'
 status: publish
 permalink: /entrepreneurship-coworking-interviews-by-fred

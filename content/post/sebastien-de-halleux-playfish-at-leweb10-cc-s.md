@@ -1,5 +1,5 @@
 ---
-title: 'Sebastien de Halleux &#038; Playfish at #LeWeb10 cc @sebdeh'
+title: 'Sebastien de Halleux & Playfish at #LeWeb10 cc @sebdeh'
 date: '2010-12-09T11:55:12+00:00'
 status: publish
 permalink: /sebastien-de-halleux-playfish-at-leweb10-cc-s

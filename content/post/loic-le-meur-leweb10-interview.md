@@ -1,5 +1,5 @@
 ---
-title: 'Lo??c Le Meur &#038; LeWeb10 (interview)'
+title: 'Lo??c Le Meur & LeWeb10 (interview)'
 date: '2010-12-02T10:41:00+00:00'
 status: publish
 permalink: /loic-le-meur-leweb10-interview

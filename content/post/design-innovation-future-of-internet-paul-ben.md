@@ -1,5 +1,5 @@
 ---
-title: 'Design Innovation &#038; Future of Internet: Paul Bennet &#038; Ben Hammersley at Campus Party Europe'
+title: 'Design Innovation & Future of Internet: Paul Bennet & Ben Hammersley at Campus Party Europe'
 date: '2010-04-15T10:46:00+00:00'
 status: publish
 permalink: /design-innovation-future-of-internet-paul-ben

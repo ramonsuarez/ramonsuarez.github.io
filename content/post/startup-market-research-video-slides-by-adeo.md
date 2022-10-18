@@ -1,5 +1,5 @@
 ---
-title: 'Startup Market Research: Video &#038; Slides by Adeo Ressi'
+title: 'Startup Market Research: Video & Slides by Adeo Ressi'
 date: '2011-08-23T07:14:00+00:00'
 status: publish
 permalink: /startup-market-research-video-slides-by-adeo

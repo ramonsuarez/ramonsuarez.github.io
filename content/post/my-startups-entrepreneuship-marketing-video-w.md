@@ -1,5 +1,5 @@
 ---
-title: 'My startups, entrepreneuship, coworking &#038; marketing video wall'
+title: 'My startups, entrepreneuship, coworking & marketing video wall'
 date: '2012-04-17T12:04:00+00:00'
 status: publish
 permalink: /my-startups-entrepreneuship-marketing-video-w

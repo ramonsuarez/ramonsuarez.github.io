@@ -1,5 +1,5 @@
 ---
-title: 'Results of the Email Reactivation &#038; Segmentation  campaign (>11k emails sent)'
+title: 'Results of the Email Reactivation & Segmentation  campaign (>11k emails sent)'
 date: '2018-11-29T11:09:41+00:00'
 status: publish
 permalink: /results-of-the-email-reactivation-segmentation-campaign-11k-emails-sent

@@ -1,5 +1,5 @@
 ---
-title: 'Belgian Venture Capital &#038; Private Equity Association Members List'
+title: 'Belgian Venture Capital & Private Equity Association Members List'
 date: '2012-01-11T15:58:00+00:00'
 status: publish
 permalink: /belgian-venture-capital-private-equity-associ

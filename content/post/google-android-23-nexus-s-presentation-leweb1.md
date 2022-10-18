@@ -1,5 +1,5 @@
 ---
-title: 'Google Android 2.3 &#038; Nexus S presentation LeWeb10 ((english, leweb, leweb10, android, google, nexus s, smartphones, presentation, videos))'
+title: 'Google Android 2.3 & Nexus S presentation LeWeb10 ((english, leweb, leweb10, android, google, nexus s, smartphones, presentation, videos))'
 date: '2010-12-09T10:29:00+00:00'
 status: publish
 permalink: /google-android-23-nexus-s-presentation-leweb1
