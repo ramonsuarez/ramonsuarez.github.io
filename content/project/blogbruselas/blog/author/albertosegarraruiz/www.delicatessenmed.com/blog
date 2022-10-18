@@ -9,7 +9,7 @@
 	<script src="http://www.blogbruselas.com/wp-content/themes/twentyfifteen/js/html5.js"></script>
 	<![endif]-->
 	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
-<title>Blog Bruselas sitio asociado de Hispagenda &#8211; Blog Bruselas en español</title>
+<title>Blog Bruselas sitio asociado de Hispagenda - Blog Bruselas en español</title>
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel='dns-prefetch' href='http://s.w.org/' />
 <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />

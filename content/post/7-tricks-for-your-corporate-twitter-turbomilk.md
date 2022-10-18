@@ -1,5 +1,5 @@
 ---
-title: '7 tricks for your corporate twitter &#8211; Turbomilk'
+title: '7 tricks for your corporate twitter - Turbomilk'
 date: '2009-12-06T22:03:46+00:00'
 status: publish
 permalink: /7-tricks-for-your-corporate-twitter-turbomilk

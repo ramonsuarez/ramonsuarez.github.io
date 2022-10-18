@@ -1,5 +1,5 @@
 ---
-title: 'Three things you should never tell a VC when fundraising &#8211; Fred Destin'
+title: 'Three things you should never tell a VC when fundraising - Fred Destin'
 date: '2009-12-13T10:25:00+00:00'
 status: publish
 permalink: /three-things-you-should-never-tell-a-vc-when
