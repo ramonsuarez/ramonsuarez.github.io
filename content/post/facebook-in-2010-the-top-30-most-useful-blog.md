@@ -1,5 +1,5 @@
 ---
-title: 'Facebook in 2010 &#8211; The Top 30 Most Useful Blog Posts on Facebook'
+title: 'Facebook in 2010 - The Top 30 Most Useful Blog Posts on Facebook'
 date: '2010-12-28T21:24:00+00:00'
 status: publish
 permalink: /facebook-in-2010-the-top-30-most-useful-blog

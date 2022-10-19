@@ -3,7 +3,7 @@ title: 'Flop: Sales Acceleration'
 date: '2019-10-14T13:14:51+00:00'
 status: publish
 permalink: /flop-sales-acceleration
-author: ramon
+author: "Ramon Suarez"
 excerpt: ''
 type: post
 id: 1692

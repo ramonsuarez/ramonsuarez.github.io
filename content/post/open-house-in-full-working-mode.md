@@ -1,5 +1,5 @@
 ---
-title: 'Open House in full &#8220;working&#8221; mode'
+title: 'Open House in full ";working"; mode'
 date: '2010-12-10T08:19:02+00:00'
 status: publish
 permalink: /open-house-in-full-working-mode

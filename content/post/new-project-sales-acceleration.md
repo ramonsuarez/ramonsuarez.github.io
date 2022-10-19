@@ -3,7 +3,7 @@ title: 'New Project: Sales Acceleration'
 date: '2019-09-16T09:40:50+00:00'
 status: publish
 permalink: /new-project-sales-acceleration
-author: ramon
+author: "Ramon Suarez"
 excerpt: ''
 type: post
 id: 1659

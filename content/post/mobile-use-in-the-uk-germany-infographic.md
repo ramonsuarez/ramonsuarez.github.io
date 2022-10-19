@@ -1,5 +1,5 @@
 ---
-title: 'Mobile Use in the UK &#038; Germany Infographic'
+title: 'Mobile Use in the UK & Germany Infographic'
 date: '2011-03-09T08:51:00+00:00'
 status: publish
 permalink: /mobile-use-in-the-uk-germany-infographic

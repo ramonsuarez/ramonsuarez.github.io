@@ -1,5 +1,5 @@
 ---
-title: 'New mobile: WP7 thanks to David Hernie &#038; Ben Piquard'
+title: 'New mobile: WP7 thanks to David Hernie & Ben Piquard'
 date: '2011-02-01T20:00:00+00:00'
 status: publish
 permalink: /new-mobile-wp7-thanks-to-david-hernie-ben-pic

@@ -9,7 +9,7 @@
 	<script src="http://www.blogbruselas.com/wp-content/themes/twentyfifteen/js/html5.js"></script>
 	<![endif]-->
 	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
-<title>Blog Bruselas sitio asociado de Hispagenda &#8211; Blog Bruselas en español</title>
+<title>Blog Bruselas sitio asociado de Hispagenda - Blog Bruselas en español</title>
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel='dns-prefetch' href='http://s.w.org/' />
 <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
@@ -37,7 +37,7 @@ img.emoji {
 <link rel='stylesheet' id='yarppWidgetCss-css'  href='../../../wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.7.3' type='text/css' media='all' />
 <link rel='stylesheet' id='wordpress-language-css'  href='../../../wp-content/plugins/wordpress-language/res/css/style.css?ver=1.2.1' type='text/css' media='all' />
 <link rel='stylesheet' id='wp-pagenavi-css'  href='../../../wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
-<link rel='stylesheet' id='twentyfifteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&subset=latin%2Clatin-ext' type='text/css' media='all' />
 <link rel='stylesheet' id='genericons-css'  href='../../../wp-content/themes/twentyfifteen/genericons/genericons.css?ver=3.2' type='text/css' media='all' />
 <link rel='stylesheet' id='twentyfifteen-style-css'  href='../../../wp-content/themes/twentyfifteen/style.css?ver=4.7.3' type='text/css' media='all' />
 <!--[if lt IE 9]>
@@ -135,7 +135,7 @@ img.emoji {
 <div class="author-info">
 	<h2 class="author-heading">Publicado por</h2>
 	<div class="author-avatar">
-		<img alt='' src='http://1.gravatar.com/avatar/df8036046c12f28446f55958f197ed7d?s=56&#038;d=blank&#038;r=pg' srcset='http://1.gravatar.com/avatar/df8036046c12f28446f55958f197ed7d?s=112&amp;d=blank&amp;r=pg 2x' class='avatar avatar-56 photo' height='56' width='56' />	</div><!-- .author-avatar -->
+		<img alt='' src='http://1.gravatar.com/avatar/df8036046c12f28446f55958f197ed7d?s=56&d=blank&r=pg' srcset='http://1.gravatar.com/avatar/df8036046c12f28446f55958f197ed7d?s=112&amp;d=blank&amp;r=pg 2x' class='avatar avatar-56 photo' height='56' width='56' />	</div><!-- .author-avatar -->
 
 	<div class="author-description">
 		<h3 class="author-title">Ramón Suárez</h3>
@@ -199,7 +199,7 @@ Si quieres ponerte en contacto conmigo para colaborar con el blog, enviar inform
             </cite>
         </div>
         <div id="dsq-comment-body-1339" class="dsq-comment-body">
-            <div id="dsq-comment-message-1339" class="dsq-comment-message"><p>Desde Varsovia nos acordamos mucho de Bruselas y todavía echamos un vistazo a Hispagenda de vez en cuando por eso de la &#8220;morriña&#8221; y ver que se cuece, saludos a Txema y familia, en especial a Manuel de parte de su siempre amigo Marcos. Ana, Julio y familia</p>
+            <div id="dsq-comment-message-1339" class="dsq-comment-message"><p>Desde Varsovia nos acordamos mucho de Bruselas y todavía echamos un vistazo a Hispagenda de vez en cuando por eso de la ";morriña"; y ver que se cuece, saludos a Txema y familia, en especial a Manuel de parte de su siempre amigo Marcos. Ana, Julio y familia</p>
 </div>
         </div>
 

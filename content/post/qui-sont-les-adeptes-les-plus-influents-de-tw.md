@@ -1,5 +1,5 @@
 ---
-title: 'Qui sont les adeptes les plus influents de Twitter en Belgique? &#8211; Datanews.be'
+title: 'Qui sont les adeptes les plus influents de Twitter en Belgique? - Datanews.be'
 date: '2012-05-11T13:53:00+00:00'
 status: publish
 permalink: /qui-sont-les-adeptes-les-plus-influents-de-tw

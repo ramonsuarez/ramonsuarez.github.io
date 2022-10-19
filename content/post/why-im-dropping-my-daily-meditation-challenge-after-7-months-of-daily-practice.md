@@ -3,7 +3,7 @@ title: "Why I'm Dropping My Daily Meditation Challenge After 7 Months of Daily P
 date: '2019-05-21T12:17:27+00:00'
 status: publish
 permalink: /why-im-dropping-my-daily-meditation-challenge-after-7-months-of-daily-practice
-author: ramon
+author: "Ramon Suarez"
 excerpt: ''
 type: post
 id: 1403

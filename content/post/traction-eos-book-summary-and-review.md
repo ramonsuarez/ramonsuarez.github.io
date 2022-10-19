@@ -3,7 +3,7 @@ title: 'Traction (EOS) Book Summary and Review'
 date: '2019-05-15T08:41:19+00:00'
 status: publish
 permalink: /traction-eos-book-summary-and-review
-author: ramon
+author: "Ramon Suarez"
 excerpt: ''
 type: post
 id: 1355

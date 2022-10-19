@@ -1,5 +1,5 @@
 ---
-title: 'Facebook Use 2010: Yearly &#038; Daily User Stats'
+title: 'Facebook Use 2010: Yearly & Daily User Stats'
 date: '2011-01-03T16:30:14+00:00'
 status: publish
 permalink: /facebook-use-2010-yearly-stats

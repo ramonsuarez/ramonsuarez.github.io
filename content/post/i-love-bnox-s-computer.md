@@ -1,9 +1,9 @@
 ---
-title: 'I love @bnox &#8216;s computer'
+title: "I love @bnox's computer"
 date: '2010-12-09T08:33:54+00:00'
 status: publish
 permalink: /i-love-bnox-s-computer
-author: '@ramonsuarez'
+author: 'Ramon Suarez'
 excerpt: ''
 type: post
 id: 130

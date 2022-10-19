@@ -1,5 +1,5 @@
 ---
-title: 'Custom 3D Printing &#038; Marketplace For Your Designs : iMaterialise'
+title: 'Custom 3D Printing & Marketplace For Your Designs : iMaterialise'
 date: '2012-09-10T08:32:00+00:00'
 status: publish
 permalink: /custom-3d-printing-marketplace-for-your-desig
