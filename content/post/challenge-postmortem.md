@@ -1,15 +1,15 @@
 ---
-title: 'Challenge Review'
+title: 'Challenge Postmortem Review'
 date: '2019-11-12T14:30:09+00:00'
 draft: TRUE
-permalink: '/?p=1722'
+permalink: 'challenge-postmortem'
 author: "Ramon Suarez"
 excerpt: ''
 type: post
 id: 1722
 categories: 
     - Entrepreneurship
-tag: []
+tag: [entrepreneurship, challenge, post-mortem, project analysis, ]
 post_format: []
 video_background:
     - ''
