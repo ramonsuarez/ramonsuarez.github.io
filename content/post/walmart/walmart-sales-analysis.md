@@ -8,14 +8,23 @@ draft: true
 type: post
 ---
 
-As part of my [Data Analytics and Visualization course](https://dorifor.be/formation/9277) I decide to do my final project on a [Walmart Dataset found on Kaggle](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data). 
+As part of my [Data Analytics and Visualization course](https://dorifor.be/formation/9277) I decide to do my final project on a [Walmart Dataset found on Kaggle](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data) that would challenge my data analysys skills with its anonymized data and my curious mind looking for insight. 
 
-![Kaggle at Walmart](../images/kaggle-walmart.jpg)
+
+![Kaggle at Walmart](../images/kaggle-walmart.jpeg)
+
+## Finding the dataset
 Finding a dataset was not easy, and I went through a lot of pages looking for an interesting dataset that would: 
 - Include time series
 - Be about a business
 
-At the end it came down to two dataset, but the [French bakery](https://www.kaggle.com/datasets/matthieugimbert/french-bakery-daily-sales) lost because I thought it would be more interesting to have data from multiple stores and different locations. 
+I went on a searching rampage, starting with the Belgian open data website: [data.gov.be](https://data.gov.be). I also searched among [Kaggle's datasets](https://www.kaggle.com/datasets), but I initially did not want  to use them because they are oriented to machine learning and the sets did not seem very challenging for the [data wrangling and ETL](https://www.talend.com/resources/data-wrangling-vs-etl/). 
+
+[Google's Data Search](https://datasetsearch.research.google.com/) 
+
+At the end it came down to two datasets, but the [French bakery](https://www.kaggle.com/datasets/matthieugimbert/french-bakery-daily-sales) lost because I thought it would be more interesting to have data from multiple stores and different locations. 
+
+
 
 ## Why I choose the Walmart dataset
 Choose Walmart stores dataset: 
