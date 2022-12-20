@@ -1,4 +1,4 @@
-		---
+---
 title: "Walmart Sales Analysis: Trends and Seasonality"
 date: 2022-12-19T14:07:01+01:00
 author: "Ramon Suarez"
@@ -108,7 +108,7 @@ Feb 5 2010 to Nov 1 2012*
 * US formatting of dates and numbers. 
 * Department numbers refere to the[ same department across all stores](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/discussion/7159#39217).
 ### Things to take into consideration
-> [**anonymized data**](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/discussion/7631#41591) related to promotional markdowns that Walmart is running. MarkDown data is only available after Nov 2011, and is not available for all stores all the time.
+> [**anonymized data**](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/discussion/7631#41591) related to promotional markdowns that Walmart is running. MarkDown data is only available after Nov 2011, and is not available for all stores all the time.
 
 - 
 ### ``cat`` csv files
@@ -315,178 +315,7 @@ Final SSIS flow:
 ![images/20221212093416.png](../images/20221209101242.png)
 ![images/20221212093635.png](../images/20221209101242.png)
 
-### Add fictional dwarf store names
-#### Generate names
 
-Used ChatGPT to generate the names of towns: 
-```list
-1.  Ironforge
-2.  Hammerfall
-3.  Silvermoon
-4.  Khaz Modan
-5.  Mount Ironbeard
-6.  Iron Summit
-7.  Ironforge Heights
-8.  Ironwood
-9.  Forgefire
-10.  Ironhall
-11.  Ironhold
-12.  Ironfort
-13.  Ironpass
-14.  Ironpeak
-15.  Ironbridge
-16.  Ironroot
-17.  Ironfist
-18.  Ironmoor
-19.  Ironmoore
-20.  Ironcliff
-21.  Ironhearth
-22.  Ironhaven
-23.  Ironholt
-24.  Ironwall
-25.  Ironward
-26.  Ironstone
-27.  Ironmount
-28.  Ironpeak
-29.  Ironwood
-30.  Ironwell
-31.  Ironbark
-32.  Ironfurrow
-33.  Ironhollow
-34.  Ironholdfast
-35.  Ironbrow
-36.  Ironbeard
-37.  Ironforge Point
-38.  Ironforge Vale
-39.  Ironforge Ridge
-40.  Ironforge Pass
-41.  Ironforge Canyon
-42.  Ironforge Creek
-43.  Ironforge Lake
-44.  Ironforge River
-45.  Ironforge Stream
-46.  Ironforge Valley
-47.  Ironforge Heights
-48.  Ironforge Meadows
-49.  Ironforge Woods
-50.  Ironforge Forest
-```
-Too much "Iron"
-
-Used an online generator: 
-```list
-Atallvǫllr
-
-Dagsmejam
-
-Skadi Pass
-
-Vættfanggur
-
-Runehold
-
-Essemjöll
-
-Jǫkullheim
-
-Heillfell
-
-Thornför
-
-Kerlinghelm
-
-Espenfell
-
-Fjallborgg
-Félagi Mountain
-
-Jǫtunnbjorg
-
-Apalholm
-
-Vondarahm
-
-Bhildaral
-
-Dhamdorallur
-
-Snærósgar
-
-Dagsmejan
-
-Eyrrlundr
-
-Bhurtarihr
-
-Frodemount
-
-Nindun
-Hárför
-
-Izazdun
-
-Terrandel
-
-Jagafell
-
-Nindun
-
-Skadi Pass
-
-Karizaz
-
-Kvennaharr
-
-Anganför
-
-Kerlinghelm
-
-Atallvǫllr
-
-Falgrkelle
-Hyllihelm
-
-Banborad
-
-Dvallinstanda
-
-Happholt
-
-Draugrskáli
-
-Nysnögata
-
-Thornför
-
-Efjaheim
-
-Mig Boldor
-
-Harrhǫrgr
-
-Kvennaholl
-
-Skaregar
-```
-45 names stored in `xls` file with an ID column to use for the join. 
-#### Add column to DimStores
-```sql
-USE [Walmart_DW]
-GO
-
-ALTER TABLE DimStore
-	ADD StoreName nvarchar(25)
-GO
-```
-
-#### Import dwarven names
-I have encountered a lot of problems with SSIS and SSMS. I've decided to add the Store and Type names to the original sources tables to see if I can import them at the same time as I redo the Dimensions. 
-
-First I truncate DimStore and make sure that all the columns needed are there.
-
-![images/20221212133858.png](../images/20221212133858.png)
-
-![images/20221212134038.png](../images/20221212134038.png)
 
 ## Reporting
 Connect PowerBI to `DESKTOP-BRU3ORB\DATAVIZ` and import all of `Walmart_DW` tables.
@@ -554,4 +383,4 @@ Change Project>Properties>Config>Debugging>Run64bitRuntime to False.
 Done manually with LibreOffice
 ### Temperature conversion
 
-> Import Features with some columns as strings to deal with NaN 36 Error: Échec de la conversion de données. La conversion de données de la colonne « Temperature » a retourné la valeur d'état 2 et le texte d'état « La valeur n'a pas pu être convertie en raison d'une perte potentielle de données. ».
+> Import Features with some columns as strings to deal with NaN 36 Error: Échec de la conversion de données. La conversion de données de la colonne « Temperature » a retourné la valeur d'état 2 et le texte d'état « La valeur n'a pas pu être convertie en raison d'une perte potentielle de données. ».
