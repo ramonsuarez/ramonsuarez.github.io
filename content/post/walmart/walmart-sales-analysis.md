@@ -7,82 +7,54 @@ tags: []
 draft: true
 type: post
 ---
-
-As part of my [Data Analytics and Visualization course](https://dorifor.be/formation/9277) I decide to do my final project on a [Walmart Dataset found on Kaggle](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data) that would challenge my data analysys skills with its anonymized data and my curious mind looking for insight. 
-
-
 ![Kaggle at Walmart](../images/kaggle-walmart.jpeg)
 
-## Finding the dataset
+As part of my [Data Analytics and Visualization course](https://dorifor.be/formation/9277) I decided to do my final project on a [Walmart dataset found on Kaggle](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data) that would challenge my data analysys skills with its anonymized data and my curious mind looking for insight. 
+
+In this post I will detail the whole project and include the final presentation and repport at the very end (use the table of contents to navigate or go through all of it at your own peril). 
+
+## Finding a project
 Finding a dataset was not easy, and I went through a lot of pages looking for an interesting dataset that would: 
 - Include time series
 - Be about a business
 
 I went on a searching rampage, starting with the Belgian open data website: [data.gov.be](https://data.gov.be). I also searched among [Kaggle's datasets](https://www.kaggle.com/datasets), but I initially did not want  to use them because they are oriented to machine learning and the sets did not seem very challenging for the [data wrangling and ETL](https://www.talend.com/resources/data-wrangling-vs-etl/). 
 
-[Google's Data Search](https://datasetsearch.research.google.com/) 
+[Google's Data Search](https://datasetsearch.research.google.com/) was helpful but had the same shortcomings as all the other sites I went through: it is impossible to drill down with your preferences to only choose from a few relevant datasets. 
 
-At the end it came down to two datasets, but the [French bakery](https://www.kaggle.com/datasets/matthieugimbert/french-bakery-daily-sales) lost because I thought it would be more interesting to have data from multiple stores and different locations. 
+At the end I had to go through a lot of descriptions and keep tab groups for a few days until it came down to two sources. The [French bakery](https://www.kaggle.com/datasets/matthieugimbert/french-bakery-daily-sales) lost because I thought it would be more interesting to have data from multiple stores and different locations. I can always use it for another project :) 
 
+## Why I chose this Walmart dataset
+Altough the dataset was part of a machine learning challenge I thought that I could do something interesting trying to figure out a few things out of the anonymized data they provided. 
 
+The set responded to my two requirements: it was business content, and included time series. 
 
-## Why I choose the Walmart dataset
-Choose Walmart stores dataset: 
-- Business. 
-- Time series (2010-02-05 to 2012-11-01):
-    - Seasonality?
-    - Holiday impact? 
-    - Impact of promos?
-~~- Geographic data.~~ 
-- Extra: 
-    - Weather influence. 
-    - Impact of unemployment profiles. 
+The range of time was not very long (a bit under three years, from 2010-02-05 to 2012-11-01) but allowed me to explore seasonality and the impact of holidays and markdowns. As an extra in case things went smoothly and I had extra time (spoiler: I didn't), I could also explore weather, PCI and unemployment data. 
 
-## About Walmart
-Launched by Sam Walton in 1962
-10,586 stores
-24 countries
-$570 billion annual revenue
-2.2 million employees
-10,586 stores and clubs 
-24 countries
-$570 billion in annual revenue (65% USA)
-Largest employer in the world: 2.2 million employees
-Walton family controls over 50% of Walmart
-### Stores
-USA store brands: 
-- Walmart
-- Sam's Club
+## The data
+The data was a selection of 45 stores with over 400_000 rows, including three misteryous types of stores, and 81 departments. Unfortunately there was no location data and the departments were not tagged, so I couldn't know what was being sold. 
 
-USA divisions: 
-- Supercenters
-- Discount Stores
-- Neighborhood markets
-
-## Data
-45 USA stores
-3 types of store
-400K+ rows
-Feb 5 2010 to Nov 1 2012*
-\* Markdown data is only available after Nov 2011, and is not available for all stores all the time
-
-## Source Data
-1. Downloaded from [Kaggle](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data). 
-2. 4 useful CSV files: 
+### Source Data
+I downloaded the orignial data from [Kaggle](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data). 
+It contained 5 CSV files...: 
     - features.csv
     - stores.csv
     - test.csv
     - train.csv
-3. Info Train & Test (SALES): 
+	- sampleSubmission.csv
+
+... of which I only used the features, stores and train files. 
+
+The train.csv had sales data which included: 
     - Store - the store number
     - Dept - the department number
     - Date - the week
     - **Weekly**\_Sales -  sales for the given department in the given store
-    - IsHoliday - whether the week is a special holiday week
-    - Test does not have sales data, so I ignore it. 
-    - Sales go from Feb 05 2010 to October 26 2012. 
+    - IsHoliday - whether there is holiday
+    - Sales go from Feb 05 2010 to October 26 2012 
       ![images/20221212160037.png](../images/20221212160037.png)
-4. Info Features:
+
+The features.csv files had these columns: 
     - Store - the store number
     - Date - the week
     - Temperature - average temperature in the region
@@ -90,16 +62,42 @@ Feb 5 2010 to Nov 1 2012*
     - MarkDown1-5 - anonymized data related to promotional markdowns that Walmart is running. MarkDown data is only available after Nov 2011, and is not available for all stores all the time. Any missing value is marked with an NA.
     - CPI - the consumer price index
     - Unemployment - the unemployment rate
-    - IsHoliday - whether the week is a special holiday week:
+    - IsHoliday - whether the week is a special holiday week. These holidays where highlighted in the Kaggle challenge and I used them for the analysis:
 	    - Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13  
 	    - Labor Day: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13  
 	    - Thanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13  
 	    - Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
 
-## Initial import and wrangling
+The stores.csv file only had three columns and 45 lines:
+	- Store - the store number
+	- type - A, B or C type
+	- Size - store size
+
+### About Walmart
+To get a feel about the company, I read their [Wikipedia page](https://en.wikipedia.org/wiki/Walmart) and skimmed some [annual repports](https://stock.walmart.com/financials/annual-reports/default.aspx). 
+
+These are the highlights: 
+* Launched by Sam Walton in 1962
+* 10,586 stores
+* 24 countries
+* $570 billion annual revenue
+* 2.2 million employees
+* 10,586 stores and clubs 
+* 24 countries
+* $570 billion in annual revenue (65% USA)
+* Largest employer in the world: 2.2 million employees
+* Walton family controls over 50% of Walmart
+* USA store brands: 
+	- Walmart
+	- Sam's Club
+* USA divisions: 
+	- Supercenters
+	- Discount Stores
+	- Neighborhood markets
+
+## Diving in: how I worked with the data
+
 ### Assumptions
-* The resulting SQL DB will emulate a production DB, so the import of the original files will only have to be made once. 
-* Stores is the main table, the others connect via it. 
 * Negative sales mean that there have been more returns than sales.
 * Store size is in square feet
 * Temperature is in degrees Farenheit.
@@ -107,11 +105,15 @@ Feb 5 2010 to Nov 1 2012*
 * Long numbers in Unemployment ant CPI are decimal numbers missing the separator. 
 * US formatting of dates and numbers. 
 * Department numbers refere to the[ same department across all stores](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/discussion/7159#39217).
+* The initial SQL database emulates a production DB, so the import of the original csv files will only have to be made once. 
+* Stores is the main table, the others connect via it. 
+
 ### Things to take into consideration
 > [**anonymized data**](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/discussion/7631#41591) related to promotional markdowns that Walmart is running. MarkDown data is only available after Nov 2011, and is not available for all stores all the time.
 
-- 
-### ``cat`` csv files
+### Initial import and wrangling
+
+#### ``cat`` csv files
 Did not work because the headers get added and that breaks the import. It is better anyway to import directly with SSIS to be able to reproduce and automate. 
  ~~Union of ``test.csv`` and ``train.csv`` into ``all-sales.csv`` using ``cat`` in a Git Bash terminal on VSCode.~~ 
 ### Preview CSV files
@@ -137,6 +139,8 @@ Explored CSV files with Libre Office to get a feel for the data, check data type
 		- CPI: Float.
 		- Unemployment: not uniform, mix of Int and Dec as string.
 		- Is Holiday: Boolean 🔑.
+### SQL
+
 ### Create DB
 Created database ``Walmart`` with SSMS. 
 ### Create SSIS project
@@ -169,7 +173,7 @@ CREATE TABLE Sales(
 )
 ````
 Dates have been converted to DateTime. 
-
+### SSIS
 Import through SSIS. 
 ![images/20221209111146.png](../images/20221206114256.png)
 #### Features
@@ -362,8 +366,9 @@ Added a column with the number of the week in that year starting on Saturday and
 > [! Attention] When updating a table, go to the editor and click on Refresh view (actualiser l'apperçu)
 > ![images/20221215140500.png](../images/20221215140500.png)
 
+### Power BI
 
-## Issues
+### Issues
 ### LocaleID not installed
  Issue: *LocaleID 9 is not installed on this system*
 ![images/20221206105949.png](../images/20221206105949.png)
@@ -384,3 +389,7 @@ Done manually with LibreOffice
 ### Temperature conversion
 
 > Import Features with some columns as strings to deal with NaN 36 Error: Échec de la conversion de données. La conversion de données de la colonne « Temperature » a retourné la valeur d'état 2 et le texte d'état « La valeur n'a pas pu être convertie en raison d'une perte potentielle de données. ».
+
+
+## Presentation and report
+## Next
