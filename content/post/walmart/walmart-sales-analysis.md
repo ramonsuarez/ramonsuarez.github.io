@@ -96,6 +96,7 @@ These are the highlights:
 	- Neighborhood markets
 
 ## Diving in: how I worked with the data
+All these comes from the documentation notes I took while working on the project. Please excuse the eventual succinctness.
 
 ### Assumptions
 * Negative sales mean that there have been more returns than sales.
@@ -107,46 +108,43 @@ These are the highlights:
 * Department numbers refere to the[ same department across all stores](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/discussion/7159#39217).
 * The initial SQL database emulates a production DB, so the import of the original csv files will only have to be made once. 
 * Stores is the main table, the others connect via it. 
+* [**anonymized data**](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/discussion/7631#41591) related to promotional markdowns that Walmart is running. MarkDown data is only available after Nov 2011, and is not available for all stores all the time.
 
-### Things to take into consideration
-> [**anonymized data**](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/discussion/7631#41591) related to promotional markdowns that Walmart is running. MarkDown data is only available after Nov 2011, and is not available for all stores all the time.
+### Tools
+For this project my heart was telling me to work with Python, but I decided to go with a set of tools that are more demanded when looking for a job: 
+- T-SQL and SQL Server Management Studio (SSMS)
+- Visual Studio and SQL Server Integration Services (SSIS)
+- Power BI
 
 ### Initial import and wrangling
-
-#### ``cat`` csv files
-Did not work because the headers get added and that breaks the import. It is better anyway to import directly with SSIS to be able to reproduce and automate. 
- ~~Union of ``test.csv`` and ``train.csv`` into ``all-sales.csv`` using ``cat`` in a Git Bash terminal on VSCode.~~ 
-### Preview CSV files
+#### Preview CSV files
 Explored CSV files with Libre Office to get a feel for the data, check data types, look for inconsistencies, and find keys to link them. 
-	- sampleSubmissio.csv: 
-		- Discarded, not useful data, zero sales. 
-	- stores.csv (headers + 45 lines):
-		- Store: Int 🔑.
-		- Type: Category or String.
-		- Size: Int.
-	- all-sales.csv (headers + 536_635 lines): 
-		- Store: Int 🔑.
-		- Dept: Int.
-		- Date: Date 🔑.
-		- Weekly Sales: $. 
-		- Is Holiday: Boolean 🔑.
-	- features.csv (headers + 8190 lines): 
-		- Store: Int 🔑.
-		- Date: Date 🔑.
-		- Temperature: Decimal. 
-		- Fuel Price: ⚠️ Pricing not uniform, mix of Int and Dec as string. 
-		- Markdown 1 to 5: Decimal, lots of NA. 
-		- CPI: Float.
-		- Unemployment: not uniform, mix of Int and Dec as string.
-		- Is Holiday: Boolean 🔑.
-### SQL
 
-### Create DB
+- stores.csv (headers + 45 lines):
+	- Store: Int 🔑.
+	- Type: Category or String.
+	- Size: Int.
+- train.csv (headers + 536_635 lines): 
+	- Store: Int 🔑.
+	- Dept: Int.
+	- Date: Date 🔑.
+	- Weekly Sales: $. 
+	- Is Holiday: Boolean 🔑.
+- features.csv (headers + 8190 lines): 
+	- Store: Int 🔑.
+	- Date: Date 🔑.
+	- Temperature: Decimal. 
+	- Fuel Price: ⚠️ Pricing not uniform, mix of Int and Dec as string. 
+	- Markdown 1 to 5: Decimal, lots of NA. 
+	- CPI: Float.
+	- Unemployment: not uniform, mix of Int and Dec as string.
+	- Is Holiday: Boolean 🔑.
+#### Create DB
 Created database ``Walmart`` with SSMS. 
-### Create SSIS project
+#### Create SSIS project
 Create SSIS project ``Walmart Source Data`` to import data. 
-### Import CSV files
-#### Stores
+#### Import CSV files
+##### Stores
 Import stores table and check that the same number of rows is present: 
 ```sql
 CREATE TABLE [Stores] (
@@ -156,7 +154,7 @@ CREATE TABLE [Stores] (
 )
 ```
 ![images/20221206114256.png](../images/20221206114256.png)
-#### Sales
+##### Sales
 Only imported the ``train.csv`` dataset because the ``test.csv`` dataset did not have any sales data (the column does not exists). I guess this was part of the ML challenge. 
 
 Create table on SSMS:
@@ -194,14 +192,14 @@ Unemployment == "NA" ? NULL(DT_I4) : (DT_I4)Unemployment
 
 ![images/20221206141007.png](../images/20221206141007.png)
 
-### . to , 
+##### . to , 
 I did not manage to make the derived column to work, so I changed it with a search replace on LibreOffice. 
-### Left over "
+##### Left over "
 Made new connection manager to take care of some left over ".
 ![images/20221207085121.png](../images/20221207085121.png)
 
 It was causing the error with the ``NA to NULL`` task. 
-### Set Keys
+##### Set Keys
 Cannot do it via de interface because Null values are allowed on Stores: 
 ![images/20221207090427.png](../images/20221207090427.png)
 So I remove the allow nulls in all columns of the table via SSMS: 
@@ -210,19 +208,17 @@ And I set ``Store`` as the Primary Key (PK) in ``Stores`` and as Foreign Key (FK
 ![images/20221207092001.png](../images/20221207092001.png)
 All tables are saved without errors. 
 
-## Data Warehouse (DW)
-### Dimensional Model
+### Data Warehouse (DW)
+#### Dimensional Model
 ![images/20221207155826.png](../images/20221207155826.png)
-### Create DW DB
+#### Create DW DB
 Create ``Walmart_DW`` via the SSMS interface. 
-### Create SSIS project
+#### Create SSIS project
 Create SSIS project in Visual Studio and immediately change the Run64BitRuntime to false. 
 ![images/20221207092447.png](../images/20221207092447.png)
-### Create DimDate from script
-Populate DimDate from script we got in class. 
-Script fails because the table ``[dbo].[dimdate]`` does not exist. 
-So I saved a `Create` script from one of the exercises to recreate the table and then run the script to populate it. 
-### Check if holidays match
+#### Create DimDate from script
+Populate DimDate from script we got in class. Script fails because the table ``[dbo].[dimdate]`` does not exist. So I saved a `Create` script from one of the exercises to recreate the table and then run the script to populate it. 
+#### Check if holidays match
 [[holiday-check.sql]] exploration shows that not a single one matches (tested for 2010): 
 
 **Walmart operational DB**
@@ -243,7 +239,7 @@ So I saved a `Create` script from one of the exercises to recreate the table and
 
 Focus on dates provided in Kaggle's description and keep the other ones to run extra analysis if there's any time left. 
 
-### Create DimStore
+#### Create DimStore
 Via SSMS. 
 ```sql
 USE Walmart_DW
@@ -257,7 +253,7 @@ CREATE TABLE DimStore(
 )
 ```
 
-### Populate DimStore
+#### Populate DimStore
 Derived column is used to create the BKStore column
 
 ![images/20221209100420.png](../images/20221209100420.png)
