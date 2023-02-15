@@ -23,3 +23,4 @@ geo_address:
 ### [Linkedin](https://www.linkedin.com/in/ramonsuarez/)
 ### [Twitter](https://twitter.com/ramonsuarez)
 ### [Facebook](https://www.facebook.com/Ramon-Suarez-736506193359264/)</h3>
+### [Email](mailto:blog@ramonsuarez.com)
