@@ -8,7 +8,7 @@ draft: false
 type: post
 ---
 As part of my [Data Analytics and Visualization course](https://dorifor.be/formation/9277) I decided to do my final project on a [Walmart dataset found on Kaggle](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data) that would challenge my data analysys skills with its anonymized data and my curious mind looking for insight. 
-![images/walmart-sales-analysis-tresnds-seasonality.png]()
+![../images/walmart-sales-analysis-trends-seasonality.png]()
 
 In this post I will detail the whole project and include the final presentation and repport at the very end (use the table of contents to navigate or go through all of it at your own peril). 
 
