@@ -7,10 +7,8 @@ tags: [power bi, visual studio, ssas, ssis, sql, walmart, kaggle, data analytics
 draft: false
 type: post
 ---
-
-<div class="vista-create-share" data-vista-create-id="6411aa5e6e441ae519f082e7"></div><script type="text/javascript" src="https://static.create.vista.com/js/embedded_v1.min.js?v=1.287.9" async></script>
-
 As part of my [Data Analytics and Visualization course](https://dorifor.be/formation/9277) I decided to do my final project on a [Walmart dataset found on Kaggle](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data) that would challenge my data analysys skills with its anonymized data and my curious mind looking for insight. 
+![images/walmart-sales-analysis-tresnds-seasonality.png]()
 
 In this post I will detail the whole project and include the final presentation and repport at the very end (use the table of contents to navigate or go through all of it at your own peril). 
 
