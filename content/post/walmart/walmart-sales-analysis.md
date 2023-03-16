@@ -216,7 +216,7 @@ All tables are saved without errors.
 Create ``Walmart_DW`` via the SSMS interface. 
 #### Create SSIS project
 Create SSIS project in Visual Studio and immediately change the Run64BitRuntime to false. 
-![images/20221207092447.png](images/20221207092447.png)
+![images/20221207092447.png]()
 #### Create DimDate from script
 Populate DimDate from script we got in class. Script fails because the table ``[dbo].[dimdate]`` does not exist. So I saved a `Create` script from one of the exercises to recreate the table and then run the script to populate it. 
 #### Check if holidays match
@@ -386,8 +386,8 @@ Done manually with LibreOffice
 #### Temperature conversion
 > Import Features with some columns as strings to deal with NaN 36 Error: Échec de la conversion de données. La conversion de données de la colonne « Temperature » a retourné la valeur d'état 2 et le texte d'état « La valeur n'a pas pu être convertie en raison d'une perte potentielle de données. ».
 ## Presentation and report
-![../files/Report-walmart-tfe-ramon-suarez.pdf]
-![../files/TFE\ Data\ Visualization\ \&\ Analytics\ Bruxelles\ Formation.pdf]
+![files/Report-walmart-tfe-ramon-suarez.pdf]
+![files/TFE\ Data\ Visualization\ \&\ Analytics\ Bruxelles\ Formation.pdf]
 ## Next
 What came next in the presentation and is already done or being worked on right now is: 
 - Machine learning & statistics courses: I've already finished an ML course and I'm working on a couple more. The statistics I'm learning with them don't require an independent course as the courses I've found don't cover anything else I need now. 
