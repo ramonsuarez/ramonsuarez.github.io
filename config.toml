@@ -61,11 +61,11 @@ pygmentsStyle = "monokai"
   #   pre = "<span data-feather='tag'></span>"
   #   url = "/categories/"
   #   weight = 4
-[[menu.main]]
-    name = "Projects"
-    pre = "<span data-feather='box'></span>"
-    url = "/project/"
-    weight = 4
+#[[menu.main]]
+#    name = "Projects"
+#    pre = "<span data-feather='box'></span>"
+#    url = "/project/"
+#    weight = 4
   [[menu.main]]
     name = "Tags"
     pre = "<span data-feather='tag'></span>"
