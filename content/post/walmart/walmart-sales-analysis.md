@@ -386,8 +386,9 @@ Done manually with LibreOffice
 #### Temperature conversion
 > Import Features with some columns as strings to deal with NaN 36 Error: Échec de la conversion de données. La conversion de données de la colonne « Temperature » a retourné la valeur d'état 2 et le texte d'état « La valeur n'a pas pu être convertie en raison d'une perte potentielle de données. ».
 ## Presentation and report
-![files/Report-walmart-tfe-ramon-suarez.pdf]
-![files/TFE\ Data\ Visualization\ \&\ Analytics\ Bruxelles\ Formation.pdf]
+These are the final files that I used for the live presentation (click to open or download). You will find some duplication in the presentation, because I wanted to have some content in case there was any issue with the Power BI presentation. Instead of going with a live Power BI presentation (I've seen too many presentations fail) I used a PDF that I was sure would display nicely in the screen of the auditory. I'm used to presenting in front of live audiences so I went first to give my colleagues a bit of extra time to calm down and work on their presenations. 
+- [files/Report-walmart-tfe-ramon-suarez.pdf](Report)
+- [files/TFE\ Data\ Visualization\ \&\ Analytics\ Bruxelles\ Formation.pdf](Power BI presentation)
 ## Next
 What came next in the presentation and is already done or being worked on right now is: 
 - Machine learning & statistics courses: I've already finished an ML course and I'm working on a couple more. The statistics I'm learning with them don't require an independent course as the courses I've found don't cover anything else I need now. 
