@@ -53,7 +53,7 @@ The train.csv had sales data which included:
   - **Weekly**\_Sales - sales for the given department in the given store
   - IsHoliday - whether there is holiday
   - Sales go from Feb 05 2010 to October 26 2012 
-   ![images/20221212160037.png](images/20221212160037.png)
+   ![images/20221212160037.png]()
 
 The features.csv files had these columns: 
   - Store - the store number
@@ -154,7 +154,7 @@ CREATE TABLE [Stores] (
   [Size] int
 )
 ```
-![images/20221206114256.png](images/20221206114256.png)
+![images/20221206114256.png]()
 ##### Sales
 Only imported the ``train.csv`` dataset because the ``test.csv`` dataset did not have any sales data (the column does not exists). I guess this was part of the ML challenge. 
 
@@ -174,7 +174,7 @@ CREATE TABLE Sales(
 Dates have been converted to DateTime. 
 ### SSIS
 Import through SSIS. 
-![images/20221209111146.png](images/20221206114256.png)
+![images/20221209111146.png]()
 #### Features
 Import the columns that SSIS has trouble with (Markdown, Unemployment, CPI) as string, clean up and then convert to ``flottant [DT_R4]``. 
 ##### NA to NULL
@@ -189,29 +189,29 @@ CPI == "NA" ? NULL(DT_I4) : (DT_I4)CPI
 Unemployment == "NA" ? NULL(DT_I4) : (DT_I4)Unemployment
 ```
 
-![images/20221206145951.png](images/20221206114256.png)
+![images/20221206145951.png]()
 
-![images/20221206141007.png](images/20221206141007.png)
+![images/20221206141007.png]()
 
 ##### Change . to , 
 I did not manage to make the derived column to work, so I changed it with a search replace on LibreOffice. 
 ##### Left over "
 Made a new connection manager to take care of some left over ".
-![images/20221207085121.png](images/20221207085121.png)
+![images/20221207085121.png]()
 
 It was causing the error with the ``NA to NULL`` task. 
 ##### Set Keys
 Cannot do it via de interface because Null values are allowed on Stores: 
-![images/20221207090427.png](images/20221207090427.png)
+![images/20221207090427.png]()
 So I remove the allow nulls in all columns of the table via SSMS: 
-![images/20221207091350.png](images/20221207091350.png)
+![images/20221207091350.png]()
 And I set ``Store`` as the Primary Key (PK) in ``Stores`` and as Foreign Key (FK) in the others: 
-![images/20221207092001.png](images/20221207092001.png)
+![images/20221207092001.png]()
 All tables are saved without errors. 
 
 ### Data Warehouse (DW)
 #### Dimensional Model
-![images/20221207155826.png](images/20221207155826.png)
+![images/20221207155826.png]()
 #### Create DW DB
 Create ``Walmart_DW`` via the SSMS interface. 
 #### Create SSIS project
@@ -313,8 +313,8 @@ Visual Studio did not execute it: no error but goes on forever, does not even sh
 
 Final SSIS flow: 
 
-![images/20221212093416.png](images/20221209101242.png)
-![images/20221212093635.png](images/20221209101242.png)
+![images/20221212093416.png]()
+![images/20221212093635.png]()
 
 
 
@@ -322,31 +322,31 @@ Final SSIS flow:
 Connect PowerBI to `DESKTOP-BRU3ORB\DATAVIZ` and import all of `Walmart_DW` tables.
 ### Check tables
 All OK. Only had to change data types for DimDepartment from float to int. No errors on any table. 
-![images/20221212135741.png](images/20221212135741.png)
-![images/20221212135803.png](images/20221212135803.png)
-![images/20221212135818.png](images/20221212135818.png)
-![images/20221212135845.png](images/20221212135845.png)
+![images/20221212135741.png]()
+![images/20221212135803.png]()
+![images/20221212135818.png]()
+![images/20221212135845.png]()
 ### Link tables in the model
 
 Because the DimDepartment link required a many to many relationship and it is not needed, I removed it from the data. I also renamed and deleted some columns, including the Type Name that I had incorrectly tagged (it is not a department). 
 OLD: 
-![images/20221212143416.png](images/20221212143416.png)
+![images/20221212143416.png]()
 NEW: 
-![images/20221212144127.png](images/20221212144127.png)
+![images/20221212144127.png]()
 
 ### Are Store types linked to size? 
 A and B seem to follow a size pattern, but a few of both share size with group C stores: 
-![images/20221212150010.png](images/20221212150010.png)
+![images/20221212150010.png]()
 
 * Are C stores a new type of store? 
 * Are the outliers errors in the data? 
 * C Stores do make less money, but so do a couple of type A and a few of type B
-  ![images/20221212150228.png](images/20221212150228.png)
+  ![images/20221212150228.png]()
 * Type C stores use less markdowns
- ![images/20221212150449.png](images/20221212150449.png)
+ ![images/20221212150449.png]()
 * **The type reflects the sales of the stores**: 
-![images/20221212152503.png](images/20221212152503.png)
-![images/20221212152620.png](images/20221212152620.png)
+![images/20221212152503.png]()
+![images/20221212152620.png]()
 
 
 ### Fix problems with CPI, Unemployment, Temperature
@@ -358,10 +358,10 @@ There are numbers in % and others are included without being divided by 100 and 
 ```
 #### Add Friday Week
 Added a column with the number of the week in that year starting on Saturday and ending on Friday (the day of the sales report) with an SQL query on Sales & Features, to be able to link weeks with IsHoliday to WeeklySales. 
-![images/20221215135819.png](images/20221215135819.png)
+![images/20221215135819.png]()
 
 > [! Attention] When updating a table, go to the editor and click on Refresh view (actualiser l'apperçu)
-> ![images/20221215140500.png](images/20221215140500.png)
+> ![images/20221215140500.png]()
 
 ### Power BI
 Working with Power BI was straight forward once all the data was formated and in shape. I did not take notes because of this. 
@@ -370,14 +370,14 @@ Working with Power BI was straight forward once all the data was formated and in
 These are some of the issues I encountered with the different tools I used, mostly with Visual Studio and having the SSAS & SSIS extensions crash. 
 #### LocaleID not installed
  Issue: *LocaleID 9 is not installed on this system*
-![images/20221206105949.png](images/20221206105949.png)
+![images/20221206105949.png]()
 	  Due to locale chosen for import (English instead of default French Belgium). Fixed recreating with the local locale and deleting previous connection managers: 
-![images/20221206110827.png](images/20221206110827.png) 
-![images/20221206111107.png](images/20221206111107.png)
+![images/20221206110827.png]() 
+![images/20221206111107.png]()
 #### IF Exists does not work as in SSMS
 Discarded code for the time being. 
 #### DB creation and population in same Data Flow
-![images/20221206130735.png](images/20221206130735.png)
+![images/20221206130735.png]()
 First run creates the table with our script and sometimes it is populated, others it needs a second run without changing anything to populate. The script to create the DB is no longer present, the connection is made. 
 #### Data Viewer not displayed. 
 Change Project>Properties>Config>Debugging>Run64bitRuntime to False. 
