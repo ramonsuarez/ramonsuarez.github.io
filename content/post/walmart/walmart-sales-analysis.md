@@ -4,30 +4,31 @@ date: 2022-12-19T14:07:01+01:00
 author: "Ramon Suarez"
 categories: [portfolio]
 tags: []
-draft: true
+draft: false
 type: post
 ---
-![Kaggle at Walmart](../images/kaggle-walmart.jpeg)
+
+<div class="vista-create-share" data-vista-create-id="6411aa5e6e441ae519f082e7"></div><script type="text/javascript" src="https://static.create.vista.com/js/embedded_v1.min.js?v=1.287.9" async></script>
 
 As part of my [Data Analytics and Visualization course](https://dorifor.be/formation/9277) I decided to do my final project on a [Walmart dataset found on Kaggle](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data) that would challenge my data analysys skills with its anonymized data and my curious mind looking for insight. 
 
 In this post I will detail the whole project and include the final presentation and repport at the very end (use the table of contents to navigate or go through all of it at your own peril). 
 
 ## Finding a project
-Finding a dataset was not easy, and I went through a lot of pages looking for an interesting dataset that would: 
+Finding a dataset was not easy, and I went through a lot of pages looking for an interesting dataset that would both: 
 - Include time series
 - Be about a business
 
-I went on a searching rampage, starting with the Belgian open data website: [data.gov.be](https://data.gov.be). I also searched among [Kaggle's datasets](https://www.kaggle.com/datasets), but I initially did not want  to use them because they are oriented to machine learning and the sets did not seem very challenging for the [data wrangling and ETL](https://www.talend.com/resources/data-wrangling-vs-etl/). 
+I went on a searching rampage, starting with the Belgian open data website: [data.gov.be](https://data.gov.be). I also searched among [Kaggle's datasets](https://www.kaggle.com/datasets), but I initially did not want to use them because they are oriented to machine learning and the sets did not seem very challenging for the [data wrangling and ETL](https://www.talend.com/resources/data-wrangling-vs-etl/). 
 
 [Google's Data Search](https://datasetsearch.research.google.com/) was helpful but had the same shortcomings as all the other sites I went through: it is impossible to drill down with your preferences to only choose from a few relevant datasets. 
 
-At the end I had to go through a lot of descriptions and keep tab groups for a few days until it came down to two sources. The [French bakery](https://www.kaggle.com/datasets/matthieugimbert/french-bakery-daily-sales) lost because I thought it would be more interesting to have data from multiple stores and different locations. I can always use it for another project :) 
+At the end I had to go through a lot of descriptions and keep tab groups for a few days until it came down to two sources. The [French bakery](https://www.kaggle.com/datasets/matthieugimbert/french-bakery-daily-sales) lost because I thought it would be more interesting to have data from multiple stores and different locations. I can always use it for another project :)
 
 ## Why I chose this Walmart dataset
 Altough the dataset was part of a machine learning challenge I thought that I could do something interesting trying to figure out a few things out of the anonymized data they provided. 
 
-The set responded to my two requirements: it was business content, and included time series. 
+The set responded to my two requirements: it was business content, and included time series.
 
 The range of time was not very long (a bit under three years, from 2010-02-05 to 2012-11-01) but allowed me to explore seasonality and the impact of holidays and markdowns. As an extra in case things went smoothly and I had extra time (spoiler: I didn't), I could also explore weather, PCI and unemployment data. 
 
@@ -37,36 +38,36 @@ The data was a selection of 45 stores with over 400_000 rows, including three mi
 ### Source Data
 I downloaded the orignial data from [Kaggle](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data). 
 It contained 5 CSV files...: 
-    - features.csv
-    - stores.csv
-    - test.csv
-    - train.csv
-	- sampleSubmission.csv
+  - features.csv
+  - stores.csv
+  - test.csv
+  - train.csv
+  - sampleSubmission.csv
 
 ... of which I only used the features, stores and train files. 
 
 The train.csv had sales data which included: 
-    - Store - the store number
-    - Dept - the department number
-    - Date - the week
-    - **Weekly**\_Sales -  sales for the given department in the given store
-    - IsHoliday - whether there is holiday
-    - Sales go from Feb 05 2010 to October 26 2012 
-      ![images/20221212160037.png](../images/20221212160037.png)
+  - Store - the store number
+  - Dept - the department number
+  - Date - the week
+  - **Weekly**\_Sales - sales for the given department in the given store
+  - IsHoliday - whether there is holiday
+  - Sales go from Feb 05 2010 to October 26 2012 
+   ![images/20221212160037.png](../images/20221212160037.png)
 
 The features.csv files had these columns: 
-    - Store - the store number
-    - Date - the week
-    - Temperature - average temperature in the region
-    - Fuel_Price - cost of fuel in the region
-    - MarkDown1-5 - anonymized data related to promotional markdowns that Walmart is running. MarkDown data is only available after Nov 2011, and is not available for all stores all the time. Any missing value is marked with an NA.
-    - CPI - the consumer price index
-    - Unemployment - the unemployment rate
-    - IsHoliday - whether the week is a special holiday week. These holidays where highlighted in the Kaggle challenge and I used them for the analysis:
-	    - Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13  
-	    - Labor Day: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13  
-	    - Thanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13  
-	    - Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
+  - Store - the store number
+  - Date - the week
+  - Temperature - average temperature in the region
+  - Fuel_Price - cost of fuel in the region
+  - MarkDown1-5 - anonymized data related to promotional markdowns that Walmart is running. MarkDown data is only available after Nov 2011, and is not available for all stores all the time. Any missing value is marked with an NA.
+  - CPI - the consumer price index
+  - Unemployment - the unemployment rate
+  - IsHoliday - whether the week is a special holiday week. These holidays where highlighted in the Kaggle challenge and I used them for the analysis:
+	  - Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13 
+	  - Labor Day: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13 
+	  - Thanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13 
+	  - Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
 
 The stores.csv file only had three columns and 45 lines:
 	- Store - the store number
@@ -96,7 +97,7 @@ These are the highlights:
 	- Neighborhood markets
 
 ## Diving in: how I worked with the data
-All these comes from the documentation notes I took while working on the project. Please excuse the eventual succinctness.
+All the notes below come from the documentation notes I took while working on the project. Please excuse the eventual succinctness.
 
 ### Assumptions
 * Negative sales mean that there have been more returns than sales.
@@ -148,9 +149,9 @@ Create SSIS project ``Walmart Source Data`` to import data.
 Import stores table and check that the same number of rows is present: 
 ```sql
 CREATE TABLE [Stores] (
-    [Store] smallint IDENTITY(1,1),
-    [Type] varchar(1),
-    [Size] int
+  [Store] smallint IDENTITY(1,1),
+  [Type] varchar(1),
+  [Size] int
 )
 ```
 ![images/20221206114256.png](../images/20221206114256.png)
@@ -192,10 +193,10 @@ Unemployment == "NA" ? NULL(DT_I4) : (DT_I4)Unemployment
 
 ![images/20221206141007.png](../images/20221206141007.png)
 
-##### . to , 
+##### Change . to , 
 I did not manage to make the derived column to work, so I changed it with a search replace on LibreOffice. 
 ##### Left over "
-Made new connection manager to take care of some left over ".
+Made a new connection manager to take care of some left over ".
 ![images/20221207085121.png](../images/20221207085121.png)
 
 It was causing the error with the ``NA to NULL`` task. 
@@ -295,8 +296,8 @@ CREATE TABLE FactSales(
 The Markdown data is not understandable, so I've decided to create a column that adds up all the markdowns and keeps null if there are none. 
 Not working Derived column transformations: 
 ```sql
-/* Says that OR cannot be used   */
-ISNULL(MarkDown1_DT_R4) ==  FALSE | ISNULL(MarkDown2_DT_R4) ==  FALSE | ISNULL(MarkDown3_DT_R4) ==  FALSE | ISNULL(MarkDown4_DT_R4) ==  FALSE | ISNULL(MarkDown5_DT_R4) ==  FALSE ? 1 : 0
+/* Says that OR cannot be used  */
+ISNULL(MarkDown1_DT_R4) == FALSE | ISNULL(MarkDown2_DT_R4) == FALSE | ISNULL(MarkDown3_DT_R4) == FALSE | ISNULL(MarkDown4_DT_R4) == FALSE | ISNULL(MarkDown5_DT_R4) == FALSE ? 1 : 0
 
 /* No error but it goes into a loop and does not finish loading */
 ISNULL(MarkDown1_DT_R4 + MarkDown2_DT_R4 + MarkDown3_DT_R4 + MarkDown4_DT_R4 + MarkDown5_DT_R4) ? 1 : 0
@@ -340,9 +341,9 @@ A and B seem to follow a size pattern, but a few of both share size with group C
 * Are C stores a new type of store? 
 * Are the outliers errors in the data? 
 * C Stores do make less money, but so do a couple of type A and a few of type B
-   ![images/20221212150228.png](../images/20221212150228.png)
+  ![images/20221212150228.png](../images/20221212150228.png)
 * Type C stores use less markdowns
-  ![images/20221212150449.png](../images/20221212150449.png)
+ ![images/20221212150449.png](../images/20221212150449.png)
 * **The type reflects the sales of the stores**: 
 ![images/20221212152503.png](../images/20221212152503.png)
 ![images/20221212152620.png](../images/20221212152620.png)
@@ -356,36 +357,39 @@ There are numbers in % and others are included without being divided by 100 and 
 = Table.AddColumn(#"Colonnes renommées3", "CPI", each if [CPI_to_fix] > 1000 then [CPI_to_fix]/1000 else if [CPI_to_fix] > 100 then [CPI_to_fix]/100 else [CPI_to_fix])
 ```
 #### Add Friday Week
-Added a column with the number of the week in that year starting on Saturday and ending on Friday  (the day of the sales report) with an SQL query on Sales & Features, to be able to link weeks with IsHoliday to WeeklySales.  
+Added a column with the number of the week in that year starting on Saturday and ending on Friday (the day of the sales report) with an SQL query on Sales & Features, to be able to link weeks with IsHoliday to WeeklySales. 
 ![images/20221215135819.png](../images/20221215135819.png)
 
 > [! Attention] When updating a table, go to the editor and click on Refresh view (actualiser l'apperçu)
 > ![images/20221215140500.png](../images/20221215140500.png)
 
 ### Power BI
+Working with Power BI was straight forward once all the data was formated and in shape. I did not take notes because of this. 
 
 ### Issues
-### LocaleID not installed
+These are some of the issues I encountered with the different tools I used, mostly with Visual Studio and having the SSAS & SSIS extensions crash. 
+#### LocaleID not installed
  Issue: *LocaleID 9 is not installed on this system*
 ![images/20221206105949.png](../images/20221206105949.png)
-	    Due to locale chosen for import (English instead of default French Belgium). Fixed recreating with the local locale and deleting previous connection managers: 
+	  Due to locale chosen for import (English instead of default French Belgium). Fixed recreating with the local locale and deleting previous connection managers: 
 ![images/20221206110827.png](../images/20221206110827.png) 
 ![images/20221206111107.png](../images/20221206111107.png)
-### IF Exists does not work as in SSMS
+#### IF Exists does not work as in SSMS
 Discarded code for the time being. 
-### DB creation and population in same Data Flow
+#### DB creation and population in same Data Flow
 ![images/20221206130735.png](../images/20221206130735.png)
 First run creates the table with our script and sometimes it is populated, others it needs a second run without changing anything to populate. The script to create the DB is no longer present, the connection is made. 
-
-### Data Viewer not displayed. 
+#### Data Viewer not displayed. 
 Change Project>Properties>Config>Debugging>Run64bitRuntime to False. 
-
-### . to , not working
+##### . to , not working
 Done manually with LibreOffice
-### Temperature conversion
-
+#### Temperature conversion
 > Import Features with some columns as strings to deal with NaN 36 Error: Échec de la conversion de données. La conversion de données de la colonne « Temperature » a retourné la valeur d'état 2 et le texte d'état « La valeur n'a pas pu être convertie en raison d'une perte potentielle de données. ».
-
-
 ## Presentation and report
+![../files/Report-walmart-tfe-ramon-suarez.pdf]
+![../files/TFE\ Data\ Visualization\ \&\ Analytics\ Bruxelles\ Formation.pdf]
 ## Next
+What came next in the presentation and is already done or being worked on right now is: 
+- Machine learning & statistics courses: I've already finished an ML course and I'm working on a couple more. The statistics I'm learning with them don't require an independent course as the courses I've found don't cover anything else I need now. 
+- Data exploration with Python: working on this is great. I really enjoy working with Python and Jupyter notebooks. 
+- Power BI certiﬁcation: coming up!
