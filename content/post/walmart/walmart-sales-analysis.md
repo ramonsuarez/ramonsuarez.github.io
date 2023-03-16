@@ -1,9 +1,9 @@
 ---
 title: "Walmart Sales Analysis: Trends and Seasonality"
-date: 2022-12-19T14:07:01+01:00
+date: 2023-03-16
 author: "Ramon Suarez"
 categories: [portfolio]
-tags: []
+tags: [power bi, visual studio, ssas, ssis, sql, walmart, kaggle, data analytics, data visualization, business intelligence, presentation]
 draft: false
 type: post
 ---
