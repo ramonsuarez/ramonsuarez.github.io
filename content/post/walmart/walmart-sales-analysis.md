@@ -7,8 +7,8 @@ tags: [power bi, visual studio, ssas, ssis, sql, walmart, kaggle, data analytics
 draft: false
 type: post
 ---
-As part of my [Data Analytics and Visualization course](https://dorifor.be/formation/9277) I decided to do my final project on a [Walmart dataset found on Kaggle](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data) that would challenge my data analysys skills with its anonymized data and my curious mind looking for insight. 
-![images/walmart-sales-analysis-trends-seasonality.png]
+As part of my [Data Analytics and Visualization course](https://dorifor.be/formation/9277) I decided to do my final project on a [Walmart dataset found on Kaggle](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data) that would challenge my data analysys skills with its anonymized data and my curious mind looking for insight.
+![Header image of a supermarket alley with article header text](../images/walmart-sales-analysis-trends-seasonality.png)
 
 In this post I will detail the whole project and include the final presentation and repport at the very end (use the table of contents to navigate or go through all of it at your own peril). 
 
@@ -51,7 +51,7 @@ The train.csv had sales data which included:
   - **Weekly**\_Sales - sales for the given department in the given store
   - IsHoliday - whether there is holiday
   - Sales go from Feb 05 2010 to October 26 2012 
-   ![images/20221212160037.png]()
+   ![Weeks between two dates calculator](../images/20221212160037.png)
 
 The features.csv files had these columns: 
   - Store - the store number
@@ -152,7 +152,7 @@ CREATE TABLE [Stores] (
   [Size] int
 )
 ```
-![images/20221206114256.png]()
+![SQL query result](../images/20221206114256.png)
 ##### Sales
 Only imported the ``train.csv`` dataset because the ``test.csv`` dataset did not have any sales data (the column does not exists). I guess this was part of the ML challenge. 
 
@@ -172,7 +172,7 @@ CREATE TABLE Sales(
 Dates have been converted to DateTime. 
 ### SSIS
 Import through SSIS. 
-![images/20221209111146.png]()
+![Task in SSIS](../images/20221209111146.png)
 #### Features
 Import the columns that SSIS has trouble with (Markdown, Unemployment, CPI) as string, clean up and then convert to ``flottant [DT_R4]``. 
 ##### NA to NULL
@@ -187,34 +187,35 @@ CPI == "NA" ? NULL(DT_I4) : (DT_I4)CPI
 Unemployment == "NA" ? NULL(DT_I4) : (DT_I4)Unemployment
 ```
 
-![images/20221206145951.png]()
+![Data types of markdowns](../images/20221206145951.png)
 
-![images/20221206141007.png]()
+![Data conversion transformation editor](../images/20221206141007.png)
+
 
 ##### Change . to , 
 I did not manage to make the derived column to work, so I changed it with a search replace on LibreOffice. 
 ##### Left over "
 Made a new connection manager to take care of some left over ".
-![images/20221207085121.png]()
+![Flat connection manager editor for "Features with strings"](../images/20221207085121.png)
 
 It was causing the error with the ``NA to NULL`` task. 
 ##### Set Keys
 Cannot do it via de interface because Null values are allowed on Stores: 
-![images/20221207090427.png]()
+![MSSMS primary key error](../images/20221207090427.png)
 So I remove the allow nulls in all columns of the table via SSMS: 
-![images/20221207091350.png]()
+![SSMS remove nulls](../images/20221207091350.png)
 And I set ``Store`` as the Primary Key (PK) in ``Stores`` and as Foreign Key (FK) in the others: 
-![images/20221207092001.png]()
+![Tables linked in SSMS](../images/20221207092001.png)
 All tables are saved without errors. 
 
 ### Data Warehouse (DW)
 #### Dimensional Model
-![images/20221207155826.png]()
+![Dimensional model diagram](../images/20221207155826.png)
 #### Create DW DB
 Create ``Walmart_DW`` via the SSMS interface. 
 #### Create SSIS project
 Create SSIS project in Visual Studio and immediately change the Run64BitRuntime to false. 
-![images/20221207092447.png]()
+![SSIS fix Run64BitRuntime byt setting it to false](../images/20221207092447.png)
 #### Create DimDate from script
 Populate DimDate from script we got in class. Script fails because the table ``[dbo].[dimdate]`` does not exist. So I saved a `Create` script from one of the exercises to recreate the table and then run the script to populate it. 
 #### Check if holidays match
@@ -255,7 +256,7 @@ CREATE TABLE DimStore(
 #### Populate DimStore
 Derived column is used to create the BKStore column
 
-![images/20221209100420.png]()
+![Tasks in VisualStudio](../images/20221209100420.png)
 ### Create DimDepartment
 Via SSMS.
 ```sql
@@ -269,7 +270,7 @@ CREATE TABLE DimDepartment(
 ```
 ### Populate DimDepartment
 SSIS. 
-![images/20221209101242.png]()
+![Tasks to populate DimDepartment](../images/20221209101242.png)
 
 ### Create FactSales
 On SSMS. 
@@ -311,41 +312,38 @@ Visual Studio did not execute it: no error but goes on forever, does not even sh
 
 Final SSIS flow: 
 
-![images/20221212093416.png]()
-![images/20221212093635.png]()
-
-
+![SSIS flow](../images/20221212093416.png)
+![SQL results in SSMS](../images/20221212093635.png)
 
 ## Reporting
 Connect PowerBI to `DESKTOP-BRU3ORB\DATAVIZ` and import all of `Walmart_DW` tables.
 ### Check tables
 All OK. Only had to change data types for DimDepartment from float to int. No errors on any table. 
-![images/20221212135741.png]()
-![images/20221212135803.png]()
-![images/20221212135818.png]()
-![images/20221212135845.png]()
+![DimDepartment in Power BI](../images/20221212135741.png)
+![DimStore in Power BI](../images/20221212135803.png)
+![FactSales in Power BI](../images/20221212135818.png)
+![Unemployment column](../images/20221212135845.png)
 ### Link tables in the model
 
 Because the DimDepartment link required a many to many relationship and it is not needed, I removed it from the data. I also renamed and deleted some columns, including the Type Name that I had incorrectly tagged (it is not a department). 
 OLD: 
-![images/20221212143416.png]()
+![Old table model](../images/20221212143416.png)
 NEW: 
-![images/20221212144127.png]()
+![New table model](../images/20221212144127.png)
 
 ### Are Store types linked to size? 
 A and B seem to follow a size pattern, but a few of both share size with group C stores: 
-![images/20221212150010.png]()
+![Graphs that help see that size is not what defines the types of stores](../images/20221212150010.png)
 
 * Are C stores a new type of store? 
 * Are the outliers errors in the data? 
 * C Stores do make less money, but so do a couple of type A and a few of type B
-  ![images/20221212150228.png]()
+  ![Weekly sales per type in Power BI](../images/20221212150228.png)
 * Type C stores use less markdowns
- ![images/20221212150449.png]()
+ ![Graph showing store types by markdowns and sales](../images/20221212150449.png)
 * **The type reflects the sales of the stores**: 
-![images/20221212152503.png]()
-![images/20221212152620.png]()
-
+![Weekly sales per year and type](../images/20221212152503.png)
+![Average weekly sales by type](../images/20221212152620.png)
 
 ### Fix problems with CPI, Unemployment, Temperature
 There are numbers in % and others are included without being divided by 100 and also without ".", so I created new conditional columns to clean up. 
@@ -356,10 +354,10 @@ There are numbers in % and others are included without being divided by 100 and 
 ```
 #### Add Friday Week
 Added a column with the number of the week in that year starting on Saturday and ending on Friday (the day of the sales report) with an SQL query on Sales & Features, to be able to link weeks with IsHoliday to WeeklySales. 
-![images/20221215135819.png]()
+![Link holidays and sales with VisualStudio](../images/20221215135819.png)
 
 > [! Attention] When updating a table, go to the editor and click on Refresh view (actualiser l'apperçu)
-> ![images/20221215140500.png]()
+> ![Table transformation DAX Power BI](../images/20221215140500.png)
 
 ### Power BI
 Working with Power BI was straight forward once all the data was formated and in shape. I did not take notes because of this. 
@@ -368,14 +366,14 @@ Working with Power BI was straight forward once all the data was formated and in
 These are some of the issues I encountered with the different tools I used, mostly with Visual Studio and having the SSAS & SSIS extensions crash. 
 #### LocaleID not installed
  Issue: *LocaleID 9 is not installed on this system*
-![images/20221206105949.png]()
+![Error message "LocaleID 9 is not installed on this system" Visual Studio](../images/20221206105949.png)
 	  Due to locale chosen for import (English instead of default French Belgium). Fixed recreating with the local locale and deleting previous connection managers: 
-![images/20221206110827.png]() 
-![images/20221206111107.png]()
+![Flat file connection manager editor fix](../images/20221206110827.png) 
+![VIsualStudio packages list](../images/20221206111107.png)
 #### IF Exists does not work as in SSMS
 Discarded code for the time being. 
 #### DB creation and population in same Data Flow
-![images/20221206130735.png]()
+![Simple data flow in VisualStudio](../images/20221206130735.png)
 First run creates the table with our script and sometimes it is populated, others it needs a second run without changing anything to populate. The script to create the DB is no longer present, the connection is made. 
 #### Data Viewer not displayed. 
 Change Project>Properties>Config>Debugging>Run64bitRuntime to False. 
@@ -385,8 +383,8 @@ Done manually with LibreOffice
 > Import Features with some columns as strings to deal with NaN 36 Error: Échec de la conversion de données. La conversion de données de la colonne « Temperature » a retourné la valeur d'état 2 et le texte d'état « La valeur n'a pas pu être convertie en raison d'une perte potentielle de données. ».
 ## Presentation and report
 These are the final files that I used for the live presentation (click to open or download). You will find some duplication in the presentation, because I wanted to have some content in case there was any issue with the Power BI presentation. Instead of going with a live Power BI presentation (I've seen too many presentations fail) I used a PDF that I was sure would display nicely in the screen of the auditory. I'm used to presenting in front of live audiences so I went first to give my colleagues a bit of extra time to calm down and work on their presenations. 
-- [files/Report-walmart-tfe-ramon-suarez.pdf](Report)
-- [files/TFE\ Data\ Visualization\ \&\ Analytics\ Bruxelles\ Formation.pdf](Power BI presentation)
+- [Report](../files/Report-walmart-tfe-ramon-suarez.pdf)
+- [Power BI presentation](../files/TFE-Data-Visualization-Analytics-Ramon-Suarez.pdf)
 ## Next
 What came next in the presentation and is already done or being worked on right now is: 
 - Machine learning & statistics courses: I've already finished an ML course and I'm working on a couple more. The statistics I'm learning with them don't require an independent course as the courses I've found don't cover anything else I need now. 
