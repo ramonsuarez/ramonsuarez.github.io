@@ -15,6 +15,9 @@
     {{ $postKeywords := .Params.tags | default (slice) }}
     {{ $keywords := union $siteKeywords $postKeywords }}
 
+    <!-- Add first image preview for socialmedia opengraph sharing -->
+    {{ template "_internal/opengraph.html" . }}
+	
     <!-- SEO titles & descriptions -->
     <title>{{ $title }}</title>
     <meta name="description" content="{{ $description }}">
