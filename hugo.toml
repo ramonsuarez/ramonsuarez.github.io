@@ -1,0 +1,109 @@
+baseURL = 'https://ramonsuarez.github.io'
+languageCode = 'en'
+defaultContentLanguage = "en"
+title = "Ramon's curiosity lead learning life"
+theme = 'gokarna'
+enableEmoji = true
+enableRobotsTXT = true
+enableInlineShortcodes = true
+pagination = 11
+removePathAccents = true
+summaryLength = 70
+timeZone = "Europe/Brussels"
+# googleAnalytics = "UA-11272252-1"
+# Choose one of emacs, trac or perldoc
+pygmentsStyle = "monokai"
+
+[params]
+  footer = "Ramon Suarez"
+  author = "Ramon Suarez"
+  description = "Exploring the world through action."
+  avatarURL = "thinkingramon.webp"
+  AvatarAltText = "avatar"
+  avatarSize = "size-m"
+  showPostsOnHomePage = "recent"
+  ShowTableOfContents = true
+  customHeadHTML = """
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-11272252-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-11272252-1');
+</script>
+  """
+  socialIcons = [
+    {name = "linkedin", url = "https://www.linkedin.com/in/ramonsuarez/"},
+    {name = "twitter", url = "https://twitter.com/ramonsuarezraamon"},
+    {name = "facebook", url = "https://www.facebook.com/ramonsuarezdotcom"},  
+    {name = "github", url = "https://github.com/ramonsuarez/"},
+    {name = "buymeacoffee", url = "https://www.buymeacoffee.com/ramonsuarez"},
+  ]
+  metaKeywords = ["Ramon Suarez", "entrepreneurship", "data visualization", "data analysis", "data analyst", "business intelligence", "entrepreneu", "blog", "ideas", "projects", ]
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "<span data-feather='home'></span>"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    pre = "<span data-feather='book-open'></span>"
+    url = "/post/"
+    weight = 2
+
+  # [[menu.main]]
+  #   name = "Categories"
+  #   pre = "<span data-feather='tag'></span>"
+  #   url = "/categories/"
+  #   weight = 4
+#[[menu.main]]
+#    name = "Projects"
+#    pre = "<span data-feather='box'></span>"
+#    url = "/project/"
+#    weight = 4
+  [[menu.main]]
+    name = "Tags"
+    pre = "<span data-feather='tag'></span>"
+    url = "/tags/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "buymeacoffee"
+    pre = "<span data-feather='coffee'></span>"
+    url = "https://www.buymeacoffee.com/ramonsuarez"
+    weight = 6
+
+  [[menu.main]]
+    identifier = "rss"
+    pre = "<span data-feather='rss'></span>"
+    url = "/index.xml"
+    weight = 7
+  [[menu.main]]
+    name = "Terms"
+    pre = "<span data-feather='book'></span>"
+    url = "/page/privacy-policy/"
+    weight = 9
+
+[markup]
+  [markup.goldmark.renderer]
+    safeMode = 'unsafe'
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 4
+    ordered = false
+
+[imaging]
+  anchor = 'Smart'
+ # bgColor = '#ffffff'
+  hint = 'photo'
+  quality = 75
+  resampleFilter = 'Box'
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
