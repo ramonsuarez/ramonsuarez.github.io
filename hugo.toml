@@ -103,7 +103,4 @@ pygmentsStyle = "monokai"
   hint = 'photo'
   quality = 75
   resampleFilter = 'Box'
-
-[taxonomies]
-  category = 'categories'
-  tag = 'tags'
+# Decap CMS config

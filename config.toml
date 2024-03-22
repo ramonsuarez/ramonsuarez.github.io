@@ -108,7 +108,9 @@ pygmentsStyle = "monokai"
   category = 'categories'
   tag = 'tags'
 
-[backend] # Decap CMS config 
+# Decap CMS config
+
+[backend]  
  name = git-gateway
  repo = ramonsuarez/ramonsuarez.github.io
  branch = master
