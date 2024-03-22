@@ -36,7 +36,7 @@ pygmentsStyle = "monokai"
   """
   socialIcons = [
     {name = "linkedin", url = "https://www.linkedin.com/in/ramonsuarez/"},
-    {name = "twitter", url = "https://twitter.com/ramonsuarezraamon"},
+    {name = "twitter", url = "https://twitter.com/ramonsuarez"},
     {name = "facebook", url = "https://www.facebook.com/ramonsuarezdotcom"},  
     {name = "github", url = "https://github.com/ramonsuarez/"},
     {name = "buymeacoffee", url = "https://www.buymeacoffee.com/ramonsuarez"},
