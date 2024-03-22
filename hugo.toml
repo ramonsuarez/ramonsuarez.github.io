@@ -24,24 +24,23 @@ pygmentsStyle = "monokai"
   showPostsOnHomePage = "recent"
   ShowTableOfContents = true
   customHeadHTML = """
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-11272252-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-11272252-1');
-</script>
-  """
+    <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-11272252-1"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-11272252-1');
+      </script>
+    """
   socialIcons = [
     {name = "linkedin", url = "https://www.linkedin.com/in/ramonsuarez/"},
-    {name = "twitter", url = "https://twitter.com/ramonsuarezraamon"},
+    {name = "twitter", url = "https://twitter.com/ramonsuarez"},
     {name = "facebook", url = "https://www.facebook.com/ramonsuarezdotcom"},  
     {name = "github", url = "https://github.com/ramonsuarez/"},
     {name = "buymeacoffee", url = "https://www.buymeacoffee.com/ramonsuarez"},
   ]
-  metaKeywords = ["Ramon Suarez", "entrepreneurship", "data visualization", "data analysis", "data analyst", "business intelligence", "entrepreneu", "blog", "ideas", "projects", ]
+  metaKeywords = ["Ramon Suarez", "data engineering", "microsoft fabric", "data analysis", "data analyst", "business intelligence", "entrepreneurship", "pyspark", "databricks", "jupyter notebooks" ]
 
 [menu]
   [[menu.main]]
@@ -61,11 +60,11 @@ pygmentsStyle = "monokai"
   #   pre = "<span data-feather='tag'></span>"
   #   url = "/categories/"
   #   weight = 4
-#[[menu.main]]
-#    name = "Projects"
-#    pre = "<span data-feather='box'></span>"
-#    url = "/project/"
-#    weight = 4
+  #[[menu.main]]
+  #    name = "Projects"
+  #    pre = "<span data-feather='box'></span>"
+  #    url = "/project/"
+  #    weight = 4
   [[menu.main]]
     name = "Tags"
     pre = "<span data-feather='tag'></span>"
@@ -103,4 +102,3 @@ pygmentsStyle = "monokai"
   hint = 'photo'
   quality = 75
   resampleFilter = 'Box'
-# Decap CMS config
