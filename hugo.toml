@@ -19,10 +19,10 @@ pygmentsStyle = "monokai"
   author = "Ramon Suarez"
   description = "Exploring the world through action."
   avatarURL = "thinkingramon.webp"
-  avatarAltText = "avatar"
+  AvatarAltText = "avatar"
   avatarSize = "size-m"
   showPostsOnHomePage = "recent"
-  showTableOfContents = true
+  ShowTableOfContents = true
   customHeadHTML = """
   <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-11272252-1"></script>
@@ -91,7 +91,7 @@ pygmentsStyle = "monokai"
 
 [markup]
   [markup.goldmark.renderer]
-    unsafe = true
+    safeMode = 'unsafe'
   [markup.tableOfContents]
     startLevel = 1
     endLevel = 4
@@ -99,7 +99,7 @@ pygmentsStyle = "monokai"
 
 [imaging]
   anchor = 'Smart'
-  # bgColor = '#ffffff'
+ # bgColor = '#ffffff'
   hint = 'photo'
   quality = 75
   resampleFilter = 'Box'
