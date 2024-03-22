@@ -107,3 +107,7 @@ pygmentsStyle = "monokai"
 [taxonomies]
   category = 'categories'
   tag = 'tags'
+[backend]
+ name = git-gateway
+ repo = ramonsuarez/ramonsuarez.github.io
+ branch = master
