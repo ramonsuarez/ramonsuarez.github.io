@@ -5,3 +5,14 @@
         Made with pain using <a target="_blank" href="https://gohugo.io/">Hugo</a> and <a target="_blank" href="https://github.com/526avijitgupta/gokarna">Gokarna</a>.
     </span>
 </footer>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", (user) => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
