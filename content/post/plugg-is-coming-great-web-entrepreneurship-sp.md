@@ -1,6 +1,6 @@
 ---
 title: 'Plugg is coming! Great web entrepreneurship speakers in Brussels'
-date: '2010-02-20T18:34:00+00:00'
+date: '2010-02-20T18:34:08+00:00'
 status: publish
 permalink: /plugg-is-coming-great-web-entrepreneurship-sp
 author: '@ramonsuarez'
