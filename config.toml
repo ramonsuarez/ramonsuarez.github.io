@@ -107,7 +107,12 @@ pygmentsStyle = "monokai"
 [taxonomies]
   category = 'categories'
   tag = 'tags'
-[backend]
+
+[backend] # Decap CMS config 
  name = git-gateway
  repo = ramonsuarez/ramonsuarez.github.io
  branch = master
+
+media_folder = "static/uploads"  # Decap config
+public_folder = "/uploads" # Decap config
+
