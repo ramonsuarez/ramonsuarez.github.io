@@ -2,7 +2,7 @@
 title: "Fabric notebook error \"XMLSyntaxError: Start tag expected, '<' not
   found, line 1, \""
 date: 2024-03-22T11:35:35.042Z
-description: Easy to fix xml weirdness with Pandas
+description: Easy to fix xml weirdness with Pandas, Fabric notebooks and XML
 ---
 T﻿o get around the lack of a native support of XML file import in Fabric, you can use Pandas and then convert it to PySpark to save the dataframe to your Delta table.
 
