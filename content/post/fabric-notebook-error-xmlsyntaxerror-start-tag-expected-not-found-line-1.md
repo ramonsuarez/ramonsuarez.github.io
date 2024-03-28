@@ -25,5 +25,7 @@ Y﻿ou may encounter the error "XMLSyntaxError: Start tag expected, '<' not foun
 
 I﻿f you get this error with a notebook that you have deployed or imported: 
 
-1. C﻿hange the Lakehouse to the one in the current workspace. 
-2. M﻿ake sure that the string of the relative URL of the file you are importing starts with ` /lakehouse/default/ `and that it ends with a `/` like this `/lakehouse/default/Files/file.xml/`.
+1. Make sure that you have uploaded the files to import into the new lakehouse. 
+2. Check if the Lakehouse for the notebook is the right one (you may still be linked to the lakehouse in the original Workspace)
+3. C﻿hange the Lakehouse to the one in the current workspace. 
+2. M﻿ake sure that the string of the relative URL of the file you are importing starts with `/lakehouse/default/ `and that it ends with a `/` like this `/lakehouse/default/Files/file.xml/`. If your Lakehouse is somewhere else just make sure that the path starts and ends with a "/". 
